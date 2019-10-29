@@ -30,14 +30,42 @@ The grammar of the file is:
  
  `TYPE_COUNT ::= TYPE " #= " COUNT ` 
  
- where
+ where `TYPE` the string representation of a dependency-decorated linear type
  
- `TYPE` the string representation of a dependency-decorated linear type
- 
- and 
- 
- `COUNT` an integer representing the number of occurrences of that particular type under the context of the 
+ and `COUNT` an integer representing the number of occurrences of that particular type under the context of the 
  corresponding word and pos tag.
+ 
+ 
+ ## TYPE_LEXICON.lex
+ TYPE_LEXICON.lex contains a mapping from types to sequences of pairs of words and their corresponding counts. 
+ The keys are (types) are arranged by their cumulative occurrence counts (descending), and the values (word and count 
+ pairs) are arranged by counts (descending).
+ 
+ The grammar of the file is:
+
+ `LEX ::= LINE | LINE "\n" LEX`
+ 
+ where 
+ 
+ `LINE ::= TYPE "\t" WORD_SEQUENCE`
+ 
+ where 
+ 
+ `TYPE` the string representation of a dependency-decorated linear type,
+ 
+  and 
+  
+ `WORD_SEQUENCE ::= WORD_COUNT | WORD_COUNT " | " WORD_SEQUENCE`
+ 
+ with 
+ 
+ `WORD_COUNT ::= TEXT " #= " COUNT ` 
+ 
+ where `TEXT` a string representing either a word or (in the case of multi-word phrases) a contiguous phrase,
+ 
+ and `COUNT` an integer representing the number of occurrences of that particular word under the context of the 
+ corresponding type.
+    
  
  
  ## TYPE_FREQUENCIES.freq
