@@ -8,7 +8,7 @@ corresponding counts.
 The keys (words and pos tags) are arranged in alphanumeric order, whereas their values (types and counts) are arranged 
 by count (descending).
 
-The concrete grammar of the file is:
+The grammar of the file is:
 
  `LEX ::= LINE | LINE "\n" LEX`
  
@@ -36,4 +36,18 @@ The concrete grammar of the file is:
  
  and 
  
- `COUNT` an integer representing the number of occurrences of that particular type under the context of the particular word and pos tag.
+ `COUNT` an integer representing the number of occurrences of that particular type under the context of the 
+ corresponding word and pos tag.
+ 
+ 
+ ## TYPE_FREQUENCIES.freq
+ TYPE_FREQUENCIES.freq contains a mapping from types to integers, counting the sum of occurrences of each unique type 
+ within the corpus.
+ 
+ The grammar of the file is:
+ 
+  `FREQ ::= LINE | LINE "\n" FREQ`
+  
+  where 
+  
+  `LINE ::= TYPE "\t" COUNT`.
