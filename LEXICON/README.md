@@ -50,4 +50,24 @@ The grammar of the file is:
   
   where 
   
-  `LINE ::= TYPE "\t" COUNT`.
+  `LINE ::= TYPE "\t" COUNT`,
+  
+  with `TYPE` being the string representation of a dependency-decorated linear type,
+  
+  and `COUNT` the integer representing its cumulative occurrence count.
+  
+  
+ ## POS_FREQUENCIES.freq
+ Ditto, for the part of speech tags present in the corpus.
+ 
+ 
+  `FREQ ::= LINE | LINE "\n" FREQ`
+  
+  where 
+  
+  `LINE ::= POS "\t" COUNT`,
+  
+  with `POS` being the part-of-speech tag,
+  
+  and `COUNT` the integer representing its cumulative occurrence count.
+  
