@@ -1,6 +1,8 @@
 # Lexicon
 
-The files in this folder provide various views of the lexicon and relevant utilities.  
+The files in this folder provide various views of the lexicon and relevant utilities.
+
+---  
 
 ## WORD_LEXICON.lex
 WORD_LEXICON.lex contains a mapping from word and part-of-speech tag pairs into sequences of pairs of types and their 
@@ -36,7 +38,7 @@ The grammar of the file is:
  corresponding word and pos tag.
  
  
- ## TYPE_LEXICON.lex
+## TYPE_LEXICON.lex
  TYPE_LEXICON.lex contains a mapping from types to sequences of pairs of words and their corresponding counts. 
  The keys are (types) are arranged by their cumulative occurrence counts (descending), and the values (word and count 
  pairs) are arranged by counts (descending).
@@ -68,7 +70,7 @@ The grammar of the file is:
     
  
  
- ## TYPE_FREQUENCIES.freq
+## TYPE_FREQUENCIES.freq
  TYPE_FREQUENCIES.freq contains a mapping from types to integers, counting the sum of occurrences of each unique type 
  within the corpus.
  
@@ -85,7 +87,7 @@ The grammar of the file is:
   and `COUNT` the integer representing its cumulative occurrence count.
   
   
- ## POS_FREQUENCIES.freq
+## POS_FREQUENCIES.freq
  Ditto, for the part of speech tags present in the corpus.
  
  
