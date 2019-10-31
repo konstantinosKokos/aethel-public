@@ -69,6 +69,30 @@ The grammar of the file is:
  corresponding type.
     
  
+## WORD_MAP.map
+ WORD_MAP.map contains a mapping from tuples of words, part-of-speech tags and lemmata to pairs of types and 
+ their respective occurrence counts. 
+ Unlike the *.lex files, this mapping is non-unique (i.e. there are multiple assignments to each tuple of the domain).
+ 
+ The grammar of the file is:
+ 
+ `MAP := LINE | LINE "\n" MAP`
+ 
+ where 
+ 
+ `LINE := TEXT "\t" POS "\t" LEMMA "\t" TYPE " #= " COUNT`
+ 
+ with `TEXT` being a corpus word or multi-word phrase,
+ 
+ `POS` the string representation of an element of the POS-tags in LASSY,
+ 
+ `LEMMA` either the lemma information provided by LASSY (in case of a word) or the original text (in case of a 
+ multi-word phrase),
+ 
+ `TYPE` the string representation of a dependency-decorated linear type,
+ 
+ and `COUNT` the occurrence count of that type.
+ 
  
 ## TYPE_FREQUENCIES.freq
  TYPE_FREQUENCIES.freq contains a mapping from types to integers, counting the sum of occurrences of each unique type 
