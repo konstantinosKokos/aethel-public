@@ -1,0 +1,7 @@
+<proof id="WR-P-E-J-0000000004.head.1.s.1.xml_0" date="19112019">
+ <string>Vermindering</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Vermindering</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>vermindering</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

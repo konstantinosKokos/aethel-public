@@ -1,0 +1,7 @@
+<proof id="wiki-11.p.74.s.2.xml_0" date="31102019">
+ <string>Sp.a</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Sp.a</word><pos1>name</pos1><pos2>SPEC(afk)</pos2><lemma>Sp.a</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+</proof>

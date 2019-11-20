@@ -1,0 +1,7 @@
+<proof id="wiki-1799.p.26.s.4.xml_1" date="19112019">
+ <string>Volle maan</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Volle maan</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Volle maan</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

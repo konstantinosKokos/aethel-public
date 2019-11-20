@@ -1,0 +1,27 @@
+<proof id="wiki-349.p.27.s.1.xml_0" date="31102019">
+ <string>De gemeenten in het kanton Eupen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>gemeenten</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>gemeente</lemma><formula><atom id = "2">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>in</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>in</lemma><formula><impl><atom id = "10">np</atom><impl><atom id = "1">np</atom><atom id = "5">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>het</word><pos1>det</pos1><pos2>LID(bep,stan,evon)</pos2><lemma>het</lemma><formula><impl><atom id = "8">n</atom><atom id = "7">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>kanton</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>kanton</lemma><formula><atom id = "8">n</atom></formula></lexicon_item>
+  <lexicon_item id="6"><word>Eupen</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Eupen</lemma><formula><impl><atom id = "7">np</atom><atom id = "10">np</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "8">n</atom></formula><formula id="2"><impl><atom id = "8">n</atom><atom id = "7">np</atom></impl></formula><formula id="3"><impl><atom id = "7">np</atom><atom id = "10">np</atom></impl></formula><formula id="4"><impl><atom id = "10">np</atom><impl><atom id = "1">np</atom><atom id = "5">np</atom></impl></impl></formula><formula id="5"><atom id = "2">n</atom></formula><formula id="6"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id = "8">n</atom></formula><formula id="2"><impl><atom id = "8">n</atom><atom id = "7">np</atom></impl></formula><formula id="3"><impl><atom id = "7">np</atom><atom id = "10">np</atom></impl></formula></antecedent><formula><atom id = "10">np</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "8">n</atom></formula><formula id="2"><impl><atom id = "8">n</atom><atom id = "7">np</atom></impl></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "8">n</atom></formula></antecedent><formula><atom id = "8">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "7">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "10">np</atom></formula></antecedent><formula><atom id = "10">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><atom id = "5">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "5">np</atom></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

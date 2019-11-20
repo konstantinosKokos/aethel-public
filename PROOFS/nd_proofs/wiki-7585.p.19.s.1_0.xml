@@ -1,0 +1,7 @@
+<proof id="wiki-7585.p.19.s.1.xml_0" date="19112019">
+ <string>Avondspelen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Avondspelen</word><pos1>name</pos1><pos2>N(soort,mv,basis)</pos2><lemma>avondspel</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

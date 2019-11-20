@@ -1,0 +1,7 @@
+<proof id="wiki-3781.p.3.s.4.xml_3" date="19112019">
+ <string>( 2 )</string>
+ <lexicon>
+  <lexicon_item id="1"><word>( 2 )</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>( 2 )</lemma><formula><atom id = "0">let</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">let</atom></formula></antecedent><formula><atom id = "0">let</atom></formula><premisses></premisses></rule>
+</proof>

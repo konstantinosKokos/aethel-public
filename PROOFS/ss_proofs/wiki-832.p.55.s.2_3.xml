@@ -1,0 +1,7 @@
+<proof id="wiki-832.p.55.s.2.xml_3" date="31102019">
+ <string>Pandora</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Pandora</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Pandora</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

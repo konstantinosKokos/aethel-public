@@ -1,0 +1,19 @@
+<proof id="wiki-1327.p.19.s.2.xml_0" date="31102019">
+ <string>De zetelverdeling is als volgt</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>zetelverdeling</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>zetelverdeling</lemma><formula><atom id = "2">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>is</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>zijn</lemma><formula><impl><atom id = "1">np</atom><impl><atom id = "6">vg</atom><atom id = "5">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>als volgt</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>als volgt</lemma><formula><atom id = "6">vg</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><impl><atom id = "6">vg</atom><atom id = "5">smain</atom></impl></impl></formula><formula id="4"><atom id = "6">vg</atom></formula></antecedent><formula><atom id = "5">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "6">vg</atom></formula><formula id="2"><impl><atom id = "6">vg</atom><atom id = "5">smain</atom></impl></formula></antecedent><formula><atom id = "5">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "6">vg</atom></formula></antecedent><formula><atom id = "6">vg</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "5">smain</atom></formula></antecedent><formula><atom id = "5">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

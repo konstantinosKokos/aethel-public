@@ -1,0 +1,11 @@
+<proof id="wiki-135.p.93.s.4.xml_0" date="31102019">
+ <string>de Vlaamse Gemeenschap</string>
+ <lexicon>
+  <lexicon_item id="1"><word>de</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Vlaamse Gemeenschap</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Vlaamse Gemeenschap</lemma><formula><atom id = "2">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "2">np</atom></formula><formula id="2"><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

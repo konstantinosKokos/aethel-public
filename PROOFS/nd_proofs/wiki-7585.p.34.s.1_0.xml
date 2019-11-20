@@ -1,0 +1,7 @@
+<proof id="wiki-7585.p.34.s.1.xml_0" date="19112019">
+ <string>Laatste brief rondom liefde en dood</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Laatste brief rondom liefde en dood</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Laatste brief rondom liefde en dood</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

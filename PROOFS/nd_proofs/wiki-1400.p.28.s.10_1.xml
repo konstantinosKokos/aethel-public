@@ -1,0 +1,7 @@
+<proof id="wiki-1400.p.28.s.10.xml_1" date="19112019">
+ <string>Rik Van Looy</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Rik Van Looy</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Rik Van Looy</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+</proof>

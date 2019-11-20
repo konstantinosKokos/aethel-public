@@ -1,0 +1,23 @@
+<proof id="wiki-208.p.13.s.1.xml_0" date="19112019">
+ <string>Zie ook Romeinen in België</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Zie</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>zien</lemma><formula><impl dep="obj1"><atom id = "7">np</atom><atom id = "1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>ook</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>ook</lemma><formula><impl dep="mod"><atom id = "1">sv1</atom><atom id = "3">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>Romeinen</word><pos1>noun</pos1><pos2>N(eigen,mv,basis)</pos2><lemma>Romein</lemma><formula><atom id = "4">np</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>in</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>in</lemma><formula><impl dep="obj1"><atom id = "8">n</atom><impl dep="mod"><atom id = "4">np</atom><atom id = "7">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>België</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>België</lemma><formula><atom id = "8">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "4">np</atom></formula><formula id="2"><atom id = "8">n</atom></formula><formula id="3"><impl><atom id = "8">n</atom><impl><atom id = "4">np</atom><atom id = "7">np</atom></impl></impl></formula><formula id="4"><impl><atom id = "7">np</atom><atom id = "1">sv1</atom></impl></formula><formula id="5"><impl><atom id = "1">sv1</atom><atom id = "3">sv1</atom></impl></formula></antecedent><formula><atom id = "3">sv1</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id = "4">np</atom></formula><formula id="2"><atom id = "8">n</atom></formula><formula id="3"><impl><atom id = "8">n</atom><impl><atom id = "4">np</atom><atom id = "7">np</atom></impl></impl></formula><formula id="4"><impl><atom id = "7">np</atom><atom id = "1">sv1</atom></impl></formula></antecedent><formula><atom id = "1">sv1</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id = "4">np</atom></formula><formula id="2"><atom id = "8">n</atom></formula><formula id="3"><impl><atom id = "8">n</atom><impl><atom id = "4">np</atom><atom id = "7">np</atom></impl></impl></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "4">np</atom></formula></antecedent><formula><atom id = "4">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ie"><antecedent><formula id="1"><atom id = "8">n</atom></formula><formula id="2"><impl><atom id = "8">n</atom><impl><atom id = "4">np</atom><atom id = "7">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "4">np</atom><atom id = "7">np</atom></impl></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id = "8">n</atom></formula></antecedent><formula><atom id = "8">n</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id = "8">n</atom><impl><atom id = "4">np</atom><atom id = "7">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "8">n</atom><impl><atom id = "4">np</atom><atom id = "7">np</atom></impl></impl></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "7">np</atom><atom id = "1">sv1</atom></impl></formula></antecedent><formula><impl><atom id = "7">np</atom><atom id = "1">sv1</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "1">sv1</atom><atom id = "3">sv1</atom></impl></formula></antecedent><formula><impl><atom id = "1">sv1</atom><atom id = "3">sv1</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,11 @@
+<proof id="wiki-935.p.5.s.20.xml_1" date="19112019">
+ <string>Arthur Decabooter Bel</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Arthur Decabooter</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Arthur Decabooter</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>Bel</word><pos1>name</pos1><pos2>SPEC(afk)</pos2><lemma>Bel</lemma><formula><impl dep="mod"><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

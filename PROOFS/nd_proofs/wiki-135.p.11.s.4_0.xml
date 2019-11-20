@@ -1,0 +1,11 @@
+<proof id="wiki-135.p.11.s.4.xml_0" date="19112019">
+ <string>zie Staatsstructuur</string>
+ <lexicon>
+  <lexicon_item id="1"><word>zie</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>zien</lemma><formula><impl dep="obj1"><atom id = "2">n</atom><atom id = "1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Staatsstructuur</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>staatsstructuur</lemma><formula><atom id = "2">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">sv1</atom></impl></formula></antecedent><formula><atom id = "1">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "2">n</atom><atom id = "1">sv1</atom></impl></formula></antecedent><formula><impl><atom id = "2">n</atom><atom id = "1">sv1</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

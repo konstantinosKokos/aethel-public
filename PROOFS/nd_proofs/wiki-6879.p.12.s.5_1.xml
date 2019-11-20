@@ -1,0 +1,11 @@
+<proof id="wiki-6879.p.12.s.5.xml_1" date="19112019">
+ <string>koningin worden</string>
+ <lexicon>
+  <lexicon_item id="1"><word>koningin</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>koningin</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>worden</word><pos1>verb</pos1><pos2>WW(inf,nom,zonder,zonder-n)</pos2><lemma>worden</lemma><formula><impl dep="predc"><atom id = "0">n</atom><atom id = "2">inf</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "0">n</atom></formula><formula id="2"><impl><atom id = "0">n</atom><atom id = "2">inf</atom></impl></formula></antecedent><formula><atom id = "2">inf</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "0">n</atom><atom id = "2">inf</atom></impl></formula></antecedent><formula><impl><atom id = "0">n</atom><atom id = "2">inf</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

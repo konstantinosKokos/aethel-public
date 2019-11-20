@@ -1,0 +1,7 @@
+<proof id="wiki-6983.p.13.s.6.xml_1" date="19112019">
+ <string>Uitgeverij Egmont</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Uitgeverij Egmont</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Uitgeverij Egmont</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

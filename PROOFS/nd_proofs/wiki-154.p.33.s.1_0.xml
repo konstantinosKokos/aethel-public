@@ -1,0 +1,11 @@
+<proof id="wiki-154.p.33.s.1.xml_0" date="19112019">
+ <string>Totaal Franstalig</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Totaal</word><pos1>adj</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>totaal</lemma><formula><impl dep="mod"><atom id = "2">ap</atom><atom id = "1">ap</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Franstalig</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>Franstalig</lemma><formula><atom id = "2">ap</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "2">ap</atom></formula><formula id="2"><impl><atom id = "2">ap</atom><atom id = "1">ap</atom></impl></formula></antecedent><formula><atom id = "1">ap</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">ap</atom></formula></antecedent><formula><atom id = "2">ap</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "2">ap</atom><atom id = "1">ap</atom></impl></formula></antecedent><formula><impl><atom id = "2">ap</atom><atom id = "1">ap</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="wiki-1553.p.4.s.1.xml_1" date="31102019">
+ <string>winnaars</string>
+ <lexicon>
+  <lexicon_item id="1"><word>winnaars</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>winnaar</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

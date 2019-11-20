@@ -1,0 +1,19 @@
+<proof id="wiki-11.p.87.s.4.xml_0" date="31102019">
+ <string>Haifa Israël sinds 24 oktober 1995</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Haifa</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Haifa</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>Israël</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Israël</lemma><formula><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>sinds</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>sinds</lemma><formula><impl><atom id = "6">np</atom><impl><atom id = "2">np</atom><atom id = "5">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>24 oktober 1995</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>24 oktober 1995</lemma><formula><atom id = "6">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "6">np</atom></formula><formula id="2"><impl><atom id = "6">np</atom><impl><atom id = "2">np</atom><atom id = "5">np</atom></impl></impl></formula><formula id="3"><atom id = "0">np</atom></formula><formula id="4"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "6">np</atom></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula><formula id="3"><impl><atom id = "2">np</atom><atom id = "5">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "5">np</atom></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

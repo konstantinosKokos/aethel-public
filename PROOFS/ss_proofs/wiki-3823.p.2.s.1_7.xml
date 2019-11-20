@@ -1,0 +1,7 @@
+<proof id="wiki-3823.p.2.s.1.xml_7" date="31102019">
+ <string>Luxemburgs</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Luxemburgs</word><pos1>adj</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Luxemburgs</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

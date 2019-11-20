@@ -1,0 +1,19 @@
+<proof id="wiki-1541.p.30.s.2.xml_0" date="19112019">
+ <string>De dreigende moordenaar 1927</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><impl dep="invdet"><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>dreigende</word><pos1>adj</pos1><pos2>WW(od,prenom,met-e)</pos2><lemma>dreigen</lemma><formula><impl dep="mod"><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>moordenaar</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>moordenaar</lemma><formula><atom id = "4">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>1927</word><pos1>noun</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1927</lemma><formula><impl dep="app"><atom id = "3">np</atom><atom id = "6">np</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula><formula id="4"><impl><atom id = "3">np</atom><atom id = "6">np</atom></impl></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "4">n</atom></formula></antecedent><formula><atom id = "4">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><impl><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "3">np</atom><atom id = "6">np</atom></impl></formula></antecedent><formula><impl><atom id = "3">np</atom><atom id = "6">np</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

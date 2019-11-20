@@ -1,0 +1,7 @@
+<proof id="wiki-1327.p.9.s.3.xml_0" date="19112019">
+ <string>Charles Rogier</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Charles Rogier</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Charles Rogier</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+</proof>

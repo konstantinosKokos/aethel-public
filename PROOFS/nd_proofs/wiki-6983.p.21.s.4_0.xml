@@ -1,0 +1,7 @@
+<proof id="wiki-6983.p.21.s.4.xml_0" date="19112019">
+ <string>Metro</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Metro</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Metro</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

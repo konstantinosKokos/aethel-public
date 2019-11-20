@@ -1,0 +1,7 @@
+<proof id="wiki-89.p.4.s.2.xml_2" date="19112019">
+ <string>onafhankelijk</string>
+ <lexicon>
+  <lexicon_item id="1"><word>onafhankelijk</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>onafhankelijk</lemma><formula><atom id = "0">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">adj</atom></formula></antecedent><formula><atom id = "0">adj</atom></formula><premisses></premisses></rule>
+</proof>

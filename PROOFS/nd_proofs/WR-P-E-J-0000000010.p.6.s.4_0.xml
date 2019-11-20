@@ -1,0 +1,19 @@
+<proof id="WR-P-E-J-0000000010.p.6.s.4.xml_0" date="19112019">
+ <string>We moeten nú handelen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>We</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,red,1,mv)</pos2><lemma>we</lemma><formula><atom id = "0">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>moeten</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>moeten</lemma><formula><impl dep="su"><atom id = "0">vnw</atom><impl dep="vc"><atom id = "5">inf</atom><atom id = "3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>nú</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>nu</lemma><formula><impl dep="mod"><atom id = "6">inf</atom><atom id = "5">inf</atom></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>handelen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>handelen</lemma><formula><atom id = "6">inf</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "6">inf</atom></formula><formula id="2"><impl><atom id = "6">inf</atom><atom id = "5">inf</atom></impl></formula><formula id="3"><atom id = "0">vnw</atom></formula><formula id="4"><impl><atom id = "0">vnw</atom><impl><atom id = "5">inf</atom><atom id = "3">smain</atom></impl></impl></formula></antecedent><formula><atom id = "3">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id = "6">inf</atom></formula><formula id="2"><impl><atom id = "6">inf</atom><atom id = "5">inf</atom></impl></formula></antecedent><formula><atom id = "5">inf</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "6">inf</atom></formula></antecedent><formula><atom id = "6">inf</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "6">inf</atom><atom id = "5">inf</atom></impl></formula></antecedent><formula><impl><atom id = "6">inf</atom><atom id = "5">inf</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id = "0">vnw</atom></formula><formula id="2"><impl><atom id = "0">vnw</atom><impl><atom id = "5">inf</atom><atom id = "3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "5">inf</atom><atom id = "3">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "0">vnw</atom></formula></antecedent><formula><atom id = "0">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "0">vnw</atom><impl><atom id = "5">inf</atom><atom id = "3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "0">vnw</atom><impl><atom id = "5">inf</atom><atom id = "3">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

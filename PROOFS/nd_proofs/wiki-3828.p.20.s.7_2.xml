@@ -1,0 +1,7 @@
+<proof id="wiki-3828.p.20.s.7.xml_2" date="19112019">
+ <string>hé</string>
+ <lexicon>
+  <lexicon_item id="1"><word>hé</word><pos1>tag</pos1><pos2>TSW()</pos2><lemma>hé</lemma><formula><atom id = "0">tsw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">tsw</atom></formula></antecedent><formula><atom id = "0">tsw</atom></formula><premisses></premisses></rule>
+</proof>

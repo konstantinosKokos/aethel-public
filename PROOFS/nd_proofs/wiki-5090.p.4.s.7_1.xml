@@ -1,0 +1,15 @@
+<proof id="wiki-5090.p.4.s.7.xml_1" date="19112019">
+ <string>Lieven Rens voor Leander</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Lieven Rens</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Lieven Rens</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>voor</word><pos1>name</pos1><pos2>VZ(init)</pos2><lemma>voor</lemma><formula><impl dep="obj1"><atom id = "4">n</atom><impl dep="mod"><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>Leander</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Leander</lemma><formula><atom id = "4">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><atom id = "4">n</atom></formula><formula id="3"><impl><atom id = "4">n</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "4">n</atom></formula></antecedent><formula><atom id = "4">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "4">n</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "4">n</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,20 @@
+<proof id="wiki-1181.p.16.s.6.xml_0" date="31102019">
+ <string>Sebastian Luyten voorzitter Jong N-VA</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Sebastian Luyten</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Sebastian Luyten</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>voorzitter</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>voorzitter</lemma><formula><impl><atom id = "3">np</atom><atom id = "2">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>Jong N-VA</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Jong N-VA</lemma><formula><impl><impl><atom id = "3">np</atom><atom id = "2">np</atom></impl><impl><atom id = "0">np</atom><atom id = "6">np</atom></impl></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><impl><atom id = "3">np</atom><atom id = "2">np</atom></impl></formula><formula id="2"><impl><impl><atom id = "3">np</atom><atom id = "2">np</atom></impl><impl><atom id = "0">np</atom><atom id = "6">np</atom></impl></impl></formula><formula id="3"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses>
+   <rule name="ir"><antecedent><formula id="1"><impl><atom id = "3">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><impl><atom id = "3">np</atom><atom id = "2">np</atom></impl></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "3">np</atom></formula><formula id="2"><impl><atom id = "3">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "3">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "6">np</atom></impl></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "6">np</atom></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

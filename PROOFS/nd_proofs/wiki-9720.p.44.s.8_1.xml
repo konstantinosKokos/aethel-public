@@ -1,0 +1,7 @@
+<proof id="wiki-9720.p.44.s.8.xml_1" date="19112019">
+ <string>Exulta satis filia Sion iubila filia Hierusalem ecce rex tuus veniet</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Exulta satis filia Sion iubila filia Hierusalem ecce rex tuus veniet</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Exulta satis filia Sion iubila filia Hierusalem ecce rex tuus veniet</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

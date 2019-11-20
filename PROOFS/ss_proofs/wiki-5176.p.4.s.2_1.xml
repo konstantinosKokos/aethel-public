@@ -1,0 +1,23 @@
+<proof id="wiki-5176.p.4.s.2.xml_1" date="31102019">
+ <string>dus het einde van Wereldoorlog II</string>
+ <lexicon>
+  <lexicon_item id="1"><word>dus</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>dus</lemma><formula><impl><atom id = "3">np</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>het</word><pos1>det</pos1><pos2>LID(bep,stan,evon)</pos2><lemma>het</lemma><formula><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>einde</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>einde</lemma><formula><atom id = "4">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>van</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>van</lemma><formula><impl><atom id = "8">np</atom><impl><atom id = "1">np</atom><atom id = "7">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>Wereldoorlog II</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Wereldoorlog II</lemma><formula><atom id = "8">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "8">np</atom></formula><formula id="2"><impl><atom id = "8">np</atom><impl><atom id = "1">np</atom><atom id = "7">np</atom></impl></impl></formula><formula id="3"><atom id = "4">n</atom></formula><formula id="4"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula><formula id="5"><impl><atom id = "3">np</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "8">np</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula><formula id="3"><impl><atom id = "3">np</atom><atom id = "1">np</atom></impl></formula><formula id="4"><impl><atom id = "1">np</atom><atom id = "7">np</atom></impl></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula><formula id="3"><impl><atom id = "3">np</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+         <rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id = "4">n</atom></formula></antecedent><formula><atom id = "4">n</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id = "3">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses></premisses></rule>
+            </premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "7">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

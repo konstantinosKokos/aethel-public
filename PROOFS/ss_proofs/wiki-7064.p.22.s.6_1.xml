@@ -1,0 +1,11 @@
+<proof id="wiki-7064.p.22.s.6.xml_1" date="31102019">
+ <string>openbare orde</string>
+ <lexicon>
+  <lexicon_item id="1"><word>openbare</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>openbaar</lemma><formula><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>orde</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>orde</lemma><formula><atom id = "2">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "2">np</atom></formula><formula id="2"><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

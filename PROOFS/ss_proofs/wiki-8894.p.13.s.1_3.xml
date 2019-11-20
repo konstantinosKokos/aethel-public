@@ -1,0 +1,7 @@
+<proof id="wiki-8894.p.13.s.1.xml_3" date="31102019">
+ <string>gecoöpteerden</string>
+ <lexicon>
+  <lexicon_item id="1"><word>gecoöpteerden</word><pos1>noun</pos1><pos2>WW(vd,nom,met-e,mv-n)</pos2><lemma>coöpteren</lemma><formula><atom id = "0">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">ww</atom></formula></antecedent><formula><atom id = "0">ww</atom></formula><premisses></premisses></rule>
+</proof>

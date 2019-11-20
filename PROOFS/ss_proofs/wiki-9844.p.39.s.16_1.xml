@@ -1,0 +1,7 @@
+<proof id="wiki-9844.p.39.s.16.xml_1" date="31102019">
+ <string>Finn &amp; Fiffi</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Finn &amp; Fiffi</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Finn &amp; Fiffi</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

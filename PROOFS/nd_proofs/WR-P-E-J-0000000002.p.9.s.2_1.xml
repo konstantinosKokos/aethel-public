@@ -1,0 +1,7 @@
+<proof id="WR-P-E-J-0000000002.p.9.s.2.xml_1" date="19112019">
+ <string>Hij</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Hij</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,vol,3,ev,masc)</pos2><lemma>hij</lemma><formula><atom id = "0">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">vnw</atom></formula></antecedent><formula><atom id = "0">vnw</atom></formula><premisses></premisses></rule>
+</proof>

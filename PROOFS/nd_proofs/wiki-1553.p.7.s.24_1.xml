@@ -1,0 +1,7 @@
+<proof id="wiki-1553.p.7.s.24.xml_1" date="19112019">
+ <string>Paul Duboc</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Paul Duboc</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Paul Duboc</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+</proof>

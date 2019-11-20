@@ -1,0 +1,7 @@
+<proof id="wiki-1553.p.6.s.21.xml_0" date="19112019">
+ <string>1946</string>
+ <lexicon>
+  <lexicon_item id="1"><word>1946</word><pos1>noun</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1946</lemma><formula><atom id = "0">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">tw</atom></formula></antecedent><formula><atom id = "0">tw</atom></formula><premisses></premisses></rule>
+</proof>

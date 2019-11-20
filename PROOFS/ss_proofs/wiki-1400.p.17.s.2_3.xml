@@ -1,0 +1,11 @@
+<proof id="wiki-1400.p.17.s.2.xml_3" date="31102019">
+ <string>een kasseiklassieker</string>
+ <lexicon>
+  <lexicon_item id="1"><word>een</word><pos1>det</pos1><pos2>LID(onbep,stan,agr)</pos2><lemma>een</lemma><formula><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>kasseiklassieker</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>kasseiklassieker</lemma><formula><atom id = "2">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,11 @@
+<proof id="wiki-7355.p.6.s.4.xml_0" date="31102019">
+ <string>Hoe dan ook</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Hoe</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>hoe</lemma><formula><atom id = "0">ap</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>dan ook</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>dan ook</lemma><formula><impl><atom id = "0">ap</atom><atom id = "2">ap</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "0">ap</atom></formula><formula id="2"><impl><atom id = "0">ap</atom><atom id = "2">ap</atom></impl></formula></antecedent><formula><atom id = "2">ap</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">ap</atom></formula></antecedent><formula><atom id = "0">ap</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">ap</atom></formula></antecedent><formula><atom id = "2">ap</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

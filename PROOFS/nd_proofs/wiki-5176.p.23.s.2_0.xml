@@ -1,0 +1,19 @@
+<proof id="wiki-5176.p.23.s.2.xml_0" date="19112019">
+ <string>Lijst van Belgische gemeenten</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Lijst</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>lijst</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>van</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>van</lemma><formula><impl dep="obj1"><atom id = "5">np</atom><impl dep="mod"><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>Belgische</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>Belgisch</lemma><formula><impl dep="mod"><atom id = "6">np</atom><atom id = "5">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>gemeenten</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>gemeente</lemma><formula><atom id = "6">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><atom id = "6">np</atom></formula><formula id="3"><impl><atom id = "6">np</atom><atom id = "5">np</atom></impl></formula><formula id="4"><impl><atom id = "5">np</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id = "6">np</atom></formula><formula id="2"><impl><atom id = "6">np</atom><atom id = "5">np</atom></impl></formula><formula id="3"><impl><atom id = "5">np</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id = "6">np</atom></formula><formula id="2"><impl><atom id = "6">np</atom><atom id = "5">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "6">np</atom></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id = "6">np</atom><atom id = "5">np</atom></impl></formula></antecedent><formula><impl><atom id = "6">np</atom><atom id = "5">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "5">np</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "5">np</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

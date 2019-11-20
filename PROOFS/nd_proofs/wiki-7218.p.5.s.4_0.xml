@@ -1,0 +1,7 @@
+<proof id="wiki-7218.p.5.s.4.xml_0" date="19112019">
+ <string>Frans-Kongo</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Frans-Kongo</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Frans-Kongo</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

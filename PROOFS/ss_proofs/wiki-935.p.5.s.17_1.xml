@@ -1,0 +1,23 @@
+<proof id="wiki-935.p.5.s.17.xml_1" date="31102019">
+ <string>Léon Vandaele Bel en Fred De Bruyne Bel</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Léon Vandaele</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Léon Vandaele</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>Bel</word><pos1>name</pos1><pos2>SPEC(afk)</pos2><lemma>Bel</lemma><formula><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><atom id = "2">np</atom><impl><atom id = "8">np</atom><atom id = "5">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>Fred De Bruyne</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Fred De Bruyne</lemma><formula><atom id = "6">np</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>Bel</word><pos1>name</pos1><pos2>SPEC(afk)</pos2><lemma>Bel</lemma><formula><impl><atom id = "6">np</atom><atom id = "8">np</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula><formula id="3"><impl><atom id = "2">np</atom><impl><atom id = "8">np</atom><atom id = "5">np</atom></impl></impl></formula><formula id="4"><atom id = "6">np</atom></formula><formula id="5"><impl><atom id = "6">np</atom><atom id = "8">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "6">np</atom></formula><formula id="2"><impl><atom id = "6">np</atom><atom id = "8">np</atom></impl></formula><formula id="3"><impl><atom id = "8">np</atom><atom id = "5">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "6">np</atom></formula><formula id="2"><impl><atom id = "6">np</atom><atom id = "8">np</atom></impl></formula></antecedent><formula><atom id = "8">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "6">np</atom></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "8">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "5">np</atom></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,11 @@
+<proof id="wiki-9843.p.12.s.2.xml_1" date="31102019">
+ <string>zijn strips</string>
+ <lexicon>
+  <lexicon_item id="1"><word>zijn</word><pos1>det</pos1><pos2>VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)</pos2><lemma>zijn</lemma><formula><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>strips</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>strip</lemma><formula><atom id = "2">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,19 @@
+<proof id="wiki-135.p.142.s.2.xml_0" date="31102019">
+ <string>structuur van de bevolking</string>
+ <lexicon>
+  <lexicon_item id="1"><word>structuur</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>structuur</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>van</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>van</lemma><formula><impl><atom id = "5">np</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>de</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><impl><atom id = "6">n</atom><atom id = "5">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>bevolking</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>bevolking</lemma><formula><atom id = "6">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "6">n</atom></formula><formula id="2"><impl><atom id = "6">n</atom><atom id = "5">np</atom></impl></formula><formula id="3"><impl><atom id = "5">np</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula><formula id="4"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id = "6">n</atom></formula><formula id="2"><impl><atom id = "6">n</atom><atom id = "5">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "6">n</atom></formula></antecedent><formula><atom id = "6">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "5">np</atom></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "3">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,11 @@
+<proof id="wiki-1541.p.27.s.1.xml_4" date="31102019">
+ <string>206 blz.</string>
+ <lexicon>
+  <lexicon_item id="1"><word>206</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>206</lemma><formula><impl><atom id = "2">spec</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>blz.</word><pos1>noun</pos1><pos2>SPEC(afk)</pos2><lemma>bladzij</lemma><formula><atom id = "2">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "2">spec</atom></formula><formula id="2"><impl><atom id = "2">spec</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">spec</atom></formula></antecedent><formula><atom id = "2">spec</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,15 @@
+<proof id="wiki-138.p.44.s.1.xml_0" date="31102019">
+ <string>Via het spoor</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Via</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>via</lemma><formula><impl><atom id = "3">np</atom><atom id = "1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>het</word><pos1>det</pos1><pos2>LID(bep,stan,evon)</pos2><lemma>het</lemma><formula><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>spoor</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>spoor</lemma><formula><atom id = "4">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula><formula id="3"><impl><atom id = "3">np</atom><atom id = "1">pp</atom></impl></formula></antecedent><formula><atom id = "1">pp</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "4">n</atom></formula></antecedent><formula><atom id = "4">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "3">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "1">pp</atom></formula></antecedent><formula><atom id = "1">pp</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

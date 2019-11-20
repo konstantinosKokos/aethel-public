@@ -1,0 +1,7 @@
+<proof id="wiki-832.p.47.s.1.xml_10" date="19112019">
+ <string>De oude met de maskers</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De oude met de maskers</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>De oude met de maskers</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

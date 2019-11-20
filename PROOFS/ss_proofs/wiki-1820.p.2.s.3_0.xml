@@ -1,0 +1,23 @@
+<proof id="wiki-1820.p.2.s.3.xml_0" date="31102019">
+ <string>De officiële taal is Nederlands</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>officiële</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>officieel</lemma><formula><impl><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>taal</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>taal</lemma><formula><atom id = "4">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>is</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>zijn</lemma><formula><impl><atom id = "3">np</atom><impl><atom id = "8">adj</atom><atom id = "7">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>Nederlands</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>Nederlands</lemma><formula><atom id = "8">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula><formula id="4"><impl><atom id = "3">np</atom><impl><atom id = "8">adj</atom><atom id = "7">smain</atom></impl></impl></formula><formula id="5"><atom id = "8">adj</atom></formula></antecedent><formula><atom id = "7">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "4">n</atom></formula></antecedent><formula><atom id = "4">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "3">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "8">adj</atom></formula><formula id="2"><impl><atom id = "8">adj</atom><atom id = "7">smain</atom></impl></formula></antecedent><formula><atom id = "7">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "8">adj</atom></formula></antecedent><formula><atom id = "8">adj</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "7">smain</atom></formula></antecedent><formula><atom id = "7">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

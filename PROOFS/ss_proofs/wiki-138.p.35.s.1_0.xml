@@ -1,0 +1,7 @@
+<proof id="wiki-138.p.35.s.1.xml_0" date="31102019">
+ <string>Eleonora van Habsburg</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Eleonora van Habsburg</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Eleonora van Habsburg</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+</proof>

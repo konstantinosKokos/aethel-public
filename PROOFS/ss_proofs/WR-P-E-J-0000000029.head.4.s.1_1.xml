@@ -1,0 +1,7 @@
+<proof id="WR-P-E-J-0000000029.head.4.s.1.xml_1" date="31102019">
+ <string>praktisch</string>
+ <lexicon>
+  <lexicon_item id="1"><word>praktisch</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>praktisch</lemma><formula><atom id = "0">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">adj</atom></formula></antecedent><formula><atom id = "0">adj</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="wiki-1181.p.5.s.2.xml_2" date="31102019">
+ <string>lees</string>
+ <lexicon>
+  <lexicon_item id="1"><word>lees</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>lezen</lemma><formula><atom id = "0">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">ww</atom></formula></antecedent><formula><atom id = "0">ww</atom></formula><premisses></premisses></rule>
+</proof>

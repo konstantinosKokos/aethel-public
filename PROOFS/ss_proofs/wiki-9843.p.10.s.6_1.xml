@@ -1,0 +1,23 @@
+<proof id="wiki-9843.p.10.s.6.xml_1" date="31102019">
+ <string>Zoo ik een Indiaantje was Zoo ik een een Eskimootje was Zoo ik een Zeerovertje was en Zoo ik een Riddertje was</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Zoo ik een Indiaantje was</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Zoo ik een Indiaantje was</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>Zoo ik een een Eskimootje was</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Zoo ik een een Eskimootje was</lemma><formula><atom id = "1">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>Zoo ik een Zeerovertje was</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Zoo ik een Zeerovertje was</lemma><formula><atom id = "2">np</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><atom id = "0">np</atom><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><impl><atom id = "8">np</atom><atom id = "7">np</atom></impl></impl></impl></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>Zoo ik een Riddertje was</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Zoo ik een Riddertje was</lemma><formula><atom id = "8">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><impl><atom id = "8">np</atom><atom id = "7">np</atom></impl></impl></impl></impl></formula><formula id="3"><atom id = "1">np</atom></formula><formula id="4"><atom id = "2">np</atom></formula><formula id="5"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "1">np</atom></formula><formula id="2"><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><impl><atom id = "8">np</atom><atom id = "7">np</atom></impl></impl></impl></formula><formula id="3"><atom id = "2">np</atom></formula><formula id="4"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id = "2">np</atom></formula><formula id="2"><impl><atom id = "2">np</atom><impl><atom id = "8">np</atom><atom id = "7">np</atom></impl></impl></formula><formula id="3"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>,
+         <rule name="il"><antecedent><formula id="1"><atom id = "8">np</atom></formula><formula id="2"><impl><atom id = "8">np</atom><atom id = "7">np</atom></impl></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "8">np</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id = "7">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

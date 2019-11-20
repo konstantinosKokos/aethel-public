@@ -1,0 +1,31 @@
+<proof id="wiki-8030.p.2.s.5.xml_0" date="19112019">
+ <string>Hij werd in 1990 opgevolgd door Armand DeWasch</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Hij</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,vol,3,ev,masc)</pos2><lemma>hij</lemma><formula><atom id = "0">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>werd</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>worden</lemma><formula><impl dep="su"><atom id = "0">vnw</atom><impl dep="vc"><atom id = "11">ppart</atom><atom id = "3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>in</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>in</lemma><formula><impl dep="obj1"><atom id = "7">tw</atom><impl dep="mod"><atom id = "8">ppart</atom><atom id = "6">ppart</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>1990</word><pos1>noun</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1990</lemma><formula><atom id = "7">tw</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>opgevolgd</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>opvolgen</lemma><formula><atom id = "8">ppart</atom></formula></lexicon_item>
+  <lexicon_item id="6"><word>door</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>door</lemma><formula><impl dep="obj1"><atom id = "12">spec</atom><impl dep="mod"><atom id = "6">ppart</atom><atom id = "11">ppart</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="7"><word>Armand DeWasch</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Armand DeWasch</lemma><formula><atom id = "12">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "8">ppart</atom></formula><formula id="2"><atom id = "7">tw</atom></formula><formula id="3"><impl><atom id = "7">tw</atom><impl><atom id = "8">ppart</atom><atom id = "6">ppart</atom></impl></impl></formula><formula id="4"><atom id = "12">spec</atom></formula><formula id="5"><impl><atom id = "12">spec</atom><impl><atom id = "6">ppart</atom><atom id = "11">ppart</atom></impl></impl></formula><formula id="6"><atom id = "0">vnw</atom></formula><formula id="7"><impl><atom id = "0">vnw</atom><impl><atom id = "11">ppart</atom><atom id = "3">smain</atom></impl></impl></formula></antecedent><formula><atom id = "3">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id = "8">ppart</atom></formula><formula id="2"><atom id = "7">tw</atom></formula><formula id="3"><impl><atom id = "7">tw</atom><impl><atom id = "8">ppart</atom><atom id = "6">ppart</atom></impl></impl></formula><formula id="4"><atom id = "12">spec</atom></formula><formula id="5"><impl><atom id = "12">spec</atom><impl><atom id = "6">ppart</atom><atom id = "11">ppart</atom></impl></impl></formula></antecedent><formula><atom id = "11">ppart</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id = "8">ppart</atom></formula><formula id="2"><atom id = "7">tw</atom></formula><formula id="3"><impl><atom id = "7">tw</atom><impl><atom id = "8">ppart</atom><atom id = "6">ppart</atom></impl></impl></formula></antecedent><formula><atom id = "6">ppart</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "8">ppart</atom></formula></antecedent><formula><atom id = "8">ppart</atom></formula><premisses></premisses></rule>,
+         <rule name="ie"><antecedent><formula id="1"><atom id = "7">tw</atom></formula><formula id="2"><impl><atom id = "7">tw</atom><impl><atom id = "8">ppart</atom><atom id = "6">ppart</atom></impl></impl></formula></antecedent><formula><impl><atom id = "8">ppart</atom><atom id = "6">ppart</atom></impl></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id = "7">tw</atom></formula></antecedent><formula><atom id = "7">tw</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id = "7">tw</atom><impl><atom id = "8">ppart</atom><atom id = "6">ppart</atom></impl></impl></formula></antecedent><formula><impl><atom id = "7">tw</atom><impl><atom id = "8">ppart</atom><atom id = "6">ppart</atom></impl></impl></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><atom id = "12">spec</atom></formula><formula id="2"><impl><atom id = "12">spec</atom><impl><atom id = "6">ppart</atom><atom id = "11">ppart</atom></impl></impl></formula></antecedent><formula><impl><atom id = "6">ppart</atom><atom id = "11">ppart</atom></impl></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "12">spec</atom></formula></antecedent><formula><atom id = "12">spec</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id = "12">spec</atom><impl><atom id = "6">ppart</atom><atom id = "11">ppart</atom></impl></impl></formula></antecedent><formula><impl><atom id = "12">spec</atom><impl><atom id = "6">ppart</atom><atom id = "11">ppart</atom></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id = "0">vnw</atom></formula><formula id="2"><impl><atom id = "0">vnw</atom><impl><atom id = "11">ppart</atom><atom id = "3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "11">ppart</atom><atom id = "3">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "0">vnw</atom></formula></antecedent><formula><atom id = "0">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "0">vnw</atom><impl><atom id = "11">ppart</atom><atom id = "3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "0">vnw</atom><impl><atom id = "11">ppart</atom><atom id = "3">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

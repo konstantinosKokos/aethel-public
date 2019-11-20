@@ -1,0 +1,7 @@
+<proof id="wiki-415.p.8.s.2.xml_2" date="19112019">
+ <string>barokstijl</string>
+ <lexicon>
+  <lexicon_item id="1"><word>barokstijl</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>barokstijl</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

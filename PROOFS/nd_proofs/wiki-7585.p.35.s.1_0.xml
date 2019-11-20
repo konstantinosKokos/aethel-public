@@ -1,0 +1,7 @@
+<proof id="wiki-7585.p.35.s.1.xml_0" date="19112019">
+ <string>Jagen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Jagen</word><pos1>name</pos1><pos2>WW(inf,nom,zonder,zonder-n)</pos2><lemma>jagen</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,31 @@
+<proof id="wiki-1941.p.16.s.5.xml_0" date="31102019">
+ <string>Dit tweede deel werd geschreven op verzoek van Menno ter Braak</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Dit</word><pos1>det</pos1><pos2>VNW(aanw,det,stan,prenom,zonder,evon)</pos2><lemma>dit</lemma><formula><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>tweede</word><pos1>num</pos1><pos2>TW(rang,prenom,stan)</pos2><lemma>twee</lemma><formula><impl><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>deel</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>deel</lemma><formula><atom id = "4">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>werd</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>worden</lemma><formula><impl><atom id = "3">np</atom><impl><atom id = "11">ppart</atom><atom id = "7">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>geschreven</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>schrijven</lemma><formula><atom id = "8">ppart</atom></formula></lexicon_item>
+  <lexicon_item id="6"><word>op verzoek van</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>op verzoek van</lemma><formula><impl><atom id = "12">spec</atom><impl><atom id = "8">ppart</atom><atom id = "11">ppart</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="7"><word>Menno ter Braak</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Menno ter Braak</lemma><formula><atom id = "12">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula><formula id="4"><impl><atom id = "3">np</atom><impl><atom id = "11">ppart</atom><atom id = "7">smain</atom></impl></impl></formula><formula id="5"><atom id = "12">spec</atom></formula><formula id="6"><impl><atom id = "12">spec</atom><impl><atom id = "8">ppart</atom><atom id = "11">ppart</atom></impl></impl></formula><formula id="7"><atom id = "8">ppart</atom></formula></antecedent><formula><atom id = "7">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "4">n</atom></formula></antecedent><formula><atom id = "4">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "3">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "12">spec</atom></formula><formula id="2"><impl><atom id = "12">spec</atom><impl><atom id = "8">ppart</atom><atom id = "11">ppart</atom></impl></impl></formula><formula id="3"><atom id = "8">ppart</atom></formula><formula id="4"><impl><atom id = "11">ppart</atom><atom id = "7">smain</atom></impl></formula></antecedent><formula><atom id = "7">smain</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "12">spec</atom></formula><formula id="2"><impl><atom id = "12">spec</atom><impl><atom id = "8">ppart</atom><atom id = "11">ppart</atom></impl></impl></formula><formula id="3"><atom id = "8">ppart</atom></formula></antecedent><formula><atom id = "11">ppart</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "12">spec</atom></formula></antecedent><formula><atom id = "12">spec</atom></formula><premisses></premisses></rule>,
+         <rule name="il"><antecedent><formula id="1"><atom id = "8">ppart</atom></formula><formula id="2"><impl><atom id = "8">ppart</atom><atom id = "11">ppart</atom></impl></formula></antecedent><formula><atom id = "11">ppart</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id = "8">ppart</atom></formula></antecedent><formula><atom id = "8">ppart</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id = "11">ppart</atom></formula></antecedent><formula><atom id = "11">ppart</atom></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "7">smain</atom></formula></antecedent><formula><atom id = "7">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

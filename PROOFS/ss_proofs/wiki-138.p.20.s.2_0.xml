@@ -1,0 +1,24 @@
+<proof id="wiki-138.p.20.s.2.xml_0" date="31102019">
+ <string>de Munt Koninklijke muntschouwburg</string>
+ <lexicon>
+  <lexicon_item id="1"><word>de</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Munt</word><pos1>name</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>munt</lemma><formula><atom id = "2">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>Koninklijke</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>Koninklijk</lemma><formula><impl><impl><atom id = "3">np</atom><atom id = "8">np</atom></impl><impl><atom id = "1">np</atom><atom id = "6">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>muntschouwburg</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>muntschouwburg</lemma><formula><impl><atom id = "3">np</atom><atom id = "8">np</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><impl><atom id = "3">np</atom><atom id = "8">np</atom></impl></formula><formula id="2"><impl><impl><atom id = "3">np</atom><atom id = "8">np</atom></impl><impl><atom id = "1">np</atom><atom id = "6">np</atom></impl></impl></formula><formula id="3"><atom id = "2">n</atom></formula><formula id="4"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses>
+   <rule name="ir"><antecedent><formula id="1"><impl><atom id = "3">np</atom><atom id = "8">np</atom></impl></formula></antecedent><formula><impl><atom id = "3">np</atom><atom id = "8">np</atom></impl></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "3">np</atom></formula><formula id="2"><impl><atom id = "3">np</atom><atom id = "8">np</atom></impl></formula></antecedent><formula><atom id = "8">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "3">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "8">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><atom id = "6">np</atom></impl></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "6">np</atom></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

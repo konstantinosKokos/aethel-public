@@ -1,0 +1,7 @@
+<proof id="wiki-1799.p.26.s.9.xml_1" date="31102019">
+ <string>Iedereen beroemd</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Iedereen beroemd</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Iedereen beroemd</lemma><formula><atom id = "0">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">adj</atom></formula></antecedent><formula><atom id = "0">adj</atom></formula><premisses></premisses></rule>
+</proof>

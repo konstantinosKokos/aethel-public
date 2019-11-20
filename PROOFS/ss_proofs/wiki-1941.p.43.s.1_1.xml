@@ -1,0 +1,15 @@
+<proof id="wiki-1941.p.43.s.1.xml_1" date="31102019">
+ <string>vijf maal verschenen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>vijf</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>vijf</lemma><formula><impl><atom id = "3">n</atom><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>maal</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>maal</lemma><formula><atom id = "3">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>verschenen</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>verschijnen</lemma><formula><atom id = "4">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "3">n</atom></formula><formula id="2"><impl><atom id = "3">n</atom><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl></impl></formula><formula id="3"><atom id = "4">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "3">n</atom></formula></antecedent><formula><atom id = "3">n</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "4">np</atom></formula><formula id="2"><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "4">np</atom></formula></antecedent><formula><atom id = "4">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

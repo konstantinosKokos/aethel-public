@@ -1,0 +1,23 @@
+<proof id="wiki-138.p.35.s.8.xml_0" date="31102019">
+ <string>Leen Demaré 1962 radiopresentatrice en TV-figuur</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Leen Demaré</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Leen Demaré</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>1962</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1962</lemma><formula><atom id = "1">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>radiopresentatrice</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>radiopresentatrice</lemma><formula><atom id = "2">np</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><atom id = "0">np</atom><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><impl><atom id = "8">np</atom><atom id = "7">np</atom></impl></impl></impl></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>TV-figuur</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>tv-figuur</lemma><formula><atom id = "8">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><impl><atom id = "8">np</atom><atom id = "7">np</atom></impl></impl></impl></impl></formula><formula id="3"><atom id = "1">np</atom></formula><formula id="4"><atom id = "2">np</atom></formula><formula id="5"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "1">np</atom></formula><formula id="2"><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><impl><atom id = "8">np</atom><atom id = "7">np</atom></impl></impl></impl></formula><formula id="3"><atom id = "2">np</atom></formula><formula id="4"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id = "2">np</atom></formula><formula id="2"><impl><atom id = "2">np</atom><impl><atom id = "8">np</atom><atom id = "7">np</atom></impl></impl></formula><formula id="3"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>,
+         <rule name="il"><antecedent><formula id="1"><atom id = "8">np</atom></formula><formula id="2"><impl><atom id = "8">np</atom><atom id = "7">np</atom></impl></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "8">np</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id = "7">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

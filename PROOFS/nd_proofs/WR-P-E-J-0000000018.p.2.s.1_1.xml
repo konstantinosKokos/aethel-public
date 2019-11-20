@@ -1,0 +1,7 @@
+<proof id="WR-P-E-J-0000000018.p.2.s.1.xml_1" date="19112019">
+ <string>enerzijds</string>
+ <lexicon>
+  <lexicon_item id="1"><word>enerzijds</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>enerzijds</lemma><formula><atom id = "0">bw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">bw</atom></formula></antecedent><formula><atom id = "0">bw</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,19 @@
+<proof id="wiki-9844.p.16.s.2.xml_1" date="19112019">
+ <string>De toornige tjiftjaf Het kregelige ketje De koddige kater enzovoort</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De toornige tjiftjaf</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>De toornige tjiftjaf</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>Het kregelige ketje</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Het kregelige ketje</lemma><formula><atom id = "1">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>De koddige kater</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>De koddige kater</lemma><formula><atom id = "2">np</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>enzovoort</word><pos1>vg</pos1><pos2>BW()</pos2><lemma>enzovoort</lemma><formula><impl dep="cnj"><atom id = "0">np</atom><impl dep="cnj"><atom id = "1">np</atom><impl dep="cnj"><atom id = "2">np</atom><atom id = "6">np</atom></impl></impl></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "2">np</atom></formula><formula id="2"><atom id = "1">np</atom></formula><formula id="3"><atom id = "0">np</atom></formula><formula id="4"><impl><atom id = "0">np</atom><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><atom id = "6">np</atom></impl></impl></impl></formula></antecedent><formula><atom id = "6">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id = "1">np</atom></formula><formula id="2"><atom id = "0">np</atom></formula><formula id="3"><impl><atom id = "0">np</atom><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><atom id = "6">np</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id = "2">np</atom><atom id = "6">np</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><atom id = "6">np</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><atom id = "6">np</atom></impl></impl></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id = "0">np</atom><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><atom id = "6">np</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id = "0">np</atom><impl><atom id = "1">np</atom><impl><atom id = "2">np</atom><atom id = "6">np</atom></impl></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

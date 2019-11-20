@@ -1,0 +1,7 @@
+<proof id="wiki-832.p.55.s.1.xml_2" date="31102019">
+ <string>James Ensor : Catalogue Raisonne of the Paintings/1875-1902/1902-1941</string>
+ <lexicon>
+  <lexicon_item id="1"><word>James Ensor : Catalogue Raisonne of the Paintings/1875-1902/1902-1941</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>James Ensor : Catalogue Raisonne of the Paintings/1875-1902/1902-1941</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+</proof>

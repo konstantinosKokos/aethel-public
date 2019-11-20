@@ -1,0 +1,24 @@
+<proof id="wiki-9844.p.11.s.4.xml_1" date="19112019">
+ <string>Professor Barabas bekendste uitvinding</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Professor</word><pos1>det</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>professor</lemma><formula><impl dep="invdet"><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Barabas</word><pos1>det</pos1><pos2>N(eigen,ev,basis,gen)</pos2><lemma>Barabas</lemma><formula><impl dep="app"><impl dep="invdet"><atom id = "2">n</atom><atom id = "1">np</atom></impl><impl dep="invdet"><atom id = "8">n</atom><atom id = "5">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>bekendste</word><pos1>adj</pos1><pos2>ADJ(prenom,sup,met-e,stan)</pos2><lemma>bekend</lemma><formula><impl dep="mod"><atom id = "5">np</atom><atom id = "7">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>uitvinding</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>uitvinding</lemma><formula><atom id = "8">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "8">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl><impl><atom id = "8">n</atom><atom id = "5">np</atom></impl></impl></formula><formula id="4"><impl><atom id = "5">np</atom><atom id = "7">np</atom></impl></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id = "8">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl><impl><atom id = "8">n</atom><atom id = "5">np</atom></impl></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "8">n</atom></formula></antecedent><formula><atom id = "8">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><formula id="2"><impl><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl><impl><atom id = "8">n</atom><atom id = "5">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "8">n</atom><atom id = "5">np</atom></impl></formula><premisses>
+         <rule name="ii(1)"><antecedent><formula id="1"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><premisses>
+            <rule name="ie"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+               <rule name="hyp(1)"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
+               <rule name="ax"><antecedent><formula id="1"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><premisses></premisses></rule>
+               </premisses></rule>
+            </premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl><impl><atom id = "8">n</atom><atom id = "5">np</atom></impl></impl></formula></antecedent><formula><impl><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl><impl><atom id = "8">n</atom><atom id = "5">np</atom></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "5">np</atom><atom id = "7">np</atom></impl></formula></antecedent><formula><impl><atom id = "5">np</atom><atom id = "7">np</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

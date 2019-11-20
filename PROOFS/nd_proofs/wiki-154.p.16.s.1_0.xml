@@ -1,0 +1,23 @@
+<proof id="wiki-154.p.16.s.1.xml_0" date="19112019">
+ <string>In 2006 is het Brabant 900 jaar</string>
+ <lexicon>
+  <lexicon_item id="1"><word>In</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>in</lemma><formula><impl dep="obj1"><atom id = "3">tw</atom><impl dep="mod"><atom id = "6">smain</atom><atom id = "2">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>2006</word><pos1>noun</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>2006</lemma><formula><atom id = "3">tw</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>is</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>zijn</lemma><formula><impl dep="su"><atom id = "7">vnw</atom><impl dep="predc"><atom id = "8">np</atom><atom id = "6">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>het</word><pos1>det</pos1><pos2>VNW(pers,pron,stan,red,3,ev,onz)</pos2><lemma>het</lemma><formula><atom id = "7">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>Brabant 900 jaar</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Brabant 900 jaar</lemma><formula><atom id = "8">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "8">np</atom></formula><formula id="2"><atom id = "7">vnw</atom></formula><formula id="3"><impl><atom id = "7">vnw</atom><impl><atom id = "8">np</atom><atom id = "6">smain</atom></impl></impl></formula><formula id="4"><atom id = "3">tw</atom></formula><formula id="5"><impl><atom id = "3">tw</atom><impl><atom id = "6">smain</atom><atom id = "2">smain</atom></impl></impl></formula></antecedent><formula><atom id = "2">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id = "8">np</atom></formula><formula id="2"><atom id = "7">vnw</atom></formula><formula id="3"><impl><atom id = "7">vnw</atom><impl><atom id = "8">np</atom><atom id = "6">smain</atom></impl></impl></formula></antecedent><formula><atom id = "6">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "8">np</atom></formula></antecedent><formula><atom id = "8">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><atom id = "7">vnw</atom></formula><formula id="2"><impl><atom id = "7">vnw</atom><impl><atom id = "8">np</atom><atom id = "6">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "8">np</atom><atom id = "6">smain</atom></impl></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "7">vnw</atom></formula></antecedent><formula><atom id = "7">vnw</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id = "7">vnw</atom><impl><atom id = "8">np</atom><atom id = "6">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "7">vnw</atom><impl><atom id = "8">np</atom><atom id = "6">smain</atom></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id = "3">tw</atom></formula><formula id="2"><impl><atom id = "3">tw</atom><impl><atom id = "6">smain</atom><atom id = "2">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "6">smain</atom><atom id = "2">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "3">tw</atom></formula></antecedent><formula><atom id = "3">tw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "3">tw</atom><impl><atom id = "6">smain</atom><atom id = "2">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "3">tw</atom><impl><atom id = "6">smain</atom><atom id = "2">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

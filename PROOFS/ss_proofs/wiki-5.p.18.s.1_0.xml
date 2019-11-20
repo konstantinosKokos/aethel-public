@@ -1,0 +1,11 @@
+<proof id="wiki-5.p.18.s.1.xml_0" date="31102019">
+ <string>Adelheid Byttebier welzijn</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Adelheid Byttebier</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Adelheid Byttebier</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>welzijn</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>welzijn</lemma><formula><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

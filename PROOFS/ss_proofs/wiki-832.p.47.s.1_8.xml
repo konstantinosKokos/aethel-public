@@ -1,0 +1,7 @@
+<proof id="wiki-832.p.47.s.1.xml_8" date="31102019">
+ <string>De verbazing van het masker Wouse</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De verbazing van het masker Wouse</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>De verbazing van het masker Wouse</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

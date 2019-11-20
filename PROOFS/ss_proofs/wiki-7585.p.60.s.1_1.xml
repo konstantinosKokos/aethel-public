@@ -1,0 +1,7 @@
+<proof id="wiki-7585.p.60.s.1.xml_1" date="31102019">
+ <string>2004</string>
+ <lexicon>
+  <lexicon_item id="1"><word>2004</word><pos1>noun</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>2004</lemma><formula><atom id = "0">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">tw</atom></formula></antecedent><formula><atom id = "0">tw</atom></formula><premisses></premisses></rule>
+</proof>

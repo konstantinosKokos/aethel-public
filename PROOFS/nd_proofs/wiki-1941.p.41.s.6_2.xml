@@ -1,0 +1,7 @@
+<proof id="wiki-1941.p.41.s.6.xml_2" date="19112019">
+ <string>poëzie</string>
+ <lexicon>
+  <lexicon_item id="1"><word>poëzie</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>poëzie</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="wiki-1327.p.6.s.1.xml_1" date="19112019">
+ <string>Antwerps</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Antwerps</word><pos1>adj</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Antwerps</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

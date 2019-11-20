@@ -1,0 +1,27 @@
+<proof id="wiki-356.p.14.s.2.xml_1" date="31102019">
+ <string>zelfs de tanden werden grotendeels opgelost</string>
+ <lexicon>
+  <lexicon_item id="1"><word>zelfs</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>zelfs</lemma><formula><impl><atom id = "3">np</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>de</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>tanden</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>tand</lemma><formula><atom id = "4">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>werden</word><pos1>verb</pos1><pos2>WW(pv,verl,mv)</pos2><lemma>worden</lemma><formula><impl><atom id = "1">np</atom><impl><atom id = "9">ppart</atom><atom id = "7">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>grotendeels</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>grotendeels</lemma><formula><impl><atom id = "10">ppart</atom><atom id = "9">ppart</atom></impl></formula></lexicon_item>
+  <lexicon_item id="6"><word>opgelost</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>oplossen</lemma><formula><atom id = "10">ppart</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula><formula id="3"><impl><atom id = "3">np</atom><atom id = "1">np</atom></impl></formula><formula id="4"><impl><atom id = "1">np</atom><impl><atom id = "9">ppart</atom><atom id = "7">smain</atom></impl></impl></formula><formula id="5"><atom id = "10">ppart</atom></formula><formula id="6"><impl><atom id = "10">ppart</atom><atom id = "9">ppart</atom></impl></formula></antecedent><formula><atom id = "7">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula><formula id="3"><impl><atom id = "3">np</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "4">n</atom></formula></antecedent><formula><atom id = "4">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "3">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "1">np</atom></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "10">ppart</atom></formula><formula id="2"><impl><atom id = "10">ppart</atom><atom id = "9">ppart</atom></impl></formula><formula id="3"><impl><atom id = "9">ppart</atom><atom id = "7">smain</atom></impl></formula></antecedent><formula><atom id = "7">smain</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "10">ppart</atom></formula><formula id="2"><impl><atom id = "10">ppart</atom><atom id = "9">ppart</atom></impl></formula></antecedent><formula><atom id = "9">ppart</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "10">ppart</atom></formula></antecedent><formula><atom id = "10">ppart</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "9">ppart</atom></formula></antecedent><formula><atom id = "9">ppart</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "7">smain</atom></formula></antecedent><formula><atom id = "7">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

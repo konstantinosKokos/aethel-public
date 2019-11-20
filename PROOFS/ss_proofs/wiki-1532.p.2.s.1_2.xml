@@ -1,0 +1,7 @@
+<proof id="wiki-1532.p.2.s.1.xml_2" date="31102019">
+ <string>21 augustus 1882</string>
+ <lexicon>
+  <lexicon_item id="1"><word>21 augustus 1882</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>21 augustus 1882</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

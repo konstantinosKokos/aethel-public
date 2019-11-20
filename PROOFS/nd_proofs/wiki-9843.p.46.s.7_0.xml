@@ -1,0 +1,7 @@
+<proof id="wiki-9843.p.46.s.7.xml_0" date="19112019">
+ <string>'t Prinske</string>
+ <lexicon>
+  <lexicon_item id="1"><word>'t Prinske</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>'t Prinske</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

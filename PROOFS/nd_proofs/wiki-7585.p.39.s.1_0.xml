@@ -1,0 +1,7 @@
+<proof id="wiki-7585.p.39.s.1.xml_0" date="19112019">
+ <string>De trap</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De trap</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>De trap</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

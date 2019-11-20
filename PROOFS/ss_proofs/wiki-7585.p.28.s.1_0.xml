@@ -1,0 +1,7 @@
+<proof id="wiki-7585.p.28.s.1.xml_0" date="31102019">
+ <string>De heilige kruisvaart</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De heilige kruisvaart</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>De heilige kruisvaart</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

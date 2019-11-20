@@ -1,0 +1,7 @@
+<proof id="wiki-887.p.26.s.1.xml_0" date="31102019">
+ <string>Fed Cup</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Fed Cup</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Fed Cup</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+</proof>

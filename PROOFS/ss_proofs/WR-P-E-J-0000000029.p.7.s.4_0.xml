@@ -1,0 +1,7 @@
+<proof id="WR-P-E-J-0000000029.p.7.s.4.xml_0" date="31102019">
+ <string>Dit</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Dit</word><pos1>det</pos1><pos2>VNW(aanw,pron,stan,vol,3o,ev)</pos2><lemma>dit</lemma><formula><atom id = "0">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">vnw</atom></formula></antecedent><formula><atom id = "0">vnw</atom></formula><premisses></premisses></rule>
+</proof>

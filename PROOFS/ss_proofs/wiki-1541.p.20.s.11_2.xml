@@ -1,0 +1,11 @@
+<proof id="wiki-1541.p.20.s.11.xml_2" date="31102019">
+ <string>zie afbeelding</string>
+ <lexicon>
+  <lexicon_item id="1"><word>zie</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>zien</lemma><formula><impl><atom id = "2">n</atom><atom id = "1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>afbeelding</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>afbeelding</lemma><formula><atom id = "2">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">sv1</atom></impl></formula></antecedent><formula><atom id = "1">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "1">sv1</atom></formula></antecedent><formula><atom id = "1">sv1</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="wiki-1541.p.20.s.5.xml_1" date="19112019">
+ <string>ons</string>
+ <lexicon>
+  <lexicon_item id="1"><word>ons</word><pos1>pron</pos1><pos2>VNW(pr,pron,obl,vol,1,mv)</pos2><lemma>ons</lemma><formula><atom id = "0">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">vnw</atom></formula></antecedent><formula><atom id = "0">vnw</atom></formula><premisses></premisses></rule>
+</proof>

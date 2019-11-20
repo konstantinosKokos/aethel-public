@@ -1,0 +1,11 @@
+<proof id="wiki-1823.p.9.s.4.xml_0" date="31102019">
+ <string>Zie ook</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Zie</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>zien</lemma><formula><atom id = "0">sv1</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>ook</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>ook</lemma><formula><impl><atom id = "0">sv1</atom><atom id = "2">sv1</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "0">sv1</atom></formula><formula id="2"><impl><atom id = "0">sv1</atom><atom id = "2">sv1</atom></impl></formula></antecedent><formula><atom id = "2">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">sv1</atom></formula></antecedent><formula><atom id = "0">sv1</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">sv1</atom></formula></antecedent><formula><atom id = "2">sv1</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

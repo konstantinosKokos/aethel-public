@@ -1,0 +1,19 @@
+<proof id="wiki-1617.p.25.s.1.xml_0" date="19112019">
+ <string>Overgestapt naar de VLD</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Overgestapt</word><pos1>adj</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>overstappen</lemma><formula><atom id = "0">ppart</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>naar</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>naar</lemma><formula><impl dep="obj1"><atom id = "5">np</atom><impl dep="mod"><atom id = "0">ppart</atom><atom id = "3">ppart</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>de</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><impl dep="invdet"><atom id = "6">n</atom><atom id = "5">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>VLD</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>VLD</lemma><formula><atom id = "6">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "0">ppart</atom></formula><formula id="2"><atom id = "6">n</atom></formula><formula id="3"><impl><atom id = "6">n</atom><atom id = "5">np</atom></impl></formula><formula id="4"><impl><atom id = "5">np</atom><impl><atom id = "0">ppart</atom><atom id = "3">ppart</atom></impl></impl></formula></antecedent><formula><atom id = "3">ppart</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">ppart</atom></formula></antecedent><formula><atom id = "0">ppart</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id = "6">n</atom></formula><formula id="2"><impl><atom id = "6">n</atom><atom id = "5">np</atom></impl></formula><formula id="3"><impl><atom id = "5">np</atom><impl><atom id = "0">ppart</atom><atom id = "3">ppart</atom></impl></impl></formula></antecedent><formula><impl><atom id = "0">ppart</atom><atom id = "3">ppart</atom></impl></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id = "6">n</atom></formula><formula id="2"><impl><atom id = "6">n</atom><atom id = "5">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "6">n</atom></formula></antecedent><formula><atom id = "6">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id = "6">n</atom><atom id = "5">np</atom></impl></formula></antecedent><formula><impl><atom id = "6">n</atom><atom id = "5">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "5">np</atom><impl><atom id = "0">ppart</atom><atom id = "3">ppart</atom></impl></impl></formula></antecedent><formula><impl><atom id = "5">np</atom><impl><atom id = "0">ppart</atom><atom id = "3">ppart</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

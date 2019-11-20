@@ -1,0 +1,15 @@
+<proof id="wiki-935.p.8.s.1.xml_0" date="19112019">
+ <string>Overwinningen per land</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Overwinningen</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>overwinning</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>per</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>per</lemma><formula><impl dep="obj1"><atom id = "4">n</atom><impl dep="mod"><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>land</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>land</lemma><formula><atom id = "4">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><atom id = "4">n</atom></formula><formula id="3"><impl><atom id = "4">n</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "4">n</atom></formula></antecedent><formula><atom id = "4">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "4">n</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "4">n</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

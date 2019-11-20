@@ -1,0 +1,7 @@
+<proof id="wiki-7097.p.7.s.23.xml_1" date="19112019">
+ <string>non-ferro</string>
+ <lexicon>
+  <lexicon_item id="1"><word>non-ferro</word><pos1>noun</pos1><pos2>SPEC(vreemd)</pos2><lemma>non-ferro</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+</proof>

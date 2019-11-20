@@ -1,0 +1,7 @@
+<proof id="wiki-1941.p.41.s.11.xml_2" date="31102019">
+ <string>novelle</string>
+ <lexicon>
+  <lexicon_item id="1"><word>novelle</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>novelle</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,15 @@
+<proof id="wiki-6983.p.9.s.7.xml_0" date="19112019">
+ <string>Vlaams Volksvertegenwoordiger 1995-...</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Vlaams</word><pos1>noun</pos1><pos2>ADJ(prenom,basis,zonder)</pos2><lemma>Vlaams</lemma><formula><impl dep="mod"><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Volksvertegenwoordiger</word><pos1>name</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>volksvertegenwoordiger</lemma><formula><atom id = "2">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>1995-...</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1995</lemma><formula><impl dep="mod"><atom id = "1">np</atom><atom id = "4">np</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "2">np</atom></formula><formula id="2"><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><atom id = "4">np</atom></impl></formula></antecedent><formula><atom id = "4">np</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id = "2">np</atom></formula><formula id="2"><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "1">np</atom><atom id = "4">np</atom></impl></formula></antecedent><formula><impl><atom id = "1">np</atom><atom id = "4">np</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="WR-P-E-J-0000000029.head.4.s.1.xml_0" date="19112019">
+ <string>Pilootprojecten</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Pilootprojecten</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>pilootproject</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

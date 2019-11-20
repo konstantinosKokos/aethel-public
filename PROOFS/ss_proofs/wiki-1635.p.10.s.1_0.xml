@@ -1,0 +1,19 @@
+<proof id="wiki-1635.p.10.s.1.xml_0" date="31102019">
+ <string>Belgische Werklieden Partij BWP tot en met 1945</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Belgische Werklieden Partij</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Belgische Werklieden Partij</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>BWP</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>BWP</lemma><formula><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>tot en met</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>tot en met</lemma><formula><impl><atom id = "6">tw</atom><impl><atom id = "2">np</atom><atom id = "5">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>1945</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1945</lemma><formula><atom id = "6">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "6">tw</atom></formula><formula id="2"><impl><atom id = "6">tw</atom><impl><atom id = "2">np</atom><atom id = "5">np</atom></impl></impl></formula><formula id="3"><atom id = "0">np</atom></formula><formula id="4"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "6">tw</atom></formula></antecedent><formula><atom id = "6">tw</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula><formula id="3"><impl><atom id = "2">np</atom><atom id = "5">np</atom></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "5">np</atom></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

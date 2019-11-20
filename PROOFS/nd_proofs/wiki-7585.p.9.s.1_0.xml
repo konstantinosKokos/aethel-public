@@ -1,0 +1,7 @@
+<proof id="wiki-7585.p.9.s.1.xml_0" date="19112019">
+ <string>Schroot</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Schroot</word><pos1>name</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>schroot</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

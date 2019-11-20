@@ -1,0 +1,7 @@
+<proof id="wiki-9843.p.15.s.1.xml_1" date="31102019">
+ <string>De avonturen van Rikki en Wiske</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De avonturen van Rikki en Wiske</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>De avonturen van Rikki en Wiske</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

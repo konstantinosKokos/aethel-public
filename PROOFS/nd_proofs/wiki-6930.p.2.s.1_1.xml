@@ -1,0 +1,7 @@
+<proof id="wiki-6930.p.2.s.1.xml_1" date="19112019">
+ <string>6 september 1884</string>
+ <lexicon>
+  <lexicon_item id="1"><word>6 september 1884</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>6 september 1884</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

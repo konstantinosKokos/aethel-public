@@ -1,0 +1,11 @@
+<proof id="wiki-888.p.15.s.6.xml_0" date="19112019">
+ <string>Professor Halambiek</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Professor</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>professor</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>Halambiek</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Halambiek</lemma><formula><impl dep="app"><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

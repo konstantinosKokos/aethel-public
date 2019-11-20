@@ -1,0 +1,19 @@
+<proof id="wiki-6930.p.3.s.1.xml_1" date="19112019">
+ <string>ene Adolphe uit Halle</string>
+ <lexicon>
+  <lexicon_item id="1"><word>ene</word><pos1>adj</pos1><pos2>VNW(onbep,det,stan,prenom,met-e,evz)</pos2><lemma>een</lemma><formula><impl dep="invdet"><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Adolphe</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Adolphe</lemma><formula><atom id = "2">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>uit</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>uit</lemma><formula><impl dep="obj1"><atom id = "6">n</atom><impl dep="mod"><atom id = "1">np</atom><atom id = "5">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>Halle</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Halle</lemma><formula><atom id = "6">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><atom id = "6">n</atom></formula><formula id="4"><impl><atom id = "6">n</atom><impl><atom id = "1">np</atom><atom id = "5">np</atom></impl></impl></formula></antecedent><formula><atom id = "5">np</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id = "6">n</atom></formula><formula id="2"><impl><atom id = "6">n</atom><impl><atom id = "1">np</atom><atom id = "5">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "1">np</atom><atom id = "5">np</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "6">n</atom></formula></antecedent><formula><atom id = "6">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "6">n</atom><impl><atom id = "1">np</atom><atom id = "5">np</atom></impl></impl></formula></antecedent><formula><impl><atom id = "6">n</atom><impl><atom id = "1">np</atom><atom id = "5">np</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

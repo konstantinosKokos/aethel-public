@@ -1,0 +1,7 @@
+<proof id="wiki-1327.p.20.s.4.xml_1" date="31102019">
+ <string>12</string>
+ <lexicon>
+  <lexicon_item id="1"><word>12</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>12</lemma><formula><atom id = "0">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">tw</atom></formula></antecedent><formula><atom id = "0">tw</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,11 @@
+<proof id="wiki-1652.p.19.s.1.xml_0" date="31102019">
+ <string>François De Munck-Moerman lib</string>
+ <lexicon>
+  <lexicon_item id="1"><word>François De Munck-Moerman</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>François De Munck-Moerman</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>lib</word><pos1>noun</pos1><pos2>SPEC(afk)</pos2><lemma>lib</lemma><formula><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

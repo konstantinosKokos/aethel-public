@@ -1,0 +1,27 @@
+<proof id="wiki-859.p.12.s.2.xml_0" date="19112019">
+ <string>Soms signeerde hij ook met Als ich can</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Soms</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>soms</lemma><formula><impl dep="mod"><atom id = "3">smain</atom><atom id = "1">smain</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>signeerde</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>signeren</lemma><formula><impl dep="su"><atom id = "4">vnw</atom><atom id = "3">smain</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>hij</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,vol,3,ev,masc)</pos2><lemma>hij</lemma><formula><atom id = "4">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>ook</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>ook</lemma><formula><impl dep="mod"><atom id = "1">smain</atom><atom id = "6">smain</atom></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>met</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>met</lemma><formula><impl dep="obj1"><atom id = "10">spec</atom><impl dep="mod"><atom id = "6">smain</atom><atom id = "9">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="6"><word>Als ich can</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Als ich can</lemma><formula><atom id = "10">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id = "4">vnw</atom></formula><formula id="2"><impl><atom id = "4">vnw</atom><atom id = "3">smain</atom></impl></formula><formula id="3"><impl><atom id = "3">smain</atom><atom id = "1">smain</atom></impl></formula><formula id="4"><impl><atom id = "1">smain</atom><atom id = "6">smain</atom></impl></formula><formula id="5"><atom id = "10">spec</atom></formula><formula id="6"><impl><atom id = "10">spec</atom><impl><atom id = "6">smain</atom><atom id = "9">smain</atom></impl></impl></formula></antecedent><formula><atom id = "9">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id = "4">vnw</atom></formula><formula id="2"><impl><atom id = "4">vnw</atom><atom id = "3">smain</atom></impl></formula><formula id="3"><impl><atom id = "3">smain</atom><atom id = "1">smain</atom></impl></formula><formula id="4"><impl><atom id = "1">smain</atom><atom id = "6">smain</atom></impl></formula></antecedent><formula><atom id = "6">smain</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id = "4">vnw</atom></formula><formula id="2"><impl><atom id = "4">vnw</atom><atom id = "3">smain</atom></impl></formula><formula id="3"><impl><atom id = "3">smain</atom><atom id = "1">smain</atom></impl></formula></antecedent><formula><atom id = "1">smain</atom></formula><premisses>
+         <rule name="ie"><antecedent><formula id="1"><atom id = "4">vnw</atom></formula><formula id="2"><impl><atom id = "4">vnw</atom><atom id = "3">smain</atom></impl></formula></antecedent><formula><atom id = "3">smain</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id = "4">vnw</atom></formula></antecedent><formula><atom id = "4">vnw</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id = "4">vnw</atom><atom id = "3">smain</atom></impl></formula></antecedent><formula><impl><atom id = "4">vnw</atom><atom id = "3">smain</atom></impl></formula><premisses></premisses></rule>
+            </premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id = "3">smain</atom><atom id = "1">smain</atom></impl></formula></antecedent><formula><impl><atom id = "3">smain</atom><atom id = "1">smain</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "1">smain</atom><atom id = "6">smain</atom></impl></formula></antecedent><formula><impl><atom id = "1">smain</atom><atom id = "6">smain</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id = "10">spec</atom></formula><formula id="2"><impl><atom id = "10">spec</atom><impl><atom id = "6">smain</atom><atom id = "9">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "6">smain</atom><atom id = "9">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "10">spec</atom></formula></antecedent><formula><atom id = "10">spec</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "10">spec</atom><impl><atom id = "6">smain</atom><atom id = "9">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "10">spec</atom><impl><atom id = "6">smain</atom><atom id = "9">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

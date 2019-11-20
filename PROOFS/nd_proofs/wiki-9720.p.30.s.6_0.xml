@@ -1,0 +1,7 @@
+<proof id="wiki-9720.p.30.s.6.xml_0" date="19112019">
+ <string>ook</string>
+ <lexicon>
+  <lexicon_item id="1"><word>ook</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>ook</lemma><formula><atom id = "0">bw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">bw</atom></formula></antecedent><formula><atom id = "0">bw</atom></formula><premisses></premisses></rule>
+</proof>

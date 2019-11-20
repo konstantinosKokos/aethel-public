@@ -1,0 +1,7 @@
+<proof id="wiki-384.p.2.s.1.xml_2" date="31102019">
+ <string>Politieke Partij Democraten 66</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Politieke Partij Democraten 66</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Politieke Partij Democraten 66</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+</proof>

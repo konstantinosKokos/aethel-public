@@ -1,0 +1,7 @@
+<proof id="wiki-7218.p.5.s.2.xml_0" date="19112019">
+ <string>Kongo-Vrijstaat</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Kongo-Vrijstaat</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Kongo-Vrijstaat</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+</proof>

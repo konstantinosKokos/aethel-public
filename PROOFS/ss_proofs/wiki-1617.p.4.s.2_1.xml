@@ -1,0 +1,15 @@
+<proof id="wiki-1617.p.4.s.2.xml_1" date="31102019">
+ <string>jongeren mét spirit</string>
+ <lexicon>
+  <lexicon_item id="1"><word>jongeren</word><pos1>noun</pos1><pos2>ADJ(nom,comp,met-e,mv-n)</pos2><lemma>jong</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>mét</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>met</lemma><formula><impl><atom id = "4">spec</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>spirit</word><pos1>name</pos1><pos2>SPEC(vreemd)</pos2><lemma>spirit</lemma><formula><atom id = "4">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "4">spec</atom></formula><formula id="2"><impl><atom id = "4">spec</atom><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></impl></formula><formula id="3"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "4">spec</atom></formula></antecedent><formula><atom id = "4">spec</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id = "3">np</atom></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

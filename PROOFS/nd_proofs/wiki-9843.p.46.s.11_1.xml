@@ -1,0 +1,7 @@
+<proof id="wiki-9843.p.46.s.11.xml_1" date="19112019">
+ <string>1962-1985</string>
+ <lexicon>
+  <lexicon_item id="1"><word>1962-1985</word><pos1>num</pos1><pos2>SPEC(symb)</pos2><lemma>1962-1985</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+</proof>

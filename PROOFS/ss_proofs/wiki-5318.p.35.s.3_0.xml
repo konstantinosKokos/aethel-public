@@ -1,0 +1,11 @@
+<proof id="wiki-5318.p.35.s.3.xml_0" date="31102019">
+ <string>Door Pierre de Wit</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Door</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>door</lemma><formula><impl><atom id = "2">spec</atom><atom id = "1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Pierre de Wit</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Pierre de Wit</lemma><formula><atom id = "2">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id = "2">spec</atom></formula><formula id="2"><impl><atom id = "2">spec</atom><atom id = "1">pp</atom></impl></formula></antecedent><formula><atom id = "1">pp</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id = "2">spec</atom></formula></antecedent><formula><atom id = "2">spec</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id = "1">pp</atom></formula></antecedent><formula><atom id = "1">pp</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>
