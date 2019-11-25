@@ -1,0 +1,45 @@
+<semantics id="WR-P-E-J-0000000018.p.14.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">inzake</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="6">loodsgelden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="3">ontkoppeling</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Verdrag</word>
+</argument>
+</appl>
+</semantics>

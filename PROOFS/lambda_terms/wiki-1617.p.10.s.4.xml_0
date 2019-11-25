@@ -1,0 +1,122 @@
+<semantics id="wiki-1617.p.10.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">kan</word>
+   </functor>
+   <argument>
+      <word id="3">je</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">wanneer</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">effectief</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="17">ontmoeten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="11">met</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="13">verschillende</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="12">een</word>
+                           </functor>
+                           <argument>
+                              <word id="14">achtergrond</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="10">mensen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="15">elkaar</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">maar</word>
+         </functor>
+         <argument>
+            <word id="6">alleen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">volgens</word>
+            </functor>
+            <argument>
+               <word id="5">hen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">overstijgen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Dat</word>
+               </functor>
+               <argument>
+                  <word id="1">hokjesdenken</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

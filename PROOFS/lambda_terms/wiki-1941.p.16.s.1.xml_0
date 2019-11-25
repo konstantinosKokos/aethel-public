@@ -1,0 +1,59 @@
+<semantics id="wiki-1941.p.16.s.1.xml_0">
+<appl>
+<functor>
+   <word id="6">samen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">vormen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">en</word>
+               </functor>
+               <argument>
+                  <word id="2">Lijmen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="4">Het been</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">werken</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">een</word>
+      </functor>
+      <argument>
+         <word id="8">geheel</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

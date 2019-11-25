@@ -1,0 +1,66 @@
+<semantics id="wiki-7891.p.10.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">werden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">en</word>
+         </functor>
+         <argument>
+            <word id="4">Jan Verheyen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="6">Bert Geenen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">2003</word>
+         </functor>
+         <argument>
+            <word id="1">augustus</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">aangesteld</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">als</word>
+         </functor>
+         <argument>
+            <word id="9">programmadirecteurs</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

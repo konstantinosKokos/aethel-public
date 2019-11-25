@@ -1,0 +1,45 @@
+<semantics id="wiki-8894.p.13.s.1.xml_7">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">de</word>
+      </functor>
+      <argument>
+         <word id="6">Senaat</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">zetels</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">totaal</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">het</word>
+         </functor>
+         <argument>
+            <word id="2">aantal</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000021.p.3.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">legde</word>
+      </functor>
+      <argument>
+         <word id="0">Bourgeois</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">concrete</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">volgende</word>
+         </functor>
+         <argument>
+            <word id="4">punten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="5">op tafel</word>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,94 @@
+<semantics id="wiki-8894.p.5.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">verdeelde</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">die</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">wouden</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">laten</word>
+                     </functor>
+                     <argument>
+                        <word id="7">bestaan</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="3">degene</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">3de</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="2">groep</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="9">zich</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">over</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="12">andere</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">de</word>
+         </functor>
+         <argument>
+            <word id="13">partijen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

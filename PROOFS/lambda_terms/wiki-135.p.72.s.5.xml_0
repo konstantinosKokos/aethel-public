@@ -1,0 +1,73 @@
+<semantics id="wiki-135.p.72.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">kan</word>
+   </functor>
+   <argument>
+      <word id="4">je</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">die</word>
+         </functor>
+         <argument>
+            <word id="2">grachten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">vinden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">vele</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">en</word>
+                  </functor>
+                  <argument>
+                     <word id="6">waterplanten</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="8">insecten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="9">terug</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

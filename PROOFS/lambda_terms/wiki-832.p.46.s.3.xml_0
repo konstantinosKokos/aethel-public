@@ -1,0 +1,172 @@
+<semantics id="wiki-832.p.46.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">en</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <lambda varid="1">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="4">in</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="8">van</word>
+                           </functor>
+                           <argument>
+                              <word id="9">1885</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="7">Geraamte bekijkt chinoiserieën</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="5">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="6">schilderij</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="2">voor het eerst</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <var id="0" debruijn="2"></var>
+                           </functor>
+                           <argument>
+                              <word id="0">Skeletten</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <var id="1" debruijn="1"></var>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <lambda varid="2">
+            <lambda varid="3">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="12">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="19">Aureolen van Christus</word>
+                        </functor>
+                        <argument>
+                           <word id="18">reeks</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="16">uit</word>
+                           </functor>
+                           <argument>
+                              <word id="17">1886</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="15">Satan en de fantastische legioenen pijnigen de gekruisigde</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="13">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="14">ets</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <var id="2" debruijn="2"></var>
+                     </functor>
+                     <argument>
+                        <word id="11">demonen</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <var id="3" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">komen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="3">voor</word>
+</argument>
+</appl>
+</semantics>

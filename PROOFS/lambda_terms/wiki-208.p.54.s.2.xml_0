@@ -1,0 +1,122 @@
+<semantics id="wiki-208.p.54.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">hevig</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">echter</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="2">verzetten</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="0">De</word>
+                     </functor>
+                     <argument>
+                        <word id="1">katholieken</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">tegen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="9">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">de</word>
+                           </functor>
+                           <argument>
+                              <word id="11">koning</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="7">de</word>
+                        </functor>
+                        <argument>
+                           <word id="8">onderwijspolitiek</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="3">zich</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="13">er</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">ontstond</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">heuse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">een</word>
+            </functor>
+            <argument>
+               <word id="17">schoolstrijd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

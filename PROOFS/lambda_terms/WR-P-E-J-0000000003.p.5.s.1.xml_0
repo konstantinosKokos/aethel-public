@@ -1,0 +1,129 @@
+<semantics id="WR-P-E-J-0000000003.p.5.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="13">bij</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="15">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">betrekkingen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">het</word>
+               </functor>
+               <argument>
+                  <word id="17">aantal</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="14">berekening</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">komen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="4">met</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="6">uit</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="9">land- en tuinbouw</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="7">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="8">studiegebied</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="5">praktijk</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">alle</word>
+                  </functor>
+                  <argument>
+                     <word id="3">studierichtingen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="0">leerlingen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">in</word>
+      </functor>
+      <argument>
+         <word id="12">aanmerking</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,38 @@
+<semantics id="wiki-5.p.29.s.9.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">zijn</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">eerste</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="2">resultaten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">erg</word>
+   </functor>
+   <argument>
+      <word id="5">matig</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

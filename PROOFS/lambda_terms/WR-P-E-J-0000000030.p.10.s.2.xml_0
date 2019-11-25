@@ -1,0 +1,24 @@
+<semantics id="WR-P-E-J-0000000030.p.10.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">de</word>
+      </functor>
+      <argument>
+         <word id="3">levenswetenschappen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Samenwerking</word>
+</argument>
+</appl>
+</semantics>

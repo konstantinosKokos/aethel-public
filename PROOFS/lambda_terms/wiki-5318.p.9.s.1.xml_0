@@ -1,0 +1,87 @@
+<semantics id="wiki-5318.p.9.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">bij</word>
+         </functor>
+         <argument>
+            <word id="10">Quatre-Bras</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">Wellingtons</word>
+         </functor>
+         <argument>
+            <word id="8">positie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">bij</word>
+            </functor>
+            <argument>
+               <word id="5">Ligny</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">Pruisische</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">de</word>
+               </functor>
+               <argument>
+                  <word id="3">nederlaag</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="12">geworden</word>
+      </functor>
+      <argument>
+         <word id="11">onhoudbaar</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

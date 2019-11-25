@@ -1,0 +1,24 @@
+<semantics id="wiki-3745.p.14.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">in</word>
+   </functor>
+   <argument>
+      <word id="3">Kuringen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">De</word>
+   </functor>
+   <argument>
+      <word id="1">Abdij van Herkenrode</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

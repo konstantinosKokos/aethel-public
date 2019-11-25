@@ -1,0 +1,59 @@
+<semantics id="wiki-887.p.18.s.17.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">tot</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">4de</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">de</word>
+         </functor>
+         <argument>
+            <word id="8">ronde</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">het</word>
+         </functor>
+         <argument>
+            <word id="4">toernooi</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">walst</word>
+      </functor>
+      <argument>
+         <word id="0">ze</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

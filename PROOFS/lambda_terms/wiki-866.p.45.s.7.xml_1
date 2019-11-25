@@ -1,0 +1,150 @@
+<semantics id="wiki-866.p.45.s.7.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="13">om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="16">geven</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">dat</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">niet</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="21">is</word>
+                        </functor>
+                        <argument>
+                           <word id="18">ze</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="20">klaar</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="14">aan</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">wanneer</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">opslaat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">30-«love»</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">4-2</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">een</word>
+                        </functor>
+                        <argument>
+                           <word id="7">voorsprong</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="1">Serena</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">steekt</word>
+            </functor>
+            <argument>
+               <word id="9">Justine</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">haar</word>
+            </functor>
+            <argument>
+               <word id="11">hand</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="12">op</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

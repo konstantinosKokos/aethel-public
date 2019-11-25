@@ -1,0 +1,38 @@
+<semantics id="wiki-1617.p.7.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">sinds</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">2004</word>
+            </functor>
+            <argument>
+               <word id="2">oktober</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">Voorzitter</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="5">Geert Lambert</word>
+</argument>
+</appl>
+</semantics>

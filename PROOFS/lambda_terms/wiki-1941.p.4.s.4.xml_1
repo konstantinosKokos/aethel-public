@@ -1,0 +1,80 @@
+<semantics id="wiki-1941.p.4.s.4.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">niet</word>
+         </functor>
+         <argument>
+            <word id="1">enkel</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">en</word>
+               </functor>
+               <argument>
+                  <word id="3">Antwerpen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="5">Brussel</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">en</word>
+            </functor>
+            <argument>
+               <word id="9">Parijs</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="11">Rotterdam</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

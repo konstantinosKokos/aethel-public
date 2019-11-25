@@ -1,0 +1,101 @@
+<semantics id="wiki-887.p.20.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">moet</word>
+   </functor>
+   <argument>
+      <word id="4">Kim</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">tegen</word>
+            </functor>
+            <argument>
+               <word id="14">Amélie Mauresmo</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">haar</word>
+            </functor>
+            <argument>
+               <word id="12">wedstrijd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">halve</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">de</word>
+               </functor>
+               <argument>
+                  <word id="8">finale</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Bij</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">de</word>
+               </functor>
+               <argument>
+                  <word id="2">Australian Open</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="9">opgeven</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

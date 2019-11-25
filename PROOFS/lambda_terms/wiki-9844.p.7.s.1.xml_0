@@ -1,0 +1,66 @@
+<semantics id="wiki-9844.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">neemt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">van</word>
+               </functor>
+               <argument>
+                  <word id="8">Wiske</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">de</word>
+               </functor>
+               <argument>
+                  <word id="6">lappenpop</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">Schanulleke</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">aparte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Een</word>
+         </functor>
+         <argument>
+            <word id="2">plaats</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="9">in</word>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,119 @@
+<semantics id="WR-P-E-J-0000000029.p.8.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <word id="1">principe</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">beperkt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">de</word>
+            </functor>
+            <argument>
+               <word id="4">gemeente</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">tot</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">eigen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">het</word>
+                     </functor>
+                     <argument>
+                        <word id="14">grondgebied</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="9">en</word>
+                     </functor>
+                     <argument>
+                        <lambda varid="0">
+                           <appl>
+                           <functor>
+                              <var id="0" debruijn="1"></var>
+                           </functor>
+                           <argument>
+                              <word id="8">scholen</word>
+                           </argument>
+                           </appl>
+                        </lambda>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <lambda varid="1">
+                        <appl>
+                        <functor>
+                           <var id="1" debruijn="1"></var>
+                        </functor>
+                        <argument>
+                           <word id="10">leerlingen</word>
+                        </argument>
+                        </appl>
+                     </lambda>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="7">de</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="5">zich</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

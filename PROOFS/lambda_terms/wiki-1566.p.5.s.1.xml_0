@@ -1,0 +1,138 @@
+<semantics id="wiki-1566.p.5.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">ter</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">die</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <word id="14">toen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="18">doormaakten</word>
+                           </functor>
+                           <argument>
+                              <var id="0" debruijn="1"></var>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="16">sterke</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="15">een</word>
+                              </functor>
+                              <argument>
+                                 <word id="17">opkomst</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">de</word>
+               </functor>
+               <argument>
+                  <word id="12">kranten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="9">verfraaiing</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">19e</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="7">eeuw</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">ontstond</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">moderne</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Het</word>
+            </functor>
+            <argument>
+               <word id="2">stripverhaal</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

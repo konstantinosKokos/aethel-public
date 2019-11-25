@@ -1,0 +1,31 @@
+<semantics id="wiki-1541.p.30.s.12.xml_0">
+<appl>
+<functor>
+   <word id="4">1950</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">van</word>
+      </functor>
+      <argument>
+         <word id="3">Manet</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Het</word>
+      </functor>
+      <argument>
+         <word id="1">balkon</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

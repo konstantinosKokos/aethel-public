@@ -1,0 +1,217 @@
+<semantics id="wiki-1541.p.11.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Tussen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">en</word>
+         </functor>
+         <argument>
+            <word id="1">1927</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="3">1930</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">verbleef</word>
+      </functor>
+      <argument>
+         <word id="5">hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">waar</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">werd</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">surrealistische</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="9">zijn</word>
+                           </functor>
+                           <argument>
+                              <word id="11">visie</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <var id="0" debruijn="1"></var>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">bekroond</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="14">met</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="22">die</word>
+                                 </functor>
+                                 <argument>
+                                    <lambda varid="1">
+                                       <appl>
+                                       <functor>
+                                          <appl>
+                                          <functor>
+                                             <word id="27">had</word>
+                                          </functor>
+                                          <argument>
+                                             <var id="1" debruijn="1"></var>
+                                          </argument>
+                                          </appl>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <word id="25">al</word>
+                                          </functor>
+                                          <argument>
+                                             <appl>
+                                             <functor>
+                                                <appl>
+                                                <functor>
+                                                   <word id="23">in</word>
+                                                </functor>
+                                                <argument>
+                                                   <word id="24">1924</word>
+                                                </argument>
+                                                </appl>
+                                             </functor>
+                                             <argument>
+                                                <appl>
+                                                <functor>
+                                                   <word id="28">geschreven</word>
+                                                </functor>
+                                                <argument>
+                                                   <word id="26">Het Surrealistisch Manifest</word>
+                                                </argument>
+                                                </appl>
+                                             </argument>
+                                             </appl>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </lambda>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <word id="19">en</word>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <word id="17">van</word>
+                                          </functor>
+                                          <argument>
+                                             <word id="18">Paul Eluard</word>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="20">van</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="21">André Breton</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="15">de</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="16">vriendschap</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">Parijs</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

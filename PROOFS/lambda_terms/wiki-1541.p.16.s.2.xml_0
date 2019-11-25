@@ -1,0 +1,45 @@
+<semantics id="wiki-1541.p.16.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">zijn</word>
+   </functor>
+   <argument>
+      <word id="0">Deze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">de</word>
+         </functor>
+         <argument>
+            <word id="6">Commissie voor Monumenten en Landschappen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">ondertussen</word>
+      </functor>
+      <argument>
+         <word id="3">beschermd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

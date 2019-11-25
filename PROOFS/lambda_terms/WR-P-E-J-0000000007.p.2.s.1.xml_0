@@ -1,0 +1,171 @@
+<semantics id="WR-P-E-J-0000000007.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">heeft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">Vlaamse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">de</word>
+         </functor>
+         <argument>
+            <word id="11">Regering</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="23">voorlopig</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">beslist</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">vandaag</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="0">Op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="2">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="7">Dirk VAN MECHELEN</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="5">van</word>
+                              </functor>
+                              <argument>
+                                 <word id="6">Ruimtelijke Ordening</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="3">Vlaams</word>
+                              </functor>
+                              <argument>
+                                 <word id="4">minister</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="1">voorstel</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="24">vastgesteld</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="19">voor</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="22">Leem in Zuid-Limburg</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="20">de</word>
+                           </functor>
+                           <argument>
+                              <word id="21">oppervlaktedelftstoffenzone</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">GRUP</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="16">ruimtelijk</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="15">gewestelijk</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="14">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="17">uitvoeringsplan</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

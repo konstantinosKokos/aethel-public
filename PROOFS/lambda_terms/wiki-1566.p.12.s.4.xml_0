@@ -1,0 +1,68 @@
+<semantics id="wiki-1566.p.12.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">dat</word>
+   </functor>
+   <argument>
+      <lambda varid="0">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">wordt</word>
+            </functor>
+            <argument>
+               <var id="0" debruijn="1"></var>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">over</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">meerdere</word>
+                  </functor>
+                  <argument>
+                     <word id="6">pagina's</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="8">afgebeeld</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">compleet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">een</word>
+      </functor>
+      <argument>
+         <word id="2">verhaal</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

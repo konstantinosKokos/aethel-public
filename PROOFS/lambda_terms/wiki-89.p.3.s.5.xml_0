@@ -1,0 +1,87 @@
+<semantics id="wiki-89.p.3.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Op</word>
+   </functor>
+   <argument>
+      <word id="1">1 januari 1938</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">werd</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">de</word>
+         </functor>
+         <argument>
+            <word id="4">commissie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">omgevormd</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">tot</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">of</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">BVV</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">het</word>
+                     </functor>
+                     <argument>
+                        <word id="8">Belgisch Vakverbond</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">CGTB</word>
+               </functor>
+               <argument>
+                  <word id="11">Confédération générale du Travail de Belgique</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

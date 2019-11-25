@@ -1,0 +1,150 @@
+<semantics id="wiki-5318.p.8.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">had</word>
+   </functor>
+   <argument>
+      <word id="0">Napoleon</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">laten</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="19">en</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="18">3e</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="20">4e</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="17">Franse</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="16">het</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="21">korps</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="14">35.000</word>
+                           </functor>
+                           <argument>
+                              <word id="15">man</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">een</word>
+                     </functor>
+                     <argument>
+                        <word id="12">leger</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="9">Grouchy</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">achtervolgen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">Pruisische</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">terugtrekkende</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">het</word>
+                  </functor>
+                  <argument>
+                     <word id="5">leger</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,157 @@
+<semantics id="wiki-384.p.22.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="15">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">progressief</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">het</word>
+                     </functor>
+                     <argument>
+                        <word id="14">liberalisme</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">politieke</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">internationale</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">vrijzinnige</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">de</word>
+                        </functor>
+                        <argument>
+                           <word id="10">hoofdstroom</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="16">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="20">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="21">het</word>
+               </functor>
+               <argument>
+                  <word id="22">ontplooiingsliberalisme</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">politieke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">de</word>
+               </functor>
+               <argument>
+                  <word id="19">filosofie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Hiermee</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">plaatste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="3">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">zich</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,80 @@
+<semantics id="wiki-7298.p.5.s.3.xml_0">
+<appl>
+<functor>
+   <word id="4">nog</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">daardoor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">groeide</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">onderneming</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">tot</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">grote</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">twee</word>
+                     </functor>
+                     <argument>
+                        <word id="11">werven</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">3500</word>
+               </functor>
+               <argument>
+                  <word id="7">werknemers</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

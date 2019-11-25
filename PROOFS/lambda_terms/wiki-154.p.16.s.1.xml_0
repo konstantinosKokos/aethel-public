@@ -1,0 +1,31 @@
+<semantics id="wiki-154.p.16.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <word id="1">2006</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">is</word>
+      </functor>
+      <argument>
+         <word id="3">het</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">Brabant 900 jaar</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

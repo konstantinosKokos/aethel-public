@@ -1,0 +1,108 @@
+<semantics id="wiki-3823.p.3.s.2.xml_0">
+<appl>
+<functor>
+   <word id="3">verder</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">provincie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">vooral</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">bekend</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">om</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">de</word>
+                     </functor>
+                     <argument>
+                        <word id="8">natuurschoon</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="14">de</word>
+                        </functor>
+                        <argument>
+                           <word id="15">Ardennen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">toeristische</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">de</word>
+                        </functor>
+                        <argument>
+                           <word id="12">aantrekkingskracht</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

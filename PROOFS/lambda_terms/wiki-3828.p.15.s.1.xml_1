@@ -1,0 +1,17 @@
+<semantics id="wiki-3828.p.15.s.1.xml_1">
+<appl>
+<functor>
+   <word id="0">volg</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">de</word>
+   </functor>
+   <argument>
+      <word id="2">links</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

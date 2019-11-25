@@ -1,0 +1,115 @@
+<semantics id="WR-P-E-J-0000000001.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">blijven</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">NGO's</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="10">voor</word>
+                  </functor>
+                  <argument>
+                     <word id="11">fondsenwerving</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">hun</word>
+                  </functor>
+                  <argument>
+                     <word id="9">acties</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">bij</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">ter plaatse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">hun</word>
+               </functor>
+               <argument>
+                  <word id="15">hulpoperaties</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">leggen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">eigen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">hun</word>
+            </functor>
+            <argument>
+               <word id="5">accenten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

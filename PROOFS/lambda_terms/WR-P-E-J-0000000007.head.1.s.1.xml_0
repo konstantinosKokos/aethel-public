@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000007.head.1.s.1.xml_0">
+<appl>
+<functor>
+   <word id="4">voorlopig</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">GRUP</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">vastgesteld</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">in</word>
+            </functor>
+            <argument>
+               <word id="3">Zuid-Limburg</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="1">Leem</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

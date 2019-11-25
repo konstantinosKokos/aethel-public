@@ -1,0 +1,31 @@
+<semantics id="wiki-4868.p.13.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">op</word>
+   </functor>
+   <argument>
+      <word id="4">11 oktober 1850</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">stierf</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Louise-Marie</word>
+      </functor>
+      <argument>
+         <word id="0">Koningin</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

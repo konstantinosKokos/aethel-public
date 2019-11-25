@@ -1,0 +1,94 @@
+<semantics id="wiki-384.p.35.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">was</word>
+   </functor>
+   <argument>
+      <word id="4">D66</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">twee</word>
+               </functor>
+               <argument>
+                  <word id="10">ministers</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">een</word>
+            </functor>
+            <argument>
+               <word id="13">staatssecretaris</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">tot en met</word>
+         </functor>
+         <argument>
+            <word id="6">29 juni 2006</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">In</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">het</word>
+               </functor>
+               <argument>
+                  <word id="2">kabinet-Balkenende II</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">vertegenwoordigd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,24 @@
+<semantics id="wiki-4868.p.9.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">kregen</word>
+   </functor>
+   <argument>
+      <word id="0">Zij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">vier</word>
+   </functor>
+   <argument>
+      <word id="3">kinderen</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

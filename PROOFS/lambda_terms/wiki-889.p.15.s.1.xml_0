@@ -1,0 +1,117 @@
+<semantics id="wiki-889.p.15.s.1.xml_0">
+<appl>
+<functor>
+   <word id="2">hiermee</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">verwees</word>
+      </functor>
+      <argument>
+         <word id="0">Jean-Pierre Van Rossem</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">naar</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">die</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="9">tijdens</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="12">van</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="14">van</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="15">België</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="13">Boudewijn I</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">de</word>
+                           </functor>
+                           <argument>
+                              <word id="11">eedaflegging</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="8">uitte</word>
+                        </functor>
+                        <argument>
+                           <word id="7">Julien Lahaut</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="5">woorden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

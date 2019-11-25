@@ -1,0 +1,199 @@
+<semantics id="wiki-208.p.24.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="14">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">werd</word>
+         </functor>
+         <argument>
+            <word id="8">Europa</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">door</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">economische</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">een</word>
+                  </functor>
+                  <argument>
+                     <word id="13">depressie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="0">Vanaf</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="3">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="5">veertiende</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="4">de</word>
+                           </functor>
+                           <argument>
+                              <word id="6">eeuw</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">het</word>
+                     </functor>
+                     <argument>
+                        <word id="2">midden</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="9">getroffen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="20">zorgde</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">of</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">de</word>
+               </functor>
+               <argument>
+                  <word id="16">pest</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">zwarte</word>
+            </functor>
+            <argument>
+               <word id="19">dood</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="21">ervoor</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="22">dat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="28">werd</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="24">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="25">de</word>
+                        </functor>
+                        <argument>
+                           <word id="26">bevolking</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="23">een derde</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="27">uitgeroeid</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

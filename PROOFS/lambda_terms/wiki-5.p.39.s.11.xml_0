@@ -1,0 +1,66 @@
+<semantics id="wiki-5.p.39.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">bij</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">de</word>
+      </functor>
+      <argument>
+         <word id="9">groenen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">zijn</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">en</word>
+            </functor>
+            <argument>
+               <word id="0">Participatie</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="2">transparantie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">loze</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">geen</word>
+         </functor>
+         <argument>
+            <word id="6">begrippen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

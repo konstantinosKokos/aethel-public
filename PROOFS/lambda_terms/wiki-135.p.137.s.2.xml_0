@@ -1,0 +1,66 @@
+<semantics id="wiki-135.p.137.s.2.xml_0">
+<appl>
+<functor>
+   <word id="2">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Er</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">door</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">NMBS</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">de</word>
+                     </functor>
+                     <argument>
+                        <word id="8">Nationale Maatschappij der Belgische Spoorwegen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="5">geëxploiteerd</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">een</word>
+            </functor>
+            <argument>
+               <word id="4">spoorwegnet</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,45 @@
+<semantics id="wiki-8030.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">in</word>
+      </functor>
+      <argument>
+         <word id="2">Nederland</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">bestaat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">dergelijke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">een</word>
+         </functor>
+         <argument>
+            <word id="6">organisatie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

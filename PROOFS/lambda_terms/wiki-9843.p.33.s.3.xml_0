@@ -1,0 +1,105 @@
+<semantics id="wiki-9843.p.33.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">noch</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <var id="0" debruijn="1"></var>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="1">met</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="4">en</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="2">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="3">publicaties</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="5">Vandersteen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="0">Contracten</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <lambda varid="1">
+            <appl>
+            <functor>
+               <var id="1" debruijn="1"></var>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">andere</word>
+               </functor>
+               <argument>
+                  <word id="12">bewijzen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="6">werden</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">niet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">er</word>
+      </functor>
+      <argument>
+         <word id="9">gevonden</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

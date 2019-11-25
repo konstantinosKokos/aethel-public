@@ -1,0 +1,171 @@
+<semantics id="wiki-384.p.21.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">omschreef</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">eerste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Het</word>
+            </functor>
+            <argument>
+               <word id="2">partijcongres</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">haar</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="16">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">in</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="14">het</word>
+                        </functor>
+                        <argument>
+                           <word id="15">algemeen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">Nederlandse</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">de</word>
+                        </functor>
+                        <argument>
+                           <word id="12">samenleving</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="22">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="23">het</word>
+                     </functor>
+                     <argument>
+                        <word id="24">bijzonder</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">politieke</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="19">Nederlandse</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="18">het</word>
+                        </functor>
+                        <argument>
+                           <word id="21">bestel</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">radicale</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">een</word>
+            </functor>
+            <argument>
+               <word id="8">democratisering</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

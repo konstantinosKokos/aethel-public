@@ -1,0 +1,129 @@
+<semantics id="wiki-832.p.23.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="17">door</word>
+                     </functor>
+                     <argument>
+                        <word id="18">Octave Maus</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="16">geleid</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">een</word>
+                  </functor>
+                  <argument>
+                     <word id="15">tijdschrift</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="13">L'Art Moderne</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">eerste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">o.a.</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">een</word>
+               </functor>
+               <argument>
+                  <word id="11">artikel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">nu</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">krijgt</word>
+         </functor>
+         <argument>
+            <word id="0">Hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">eerde</word>
+            </functor>
+            <argument>
+               <word id="5">geringschattende</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">een</word>
+            </functor>
+            <argument>
+               <word id="6">kritiek</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

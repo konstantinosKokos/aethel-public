@@ -1,0 +1,98 @@
+<semantics id="wiki-1532.p.11.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">en</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <word id="2">er</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="1">krijgt</word>
+                  </functor>
+                  <argument>
+                     <var id="0" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">1ste</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">een</word>
+                     </functor>
+                     <argument>
+                        <word id="5">expositie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <lambda varid="1">
+         <appl>
+         <functor>
+            <word id="8">er</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">toont</word>
+               </functor>
+               <argument>
+                  <var id="1" debruijn="1"></var>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">wrange</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">het</word>
+                  </functor>
+                  <argument>
+                     <word id="11">Rik met zwart oogverband</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Hij</word>
+</argument>
+</appl>
+</semantics>

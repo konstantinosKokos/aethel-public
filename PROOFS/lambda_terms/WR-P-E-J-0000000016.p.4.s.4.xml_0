@@ -1,0 +1,101 @@
+<semantics id="WR-P-E-J-0000000016.p.4.s.4.xml_0">
+<appl>
+<functor>
+   <word id="0">Daarbij</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">wijst</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="3">minister</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">of</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="9">van</word>
+                        </functor>
+                        <argument>
+                           <word id="10">maatregelen</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="8">combinatie-effecten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">dubbele</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">de</word>
+                     </functor>
+                     <argument>
+                        <word id="14">opbrengsten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="6">meerwaarde</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

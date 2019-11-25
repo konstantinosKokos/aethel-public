@@ -1,0 +1,138 @@
+<semantics id="wiki-1566.p.29.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">gaat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Het</word>
+      </functor>
+      <argument>
+         <word id="1">verhaal</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">over</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">die</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">de</word>
+                     </functor>
+                     <argument>
+                        <word id="13">VS</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="8">ten tijde van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="9">de</word>
+                        </functor>
+                        <argument>
+                           <word id="10">Tweede Wereldoorlog</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="18">maken</word>
+                        </functor>
+                        <argument>
+                           <var id="0" debruijn="1"></var>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="17">The Escapist</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="15">eigen</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="14">hun</word>
+                              </functor>
+                              <argument>
+                                 <word id="16">comic</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">jonge</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">twee</word>
+            </functor>
+            <argument>
+               <word id="6">mannen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

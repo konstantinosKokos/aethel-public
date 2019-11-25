@@ -1,0 +1,52 @@
+<semantics id="wiki-8894.p.9.s.2.xml_0">
+<appl>
+<functor>
+   <word id="0">Verder</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">kwamen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">zoals</word>
+            </functor>
+            <argument>
+               <word id="6">werkgelegenheid</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">vooral</word>
+               </functor>
+               <argument>
+                  <word id="3">economische</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="4">thema's</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">aan bod</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

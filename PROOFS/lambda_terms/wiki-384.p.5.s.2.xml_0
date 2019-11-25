@@ -1,0 +1,94 @@
+<semantics id="wiki-384.p.5.s.2.xml_0">
+<appl>
+<functor>
+   <word id="2">met name</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">legde</word>
+         </functor>
+         <argument>
+            <word id="0">D66</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">de</word>
+         </functor>
+         <argument>
+            <word id="4">nadruk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">de</word>
+                     </functor>
+                     <argument>
+                        <word id="9">samenleving</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="6">democratisering</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">nieuw</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">een</word>
+               </functor>
+               <argument>
+                  <word id="13">partijenstelsel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

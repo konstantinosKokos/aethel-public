@@ -1,0 +1,56 @@
+<semantics id="wiki-6983.p.9.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">en</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <word id="2">1987-2004</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">Vlaams Blok</word>
+               </functor>
+               <argument>
+                  <var id="0" debruijn="1"></var>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <lambda varid="1">
+         <appl>
+         <functor>
+            <word id="5">2004-...</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">Vlaams Belang</word>
+            </functor>
+            <argument>
+               <var id="1" debruijn="1"></var>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Partijbestuurslid</word>
+</argument>
+</appl>
+</semantics>

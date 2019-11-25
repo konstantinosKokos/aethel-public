@@ -1,0 +1,136 @@
+<semantics id="wiki-7064.p.45.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="13">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">werd</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">een</word>
+               </functor>
+               <argument>
+                  <word id="2">inspecteur</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">bijvoorbeeld</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">aangesteld</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">tot</word>
+                  </functor>
+                  <argument>
+                     <word id="6">hoofdinspecteur</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">werd</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">een</word>
+            </functor>
+            <argument>
+               <word id="8">hoofdinspecteur</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">aangesteld</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">tot</word>
+            </functor>
+            <argument>
+               <word id="12">commissaris</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="16">werd</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">een</word>
+         </functor>
+         <argument>
+            <word id="15">commissaris</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="17">aangesteld</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="18">tot</word>
+         </functor>
+         <argument>
+            <word id="19">hoofdcommissaris</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,38 @@
+<semantics id="wiki-3781.p.13.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">2000</word>
+   </functor>
+   <argument>
+      <word id="4">provincieraadsverkiezingen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">zetelverdeling</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">als volgt</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

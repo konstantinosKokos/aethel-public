@@ -1,0 +1,101 @@
+<semantics id="wiki-9843.p.9.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">moest</word>
+   </functor>
+   <argument>
+      <word id="10">Vandersteen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Omdat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">hun</word>
+               </functor>
+               <argument>
+                  <word id="8">werkkampen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">echter</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">ronselden</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">de</word>
+                     </functor>
+                     <argument>
+                        <word id="2">nazi's</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="4">mensen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">zoeken</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">veiliger</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">een</word>
+            </functor>
+            <argument>
+               <word id="13">beroep</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,66 @@
+<semantics id="WR-P-E-J-0000000003.p.1.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">300.000</word>
+            </functor>
+            <argument>
+               <word id="8">euro</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">een</word>
+         </functor>
+         <argument>
+            <word id="5">meerkost</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">gemoeid</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">de</word>
+         </functor>
+         <argument>
+            <word id="2">beslissing</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

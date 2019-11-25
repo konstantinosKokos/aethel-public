@@ -1,0 +1,185 @@
+<semantics id="wiki-6930.p.3.s.10.xml_0">
+<appl>
+<functor>
+   <word id="0">Zo</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">is</word>
+         </functor>
+         <argument>
+            <word id="2">het</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">dat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="17">hebben</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="9">en</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">De Vleeschauwer</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="6">toenmalig</word>
+                           </functor>
+                           <argument>
+                              <word id="7">CVP-minister</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">Militaire</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">de</word>
+                        </functor>
+                        <argument>
+                           <word id="12">veiligheidsdienst</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="18">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="21">en/of</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="19">de</word>
+                           </functor>
+                           <argument>
+                              <word id="20">voorbereiding</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="24">van</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="25">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="26">moordaanslag</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="22">het</word>
+                           </functor>
+                           <argument>
+                              <word id="23">toedekken</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">gespeeld</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">belangrijke</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="13">een</word>
+                        </functor>
+                        <argument>
+                           <word id="15">rol</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">meer dan</word>
+      </functor>
+      <argument>
+         <word id="4">waarschijnlijk</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

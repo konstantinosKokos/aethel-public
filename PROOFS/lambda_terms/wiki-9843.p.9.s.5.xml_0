@@ -1,0 +1,158 @@
+<semantics id="wiki-9843.p.9.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">en</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="1">wekte</word>
+                  </functor>
+                  <argument>
+                     <var id="0" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="5">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="8">en</word>
+                              </functor>
+                              <argument>
+                                 <lambda varid="1">
+                                    <appl>
+                                    <functor>
+                                       <var id="1" debruijn="1"></var>
+                                    </functor>
+                                    <argument>
+                                       <word id="7">collega's</word>
+                                    </argument>
+                                    </appl>
+                                 </lambda>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <lambda varid="2">
+                                 <appl>
+                                 <functor>
+                                    <var id="2" debruijn="1"></var>
+                                 </functor>
+                                 <argument>
+                                    <word id="9">afdelingschef</word>
+                                 </argument>
+                                 </appl>
+                              </lambda>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="6">zijn</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="2">de</word>
+                     </functor>
+                     <argument>
+                        <word id="3">sympathie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="4">op</word>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <lambda varid="3">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">mocht</word>
+            </functor>
+            <argument>
+               <var id="3" debruijn="1"></var>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">illustreren</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">de</word>
+                     </functor>
+                     <argument>
+                        <word id="16">slagers</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">het</word>
+                  </functor>
+                  <argument>
+                     <word id="13">vakblad</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Vandersteen</word>
+</argument>
+</appl>
+</semantics>

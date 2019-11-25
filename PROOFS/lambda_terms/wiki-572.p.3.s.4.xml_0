@@ -1,0 +1,122 @@
+<semantics id="wiki-572.p.3.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">in</word>
+   </functor>
+   <argument>
+      <word id="8">1974</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Als</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">Elias</word>
+               </functor>
+               <argument>
+                  <word id="4">archief</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="1">legataris</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">publiceerde</word>
+         </functor>
+         <argument>
+            <word id="6">hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="16">als</word>
+                  </functor>
+                  <argument>
+                     <word id="17">VNV-leider</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">diens</word>
+                  </functor>
+                  <argument>
+                     <word id="15">rol</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">uitgebreide</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">eerste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">de</word>
+                  </functor>
+                  <argument>
+                     <word id="12">analyse</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,124 @@
+<semantics id="wiki-1532.p.4.s.2.xml_0">
+<appl>
+<functor>
+   <word id="3">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">noemt</word>
+         </functor>
+         <argument>
+            <word id="0">Men</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">waarvan</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <word id="12">zeker</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="15">van</word>
+                     </functor>
+                     <argument>
+                        <word id="11">er</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="16">was</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">Rik Wouters</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="8">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="9">Mechelaar</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <var id="0" debruijn="1"></var>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="13">de</word>
+                           </functor>
+                           <argument>
+                              <word id="14">belangrijkste</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">Brusselse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="6">Caelevoeters</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

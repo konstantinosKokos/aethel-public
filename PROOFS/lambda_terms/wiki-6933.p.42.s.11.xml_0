@@ -1,0 +1,38 @@
+<semantics id="wiki-6933.p.42.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">Albert II</word>
+         </functor>
+         <argument>
+            <word id="4">Koning</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">zoon</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">1963</word>
+   </functor>
+   <argument>
+      <word id="0">Laurent</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

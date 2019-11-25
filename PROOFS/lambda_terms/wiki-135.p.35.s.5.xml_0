@@ -1,0 +1,87 @@
+<semantics id="wiki-135.p.35.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">streeft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">Franstalige</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">kleine</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Een</word>
+            </functor>
+            <argument>
+               <word id="3">minderheid</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">naar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">en</word>
+               </functor>
+               <argument>
+                  <word id="8">Wallonië</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="10">Brussel</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">aanhechting</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">bij</word>
+            </functor>
+            <argument>
+               <word id="12">Frankrijk</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

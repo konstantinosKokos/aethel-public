@@ -1,0 +1,108 @@
+<semantics id="wiki-135.p.72.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">naast</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">de</word>
+      </functor>
+      <argument>
+         <word id="7">steden</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">vooral</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <word id="1">Vlaanderen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">vind</word>
+            </functor>
+            <argument>
+               <word id="3">je</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="10">door</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="12">en</word>
+                        </functor>
+                        <argument>
+                           <word id="11">grachten</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="14">met</word>
+                           </functor>
+                           <argument>
+                              <word id="15">bomen</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="13">rijen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="9">gescheiden</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="8">velden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

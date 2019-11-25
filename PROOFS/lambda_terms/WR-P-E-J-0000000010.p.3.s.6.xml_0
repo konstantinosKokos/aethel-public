@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000010.p.3.s.6.xml_0">
+<appl>
+<functor>
+   <word id="4">al</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Onder andere</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">met</word>
+         </functor>
+         <argument>
+            <word id="2">SBS</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">lopen</word>
+      </functor>
+      <argument>
+         <word id="5">contacten</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

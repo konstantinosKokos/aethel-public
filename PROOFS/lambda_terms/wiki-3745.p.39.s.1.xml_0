@@ -1,0 +1,73 @@
+<semantics id="wiki-3745.p.39.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">herbergt</word>
+   </functor>
+   <argument>
+      <word id="0">Hasselt</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">en</word>
+               </functor>
+               <argument>
+                  <word id="2">sportclubs</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="4">fitnessruimten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">verscheidene</word>
+         </functor>
+         <argument>
+            <word id="6">sportcentra</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">overdekte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">een</word>
+         </functor>
+         <argument>
+            <word id="10">schaatsbaan</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

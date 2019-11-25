@@ -1,0 +1,150 @@
+<semantics id="wiki-208.p.22.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">werden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="18">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">Brabant</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">het</word>
+                        </functor>
+                        <argument>
+                           <word id="13">hertogdom</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">Henegouwen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">het</word>
+                     </functor>
+                     <argument>
+                        <word id="16">graafschap</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="21">Vlaanderen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">het</word>
+                  </functor>
+                  <argument>
+                     <word id="20">graafschap</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">de</word>
+         </functor>
+         <argument>
+            <word id="9">grondslagen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">dan</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">In</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">deze</word>
+               </functor>
+               <argument>
+                  <word id="2">tijd</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">gelegd</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">in</word>
+               </functor>
+               <argument>
+                  <word id="7">West-Francië</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

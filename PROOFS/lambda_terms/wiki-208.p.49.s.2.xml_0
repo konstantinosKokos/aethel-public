@@ -1,0 +1,115 @@
+<semantics id="wiki-208.p.49.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Franse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Het</word>
+         </functor>
+         <argument>
+            <word id="2">leger</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="8">en</word>
+                        </functor>
+                        <argument>
+                           <word id="7">Hollanders</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="9">Belgen</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">het</word>
+                     </functor>
+                     <argument>
+                        <word id="6">Nederlandse</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">het</word>
+               </functor>
+               <argument>
+                  <word id="11">Britse</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">Pruisische</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">het</word>
+               </functor>
+               <argument>
+                  <word id="15">leger</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="16">verslagen</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

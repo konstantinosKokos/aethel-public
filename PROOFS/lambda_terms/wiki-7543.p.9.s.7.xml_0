@@ -1,0 +1,129 @@
+<semantics id="wiki-7543.p.9.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">was</word>
+   </functor>
+   <argument>
+      <word id="8">hij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="13">tot</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="16">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">de</word>
+               </functor>
+               <argument>
+                  <word id="18">keizer</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">grote</word>
+            </functor>
+            <argument>
+               <word id="15">woede</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Daar</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">had</word>
+                  </functor>
+                  <argument>
+                     <word id="1">hij</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">echter</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">gedronken</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="3">te</word>
+                        </functor>
+                        <argument>
+                           <word id="4">veel</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">gevallen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">in</word>
+               </functor>
+               <argument>
+                  <word id="11">slaap</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

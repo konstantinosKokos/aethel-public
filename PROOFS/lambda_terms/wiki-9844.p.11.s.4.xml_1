@@ -1,0 +1,24 @@
+<semantics id="wiki-9844.p.11.s.4.xml_1">
+<appl>
+<functor>
+   <word id="2">bekendste</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">Barabas</word>
+      </functor>
+      <argument>
+         <word id="0">Professor</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">uitvinding</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

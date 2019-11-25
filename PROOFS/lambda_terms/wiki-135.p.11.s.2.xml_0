@@ -1,0 +1,157 @@
+<semantics id="wiki-135.p.11.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="15">hebben</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">tussen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="5">in</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">het</word>
+                        </functor>
+                        <argument>
+                           <word id="7">noorden</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">Nederlandstalige</word>
+                     </functor>
+                     <argument>
+                        <word id="4">Vlamingen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="12">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">het</word>
+                     </functor>
+                     <argument>
+                        <word id="14">zuiden</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">Franssprekende</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">de</word>
+                     </functor>
+                     <argument>
+                        <word id="11">Walen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">spanningen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="17">laatste</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">de</word>
+         </functor>
+         <argument>
+            <word id="18">jaren</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="19">geleid</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="20">tot</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="21">constitutionele</word>
+            </functor>
+            <argument>
+               <word id="22">amendementen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

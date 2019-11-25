@@ -1,0 +1,150 @@
+<semantics id="wiki-135.p.18.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">tot</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">meer</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">dan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="20">in</word>
+                  </functor>
+                  <argument>
+                     <word id="21">2000</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="18">16</word>
+                  </functor>
+                  <argument>
+                     <word id="19">miljoen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">meer</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">de</word>
+                  </functor>
+                  <argument>
+                     <word id="16">helft</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">in</word>
+               </functor>
+               <argument>
+                  <word id="11">1850</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">3</word>
+               </functor>
+               <argument>
+                  <word id="9">miljoen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">minder</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">de</word>
+               </functor>
+               <argument>
+                  <word id="6">helft</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">evolueerde</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">Nederlandse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">de</word>
+            </functor>
+            <argument>
+               <word id="2">bevolking</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

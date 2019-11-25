@@ -1,0 +1,24 @@
+<semantics id="wiki-5318.p.18.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">gaat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">slag</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="3">verder</word>
+</argument>
+</appl>
+</semantics>

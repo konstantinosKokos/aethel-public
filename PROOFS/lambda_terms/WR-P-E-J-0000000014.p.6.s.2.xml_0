@@ -1,0 +1,136 @@
+<semantics id="WR-P-E-J-0000000014.p.6.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">heb</word>
+   </functor>
+   <argument>
+      <word id="0">Ik</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">versneld</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">voeren</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">de</word>
+                     </functor>
+                     <argument>
+                        <word id="5">werken</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="7">door</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">beslist</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="15">in</word>
+                  </functor>
+                  <argument>
+                     <word id="16">2005</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">nog</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">laten</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="19">vastleggen</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="13">euro</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="11">9,7</word>
+                              </functor>
+                              <argument>
+                                 <word id="12">miljoen</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,164 @@
+<semantics id="WR-P-E-J-0000000006.p.1.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="16">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="8">agrarisch</word>
+                     </functor>
+                     <argument>
+                        <word id="9">gebied</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">750.000</word>
+                     </functor>
+                     <argument>
+                        <word id="7">ha</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">natuurgebied</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">150.000</word>
+                  </functor>
+                  <argument>
+                     <word id="11">ha</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">bosgebieden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">53.000</word>
+               </functor>
+               <argument>
+                  <word id="14">ha</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="19">andere</word>
+            </functor>
+            <argument>
+               <word id="20">groengebieden</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">34.000</word>
+            </functor>
+            <argument>
+               <word id="18">ha</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="21">tegen</word>
+      </functor>
+      <argument>
+         <word id="22">2007</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">via</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">stapsgewijs</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">een</word>
+               </functor>
+               <argument>
+                  <word id="5">proces</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Zo</word>
+         </functor>
+         <argument>
+            <word id="23">ingevuld</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

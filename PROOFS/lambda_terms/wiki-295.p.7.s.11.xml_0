@@ -1,0 +1,101 @@
+<semantics id="wiki-295.p.7.s.11.xml_0">
+<appl>
+<functor>
+   <word id="8">virtuoos</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">sombere</word>
+               </functor>
+               <argument>
+                  <word id="2">kleuren</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">krachtige</word>
+            </functor>
+            <argument>
+               <word id="5">lijnen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">brengt</word>
+            </functor>
+            <argument>
+               <word id="7">hij</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">als</word>
+               </functor>
+               <argument>
+                  <word id="13">hoofdthema</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">raak</word>
+                  </functor>
+                  <argument>
+                     <word id="10">geobserveerde</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="11">vissersfiguren</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="14">in beeld</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

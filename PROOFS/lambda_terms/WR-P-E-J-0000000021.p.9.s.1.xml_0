@@ -1,0 +1,115 @@
+<semantics id="WR-P-E-J-0000000021.p.9.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">met</word>
+         </functor>
+         <argument>
+            <word id="3">Noord-Frankrijk</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">samenwerking</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="13">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">Vlaamse</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="14">de</word>
+                        </functor>
+                        <argument>
+                           <word id="16">regering</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">het</word>
+                  </functor>
+                  <argument>
+                     <word id="12">Frankrijkbeleid</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">grote</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="9">speerpunten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="5">één</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

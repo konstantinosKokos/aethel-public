@@ -1,0 +1,101 @@
+<semantics id="wiki-11.p.23.s.4.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <word id="0">Antwerpen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">in</word>
+            </functor>
+            <argument>
+               <word id="14">Europa</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">charedische</word>
+            </functor>
+            <argument>
+               <word id="12">joden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">op</word>
+               </functor>
+               <argument>
+                  <word id="6">een</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="7">na</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">grootste</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">na</word>
+            </functor>
+            <argument>
+               <word id="3">Londen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">het</word>
+            </functor>
+            <argument>
+               <word id="9">centrum</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

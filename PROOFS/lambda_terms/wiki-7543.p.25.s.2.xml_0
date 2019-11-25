@@ -1,0 +1,66 @@
+<semantics id="wiki-7543.p.25.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">sinds</word>
+      </functor>
+      <argument>
+         <word id="9">1996</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="7">zomer</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">jaarlijks</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">populair</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">een</word>
+               </functor>
+               <argument>
+                  <word id="4">popmuziekfestival</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Feest in het Park</word>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,178 @@
+<semantics id="wiki-384.p.31.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">van</word>
+         </functor>
+         <argument>
+            <word id="3">Europees Liberalen en Democraten</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">fractie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="20">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="22">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="24">732</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="23">de</word>
+                           </functor>
+                           <argument>
+                              <word id="25">zetels</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="21">88</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="17">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">het</word>
+                     </functor>
+                     <argument>
+                        <word id="19">Europees Parlement</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">derde</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">de</word>
+                     </functor>
+                     <argument>
+                        <word id="16">fractie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">ADLE</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">Franse</word>
+                  </functor>
+                  <argument>
+                     <word id="12">afkorting</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">ALDE</word>
+               </functor>
+               <argument>
+                  <word id="9">Alliantie van Liberalen en Democraten voor Europa</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">vanaf</word>
+         </functor>
+         <argument>
+            <word id="6">2004</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="7">omgedoopt</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

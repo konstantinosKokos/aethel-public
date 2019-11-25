@@ -1,0 +1,52 @@
+<semantics id="wiki-5.p.37.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">lopen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">voormalige</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Enkele</word>
+            </functor>
+            <argument>
+               <word id="2">parlementsleden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">naar</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">andere</word>
+         </functor>
+         <argument>
+            <word id="7">partijen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="4">over</word>
+</argument>
+</appl>
+</semantics>

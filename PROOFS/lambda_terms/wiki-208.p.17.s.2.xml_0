@@ -1,0 +1,157 @@
+<semantics id="wiki-208.p.17.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">doordat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="20">begonnen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="16">koninklijke</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="15">de</word>
+                        </functor>
+                        <argument>
+                           <word id="17">goederen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">de</word>
+                  </functor>
+                  <argument>
+                     <word id="13">beheerders</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">de</word>
+               </functor>
+               <argument>
+                  <word id="11">hofmeiers</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="21">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="22">verstevigen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">hun</word>
+               </functor>
+               <argument>
+                  <word id="19">machtspositie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">zienderogen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">echter</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">nam</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="2">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">de</word>
+                     </functor>
+                     <argument>
+                        <word id="4">koningen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="0">De</word>
+                  </functor>
+                  <argument>
+                     <word id="1">macht</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">af</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

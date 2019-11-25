@@ -1,0 +1,73 @@
+<semantics id="wiki-832.p.23.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">zes</word>
+      </functor>
+      <argument>
+         <word id="10">werken</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">in</word>
+            </functor>
+            <argument>
+               <word id="7">1884</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">eerste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">hun</word>
+               </functor>
+               <argument>
+                  <word id="5">tentoonstelling</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">exposeert</word>
+      </functor>
+      <argument>
+         <word id="0">Hij</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

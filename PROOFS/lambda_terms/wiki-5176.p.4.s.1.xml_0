@@ -1,0 +1,108 @@
+<semantics id="wiki-5176.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">Merelbeke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">gemeente</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">omwille van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">op</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">het</word>
+               </functor>
+               <argument>
+                  <word id="15">Vormingsstation Merelbeke</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">felle</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">2</word>
+               </functor>
+               <argument>
+                  <word id="12">bombardementen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">'s lands</word>
+            </functor>
+            <argument>
+               <word id="7">geschiedenis</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">vooral</word>
+         </functor>
+         <argument>
+            <word id="8">bekend</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

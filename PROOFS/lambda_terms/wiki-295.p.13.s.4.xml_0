@@ -1,0 +1,101 @@
+<semantics id="wiki-295.p.13.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">had</word>
+   </functor>
+   <argument>
+      <word id="4">hij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">al</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">laten</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">plaatsen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="8">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">Georges Minne</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">andere</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="9">die</word>
+                           </functor>
+                           <argument>
+                              <word id="11">Latemmer</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">een</word>
+                  </functor>
+                  <argument>
+                     <word id="7">beeldhouwwerk</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Op</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">het</word>
+               </functor>
+               <argument>
+                  <word id="2">graf</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

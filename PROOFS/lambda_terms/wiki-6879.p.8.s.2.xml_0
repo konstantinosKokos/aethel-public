@@ -1,0 +1,164 @@
+<semantics id="wiki-6879.p.8.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">later</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">korte</word>
+      </functor>
+      <argument>
+         <word id="1">tijd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">constateerde</word>
+      </functor>
+      <argument>
+         <word id="4">ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">dat</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="10">was</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">de</word>
+                     </functor>
+                     <argument>
+                        <word id="7">remedie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">zeer</word>
+                  </functor>
+                  <argument>
+                     <word id="9">zacht</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">dat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="19">kon</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">de</word>
+                  </functor>
+                  <argument>
+                     <word id="14">patiënt</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">moeilijk</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">maar</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="20">maken</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="17">een</word>
+                           </functor>
+                           <argument>
+                              <word id="18">eind</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="21">aan</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="22">de</word>
+                           </functor>
+                           <argument>
+                              <word id="23">behandeling</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

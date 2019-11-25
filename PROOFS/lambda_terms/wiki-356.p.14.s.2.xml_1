@@ -1,0 +1,38 @@
+<semantics id="wiki-356.p.14.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">werden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">zelfs</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">de</word>
+         </functor>
+         <argument>
+            <word id="2">tanden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">grotendeels</word>
+   </functor>
+   <argument>
+      <word id="5">opgelost</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

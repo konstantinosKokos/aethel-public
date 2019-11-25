@@ -1,0 +1,59 @@
+<semantics id="wiki-135.p.70.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">is</word>
+   </functor>
+   <argument>
+      <word id="6">het</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">gesteld</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">van</word>
+               </functor>
+               <argument>
+                  <word id="4">België</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">het</word>
+               </functor>
+               <argument>
+                  <word id="2">milieu</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">slecht</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

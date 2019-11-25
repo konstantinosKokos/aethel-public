@@ -1,0 +1,52 @@
+<semantics id="wiki-1808.p.11.s.4.xml_0">
+<appl>
+<functor>
+   <word id="6">weer</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <word id="1">1989</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">nam</word>
+            </functor>
+            <argument>
+               <word id="3">Verhofstadt</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="5">voorzittersfakkel</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="7">over</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

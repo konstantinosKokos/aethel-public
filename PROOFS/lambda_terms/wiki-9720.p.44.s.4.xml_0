@@ -1,0 +1,173 @@
+<semantics id="wiki-9720.p.44.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">valt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Zijn</word>
+         </functor>
+         <argument>
+            <word id="1">optreden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">die</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="22">werden</word>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="14">door</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="18">en</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="17">Zorobabel</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="15">de</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="16">landvoogd</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="21">Jesjóea</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="19">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="20">hogepriester</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="23">ondernomen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">tot</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="10">en</word>
+                        </functor>
+                        <argument>
+                           <word id="9">nationaal</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="11">godsdienstig</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="12">herstel</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">eerste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">de</word>
+                  </functor>
+                  <argument>
+                     <word id="7">pogingen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="3">samen</word>
+</argument>
+</appl>
+</semantics>

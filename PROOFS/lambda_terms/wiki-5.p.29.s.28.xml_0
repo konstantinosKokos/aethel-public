@@ -1,0 +1,136 @@
+<semantics id="wiki-5.p.29.s.28.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">lokale</word>
+               </functor>
+               <argument>
+                  <word id="10">kernafvalbetogingen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">tegen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">lineaire</word>
+                  </functor>
+                  <argument>
+                     <word id="14">belastingen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="11">verzet</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="18">rond</word>
+            </functor>
+            <argument>
+               <word id="19">afvalrecyclage</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">concrete</word>
+            </functor>
+            <argument>
+               <word id="17">voorstellen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">vooral</word>
+      </functor>
+      <argument>
+         <word id="7">goed</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="5">beginjaren</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">scoort</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

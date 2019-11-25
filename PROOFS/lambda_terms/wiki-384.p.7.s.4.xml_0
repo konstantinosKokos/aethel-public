@@ -1,0 +1,150 @@
+<semantics id="wiki-384.p.7.s.4.xml_0">
+<appl>
+<functor>
+   <word id="11">werd</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="14">toch</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">in</word>
+         </functor>
+         <argument>
+            <word id="13">1975</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Nadat</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="10">was</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">de</word>
+                     </functor>
+                     <argument>
+                        <word id="2">partij</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="5">lang</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="3">een</word>
+                        </functor>
+                        <argument>
+                           <word id="4">jaar</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">geweest</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="7">niet</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="6">vrijwel</word>
+                           </functor>
+                           <argument>
+                              <word id="8">actief</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">besloten</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="20">te</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="21">blazen</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="16">de</word>
+                           </functor>
+                           <argument>
+                              <word id="17">partij</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="18">nieuw leven</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="19">in</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

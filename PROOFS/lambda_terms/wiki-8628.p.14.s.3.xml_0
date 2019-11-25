@@ -1,0 +1,108 @@
+<semantics id="wiki-8628.p.14.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">uit</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="5">wort</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">vergistbare</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="2">suikers</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">tijdens</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">deze</word>
+         </functor>
+         <argument>
+            <word id="9">hoofdgisting</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">omgezet</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">en</word>
+                  </functor>
+                  <argument>
+                     <word id="12">alcohol</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="13">koolzuurgas</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="15">smaakstoffen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

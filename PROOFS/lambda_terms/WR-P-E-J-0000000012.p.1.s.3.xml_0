@@ -1,0 +1,101 @@
+<semantics id="WR-P-E-J-0000000012.p.1.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">dit</word>
+   </functor>
+   <argument>
+      <word id="11">schooljaar</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">trekt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">Frank VANDENBROUCKE</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="3">van</word>
+                     </functor>
+                     <argument>
+                        <word id="4">Onderwijs</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">Vlaamse</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="0">De</word>
+                        </functor>
+                        <argument>
+                           <word id="2">minister</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">460.000</word>
+            </functor>
+            <argument>
+               <word id="13">euro</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">de</word>
+            </functor>
+            <argument>
+               <word id="9">projecten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="14">uit</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

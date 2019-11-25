@@ -1,0 +1,66 @@
+<semantics id="wiki-3745.p.41.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">extra</word>
+      </functor>
+      <argument>
+         <word id="8">bussen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Bij</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">zoals</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="4">of</word>
+                  </functor>
+                  <argument>
+                     <word id="3">Pukkelpop 2006</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="5">Theater op de Markt</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="1">evenementen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="9">ingezet</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

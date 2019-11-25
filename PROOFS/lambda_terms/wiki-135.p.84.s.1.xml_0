@@ -1,0 +1,136 @@
+<semantics id="wiki-135.p.84.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">hoewel</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">slechts</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="19">vertegenwoordigt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">de</word>
+               </functor>
+               <argument>
+                  <word id="10">landbouw</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="18">arbeidskrachten</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="16">het</word>
+                     </functor>
+                     <argument>
+                        <word id="17">aantal</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">klein</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">een</word>
+                  </functor>
+                  <argument>
+                     <word id="14">percentage</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">heeft</word>
+      </functor>
+      <argument>
+         <word id="0">België</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">en</word>
+            </functor>
+            <argument>
+               <word id="3">vruchtbare</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">goed</word>
+            </functor>
+            <argument>
+               <word id="6">bewaterde</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">veel</word>
+         </functor>
+         <argument>
+            <word id="7">grond</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

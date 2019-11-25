@@ -1,0 +1,108 @@
+<semantics id="WR-P-E-J-0000000008.p.48.s.1.xml_0">
+<appl>
+<functor>
+   <word id="14">definitief</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Na</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="4">Raad van State</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="1">advies</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">keurt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">Vlaamse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">de</word>
+                  </functor>
+                  <argument>
+                     <word id="8">Regering</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">over</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">het</word>
+                  </functor>
+                  <argument>
+                     <word id="13">energieprestatiecertificaat</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">het</word>
+               </functor>
+               <argument>
+                  <word id="10">besluit</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="15">goed</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

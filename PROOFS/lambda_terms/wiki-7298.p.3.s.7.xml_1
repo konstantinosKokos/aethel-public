@@ -1,0 +1,24 @@
+<semantics id="wiki-7298.p.3.s.7.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">op</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">de</word>
+      </functor>
+      <argument>
+         <word id="2">kop</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="3">1500</word>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,73 @@
+<semantics id="WR-P-E-J-0000000010.p.3.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">roept</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">minister</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">andere</word>
+         </functor>
+         <argument>
+            <word id="4">media</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">sluiten</word>
+               </functor>
+               <argument>
+                  <word id="7">hierbij</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="8">aan</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="5">op</word>
+</argument>
+</appl>
+</semantics>

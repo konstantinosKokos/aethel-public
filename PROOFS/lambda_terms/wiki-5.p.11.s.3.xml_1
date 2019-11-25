@@ -1,0 +1,66 @@
+<semantics id="wiki-5.p.11.s.3.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">Nederlandse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">het</word>
+         </functor>
+         <argument>
+            <word id="6">GroenLinks</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">daar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">vormt</word>
+         </functor>
+         <argument>
+            <word id="0">hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">transnationale</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">een</word>
+            </functor>
+            <argument>
+               <word id="9">fractie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,164 @@
+<semantics id="wiki-866.p.27.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="14">na</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="22">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">halve</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">de</word>
+                  </functor>
+                  <argument>
+                     <word id="18">finale</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="23">verslaan</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="21">Anastasia Myskina</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">de</word>
+                  </functor>
+                  <argument>
+                     <word id="20">Russin</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="12">in</word>
+      </functor>
+      <argument>
+         <word id="13">Athene</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">tegen</word>
+               </functor>
+               <argument>
+                  <word id="4">Amélie Mauresmo</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">de</word>
+               </functor>
+               <argument>
+                  <word id="2">finale</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">wint</word>
+            </functor>
+            <argument>
+               <word id="6">ze</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">gouden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">Belgische</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">enige</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">de</word>
+                     </functor>
+                     <argument>
+                        <word id="11">medaille</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

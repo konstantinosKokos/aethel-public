@@ -1,0 +1,115 @@
+<semantics id="wiki-208.p.12.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">Uiteindelijk</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">bezweek</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">West-Romeinse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">het</word>
+            </functor>
+            <argument>
+               <word id="4">rijk</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">onder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="13">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">3e</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="14">de</word>
+                        </functor>
+                        <argument>
+                           <word id="16">eeuw</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">Germaanse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">binnentrekkende</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="9">de</word>
+                        </functor>
+                        <argument>
+                           <word id="12">stammen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="7">druk</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

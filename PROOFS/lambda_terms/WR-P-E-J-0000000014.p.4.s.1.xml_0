@@ -1,0 +1,171 @@
+<semantics id="WR-P-E-J-0000000014.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">zal</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">vrijkomende</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="2">grondspecie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">ter hoogte van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="18">op</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="21">van</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="24">Evergem</word>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="22">de</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="23">gemeente</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="19">het</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="20">grondgebied</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="16">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="17">Zandeken</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="14">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="15">wijk</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">nabijgelegen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">de</word>
+                        </functor>
+                        <argument>
+                           <word id="12">industrieterreinen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="8">ophoging</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">aangewend</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

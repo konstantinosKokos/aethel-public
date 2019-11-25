@@ -1,0 +1,59 @@
+<semantics id="wiki-5.p.21.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <word id="0">Vera Dua</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">toen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">verkozen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">tot</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">eerste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">de</word>
+                  </functor>
+                  <argument>
+                     <word id="8">voorzitster</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

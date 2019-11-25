@@ -1,0 +1,143 @@
+<semantics id="wiki-6984.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <word id="0">Gerolf Annemans</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">sinds</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">toen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="19">werd</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="12">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="15">op</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="17">Antwerpse</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="16">de</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="18">kamerlijst</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="13">eerste</word>
+                              </functor>
+                              <argument>
+                                 <word id="14">opvolger</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">de</word>
+                        </functor>
+                        <argument>
+                           <word id="11">plaats</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">aangeboden</word>
+                  </functor>
+                  <argument>
+                     <word id="9">hem</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">1985</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">actief</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">binnen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">het</word>
+            </functor>
+            <argument>
+               <word id="5">Vlaams Blok</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

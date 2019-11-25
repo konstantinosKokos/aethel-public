@@ -1,0 +1,17 @@
+<semantics id="wiki-1941.p.11.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">Na</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">zijn</word>
+   </functor>
+   <argument>
+      <word id="2">dood</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

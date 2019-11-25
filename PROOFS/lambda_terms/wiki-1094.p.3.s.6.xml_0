@@ -1,0 +1,38 @@
+<semantics id="wiki-1094.p.3.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">gelijknamige</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">het</word>
+            </functor>
+            <argument>
+               <word id="5">televisieprogramma</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">saboteur</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">De Mol</word>
+</argument>
+</appl>
+</semantics>

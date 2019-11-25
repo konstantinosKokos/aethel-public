@@ -1,0 +1,31 @@
+<semantics id="wiki-866.p.3.s.2.xml_0">
+<appl>
+<functor>
+   <word id="0">Momenteel</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">woont</word>
+      </functor>
+      <argument>
+         <word id="2">ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">in</word>
+      </functor>
+      <argument>
+         <word id="4">Monaco</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

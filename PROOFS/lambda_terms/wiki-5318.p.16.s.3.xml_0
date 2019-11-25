@@ -1,0 +1,122 @@
+<semantics id="wiki-5318.p.16.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In tegenstelling tot</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">wat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">beweren</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">Engelse</word>
+            </functor>
+            <argument>
+               <word id="3">historici</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">zeggen</word>
+      </functor>
+      <argument>
+         <word id="6">ooggetuigenverslagen</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">dat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">heeft</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">de</word>
+               </functor>
+               <argument>
+                  <word id="9">brigade</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">zelfs</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">enige</word>
+                  </functor>
+                  <argument>
+                     <word id="15">tijd</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">weerstaan</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">Franse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">de</word>
+                     </functor>
+                     <argument>
+                        <word id="12">aanval</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

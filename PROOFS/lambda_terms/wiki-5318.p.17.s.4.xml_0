@@ -1,0 +1,129 @@
+<semantics id="wiki-5318.p.17.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">kwam</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">Franse</word>
+            </functor>
+            <argument>
+               <word id="4">cavalerie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">er</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Ondertussen</word>
+            </functor>
+            <argument>
+               <word id="5">aangesneld</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">sneed</word>
+            </functor>
+            <argument>
+               <word id="7">die</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">de</word>
+            </functor>
+            <argument>
+               <word id="10">Britten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">geallieerde</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="16">het</word>
+                     </functor>
+                     <argument>
+                        <word id="18">leger</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">de</word>
+               </functor>
+               <argument>
+                  <word id="14">rest</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="11">af</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

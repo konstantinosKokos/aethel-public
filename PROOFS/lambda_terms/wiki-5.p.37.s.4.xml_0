@@ -1,0 +1,129 @@
+<semantics id="wiki-5.p.37.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">kan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Die</word>
+            </functor>
+            <argument>
+               <word id="1">neergang</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">worden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">door</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="10">van</word>
+                     </functor>
+                     <argument>
+                        <word id="11">1999</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">de</word>
+                     </functor>
+                     <argument>
+                        <word id="9">dioxinebonus</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="3">niet</word>
+                  </functor>
+                  <argument>
+                     <word id="4">alleen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="5">verklaard</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="16">deemoedig</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="15">buigen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">de</word>
+            </functor>
+            <argument>
+               <word id="14">groenen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="17">het</word>
+         </functor>
+         <argument>
+            <word id="18">hoofd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

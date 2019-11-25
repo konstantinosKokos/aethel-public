@@ -1,0 +1,171 @@
+<semantics id="wiki-1652.p.20.s.1.xml_0">
+<appl>
+<functor>
+   <word id="8">nog</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Bij</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">van</word>
+            </functor>
+            <argument>
+               <word id="4">1946</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">gemeenteraadsverkiezingen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">behaalde</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="7">CVP</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="16">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">uitgebrachte</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="13">geldige</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="12">de</word>
+                           </functor>
+                           <argument>
+                              <word id="15">stemmen</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">45</word>
+                  </functor>
+                  <argument>
+                     <word id="10">%</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="22">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="23">de</word>
+                  </functor>
+                  <argument>
+                     <word id="24">gemeenteraad</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="20">absolute</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="18">toch</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">meteen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="19">de</word>
+                        </functor>
+                        <argument>
+                           <word id="21">zetelmeerderheid</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

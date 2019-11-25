@@ -1,0 +1,150 @@
+<semantics id="wiki-1823.p.29.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Aan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">21ste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">de</word>
+               </functor>
+               <argument>
+                  <word id="6">eeuw</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">het</word>
+         </functor>
+         <argument>
+            <word id="2">begin</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">viel</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">deze</word>
+            </functor>
+            <argument>
+               <word id="9">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="17">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">Spirit</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="13">eerder</word>
+                        </functor>
+                        <argument>
+                           <word id="14">links-liberale</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">een</word>
+                        </functor>
+                        <argument>
+                           <word id="15">vleugel</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="21">N-VA</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">nationalistische</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">een</word>
+                     </functor>
+                     <argument>
+                        <word id="20">vleugel</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="10">uit elkaar</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

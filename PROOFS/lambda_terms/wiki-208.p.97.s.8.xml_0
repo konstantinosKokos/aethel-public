@@ -1,0 +1,129 @@
+<semantics id="wiki-208.p.97.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">verloren</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">grote</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Alle</word>
+               </functor>
+               <argument>
+                  <word id="2">partijen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">zetels</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">in</word>
+      </functor>
+      <argument>
+         <word id="10">Vlaanderen</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">ging</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="7">winst</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">naar</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">het</word>
+                  </functor>
+                  <argument>
+                     <word id="13">Vlaams Blok</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">in</word>
+               </functor>
+               <argument>
+                  <word id="16">Wallonië</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">naar</word>
+               </functor>
+               <argument>
+                  <word id="18">Ecolo</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

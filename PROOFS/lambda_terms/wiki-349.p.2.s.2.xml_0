@@ -1,0 +1,87 @@
+<semantics id="wiki-349.p.2.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">wordt</word>
+   </functor>
+   <argument>
+      <word id="0">Ze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">vooral</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">het</word>
+                  </functor>
+                  <argument>
+                     <word id="12">buitenland</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="9">contacten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">vaak</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">ook</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">omschreven</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">als</word>
+               </functor>
+               <argument>
+                  <word id="5">Duitstalige Gemeenschap van België</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

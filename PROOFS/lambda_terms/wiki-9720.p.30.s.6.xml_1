@@ -1,0 +1,73 @@
+<semantics id="wiki-9720.p.30.s.6.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">weet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">alleen</word>
+      </functor>
+      <argument>
+         <word id="0">Ik</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">waar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">bevindt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">het</word>
+                  </functor>
+                  <argument>
+                     <word id="8">Lam Gods</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">het</word>
+               </functor>
+               <argument>
+                  <word id="5">paneel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="9">zich</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

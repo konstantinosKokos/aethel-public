@@ -1,0 +1,87 @@
+<semantics id="wiki-1808.p.13.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">de</word>
+      </functor>
+      <argument>
+         <word id="4">partij</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">naar</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">de</word>
+         </functor>
+         <argument>
+            <word id="12">VLD</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">onder</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">van</word>
+               </functor>
+               <argument>
+                  <word id="8">Verhofstadt</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">impuls</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">In</word>
+            </functor>
+            <argument>
+               <word id="1">1992</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="9">omgevormd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

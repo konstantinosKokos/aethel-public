@@ -1,0 +1,108 @@
+<semantics id="wiki-5318.p.27.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">vormden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="6">Oude Garde</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">twee</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">laatste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="3">carrés</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">voor</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">en</word>
+            </functor>
+            <argument>
+               <word id="12">Napoleon</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">zijn</word>
+            </functor>
+            <argument>
+               <word id="15">staf</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">levend</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">een</word>
+         </functor>
+         <argument>
+            <word id="10">schild</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

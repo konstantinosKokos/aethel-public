@@ -1,0 +1,52 @@
+<semantics id="wiki-349.p.23.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">en</word>
+            </functor>
+            <argument>
+               <word id="2">minister-president</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">financiën</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">personeelszaken</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">externe</word>
+      </functor>
+      <argument>
+         <word id="7">betrekkingen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">SP</word>
+   </functor>
+   <argument>
+      <word id="0">Karl-Heinz Lambertz</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

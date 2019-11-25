@@ -1,0 +1,117 @@
+<semantics id="wiki-1400.p.4.s.2.xml_0">
+<appl>
+<functor>
+   <word id="0">Tegenwoordig</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">is</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">de</word>
+                  </functor>
+                  <argument>
+                     <word id="6">wedstrijd</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">de</word>
+               </functor>
+               <argument>
+                  <word id="3">organisatie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">die</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <word id="12">ook</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="15">organiseert</word>
+                           </functor>
+                           <argument>
+                              <var id="0" debruijn="1"></var>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="13">de</word>
+                           </functor>
+                           <argument>
+                              <word id="14">Ronde van Frankrijk</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">de</word>
+               </functor>
+               <argument>
+                  <word id="10">Société du Tour de France</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">in handen</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

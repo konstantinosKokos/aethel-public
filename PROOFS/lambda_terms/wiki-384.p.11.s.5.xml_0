@@ -1,0 +1,38 @@
+<semantics id="wiki-384.p.11.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werd</word>
+   </functor>
+   <argument>
+      <word id="0">Hij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">door</word>
+      </functor>
+      <argument>
+         <word id="5">Alexander Pechtold</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">tussentijds</word>
+      </functor>
+      <argument>
+         <word id="3">opgevolgd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

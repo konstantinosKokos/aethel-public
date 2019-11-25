@@ -1,0 +1,87 @@
+<semantics id="wiki-1941.p.12.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">internationale</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">een</word>
+         </functor>
+         <argument>
+            <word id="12">cast</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">in</word>
+      </functor>
+      <argument>
+         <word id="1">2002</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">maakte</word>
+         </functor>
+         <argument>
+            <word id="3">Frank Van Passel</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">van</word>
+            </functor>
+            <argument>
+               <word id="8">Villa des Roses</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">Engelstalige</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">een</word>
+               </functor>
+               <argument>
+                  <word id="6">verfilming</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

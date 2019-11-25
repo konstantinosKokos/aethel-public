@@ -1,0 +1,45 @@
+<semantics id="wiki-356.p.28.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">was</word>
+   </functor>
+   <argument>
+      <word id="0">Diependaele</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">afkomstig</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">van</word>
+         </functor>
+         <argument>
+            <word id="6">Zottegem</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">een</word>
+      </functor>
+      <argument>
+         <word id="3">topassisenpleiter</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

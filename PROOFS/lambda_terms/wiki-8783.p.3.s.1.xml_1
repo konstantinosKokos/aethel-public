@@ -1,0 +1,59 @@
+<semantics id="wiki-8783.p.3.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">was</word>
+   </functor>
+   <argument>
+      <word id="0">Hij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">tijdens</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="8">Olympische Spelen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="5">steeplechase</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">vierde</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

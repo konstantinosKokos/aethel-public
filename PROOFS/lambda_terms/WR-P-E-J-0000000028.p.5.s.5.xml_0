@@ -1,0 +1,101 @@
+<semantics id="WR-P-E-J-0000000028.p.5.s.5.xml_0">
+<appl>
+<functor>
+   <word id="9">wordt</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">waken</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">over</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="5">van</word>
+                     </functor>
+                     <argument>
+                        <word id="6">projecten</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">architecturale</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="2">de</word>
+                        </functor>
+                        <argument>
+                           <word id="4">kwaliteit</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">samengewerkt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">Vlaamse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">de</word>
+               </functor>
+               <argument>
+                  <word id="14">Bouwmeester</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

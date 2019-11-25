@@ -1,0 +1,31 @@
+<semantics id="wiki-6879.p.12.s.5.xml_0">
+<appl>
+<functor>
+   <word id="2">maar</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">had</word>
+      </functor>
+      <argument>
+         <word id="0">Zij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">één</word>
+      </functor>
+      <argument>
+         <word id="4">ambitie</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

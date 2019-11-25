@@ -1,0 +1,24 @@
+<semantics id="WR-P-E-J-0000000016.p.3.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">deze</word>
+      </functor>
+      <argument>
+         <word id="1">oproep</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="3">gehoord</word>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,157 @@
+<semantics id="wiki-6532.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">van</word>
+            </functor>
+            <argument>
+               <word id="9">Zweden</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">prinses</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">van</word>
+               </functor>
+               <argument>
+                  <word id="6">Brabant</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="4">hertogin</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="2">van</word>
+                  </functor>
+                  <argument>
+                     <word id="3">België</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="1">prinses</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="0">Astrid Sofia Lovisa Thyra</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="13">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="18">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="16">van</word>
+                  </functor>
+                  <argument>
+                     <word id="17">Zweden</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">Karel</word>
+                  </functor>
+                  <argument>
+                     <word id="14">prins</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="21">van</word>
+               </functor>
+               <argument>
+                  <word id="22">Denemarken</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="20">Ingeborg</word>
+               </functor>
+               <argument>
+                  <word id="19">prinses</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">de</word>
+      </functor>
+      <argument>
+         <word id="12">dochter</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

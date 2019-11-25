@@ -1,0 +1,150 @@
+<semantics id="wiki-334.p.11.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">droeg</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Dat</word>
+         </functor>
+         <argument>
+            <word id="1">voorbeeld</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">ertoe</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">dat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">zouden</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">de</word>
+                  </functor>
+                  <argument>
+                     <word id="10">protestanten</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">bij</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">latere</word>
+                     </functor>
+                     <argument>
+                        <word id="8">belegeringen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">zijn</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">minder</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">geneigd</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="15">om</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="20">te</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <word id="16">tot</word>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="17">het</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="18">einde</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="21">vechten</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="19">door</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="4">bij</word>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,171 @@
+<semantics id="wiki-7064.p.47.s.7.xml_0">
+<appl>
+<functor>
+   <word id="0">Tenslotte</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">zorgde</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">op</word>
+            </functor>
+            <argument>
+               <word id="5">29 mei 1985</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">het</word>
+            </functor>
+            <argument>
+               <word id="3">Heizeldrama</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">voor</word>
+         </functor>
+         <argument>
+            <word id="6">er</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">dat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">eens</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">maar</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">nog</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="14">werd</word>
+                           </functor>
+                           <argument>
+                              <word id="9">het</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="15">dat</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="23">waren</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="17">verschillende</word>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="16">de</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="18">politiediensten</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="20">niet</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="19">totaal</word>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="24">afgestemd</word>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <word id="21">op</word>
+                                          </functor>
+                                          <argument>
+                                             <word id="22">elkaar</word>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="13">duidelijk</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,138 @@
+<semantics id="wiki-9720.p.36.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">waardoor</word>
+   </functor>
+   <argument>
+      <lambda varid="0">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">kan</word>
+            </functor>
+            <argument>
+               <word id="12">je</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <var id="0" debruijn="1"></var>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">bekijken</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="15">in</word>
+                     </functor>
+                     <argument>
+                        <word id="16">vogelvluchtperspectief</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">alle</word>
+                     </functor>
+                     <argument>
+                        <word id="14">afbeeldingen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">worden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">panelen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">onderste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="2">rij</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">hoge</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">een</word>
+               </functor>
+               <argument>
+                  <word id="10">horizonlijn</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">horizontaal</word>
+         </functor>
+         <argument>
+            <word id="6">verbonden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

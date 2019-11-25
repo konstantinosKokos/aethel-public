@@ -1,0 +1,108 @@
+<semantics id="wiki-208.p.11.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">werden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">de</word>
+            </functor>
+            <argument>
+               <word id="4">invallers</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Rond</word>
+            </functor>
+            <argument>
+               <word id="1">280</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="5">verdreven</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">bleef</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">de</word>
+            </functor>
+            <argument>
+               <word id="10">Saliërs</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">een</word>
+            </functor>
+            <argument>
+               <word id="8">stam</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">binnenvallen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">Belgische</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">de</word>
+            </functor>
+            <argument>
+               <word id="14">gebieden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

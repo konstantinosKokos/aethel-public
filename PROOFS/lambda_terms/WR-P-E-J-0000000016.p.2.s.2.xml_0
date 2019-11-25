@@ -1,0 +1,59 @@
+<semantics id="WR-P-E-J-0000000016.p.2.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Deze</word>
+      </functor>
+      <argument>
+         <word id="1">klimaatconferentie</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">op</word>
+      </functor>
+      <argument>
+         <word id="8">6 juni 2005</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">op initiatief van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">Peeters</word>
+            </functor>
+            <argument>
+               <word id="4">minister</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="6">gestart</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

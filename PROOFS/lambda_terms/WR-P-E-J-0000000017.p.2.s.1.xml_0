@@ -1,0 +1,129 @@
+<semantics id="WR-P-E-J-0000000017.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">kunnen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">missing links</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">een</word>
+         </functor>
+         <argument>
+            <word id="14">aantal</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="17">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="16">versneld</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Door</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">te</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="6">met behulp van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="7">private</word>
+                        </functor>
+                        <argument>
+                           <word id="8">financiering</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="11">drijven</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="3">in</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="4">openbare</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="5">werken</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="1">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="2">investeringsritme</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="9">op</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="18">weggewerkt</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

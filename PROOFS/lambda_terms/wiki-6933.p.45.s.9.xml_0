@@ -1,0 +1,31 @@
+<semantics id="wiki-6933.p.45.s.9.xml_0">
+<appl>
+<functor>
+   <word id="4">Huis Wettin</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">koninklijke</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Saksische</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="3">familie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

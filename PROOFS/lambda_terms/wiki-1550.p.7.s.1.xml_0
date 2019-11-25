@@ -1,0 +1,31 @@
+<semantics id="wiki-1550.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">in</word>
+   </functor>
+   <argument>
+      <word id="4">Brugge</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">tegenwoordig</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">start</word>
+      </functor>
+      <argument>
+         <word id="0">De Ronde</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,129 @@
+<semantics id="WR-P-E-J-0000000002.p.7.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Afhankelijk</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">hiervan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="3">resultaten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">dienen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">deze</word>
+         </functor>
+         <argument>
+            <word id="7">kandidaten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">engageren</word>
+            </functor>
+            <argument>
+               <word id="8">zich</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="17">op</word>
+                  </functor>
+                  <argument>
+                     <word id="18">maat</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">volgen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="13">Nederlandse</word>
+                        </functor>
+                        <argument>
+                           <word id="14">taalles</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="11">een</word>
+                        </functor>
+                        <argument>
+                           <word id="12">cursus</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

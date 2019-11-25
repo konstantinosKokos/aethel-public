@@ -1,0 +1,161 @@
+<semantics id="WR-P-E-J-0000000008.p.18.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">bepaald</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">een</word>
+                        </functor>
+                        <argument>
+                           <word id="10">begrotingsjaar</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="6">geleverd</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="5">onderwijsprestaties</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">en</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <var id="0" debruijn="1"></var>
+                     </functor>
+                     <argument>
+                        <word id="1">wedden</word>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <lambda varid="1">
+                  <appl>
+                  <functor>
+                     <var id="1" debruijn="1"></var>
+                  </functor>
+                  <argument>
+                     <word id="3">weddentoelagen</word>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="0">De</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="17">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="19">daaropvolgend</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">het</word>
+            </functor>
+            <argument>
+               <word id="20">begrotingsjaar</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">slechts</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">een</word>
+               </functor>
+               <argument>
+                  <word id="14">gedeelte</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="16">uitbetaald</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

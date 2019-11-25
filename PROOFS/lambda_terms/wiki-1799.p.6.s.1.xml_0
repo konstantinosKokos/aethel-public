@@ -1,0 +1,115 @@
+<semantics id="wiki-1799.p.6.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <word id="1">1982</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">haalde</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">10 jaar Urbanus live</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">zijn</word>
+                  </functor>
+                  <argument>
+                     <word id="4">dubbelelpee</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="6">platina</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="13">wederom</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">was</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">Als de vogeltjens zingen in 't woud</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">Quand les Zosiaux chantent dans les bois</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">zijn</word>
+                  </functor>
+                  <argument>
+                     <word id="9">single</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="15">groot</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">een</word>
+            </functor>
+            <argument>
+               <word id="16">succes</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

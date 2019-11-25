@@ -1,0 +1,38 @@
+<semantics id="wiki-1058.p.9.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">haar</word>
+      </functor>
+      <argument>
+         <word id="5">koepel</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">barokke</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="2">Onze-Lieve-Vrouw-van-Hanswijkbasiliek</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

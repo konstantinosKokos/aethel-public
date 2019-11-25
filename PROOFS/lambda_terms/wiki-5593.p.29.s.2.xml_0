@@ -1,0 +1,164 @@
+<semantics id="wiki-5593.p.29.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="16">nog</word>
+   </functor>
+   <argument>
+      <word id="17">steeds</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Hoewel</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">is</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="3">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">die</word>
+                     </functor>
+                     <argument>
+                        <word id="5">groeperingen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">de</word>
+                  </functor>
+                  <argument>
+                     <word id="2">invloed</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">officieel</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">sinds</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">laatste</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="7">de</word>
+                        </functor>
+                        <argument>
+                           <word id="9">partijhervormingen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="11">teruggedrongen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">vormen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">deze</word>
+            </functor>
+            <argument>
+               <word id="15">stromingen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="21">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="22">de</word>
+               </functor>
+               <argument>
+                  <word id="23">partij</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">belangrijkste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">de</word>
+               </functor>
+               <argument>
+                  <word id="20">basis</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

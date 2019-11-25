@@ -1,0 +1,150 @@
+<semantics id="wiki-5594.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="16">een</word>
+      </functor>
+      <argument>
+         <word id="17">kartel</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="19">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="20">de</word>
+         </functor>
+         <argument>
+            <word id="21">VLD</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">mede</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">vanwege</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="14">van</word>
+                        </functor>
+                        <argument>
+                           <word id="15">5%</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">de</word>
+                        </functor>
+                        <argument>
+                           <word id="13">kiesdrempel</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">de</word>
+                  </functor>
+                  <argument>
+                     <word id="10">invoering</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="3">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">2004</word>
+                     </functor>
+                     <argument>
+                        <word id="4">juni</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">de</word>
+                  </functor>
+                  <argument>
+                     <word id="2">verkiezingen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="18">gevormd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

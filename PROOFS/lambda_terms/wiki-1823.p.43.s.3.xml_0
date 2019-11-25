@@ -1,0 +1,52 @@
+<semantics id="wiki-1823.p.43.s.3.xml_0">
+<appl>
+<functor>
+   <word id="5">nu</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">levensbeschouwelijke</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">tweede</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="3">overtuiging</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">de</word>
+      </functor>
+      <argument>
+         <word id="7">vrijzinnigheid</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

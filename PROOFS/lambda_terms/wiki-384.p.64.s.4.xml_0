@@ -1,0 +1,122 @@
+<semantics id="wiki-384.p.64.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">kabinet-Den Uyl</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="2">van</word>
+                     </functor>
+                     <argument>
+                        <word id="3">Buitenlandse Zaken</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="1">staatssecretaris</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">kabinet-Kok II</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">van</word>
+                  </functor>
+                  <argument>
+                     <word id="7">Landbouw , Natuurbeheer en Visserij</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="5">minister</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">kabinet-Balkenende II</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">van</word>
+               </functor>
+               <argument>
+                  <word id="12">Economische Zaken</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="10">minister</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="16">tevens</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">vanaf</word>
+            </functor>
+            <argument>
+               <word id="15">30 maart 2005</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="17">vice-premier</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Laurens Jan Brinkhorst</word>
+</argument>
+</appl>
+</semantics>

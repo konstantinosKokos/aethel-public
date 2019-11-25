@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000008.p.42.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">terzake</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">omzendbrief</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">eveneens</word>
+   </functor>
+   <argument>
+      <word id="5">goedgekeurd</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

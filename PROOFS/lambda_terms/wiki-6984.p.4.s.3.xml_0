@@ -1,0 +1,171 @@
+<semantics id="wiki-6984.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">is</word>
+         </functor>
+         <argument>
+            <word id="0">Hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">fractievoorzitter</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">een</word>
+         </functor>
+         <argument>
+            <word id="13">tweemansfractie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">onder</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">zijn</word>
+            </functor>
+            <argument>
+               <word id="6">leiding</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">groeide</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">het</word>
+                  </functor>
+                  <argument>
+                     <word id="9">Vlaams Blok</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">tot</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="22">met</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="23">18</word>
+                        </functor>
+                        <argument>
+                           <word id="24">leden</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="20">Vlaamse</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="16">op</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="17">drie</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="18">na</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="19">grootste</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="15">de</word>
+                           </functor>
+                           <argument>
+                              <word id="21">fractie</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="10">uit</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

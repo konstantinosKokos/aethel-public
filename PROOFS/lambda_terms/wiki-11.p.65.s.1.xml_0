@@ -1,0 +1,173 @@
+<semantics id="wiki-11.p.65.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">zal</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">komende</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Het</word>
+         </functor>
+         <argument>
+            <word id="2">college</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">vanaf</word>
+      </functor>
+      <argument>
+         <word id="10">2007</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">buiten</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">sp.a</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">Patrick Janssens</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">de</word>
+                  </functor>
+                  <argument>
+                     <word id="6">burgemeester</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="15">tellen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="16">waarvan</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <var id="0" debruijn="1"></var>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="21">en</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="18">sp.a</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="17">4</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="20">CD&amp;V</word>
+                              </functor>
+                              <argument>
+                                 <word id="19">2</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="23">VLD</word>
+                           </functor>
+                           <argument>
+                              <word id="22">2</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">maar</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">nog</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">8</word>
+                     </functor>
+                     <argument>
+                        <word id="14">schepenen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

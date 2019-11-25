@@ -1,0 +1,94 @@
+<semantics id="wiki-5.p.37.s.6.xml_1">
+<appl>
+<functor>
+   <word id="9">alweer</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">en</word>
+               </functor>
+               <argument>
+                  <word id="5">Vlaanderen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">Brussel</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">Europa</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">in</word>
+            </functor>
+            <argument>
+               <word id="1">2004</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">staan</word>
+               </functor>
+               <argument>
+                  <word id="10">verkiezingen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">het</word>
+                  </functor>
+                  <argument>
+                     <word id="13">programma</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

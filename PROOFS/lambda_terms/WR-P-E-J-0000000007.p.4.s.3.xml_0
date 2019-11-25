@@ -1,0 +1,87 @@
+<semantics id="WR-P-E-J-0000000007.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <word id="3">hiervoor</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">hebben</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">steenbakkers</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">leem</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">kubieke</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="8">ca</word>
+                     </functor>
+                     <argument>
+                        <word id="9">475.000</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="11">meter</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">jaarlijkse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">een</word>
+            </functor>
+            <argument>
+               <word id="6">behoefte</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

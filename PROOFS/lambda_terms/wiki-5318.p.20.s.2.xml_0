@@ -1,0 +1,150 @@
+<semantics id="wiki-5318.p.20.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">bliezen</word>
+         </functor>
+         <argument>
+            <word id="0">Trompetten</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="3">aanval</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="15">tegen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="18">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">de</word>
+                  </functor>
+                  <argument>
+                     <word id="20">Mont-Saint-Jean</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">de</word>
+               </functor>
+               <argument>
+                  <word id="17">glooiing</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="21">op</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">dwars</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">door</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="8">modder</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">galoppeerden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">het</word>
+                  </functor>
+                  <argument>
+                     <word id="14">centrum</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">zijn</word>
+               </functor>
+               <argument>
+                  <word id="11">ruiters</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,152 @@
+<semantics id="wiki-887.p.18.s.8.xml_0">
+<appl>
+<functor>
+   <word id="0">Bovendien</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">is</word>
+      </functor>
+      <argument>
+         <word id="2">ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">die</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="19">kan</word>
+                  </functor>
+                  <argument>
+                     <var id="0" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">met</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="15">lage</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="14">zo'n</word>
+                           </functor>
+                           <argument>
+                              <word id="16">ranking</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="20">winnen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="17">een</word>
+                        </functor>
+                        <argument>
+                           <word id="18">Tier I-toernooi</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">uit</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">het</word>
+                     </functor>
+                     <argument>
+                        <word id="11">vrouwentennis</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">de</word>
+                  </functor>
+                  <argument>
+                     <word id="8">geschiedenis</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">eerste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="5">speelster</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

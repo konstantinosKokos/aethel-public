@@ -1,0 +1,38 @@
+<semantics id="wiki-832.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">was</word>
+   </functor>
+   <argument>
+      <word id="0">James Ensor</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">Vlaams</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">Belgisch</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">een</word>
+         </functor>
+         <argument>
+            <word id="5">kunstschilder</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,38 @@
+<semantics id="wiki-154.p.66.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">voor</word>
+   </functor>
+   <argument>
+      <word id="5">Brussel</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">en</word>
+      </functor>
+      <argument>
+         <word id="0">Cultuuragenda</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">online</word>
+      </functor>
+      <argument>
+         <word id="3">stadsgids</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

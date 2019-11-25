@@ -1,0 +1,101 @@
+<semantics id="wiki-208.p.101.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Bij</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <word id="4">13 juni 1999</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">de</word>
+         </functor>
+         <argument>
+            <word id="2">parlementsverkiezingen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">leden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">de</word>
+         </functor>
+         <argument>
+            <word id="7">regeringspartijen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">ten gevolge van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">zogenaamde</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">de</word>
+               </functor>
+               <argument>
+                  <word id="14">dioxinecrisis</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">grote</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">een</word>
+            </functor>
+            <argument>
+               <word id="10">nederlaag</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

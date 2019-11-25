@@ -1,0 +1,122 @@
+<semantics id="wiki-1327.p.2.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <word id="0">Ze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">ten oosten van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">Oost-Vlaanderen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">de</word>
+                     </functor>
+                     <argument>
+                        <word id="7">provincie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">ten noorden van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">Vlaams-Brabant</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">de</word>
+                  </functor>
+                  <argument>
+                     <word id="11">provincie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">ten westen van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">Limburg</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">de</word>
+               </functor>
+               <argument>
+                  <word id="16">provincie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">gelegen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">in</word>
+         </functor>
+         <argument>
+            <word id="4">Vlaanderen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,122 @@
+<semantics id="wiki-384.p.21.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">is</word>
+         </functor>
+         <argument>
+            <word id="0">Dit</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">een</word>
+         </functor>
+         <argument>
+            <word id="3">tweeslag</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">heeft</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">de</word>
+         </functor>
+         <argument>
+            <word id="6">nadruk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">lange</word>
+         </functor>
+         <argument>
+            <word id="9">tijd</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">gelegen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">op</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="16">staatsrechtelijke</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">de</word>
+                     </functor>
+                     <argument>
+                        <word id="17">vernieuwing</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">laatste</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">de</word>
+                     </functor>
+                     <argument>
+                        <word id="14">component</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

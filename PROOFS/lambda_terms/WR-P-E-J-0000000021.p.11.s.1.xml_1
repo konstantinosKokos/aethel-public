@@ -1,0 +1,59 @@
+<semantics id="WR-P-E-J-0000000021.p.11.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">met</word>
+         </functor>
+         <argument>
+            <word id="8">Noord-Frankrijk</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">de</word>
+         </functor>
+         <argument>
+            <word id="6">samenwerking</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">strategische</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Vlaamse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">de</word>
+         </functor>
+         <argument>
+            <word id="3">visie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

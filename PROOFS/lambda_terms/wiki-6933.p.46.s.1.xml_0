@@ -1,0 +1,66 @@
+<semantics id="wiki-6933.p.46.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">hebben</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">Saksen-Coburgers</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">Habsburgse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">het</word>
+            </functor>
+            <argument>
+               <word id="9">Huis</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">speciale</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">een</word>
+         </functor>
+         <argument>
+            <word id="5">familieband</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

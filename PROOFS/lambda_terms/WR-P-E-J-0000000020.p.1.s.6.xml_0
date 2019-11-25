@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000020.p.1.s.6.xml_0">
+<appl>
+<functor>
+   <word id="0">Als</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">wil</word>
+      </functor>
+      <argument>
+         <word id="1">Europa</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">hebben</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">een</word>
+         </functor>
+         <argument>
+            <word id="3">toekomst</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

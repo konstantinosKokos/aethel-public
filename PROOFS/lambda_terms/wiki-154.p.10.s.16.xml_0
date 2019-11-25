@@ -1,0 +1,136 @@
+<semantics id="wiki-154.p.10.s.16.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">betrokken</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">de</word>
+         </functor>
+         <argument>
+            <word id="14">gemeente</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Eenmaal</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">daarbij</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">raakten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="5">en</word>
+                        </functor>
+                        <argument>
+                           <word id="4">Franstaligen</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="6">tweetaligen</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="2">het</word>
+                     </functor>
+                     <argument>
+                        <word id="3">aantal</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">boven</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">bepaalde</word>
+                  </functor>
+                  <argument>
+                     <word id="9">grenzen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="19">gevoegd</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="15">bij</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">hoofdstedelijke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">het</word>
+               </functor>
+               <argument>
+                  <word id="18">gebied</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

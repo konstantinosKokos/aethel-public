@@ -1,0 +1,24 @@
+<semantics id="wiki-1808.p.16.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">van</word>
+   </functor>
+   <argument>
+      <word id="3">2004</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">De</word>
+   </functor>
+   <argument>
+      <word id="1">verkiezingen</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

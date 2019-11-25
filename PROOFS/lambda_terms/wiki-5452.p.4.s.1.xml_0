@@ -1,0 +1,157 @@
+<semantics id="wiki-5452.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="13">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="16">solfège</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">het</word>
+         </functor>
+         <argument>
+            <word id="15">begrip</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="18">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="20">bredere</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">een</word>
+            </functor>
+            <argument>
+               <word id="21">context</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="17">inmiddels</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="0">In</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">conservatoria</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="2">professioneel</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="1">het</word>
+                           </functor>
+                           <argument>
+                              <word id="3">muziekonderwijs</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="10">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="11">de</word>
+                        </functor>
+                        <argument>
+                           <word id="12">muziekscholen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">hogere</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="7">de</word>
+                        </functor>
+                        <argument>
+                           <word id="9">graad</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="22">gebruikt</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

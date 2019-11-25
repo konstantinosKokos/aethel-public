@@ -1,0 +1,52 @@
+<semantics id="wiki-887.p.18.s.12.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Door</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">haar</word>
+      </functor>
+      <argument>
+         <word id="2">winst</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">komt</word>
+         </functor>
+         <argument>
+            <word id="4">Clijsters</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">de</word>
+         </functor>
+         <argument>
+            <word id="6">top-20</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">binnen</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,52 @@
+<semantics id="wiki-8628.p.14.s.5.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">weinig</word>
+            </functor>
+            <argument>
+               <word id="4">smaak</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">nauwelijks</word>
+         </functor>
+         <argument>
+            <word id="7">koolzuur</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">een</word>
+   </functor>
+   <argument>
+      <word id="1">tussenproduct</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

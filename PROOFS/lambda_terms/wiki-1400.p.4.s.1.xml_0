@@ -1,0 +1,185 @@
+<semantics id="wiki-1400.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="15">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">in</word>
+            </functor>
+            <argument>
+               <word id="14">1896</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="12">voor het eerst</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">organiseerden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="3">en</word>
+                     </functor>
+                     <argument>
+                        <word id="2">Theo Vienne</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="4">Maurice Perez</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="0">De</word>
+                  </functor>
+                  <argument>
+                     <word id="1">textielfabrikanten</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">de</word>
+                  </functor>
+                  <argument>
+                     <word id="11">wielersport</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">grote</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">deze</word>
+                  </functor>
+                  <argument>
+                     <word id="8">klassieker</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="20">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="24">elk</word>
+            </functor>
+            <argument>
+               <word id="25">jaar</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="23">sindsdien</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="21">de</word>
+               </functor>
+               <argument>
+                  <word id="22">wedstrijd</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="16">met uitzondering van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">beide</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">de</word>
+               </functor>
+               <argument>
+                  <word id="19">wereldoorlogen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="26">verreden</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

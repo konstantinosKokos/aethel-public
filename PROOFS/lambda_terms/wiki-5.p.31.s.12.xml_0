@@ -1,0 +1,80 @@
+<semantics id="wiki-5.p.31.s.12.xml_0">
+<appl>
+<functor>
+   <word id="8">mee</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">staan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="1">uit</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="4">uit</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="5">het</word>
+                        </functor>
+                        <argument>
+                           <word id="6">middenveld</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="2">allerlei</word>
+                     </functor>
+                     <argument>
+                        <word id="3">organisaties</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="0">Leden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">van</word>
+         </functor>
+         <argument>
+            <word id="11">Anders Gaan Leven</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="9">aan de wieg</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

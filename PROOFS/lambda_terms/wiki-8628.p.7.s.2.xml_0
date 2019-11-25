@@ -1,0 +1,87 @@
+<semantics id="wiki-8628.p.7.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">gaat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">gerst</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">groeit</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">een</word>
+               </functor>
+               <argument>
+                  <word id="11">worteltje</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="12">uit</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">lente-achtige</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">deze</word>
+               </functor>
+               <argument>
+                  <word id="6">omstandigheden</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="7">ontkiemen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,94 @@
+<semantics id="WR-P-E-J-0000000020.p.7.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">wetgevende</word>
+            </functor>
+            <argument>
+               <word id="9">bevoegdheden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="6">deelstaten</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">moeten</word>
+      </functor>
+      <argument>
+         <word id="4">we</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="12">kunnen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">gebundelde</word>
+               </functor>
+               <argument>
+                  <word id="2">krachten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">spelen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">een</word>
+               </functor>
+               <argument>
+                  <word id="11">voortrekkersrol</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

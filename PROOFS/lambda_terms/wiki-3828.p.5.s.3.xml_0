@@ -1,0 +1,73 @@
+<semantics id="wiki-3828.p.5.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">is</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">nieuwe</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">een</word>
+               </functor>
+               <argument>
+                  <word id="3">reeks</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">afgelopen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">herhaalt</word>
+      </functor>
+      <argument>
+         <word id="7">men</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">vorige</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">de</word>
+         </functor>
+         <argument>
+            <word id="10">reeksen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

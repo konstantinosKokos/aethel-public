@@ -1,0 +1,108 @@
+<semantics id="wiki-295.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">wordt</word>
+   </functor>
+   <argument>
+      <word id="7">Permeke</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Wanneer</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">in</word>
+            </functor>
+            <argument>
+               <word id="2">1914</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">uitbreekt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="4">Eerste Wereldoorlog</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">en</word>
+         </functor>
+         <argument>
+            <word id="8">opgeroepen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">bij</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">van</word>
+                  </functor>
+                  <argument>
+                     <word id="15">Antwerpen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">de</word>
+                  </functor>
+                  <argument>
+                     <word id="13">verdediging</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="10">ingezet</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,101 @@
+<semantics id="WR-P-E-J-0000000006.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">bestaande</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">de</word>
+         </functor>
+         <argument>
+            <word id="10">gewestplannen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">door</word>
+      </functor>
+      <argument>
+         <word id="12">niemand</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">de</word>
+                  </functor>
+                  <argument>
+                     <word id="6">landbouwgebieden</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">groot</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">een</word>
+                  </functor>
+                  <argument>
+                     <word id="3">deel</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">gesteld</word>
+         </functor>
+         <argument>
+            <word id="13">in vraag</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

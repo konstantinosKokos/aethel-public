@@ -1,0 +1,150 @@
+<semantics id="wiki-208.p.16.s.2.xml_0">
+<appl>
+<functor>
+   <word id="7">opeens</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Boven</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">de</word>
+               </functor>
+               <argument>
+                  <word id="5">plattelandswoningen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">daken</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">torenden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">zoals</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="17">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="15">van</word>
+                        </functor>
+                        <argument>
+                           <word id="16">Nijvel</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="13">de</word>
+                        </functor>
+                        <argument>
+                           <word id="14">Sint-Gertrudis-Kerk</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="20">te</word>
+                     </functor>
+                     <argument>
+                        <word id="21">Gent</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">de</word>
+                     </functor>
+                     <argument>
+                        <word id="19">Sint-Baafs en Sint-Pieters</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">grote</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="10">en</word>
+                  </functor>
+                  <argument>
+                     <word id="9">kerken</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="11">basilieken</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

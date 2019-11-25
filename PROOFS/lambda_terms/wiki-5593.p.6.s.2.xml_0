@@ -1,0 +1,80 @@
+<semantics id="wiki-5593.p.6.s.2.xml_0">
+<appl>
+<functor>
+   <word id="8">meteen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Bij</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">van</word>
+            </functor>
+            <argument>
+               <word id="4">1946</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">verkiezingen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">was</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="7">CVP</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">grootste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">de</word>
+            </functor>
+            <argument>
+               <word id="11">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

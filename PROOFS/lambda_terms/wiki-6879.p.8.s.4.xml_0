@@ -1,0 +1,129 @@
+<semantics id="wiki-6879.p.8.s.4.xml_0">
+<appl>
+<functor>
+   <word id="5">niet</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">dan</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Vanzelfsprekend</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="1">wou</word>
+               </functor>
+               <argument>
+                  <word id="2">hij</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">dat</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">uitlekte</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">dat</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="11">met</word>
+                           </functor>
+                           <argument>
+                              <word id="12">Lilian</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">regelmatig</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="18">verbleef</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="9">hij</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="13">in</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <word id="16">in</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="17">Knokke</word>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="14">zijn</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="15">villa</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,122 @@
+<semantics id="wiki-5.p.31.s.31.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Die</word>
+      </functor>
+      <argument>
+         <word id="1">trend</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">en</word>
+                  </functor>
+                  <argument>
+                     <word id="6">vrijwillig</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">eerder</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">dan</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="11">klassieke</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">de</word>
+                           </functor>
+                           <argument>
+                              <word id="12">partijen</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="17">passen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">het</word>
+                     </functor>
+                     <argument>
+                        <word id="14">ritssysteem</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="15">toe</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">verder</word>
+      </functor>
+      <argument>
+         <word id="4">gezet</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

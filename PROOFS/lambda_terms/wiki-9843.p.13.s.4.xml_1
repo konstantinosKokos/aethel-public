@@ -1,0 +1,66 @@
+<semantics id="wiki-9843.p.13.s.4.xml_1">
+<appl>
+<functor>
+   <word id="6">zelf</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">allemaal</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">hadden</word>
+         </functor>
+         <argument>
+            <word id="0">we</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="4">oorlog</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">meegemaakt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">genoeg</word>
+               </functor>
+               <argument>
+                  <word id="7">romans</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

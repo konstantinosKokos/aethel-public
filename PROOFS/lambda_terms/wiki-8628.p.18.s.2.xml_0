@@ -1,0 +1,73 @@
+<semantics id="wiki-8628.p.18.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">vallen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">gebruikte</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="2">gisten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">en</word>
+               </functor>
+               <argument>
+                  <word id="8">bovengist</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="10">ondergist</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">twee</word>
+            </functor>
+            <argument>
+               <word id="6">hoofdgroepen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="7">uiteen</word>
+</argument>
+</appl>
+</semantics>

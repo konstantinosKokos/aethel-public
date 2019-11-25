@@ -1,0 +1,59 @@
+<semantics id="WR-P-E-J-0000000025.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <word id="6">hiervoor</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Op</word>
+      </functor>
+      <argument>
+         <word id="1">6 maart 1998</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">ondertekenden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">en</word>
+               </functor>
+               <argument>
+                  <word id="3">Vlaanderen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="5">UNESCO</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">een</word>
+         </functor>
+         <argument>
+            <word id="8">samenwerkingsovereenkomst</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

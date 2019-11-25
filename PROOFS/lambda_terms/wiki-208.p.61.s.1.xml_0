@@ -1,0 +1,108 @@
+<semantics id="wiki-208.p.61.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Na</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">de</word>
+      </functor>
+      <argument>
+         <word id="2">onafhankelijkheid</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">kwam</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">het</word>
+         </functor>
+         <argument>
+            <word id="5">Unionisme</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">onder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">druk</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="10">door</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">levensbeschouwelijke</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="12">weer</word>
+                           </functor>
+                           <argument>
+                              <word id="13">opspelende</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="11">de</word>
+                           </functor>
+                           <argument>
+                              <word id="15">tegenstellingen</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="9">staan</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

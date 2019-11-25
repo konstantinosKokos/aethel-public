@@ -1,0 +1,150 @@
+<semantics id="wiki-3745.p.29.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">zal</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">binnen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">de</word>
+            </functor>
+            <argument>
+               <word id="9">Euregio</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">centrale</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">uitgelezen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="6">ligging</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="11">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">via</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="15">met</word>
+                  </functor>
+                  <argument>
+                     <word id="16">steden</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">als</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="20">en</word>
+                           </functor>
+                           <argument>
+                              <word id="18">Maastricht</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="19">Aken</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="21">Luik</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">de</word>
+               </functor>
+               <argument>
+                  <word id="14">uitwisseling</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">ook</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Daarnaast</word>
+            </functor>
+            <argument>
+               <word id="10">benut</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

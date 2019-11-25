@@ -1,0 +1,45 @@
+<semantics id="wiki-3745.p.41.s.3.xml_0">
+<appl>
+<functor>
+   <word id="4">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Aan</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">het</word>
+         </functor>
+         <argument>
+            <word id="2">station</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">vertrekken</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">alle</word>
+         </functor>
+         <argument>
+            <word id="6">bussen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

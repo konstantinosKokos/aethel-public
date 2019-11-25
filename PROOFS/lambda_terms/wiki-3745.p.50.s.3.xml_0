@@ -1,0 +1,157 @@
+<semantics id="wiki-3745.p.50.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">elektrische</word>
+      </functor>
+      <argument>
+         <word id="6">sneltreintrammen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="22">Spartacus-plan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">om</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">te</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="21">optimaliseren</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="16">in</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="18">en</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="17">Limburg</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="19">Hasselt</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="14">openbaar</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="13">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="15">vervoer</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="10">in</word>
+                  </functor>
+                  <argument>
+                     <word id="11">Hasselt</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="9">centrum</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">in</word>
+            </functor>
+            <argument>
+               <word id="4">Limburg</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">er</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Verder</word>
+               </functor>
+               <argument>
+                  <word id="7">gepland</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

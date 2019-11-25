@@ -1,0 +1,94 @@
+<semantics id="WR-P-E-J-0000000004.p.1.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">heeft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">Vlaamse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="4">Regering</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">Frank VANDENBROUCKE</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="11">van</word>
+                     </functor>
+                     <argument>
+                        <word id="12">Onderwijs</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="10">minister</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">voorstel</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">vandaag</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">beslist</word>
+         </functor>
+         <argument>
+            <word id="0">Dat</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

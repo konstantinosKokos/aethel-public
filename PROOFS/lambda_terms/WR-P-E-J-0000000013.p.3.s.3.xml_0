@@ -1,0 +1,73 @@
+<semantics id="WR-P-E-J-0000000013.p.3.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">onze</word>
+      </functor>
+      <argument>
+         <word id="9">waterlopen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">ongezuiverd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">die</word>
+            </functor>
+            <argument>
+               <word id="2">manier</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">komt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">het</word>
+               </functor>
+               <argument>
+                  <word id="5">afvalwater</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="10">terecht</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

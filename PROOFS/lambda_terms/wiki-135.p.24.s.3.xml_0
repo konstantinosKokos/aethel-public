@@ -1,0 +1,150 @@
+<semantics id="wiki-135.p.24.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">der</word>
+         </functor>
+         <argument>
+            <word id="4">katholieken</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">wekelijkse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Het</word>
+            </functor>
+            <argument>
+               <word id="2">kerkbezoek</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">anno</word>
+      </functor>
+      <argument>
+         <word id="7">2004</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">gedaald</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">tot</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">onder</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">10</word>
+                     </functor>
+                     <argument>
+                        <word id="12">percent</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">zelfs</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">volgens</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">sommige</word>
+                     </functor>
+                     <argument>
+                        <word id="16">bronnen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="18">tot</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="19">onder</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="20">5</word>
+                        </functor>
+                        <argument>
+                           <word id="21">procent</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

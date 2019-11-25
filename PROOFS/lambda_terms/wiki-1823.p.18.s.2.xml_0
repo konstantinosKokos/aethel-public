@@ -1,0 +1,101 @@
+<semantics id="wiki-1823.p.18.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">moet</word>
+   </functor>
+   <argument>
+      <word id="6">het</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">echter</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">deze</word>
+                  </functor>
+                  <argument>
+                     <word id="4">bevoegdheden</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="1">vele</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">delen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">de</word>
+               </functor>
+               <argument>
+                  <word id="9">bevoegdheid</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">Belgische</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">de</word>
+                  </functor>
+                  <argument>
+                     <word id="14">regering</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

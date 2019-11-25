@@ -1,0 +1,73 @@
+<semantics id="wiki-888.p.3.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">doen</word>
+         </functor>
+         <argument>
+            <word id="8">verslag</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Ook</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">in</word>
+         </functor>
+         <argument>
+            <word id="2">Kuifje in Amerika</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">gaat</word>
+         </functor>
+         <argument>
+            <word id="4">Kuifje</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">op</word>
+         </functor>
+         <argument>
+            <word id="6">avontuur</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

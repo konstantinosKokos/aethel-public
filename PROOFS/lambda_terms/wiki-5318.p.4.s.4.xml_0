@@ -1,0 +1,157 @@
+<semantics id="wiki-5318.p.4.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Op</word>
+         </functor>
+         <argument>
+            <word id="1">26 februari 1815</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">ontsnapte</word>
+            </functor>
+            <argument>
+               <word id="3">hij</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">het</word>
+               </functor>
+               <argument>
+                  <word id="6">eiland</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="12">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">800</word>
+               </functor>
+               <argument>
+                  <word id="17">man</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">een</word>
+            </functor>
+            <argument>
+               <word id="14">legertje</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">op</word>
+         </functor>
+         <argument>
+            <word id="9">1 maart</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">arriveerde</word>
+            </functor>
+            <argument>
+               <word id="11">hij</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="22">Cannes</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">Franse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="19">de</word>
+                     </functor>
+                     <argument>
+                        <word id="21">havenstad</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

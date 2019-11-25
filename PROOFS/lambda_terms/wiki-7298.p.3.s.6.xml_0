@@ -1,0 +1,66 @@
+<semantics id="wiki-7298.p.3.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">privé-onderneming</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">uitgegroeid</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">tot</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">met</word>
+            </functor>
+            <argument>
+               <word id="9">wereldfaam</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">middelgrote</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">een</word>
+               </functor>
+               <argument>
+                  <word id="7">werf</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

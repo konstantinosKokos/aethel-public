@@ -1,0 +1,45 @@
+<semantics id="WR-P-E-J-0000000030.p.20.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="6">Chinezen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">toeristische</word>
+         </functor>
+         <argument>
+            <word id="3">bestemming</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Vlaanderen</word>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,129 @@
+<semantics id="wiki-832.p.23.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">Les vingt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">nieuwe</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">revolterende</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">een</word>
+                     </functor>
+                     <argument>
+                        <word id="17">kunstenaarsgroep</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">geestdriftig</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="11">en</word>
+                     </functor>
+                     <argument>
+                        <word id="8">organisator</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="9">mecenas</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="10">spreekbuis</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="12">bezieler</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">ontpopte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">Octave Maus</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">Brusselse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="2">jurist</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="5">zich</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

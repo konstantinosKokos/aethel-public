@@ -1,0 +1,59 @@
+<semantics id="wiki-1823.p.39.s.4.xml_0">
+<appl>
+<functor>
+   <word id="8">structureel</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">decennia</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">laatste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="2">jaren</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">stagneert</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">Vlaamse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="7">economie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

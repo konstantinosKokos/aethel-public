@@ -1,0 +1,129 @@
+<semantics id="wiki-887.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <word id="0">Kim Clijsters</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">het</word>
+               </functor>
+               <argument>
+                  <word id="8">enkelspel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">1</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">voormalig</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">een</word>
+                  </functor>
+                  <argument>
+                     <word id="4">nr.</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="18">1998</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="15">bij</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="16">de</word>
+                     </functor>
+                     <argument>
+                        <word id="17">juniores</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">het</word>
+                  </functor>
+                  <argument>
+                     <word id="14">dubbelspel</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">4</word>
+            </functor>
+            <argument>
+               <word id="10">nr.</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

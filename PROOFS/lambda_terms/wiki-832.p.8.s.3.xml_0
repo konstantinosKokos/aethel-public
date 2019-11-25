@@ -1,0 +1,73 @@
+<semantics id="wiki-832.p.8.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">toen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">was</word>
+         </functor>
+         <argument>
+            <word id="3">Ensor</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">32</word>
+         </functor>
+         <argument>
+            <word id="5">jaar</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">trouwde</word>
+      </functor>
+      <argument>
+         <word id="0">Ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">Chinees</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">een</word>
+            </functor>
+            <argument>
+               <word id="10">handelaar</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

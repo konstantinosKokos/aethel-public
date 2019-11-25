@@ -1,0 +1,94 @@
+<semantics id="wiki-7543.p.20.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">herbergt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Het</word>
+      </functor>
+      <argument>
+         <word id="1">stadhuis</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="8">en</word>
+                     </functor>
+                     <argument>
+                        <word id="7">Oudenaardse</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="9">Europese</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="10">zilverwerken</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">een</word>
+               </functor>
+               <argument>
+                  <word id="6">collectie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">de</word>
+         </functor>
+         <argument>
+            <word id="13">Stedelijke Collectie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">het</word>
+      </functor>
+      <argument>
+         <word id="4">Wandtapijtenmuseum</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

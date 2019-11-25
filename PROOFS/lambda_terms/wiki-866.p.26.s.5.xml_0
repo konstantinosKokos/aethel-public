@@ -1,0 +1,73 @@
+<semantics id="wiki-866.p.26.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Na</word>
+   </functor>
+   <argument>
+      <word id="1">Parijs</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">neemt</word>
+      </functor>
+      <argument>
+         <word id="3">ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">beslissing</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">om</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">laten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">verzorgen</word>
+                  </functor>
+                  <argument>
+                     <word id="7">zich</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

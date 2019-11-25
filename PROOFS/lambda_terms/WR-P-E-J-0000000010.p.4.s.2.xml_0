@@ -1,0 +1,122 @@
+<semantics id="WR-P-E-J-0000000010.p.4.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="14">tot</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">bij</word>
+      </functor>
+      <argument>
+         <word id="16">ons</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">heel</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">maar</word>
+               </functor>
+               <argument>
+                  <word id="11">traag</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="13">onvolledig</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">in vergelijking met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">Tsunami-ramp</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">sijpelden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">de</word>
+                     </functor>
+                     <argument>
+                        <word id="5">berichten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">de</word>
+                  </functor>
+                  <argument>
+                     <word id="8">beelden</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="17">door</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

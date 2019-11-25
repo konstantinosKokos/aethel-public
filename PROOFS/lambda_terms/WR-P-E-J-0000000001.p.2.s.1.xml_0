@@ -1,0 +1,143 @@
+<semantics id="WR-P-E-J-0000000001.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="16">om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="19">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="20">starten</word>
+            </functor>
+            <argument>
+               <word id="17">noodhulpacties</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="18">op</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">door</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">de</word>
+                  </functor>
+                  <argument>
+                     <word id="13">aardbeving</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">getroffen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">het</word>
+            </functor>
+            <argument>
+               <word id="15">gebied</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">waren</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">betrokken</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="2">NGO's</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">eerste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">het</word>
+                  </functor>
+                  <argument>
+                     <word id="7">uur</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">actief</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

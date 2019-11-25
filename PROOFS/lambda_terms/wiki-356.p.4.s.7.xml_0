@@ -1,0 +1,94 @@
+<semantics id="wiki-356.p.4.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">uit</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">twee</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">vorige</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">haar</word>
+               </functor>
+               <argument>
+                  <word id="13">huwelijken</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">van</word>
+         </functor>
+         <argument>
+            <word id="8">Edit Fintor</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">drie</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="6">dochters</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">en</word>
+         </functor>
+         <argument>
+            <word id="0">Andrea</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="1">Timea</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">Tünde</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

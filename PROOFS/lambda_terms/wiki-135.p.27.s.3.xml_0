@@ -1,0 +1,108 @@
+<semantics id="wiki-135.p.27.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">werd</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Meteen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">geopteerd</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">voor</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">constitutionele</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">een</word>
+                     </functor>
+                     <argument>
+                        <word id="6">monarchie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">indertijd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">was</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">de</word>
+            </functor>
+            <argument>
+               <word id="11">grondwet</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">ter</word>
+            </functor>
+            <argument>
+               <word id="15">wereld</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">de</word>
+            </functor>
+            <argument>
+               <word id="13">liberaalste</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

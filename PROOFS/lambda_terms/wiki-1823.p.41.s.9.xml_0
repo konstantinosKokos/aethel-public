@@ -1,0 +1,52 @@
+<semantics id="wiki-1823.p.41.s.9.xml_0">
+<appl>
+<functor>
+   <word id="2">daar</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">droegen</word>
+         </functor>
+         <argument>
+            <word id="0">Ze</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">tot</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">zogenaamde</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">de</word>
+               </functor>
+               <argument>
+                  <word id="7">Hollandse Gouden Eeuw</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">bij</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

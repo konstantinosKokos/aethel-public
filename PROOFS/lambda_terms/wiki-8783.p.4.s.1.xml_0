@@ -1,0 +1,73 @@
+<semantics id="wiki-8783.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">haalde</word>
+   </functor>
+   <argument>
+      <word id="0">Hij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">en</word>
+               </functor>
+               <argument>
+                  <word id="6">1962</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="7">1967</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">1969</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="10">1972</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">cross-country</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">internationale</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">vier</word>
+            </functor>
+            <argument>
+               <word id="5">titels</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

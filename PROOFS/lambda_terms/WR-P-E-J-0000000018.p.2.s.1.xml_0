@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000018.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Vlaamse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">de</word>
+         </functor>
+         <argument>
+            <word id="2">Gemeenschap</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">het</word>
+   </functor>
+   <argument>
+      <word id="5">Vlaamse Gewest</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

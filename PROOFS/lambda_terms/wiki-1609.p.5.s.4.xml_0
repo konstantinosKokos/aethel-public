@@ -1,0 +1,52 @@
+<semantics id="wiki-1609.p.5.s.4.xml_0">
+<appl>
+<functor>
+   <word id="5">hierbij</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">waren</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">en</word>
+               </functor>
+               <argument>
+                  <word id="0">Theodore Baron</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="1">Isidoor Meyers</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">Franz Courtens</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">opvallende</word>
+      </functor>
+      <argument>
+         <word id="7">figuren</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

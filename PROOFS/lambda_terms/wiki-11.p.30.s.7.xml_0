@@ -1,0 +1,75 @@
+<semantics id="wiki-11.p.30.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">waar</word>
+   </functor>
+   <argument>
+      <lambda varid="0">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">is</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">de</word>
+                     </functor>
+                     <argument>
+                        <word id="7">Universiteit Antwerpen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">een</word>
+                  </functor>
+                  <argument>
+                     <word id="4">campus</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">gevestigd</word>
+            </functor>
+            <argument>
+               <var id="0" debruijn="1"></var>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Het</word>
+   </functor>
+   <argument>
+      <word id="1">Hof van Liere</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

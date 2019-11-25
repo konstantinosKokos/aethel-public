@@ -1,0 +1,101 @@
+<semantics id="WR-P-E-J-0000000029.p.9.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">kunnen</word>
+   </functor>
+   <argument>
+      <word id="0">Gemeenten</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">tot</word>
+      </functor>
+      <argument>
+         <word id="4">10 januari 2006</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">stellen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">voor</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">volgend</word>
+                     </functor>
+                     <argument>
+                        <word id="14">schooljaar</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="10">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="11">een</word>
+                           </functor>
+                           <argument>
+                              <word id="12">pilootproject</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">het</word>
+                        </functor>
+                        <argument>
+                           <word id="9">starten</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="2">zich</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">kandidaat</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

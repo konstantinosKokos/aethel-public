@@ -1,0 +1,24 @@
+<semantics id="wiki-5.p.16.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">en</word>
+      </functor>
+      <argument>
+         <word id="1">leefmilieu</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">landbouw</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Vera Dua</word>
+</argument>
+</appl>
+</semantics>

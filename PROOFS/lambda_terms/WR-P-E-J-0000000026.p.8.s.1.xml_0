@@ -1,0 +1,24 @@
+<semantics id="WR-P-E-J-0000000026.p.8.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">van</word>
+      </functor>
+      <argument>
+         <word id="3">AWV</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">directeur-generaal</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Chris Caestecker</word>
+</argument>
+</appl>
+</semantics>

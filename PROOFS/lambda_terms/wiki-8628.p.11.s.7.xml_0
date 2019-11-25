@@ -1,0 +1,38 @@
+<semantics id="wiki-8628.p.11.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">heet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">vloeibare</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">resulterende</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Het</word>
+            </functor>
+            <argument>
+               <word id="3">product</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="5">wort</word>
+</argument>
+</appl>
+</semantics>

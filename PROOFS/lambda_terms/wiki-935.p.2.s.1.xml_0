@@ -1,0 +1,59 @@
+<semantics id="wiki-935.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">vaak</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">afgekort</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">tot</word>
+               </functor>
+               <argument>
+                  <word id="4">KBK</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">Kuurne-Brussel-Kuurne</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">Belgische</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">een</word>
+      </functor>
+      <argument>
+         <word id="8">wielerwedstrijd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

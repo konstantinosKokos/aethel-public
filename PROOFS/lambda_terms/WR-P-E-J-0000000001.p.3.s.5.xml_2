@@ -1,0 +1,24 @@
+<semantics id="WR-P-E-J-0000000001.p.3.s.5.xml_2">
+<appl>
+<functor>
+   <word id="2">duidelijk</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">is</word>
+      </functor>
+      <argument>
+         <word id="0">méér</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">nodig</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

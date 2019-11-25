@@ -1,0 +1,159 @@
+<semantics id="wiki-7064.p.49.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">moesten</word>
+   </functor>
+   <argument>
+      <word id="0">Ze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">achterhalen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">deze</word>
+                  </functor>
+                  <argument>
+                     <word id="8">affaire</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">ware</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">onder andere</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">de</word>
+                     </functor>
+                     <argument>
+                        <word id="5">toedracht</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">onderzoeken</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="16">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">wat</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">waren</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">de</word>
+                     </functor>
+                     <argument>
+                        <word id="14">defecten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">wie</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="21">was</word>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="19">verantwoordelijk</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="20">voor</word>
+                        </functor>
+                        <argument>
+                           <word id="18">daar</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

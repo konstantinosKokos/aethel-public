@@ -1,0 +1,45 @@
+<semantics id="wiki-1823.p.36.s.1.xml_0">
+<appl>
+<functor>
+   <word id="6">verschillen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">verenigingen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Ook</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">de</word>
+         </functor>
+         <argument>
+            <word id="2">doelen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

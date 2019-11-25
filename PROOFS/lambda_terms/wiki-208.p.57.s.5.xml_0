@@ -1,0 +1,59 @@
+<semantics id="wiki-208.p.57.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">op</word>
+   </functor>
+   <argument>
+      <word id="5">4 oktober 1830</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">riep</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">Voorlopig</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Het</word>
+               </functor>
+               <argument>
+                  <word id="2">Bewind</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">de</word>
+         </functor>
+         <argument>
+            <word id="7">onafhankelijkheid</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="8">uit</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

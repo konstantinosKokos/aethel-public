@@ -1,0 +1,24 @@
+<semantics id="wiki-3745.p.63.s.5.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">over</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">hun</word>
+      </functor>
+      <argument>
+         <word id="3">stad</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">stadsreporters</word>
+</argument>
+</appl>
+</semantics>

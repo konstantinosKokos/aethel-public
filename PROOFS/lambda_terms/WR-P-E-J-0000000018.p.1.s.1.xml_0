@@ -1,0 +1,213 @@
+<semantics id="WR-P-E-J-0000000018.p.1.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">heeft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">Vlaamse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">de</word>
+         </functor>
+         <argument>
+            <word id="15">Regering</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="16">vandaag</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="6">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <word id="10">en</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="7">Openbare Werken</word>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="8">Energie</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="9">Leefmilieu</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="11">Natuur</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">Vlaams</word>
+                        </functor>
+                        <argument>
+                           <word id="5">minister</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="3">Kris PEETERS</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="1">voorstel</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="19">gehecht</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">haar</word>
+               </functor>
+               <argument>
+                  <word id="18">goedkeuring</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="20">aan</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="28">over</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="29">de</word>
+                     </functor>
+                     <argument>
+                        <word id="30">Schelde</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="24">tussen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="26">en</word>
+                           </functor>
+                           <argument>
+                              <word id="25">Vlaanderen</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="27">Nederland</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="22">nieuwe</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="21">vier</word>
+                        </functor>
+                        <argument>
+                           <word id="23">verdragen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

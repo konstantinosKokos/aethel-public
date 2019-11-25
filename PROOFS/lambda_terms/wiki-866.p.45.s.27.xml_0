@@ -1,0 +1,157 @@
+<semantics id="wiki-866.p.45.s.27.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">finale</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">omdat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="16">na</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="20">door</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="21">de</word>
+                     </functor>
+                     <argument>
+                        <word id="22">baselinespelers</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="18">jarenlange</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">de</word>
+                     </functor>
+                     <argument>
+                        <word id="19">onderdrukking</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">groot</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">een</word>
+                     </functor>
+                     <argument>
+                        <word id="15">slagenarsenaal</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">ging</word>
+                  </functor>
+                  <argument>
+                     <word id="5">ze</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">tussen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="10">met</word>
+                        </functor>
+                        <argument>
+                           <word id="11">finesse</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">twee</word>
+                        </functor>
+                        <argument>
+                           <word id="9">spelers</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">opmerkelijk</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

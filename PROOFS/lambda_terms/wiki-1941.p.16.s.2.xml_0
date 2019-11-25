@@ -1,0 +1,45 @@
+<semantics id="wiki-1941.p.16.s.2.xml_0">
+<appl>
+<functor>
+   <word id="3">hier</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">treedt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">zelf</word>
+            </functor>
+            <argument>
+               <word id="0">Elsschot</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">als</word>
+         </functor>
+         <argument>
+            <word id="6">Laarmans</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">op</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

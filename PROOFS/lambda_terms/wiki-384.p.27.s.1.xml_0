@@ -1,0 +1,66 @@
+<semantics id="wiki-384.p.27.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">van</word>
+         </functor>
+         <argument>
+            <word id="9">Nederland</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">meest</word>
+            </functor>
+            <argument>
+               <word id="6">Europese</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="7">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">manifesteert</word>
+      </functor>
+      <argument>
+         <word id="0">D66</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">zich</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

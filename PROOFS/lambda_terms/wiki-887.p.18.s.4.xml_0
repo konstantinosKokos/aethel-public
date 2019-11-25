@@ -1,0 +1,101 @@
+<semantics id="wiki-887.p.18.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">is</word>
+         </functor>
+         <argument>
+            <word id="0">Clijsters</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">naar</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">134ste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">de</word>
+                  </functor>
+                  <argument>
+                     <word id="7">plaats</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">inmiddels</word>
+            </functor>
+            <argument>
+               <word id="3">teruggezakt</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">lijkt</word>
+      </functor>
+      <argument>
+         <word id="9">dat</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">niet</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">deren</word>
+            </functor>
+            <argument>
+               <word id="11">haar</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

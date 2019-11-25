@@ -1,0 +1,59 @@
+<semantics id="wiki-135.p.127.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">staat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">Belgische</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="2">keuken</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">lekkere</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">zijn</word>
+            </functor>
+            <argument>
+               <word id="8">eten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="4">bekend</word>
+</argument>
+</appl>
+</semantics>

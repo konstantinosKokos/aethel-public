@@ -1,0 +1,38 @@
+<semantics id="wiki-9843.p.15.s.3.xml_0">
+<appl>
+<functor>
+   <word id="2">daarbovenop</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">was</word>
+      </functor>
+      <argument>
+         <word id="0">Rikki</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">oudere</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">Wiske's</word>
+         </functor>
+         <argument>
+            <word id="5">tienerbroer</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

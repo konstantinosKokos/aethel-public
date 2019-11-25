@@ -1,0 +1,150 @@
+<semantics id="wiki-60.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">laten</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">en</word>
+            </functor>
+            <argument>
+               <word id="3">katholieke</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">sommige</word>
+            </functor>
+            <argument>
+               <word id="6">protestantse</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="7">gelovigen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="13">met</word>
+      </functor>
+      <argument>
+         <word id="14">as</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">de</word>
+            </functor>
+            <argument>
+               <word id="10">kerk</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Op</word>
+            </functor>
+            <argument>
+               <word id="1">Aswoensdag</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="18">tekenen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="20">zogenaamde</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="19">het</word>
+                        </functor>
+                        <argument>
+                           <word id="21">askruisje</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">een</word>
+                     </functor>
+                     <argument>
+                        <word id="12">kruis</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">hun</word>
+                  </functor>
+                  <argument>
+                     <word id="17">voorhoofd</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

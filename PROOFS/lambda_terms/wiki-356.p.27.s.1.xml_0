@@ -1,0 +1,73 @@
+<semantics id="wiki-356.p.27.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">heeft</word>
+         </functor>
+         <argument>
+            <word id="0">Andras Pandy</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">nooit</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">bekend</word>
+            </functor>
+            <argument>
+               <word id="3">schuld</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">niet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">zijn</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">harde</word>
+            </functor>
+            <argument>
+               <word id="7">bewijzen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,24 @@
+<semantics id="wiki-3745.p.63.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">van</word>
+   </functor>
+   <argument>
+      <word id="3">Hasselt</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Mobiele</word>
+   </functor>
+   <argument>
+      <word id="1">portaal</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

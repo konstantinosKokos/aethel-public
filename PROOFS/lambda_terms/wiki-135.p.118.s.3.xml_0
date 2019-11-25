@@ -1,0 +1,45 @@
+<semantics id="wiki-135.p.118.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">tussen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">Belgische</word>
+            </functor>
+            <argument>
+               <word id="6">politici</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">familiale</word>
+         </functor>
+         <argument>
+            <word id="3">verbanden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Lijst</word>
+</argument>
+</appl>
+</semantics>

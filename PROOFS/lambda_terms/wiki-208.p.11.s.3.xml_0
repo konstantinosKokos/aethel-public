@@ -1,0 +1,199 @@
+<semantics id="wiki-208.p.11.s.3.xml_0">
+<appl>
+<functor>
+   <word id="0">Uiteindelijk</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="15">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">werd</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">een</word>
+               </functor>
+               <argument>
+                  <word id="13">verbond</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">tussen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="6">en</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">de</word>
+                        </functor>
+                        <argument>
+                           <word id="5">Romeinen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="10">rond</word>
+                        </functor>
+                        <argument>
+                           <word id="11">296</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">Frankische</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="7">deze</word>
+                           </functor>
+                           <argument>
+                              <word id="9">stam</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">er</word>
+               </functor>
+               <argument>
+                  <word id="14">gesloten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="16">werden</word>
+         </functor>
+         <argument>
+            <word id="17">ze</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="28">aangesteld</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">als</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="20">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="23">tussen</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="25">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="24">Nijmegen</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="26">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="27">zee</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="21">de</word>
+                        </functor>
+                        <argument>
+                           <word id="22">rijksgrens</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="19">verdedigers</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

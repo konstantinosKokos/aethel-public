@@ -1,0 +1,82 @@
+<semantics id="wiki-1823.p.17.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">die</word>
+   </functor>
+   <argument>
+      <lambda varid="0">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">worden</word>
+            </functor>
+            <argument>
+               <var id="0" debruijn="1"></var>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">rechtstreeks</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="4">om</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">vijf</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="5">de</word>
+                        </functor>
+                        <argument>
+                           <word id="7">jaar</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="10">verkozen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">Vlaamse</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">124</word>
+      </functor>
+      <argument>
+         <word id="2">volksvertegenwoordigers</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

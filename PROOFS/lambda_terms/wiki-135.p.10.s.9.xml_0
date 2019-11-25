@@ -1,0 +1,101 @@
+<semantics id="wiki-135.p.10.s.9.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werd</word>
+   </functor>
+   <argument>
+      <word id="0">België</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">in</word>
+      </functor>
+      <argument>
+         <word id="3">1830</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">uitgeroepen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">tot</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">ook</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">zie</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="13">van</word>
+                        </functor>
+                        <argument>
+                           <word id="14">1830</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="12">Omwenteling</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">constitutionele</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">onafhankelijke</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">een</word>
+                     </functor>
+                     <argument>
+                        <word id="9">monarchie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

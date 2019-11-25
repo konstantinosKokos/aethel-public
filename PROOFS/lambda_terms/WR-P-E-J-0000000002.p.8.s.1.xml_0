@@ -1,0 +1,150 @@
+<semantics id="WR-P-E-J-0000000002.p.8.s.1.xml_0">
+<appl>
+<functor>
+   <word id="7">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">van</word>
+            </functor>
+            <argument>
+               <word id="4">taalbereidheid</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">dit</word>
+            </functor>
+            <argument>
+               <word id="2">criterium</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">ziet</word>
+         </functor>
+         <argument>
+            <word id="6">Keulen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">tegen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="18">in</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="20">Vlaamse</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="19">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="21">rand</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="16">sociale</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="15">de</word>
+                           </functor>
+                           <argument>
+                              <word id="17">huisvesting</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">de</word>
+                  </functor>
+                  <argument>
+                     <word id="13">verfransing</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">belangrijk</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">een</word>
+               </functor>
+               <argument>
+                  <word id="10">instrument</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

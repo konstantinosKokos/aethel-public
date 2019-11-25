@@ -1,0 +1,24 @@
+<semantics id="wiki-9844.p.9.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">van</word>
+   </functor>
+   <argument>
+      <word id="3">Lambik</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Vliegende</word>
+   </functor>
+   <argument>
+      <word id="1">broer</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

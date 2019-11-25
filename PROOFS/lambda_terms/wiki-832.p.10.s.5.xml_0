@@ -1,0 +1,52 @@
+<semantics id="wiki-832.p.10.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">slechts</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">twee</word>
+      </functor>
+      <argument>
+         <word id="4">jaar</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">bleef</word>
+      </functor>
+      <argument>
+         <word id="0">Hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">deze</word>
+         </functor>
+         <argument>
+            <word id="7">school</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

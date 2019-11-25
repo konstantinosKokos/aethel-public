@@ -1,0 +1,115 @@
+<semantics id="wiki-8628.p.22.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">in</word>
+   </functor>
+   <argument>
+      <word id="4">België</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <word id="1">1852</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">legde</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">nieuwe</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">een</word>
+                  </functor>
+                  <argument>
+                     <word id="7">Brouwwet</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="14">per</word>
+                     </functor>
+                     <argument>
+                        <word id="15">brouwsel</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">grondstoffen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="11">300</word>
+                        </functor>
+                        <argument>
+                           <word id="12">kilogram</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">een</word>
+               </functor>
+               <argument>
+                  <word id="9">minimum</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="16">op</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

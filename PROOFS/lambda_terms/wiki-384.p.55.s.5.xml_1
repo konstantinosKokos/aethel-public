@@ -1,0 +1,31 @@
+<semantics id="wiki-384.p.55.s.5.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">47</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="4">zetels</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">2</word>
+</argument>
+</appl>
+</semantics>

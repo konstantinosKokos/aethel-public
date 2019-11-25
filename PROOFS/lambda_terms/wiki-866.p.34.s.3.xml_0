@@ -1,0 +1,80 @@
+<semantics id="wiki-866.p.34.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">de</word>
+               </functor>
+               <argument>
+                  <word id="3">finale</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="5">raken</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">verslaat</word>
+      </functor>
+      <argument>
+         <word id="7">ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">6-3 6-1</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">Svetlana Kuznetsova</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">ex-US Open</word>
+            </functor>
+            <argument>
+               <word id="9">winnares</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,108 @@
+<semantics id="WR-P-E-J-0000000030.p.1.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">heeft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">Fientje MOERMAN</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">van</word>
+            </functor>
+            <argument>
+               <word id="3">Economie</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Vlaams</word>
+            </functor>
+            <argument>
+               <word id="1">minister</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">een</word>
+         </functor>
+         <argument>
+            <word id="11">China-Vlaanderen-seminarie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">in</word>
+         </functor>
+         <argument>
+            <word id="8">Beijing</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">vanmorgen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">voorgesteld</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">Vlaamse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">de</word>
+                  </functor>
+                  <argument>
+                     <word id="14">Chinastrategie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

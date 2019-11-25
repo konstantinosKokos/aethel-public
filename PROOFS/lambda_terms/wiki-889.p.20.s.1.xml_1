@@ -1,0 +1,17 @@
+<semantics id="wiki-889.p.20.s.1.xml_1">
+<appl>
+<functor>
+   <word id="2">bibberde</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">zijn</word>
+   </functor>
+   <argument>
+      <word id="1">hand</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

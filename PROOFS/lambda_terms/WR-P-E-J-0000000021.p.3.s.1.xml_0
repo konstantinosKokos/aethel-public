@@ -1,0 +1,150 @@
+<semantics id="WR-P-E-J-0000000021.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="20">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="21">kaarten</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="15">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">grensoverschrijdend</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="16">het</word>
+                        </functor>
+                        <argument>
+                           <word id="18">spoor</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">het</word>
+                  </functor>
+                  <argument>
+                     <word id="14">dossier</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="19">aan</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">maakte</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">Bourgeois</word>
+            </functor>
+            <argument>
+               <word id="0">Minister</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="11">gebruik</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">politieke</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">bevoegde</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">alle</word>
+                     </functor>
+                     <argument>
+                        <word id="10">overheden</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="5">aanwezigheid</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

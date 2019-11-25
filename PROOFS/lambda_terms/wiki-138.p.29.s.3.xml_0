@@ -1,0 +1,80 @@
+<semantics id="wiki-138.p.29.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">zijn</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Belangrijke</word>
+      </functor>
+      <argument>
+         <word id="1">zalen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="4">Ancienne Belgique</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="6">Munt</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">de</word>
+         </functor>
+         <argument>
+            <word id="8">Beursschouwburg</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">de</word>
+      </functor>
+      <argument>
+         <word id="11">KVS</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

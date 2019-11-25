@@ -1,0 +1,157 @@
+<semantics id="wiki-1823.p.29.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">in</word>
+         </functor>
+         <argument>
+            <word id="3">2002</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">sloot</word>
+            </functor>
+            <argument>
+               <word id="0">Spirit</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">de</word>
+                  </functor>
+                  <argument>
+                     <word id="8">SP.A</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">een</word>
+               </functor>
+               <argument>
+                  <word id="5">kartel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="15">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="22">CVP</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="20">christelijke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="17">in</word>
+                     </functor>
+                     <argument>
+                        <word id="18">CD&amp;V</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="19">omgedoopte</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">de</word>
+                  </functor>
+                  <argument>
+                     <word id="21">volkspartij</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">in</word>
+         </functor>
+         <argument>
+            <word id="13">2004</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">deed</word>
+            </functor>
+            <argument>
+               <word id="10">N-VA</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="14">hetzelfde</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,108 @@
+<semantics id="wiki-154.p.42.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">het</word>
+            </functor>
+            <argument>
+               <word id="4">Brussels Hoofdstedelijk Gewest</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">regering</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">het</word>
+         </functor>
+         <argument>
+            <word id="9">Hoofdstedelijk Parlement</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">aangewezen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">vijf</word>
+                  </functor>
+                  <argument>
+                     <word id="15">jaar</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">een</word>
+               </functor>
+               <argument>
+                  <word id="12">periode</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

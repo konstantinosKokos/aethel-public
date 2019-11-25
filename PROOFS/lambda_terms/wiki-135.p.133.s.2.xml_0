@@ -1,0 +1,52 @@
+<semantics id="wiki-135.p.133.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">UCL</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">Université catholique de Louvain</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">Franstalige</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">grootste</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="7">universiteit</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

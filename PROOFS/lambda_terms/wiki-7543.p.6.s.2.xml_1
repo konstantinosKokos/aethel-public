@@ -1,0 +1,94 @@
+<semantics id="wiki-7543.p.6.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werd</word>
+   </functor>
+   <argument>
+      <word id="0">ze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">teneinde</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">laten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">te</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="13">geven</word>
+                        </functor>
+                        <argument>
+                           <word id="11">water</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="9">hun</word>
+                        </functor>
+                        <argument>
+                           <word id="10">paarden</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">toe</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">in opdracht van</word>
+         </functor>
+         <argument>
+            <word id="3">Lodewijk XIV</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">gebouwd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,210 @@
+<semantics id="wiki-572.p.6.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">toen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="27">1977-1978</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="21">en</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="20">ondertekende</word>
+                        </functor>
+                        <argument>
+                           <var id="0" debruijn="1"></var>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="17">en</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="15">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="16">Egmont-</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="18">de</word>
+                           </functor>
+                           <argument>
+                              <word id="19">Stuyvenbergakkoorden</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <lambda varid="1">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="22">toetrad</word>
+                     </functor>
+                     <argument>
+                        <var id="1" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="23">tot</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="25">Belgische</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="24">de</word>
+                           </functor>
+                           <argument>
+                              <word id="26">regering</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">de</word>
+            </functor>
+            <argument>
+               <word id="14">Volksunie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">voor het eerst</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">kwam</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">in</word>
+               </functor>
+               <argument>
+                  <word id="6">Van der Elst</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="2">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">de</word>
+                     </functor>
+                     <argument>
+                        <word id="4">Vlaams-nationalisten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="0">Het</word>
+                  </functor>
+                  <argument>
+                     <word id="1">vertrouwen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">onder</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">zware</word>
+            </functor>
+            <argument>
+               <word id="11">druk</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

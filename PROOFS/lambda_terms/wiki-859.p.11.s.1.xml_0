@@ -1,0 +1,159 @@
+<semantics id="wiki-859.p.11.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">beroemdste</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Zijn</word>
+         </functor>
+         <argument>
+            <word id="2">werk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">dat</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">wordt</word>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">bewaard</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="14">in</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="17">van</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <word id="20">te</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="21">Gent</word>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="18">de</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="19">St.-Baafskathedraal</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="15">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="16">Villakapel</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">de Rechtvaardige rechters</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">het</word>
+               </functor>
+               <argument>
+                  <word id="9">paneel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">Het Lam Gods</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">het</word>
+         </functor>
+         <argument>
+            <word id="5">retabel</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

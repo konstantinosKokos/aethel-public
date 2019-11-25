@@ -1,0 +1,38 @@
+<semantics id="wiki-356.p.31.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">krijgt</word>
+      </functor>
+      <argument>
+         <word id="0">Zij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">celstraf</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">21</word>
+         </functor>
+         <argument>
+            <word id="4">jaar</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="2">hiervoor</word>
+</argument>
+</appl>
+</semantics>

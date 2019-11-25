@@ -1,0 +1,115 @@
+<semantics id="wiki-832.p.32.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">bleef</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Het</word>
+      </functor>
+      <argument>
+         <word id="1">doek</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">opgerold</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">lang</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">30</word>
+            </functor>
+            <argument>
+               <word id="4">jaar</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">liggen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">op</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="14">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="15">de</word>
+                           </functor>
+                           <argument>
+                              <word id="16">Vlaanderenramp</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">de</word>
+                        </functor>
+                        <argument>
+                           <word id="13">hoek</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">zijn</word>
+                  </functor>
+                  <argument>
+                     <word id="10">atelier</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

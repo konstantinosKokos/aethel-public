@@ -1,0 +1,133 @@
+<semantics id="WR-P-E-J-0000000001.p.7.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="15">in</word>
+   </functor>
+   <argument>
+      <word id="16">Pakistan</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="13">momenteel</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">zijn</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">plus</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="3">en</word>
+                        </functor>
+                        <argument>
+                           <lambda varid="0">
+                              <appl>
+                              <functor>
+                                 <var id="0" debruijn="1"></var>
+                              </functor>
+                              <argument>
+                                 <word id="2">Rode-Kruis-</word>
+                              </argument>
+                              </appl>
+                           </lambda>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <lambda varid="1">
+                           <appl>
+                           <functor>
+                              <var id="1" debruijn="1"></var>
+                           </functor>
+                           <argument>
+                              <word id="4">Rode-Halve-Maanmedewerkers</word>
+                           </argument>
+                           </appl>
+                        </lambda>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="0">Meer dan</word>
+                     </functor>
+                     <argument>
+                        <word id="1">460</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">het</word>
+                     </functor>
+                     <argument>
+                        <word id="11">Internationale Rode Kruis</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">buitenlandse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">160</word>
+                     </functor>
+                     <argument>
+                        <word id="8">medewerkers</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="14">actief</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

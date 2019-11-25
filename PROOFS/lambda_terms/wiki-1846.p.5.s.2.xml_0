@@ -1,0 +1,201 @@
+<semantics id="wiki-1846.p.5.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Naast</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">waarin</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <var id="0" debruijn="1"></var>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">overheerst</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="5">naar</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="6">het</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="7">verleden</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="4">heimwee</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">een</word>
+               </functor>
+               <argument>
+                  <word id="2">rechtervleugel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">sterke</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">een</word>
+            </functor>
+            <argument>
+               <word id="12">centrumgroep</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">doet</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="16">sociaal</word>
+               </functor>
+               <argument>
+                  <word id="17">progressieve</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">een</word>
+               </functor>
+               <argument>
+                  <word id="18">minderheid</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="19">zich</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="20">tegen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="23">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="26">1960</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="24">de</word>
+                     </functor>
+                     <argument>
+                        <word id="25">jaren</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="21">het</word>
+               </functor>
+               <argument>
+                  <word id="22">einde</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">ook</word>
+         </functor>
+         <argument>
+            <word id="27">gelden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

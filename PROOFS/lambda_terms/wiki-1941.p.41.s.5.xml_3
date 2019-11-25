@@ -1,0 +1,45 @@
+<semantics id="wiki-1941.p.41.s.5.xml_3">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">als</word>
+   </functor>
+   <argument>
+      <word id="5">toneelstuk</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">is</word>
+      </functor>
+      <argument>
+         <word id="0">Dit</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">in</word>
+         </functor>
+         <argument>
+            <word id="3">2003</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="6">uitgevoerd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

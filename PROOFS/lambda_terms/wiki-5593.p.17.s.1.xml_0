@@ -1,0 +1,31 @@
+<semantics id="wiki-5593.p.17.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <word id="1">1991</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">wordt</word>
+      </functor>
+      <argument>
+         <word id="3">Jean-Luc Dehaene</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">premier</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

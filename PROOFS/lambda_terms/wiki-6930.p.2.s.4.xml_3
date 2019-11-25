@@ -1,0 +1,17 @@
+<semantics id="wiki-6930.p.2.s.4.xml_3">
+<appl>
+<functor>
+   <word id="0">dwars</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">door</word>
+   </functor>
+   <argument>
+      <word id="2">Siberië</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

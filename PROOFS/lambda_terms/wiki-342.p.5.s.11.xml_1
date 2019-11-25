@@ -1,0 +1,24 @@
+<semantics id="wiki-342.p.5.s.11.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">aan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">de</word>
+      </functor>
+      <argument>
+         <word id="3">Universiteit van Gent</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">eredoctoraat</word>
+</argument>
+</appl>
+</semantics>

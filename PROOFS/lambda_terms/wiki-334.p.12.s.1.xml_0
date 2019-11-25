@@ -1,0 +1,80 @@
+<semantics id="wiki-334.p.12.s.1.xml_0">
+<appl>
+<functor>
+   <word id="8">weer</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Onder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">Lodewijk XIV</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">Franse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">de</word>
+               </functor>
+               <argument>
+                  <word id="3">koning</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">kwam</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="7">stad</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">Frans</word>
+            </functor>
+            <argument>
+               <word id="11">bezit</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

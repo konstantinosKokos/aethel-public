@@ -1,0 +1,45 @@
+<semantics id="wiki-11.p.47.s.3.xml_0">
+<appl>
+<functor>
+   <word id="1">hiervoor</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Zie</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">naar</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="6">Congoboot</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">De</word>
+         </functor>
+         <argument>
+            <word id="3">weg</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

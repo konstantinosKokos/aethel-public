@@ -1,0 +1,87 @@
+<semantics id="wiki-3745.p.6.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">toen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">werd</word>
+            </functor>
+            <argument>
+               <word id="2">België</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">onafhankelijk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">bleef</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">deze</word>
+               </functor>
+               <argument>
+                  <word id="7">naam</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">behouden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">werd</word>
+         </functor>
+         <argument>
+            <word id="11">Loon</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="12">vergeten</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

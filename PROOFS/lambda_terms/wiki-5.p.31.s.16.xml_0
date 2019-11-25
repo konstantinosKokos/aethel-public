@@ -1,0 +1,136 @@
+<semantics id="wiki-5.p.31.s.16.xml_0">
+<appl>
+<functor>
+   <word id="5">niet</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">dankt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Zo'n</word>
+            </functor>
+            <argument>
+               <word id="1">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">zijn</word>
+         </functor>
+         <argument>
+            <word id="4">succes</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="14">maar</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">aan</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="10">zoals</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="12">en</word>
+                        </functor>
+                        <argument>
+                           <word id="11">betogingen</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="13">stakingen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">georchestreerde</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">bureaucratische</word>
+                     </functor>
+                     <argument>
+                        <word id="9">massa-acties</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="15">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">mediatieke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">ludiek-provocerende</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">kleine</word>
+                  </functor>
+                  <argument>
+                     <word id="19">prikacties</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

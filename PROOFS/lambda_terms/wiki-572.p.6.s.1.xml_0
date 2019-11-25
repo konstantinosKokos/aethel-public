@@ -1,0 +1,143 @@
+<semantics id="wiki-572.p.6.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">tot</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">1960</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">de</word>
+               </functor>
+               <argument>
+                  <word id="7">jaren</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">het</word>
+         </functor>
+         <argument>
+            <word id="4">einde</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Van</word>
+      </functor>
+      <argument>
+         <word id="1">1958</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">was</word>
+         </functor>
+         <argument>
+            <word id="10">Van der Elst</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="16">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="19">parlementaire</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="18">belangrijke</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">alle</word>
+                     </functor>
+                     <argument>
+                        <word id="20">debatten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">zijn</word>
+                  </functor>
+                  <argument>
+                     <word id="15">partij</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">de</word>
+               </functor>
+               <argument>
+                  <word id="12">woordvoerder</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

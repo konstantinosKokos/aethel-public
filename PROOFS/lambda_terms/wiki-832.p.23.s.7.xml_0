@@ -1,0 +1,171 @@
+<semantics id="wiki-832.p.23.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">stuurde</word>
+            </functor>
+            <argument>
+               <word id="0">Hij</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">twintig</word>
+            </functor>
+            <argument>
+               <word id="3">werken</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">naar</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">van</word>
+               </functor>
+               <argument>
+                  <word id="10">1886</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">van</word>
+                  </functor>
+                  <argument>
+                     <word id="8">Les XX</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">het</word>
+                  </functor>
+                  <argument>
+                     <word id="6">salon</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="14">besprak</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">de</word>
+         </functor>
+         <argument>
+            <word id="13">kritiek</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="18">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">enkel</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">zijn</word>
+               </functor>
+               <argument>
+                  <word id="17">techniek</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="22">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="23">zijn</word>
+               </functor>
+               <argument>
+                  <word id="24">werken</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">niet</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="20">de</word>
+               </functor>
+               <argument>
+                  <word id="21">kunstwaarde</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

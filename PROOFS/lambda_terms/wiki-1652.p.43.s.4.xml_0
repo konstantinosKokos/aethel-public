@@ -1,0 +1,24 @@
+<semantics id="wiki-1652.p.43.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">van</word>
+   </functor>
+   <argument>
+      <word id="3">Sint-Niklaas</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">de</word>
+   </functor>
+   <argument>
+      <word id="1">speelpleinen</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

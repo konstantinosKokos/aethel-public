@@ -1,0 +1,215 @@
+<semantics id="wiki-3745.p.45.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">zijn</word>
+   </functor>
+   <argument>
+      <word id="0">Voorbeelden</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">of</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="3">Groene Boulevard</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">ondergrondse</word>
+               </functor>
+               <argument>
+                  <word id="8">parking</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">het</word>
+            </functor>
+            <argument>
+               <word id="5">Kolonel Dusartplein</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">dat</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="13">met</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="19">en</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="16">van</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="17">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="18">flatgebouwen</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="14">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="15">renovatie</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="22">van</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="24">grote</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="23">vele</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="25">winkelketens</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="20">de</word>
+                           </functor>
+                           <argument>
+                              <word id="21">komst</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="29">kende</word>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="27">enorme</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="26">een</word>
+                        </functor>
+                        <argument>
+                           <word id="28">impuls</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">de</word>
+         </functor>
+         <argument>
+            <word id="11">TT-wijk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

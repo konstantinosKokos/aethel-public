@@ -1,0 +1,66 @@
+<semantics id="wiki-208.p.82.s.1.xml_0">
+<appl>
+<functor>
+   <word id="6">niet</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">was</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">enige</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">de</word>
+            </functor>
+            <argument>
+               <word id="9">wijziging</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">de</word>
+            </functor>
+            <argument>
+               <word id="4">partijen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">naamsveranderingen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

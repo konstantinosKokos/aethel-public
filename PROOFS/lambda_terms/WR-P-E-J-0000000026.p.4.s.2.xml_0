@@ -1,0 +1,157 @@
+<semantics id="WR-P-E-J-0000000026.p.4.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">kunnen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="10">enzovoort</word>
+                           </functor>
+                           <argument>
+                              <word id="4">geslacht</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="5">leeftijd</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="6">opleiding</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="7">ervaring</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="8">functie</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="9">handicap</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Ook</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">diversiteit</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="15">binnen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="18">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="20">uiterst</word>
+                  </functor>
+                  <argument>
+                     <word id="21">diverse</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">deze</word>
+                  </functor>
+                  <argument>
+                     <word id="22">maatschappij</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">de</word>
+            </functor>
+            <argument>
+               <word id="17">dienstverlening</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">betekenen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">een</word>
+         </functor>
+         <argument>
+            <word id="13">meerwaarde</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

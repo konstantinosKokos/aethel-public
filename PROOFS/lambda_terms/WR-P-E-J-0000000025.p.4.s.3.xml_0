@@ -1,0 +1,108 @@
+<semantics id="WR-P-E-J-0000000025.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">internationale</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">volwaardige</word>
+         </functor>
+         <argument>
+            <word id="15">gesprekspartner</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Anderzijds</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">betekent</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="4">met</word>
+                  </functor>
+                  <argument>
+                     <word id="5">UNESCO</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">deze</word>
+                  </functor>
+                  <argument>
+                     <word id="3">samenwerking</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">van</word>
+               </functor>
+               <argument>
+                  <word id="11">Vlaanderen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">belangrijke</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">een</word>
+                  </functor>
+                  <argument>
+                     <word id="9">erkenning</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

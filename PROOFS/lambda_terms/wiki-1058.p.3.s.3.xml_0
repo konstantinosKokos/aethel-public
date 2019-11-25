@@ -1,0 +1,157 @@
+<semantics id="wiki-1058.p.3.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="16">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Momenteel</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">is</word>
+            </functor>
+            <argument>
+               <word id="2">het</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="14">van</word>
+                     </functor>
+                     <argument>
+                        <word id="15">Vlaanderen</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="12">beschermde</word>
+                        </functor>
+                        <argument>
+                           <word id="13">gebouwen</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="7">op</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="8">één</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="9">na</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="10">hoogst</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="6">het</word>
+                           </functor>
+                           <argument>
+                              <word id="11">aantal</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="4">stad</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="18">geniet</word>
+      </functor>
+      <argument>
+         <word id="17">ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="21">UNESCO</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="19">maar liefst</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="20">vier</word>
+            </functor>
+            <argument>
+               <word id="22">vermeldingen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

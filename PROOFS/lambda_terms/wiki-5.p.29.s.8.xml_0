@@ -1,0 +1,94 @@
+<semantics id="wiki-5.p.29.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">op</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">diverse</word>
+      </functor>
+      <argument>
+         <word id="6">plaatsen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Vanaf</word>
+      </functor>
+      <argument>
+         <word id="1">1979</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">dient</word>
+            </functor>
+            <argument>
+               <word id="3">Anders Gaan Leven</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">onder</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">Agalev</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">verkorte</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">de</word>
+                        </functor>
+                        <argument>
+                           <word id="12">naam</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="7">lijsten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="8">in</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

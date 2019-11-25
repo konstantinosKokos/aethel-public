@@ -1,0 +1,45 @@
+<semantics id="wiki-135.p.43.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Hun</word>
+      </functor>
+      <argument>
+         <word id="1">bestaan</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">soms</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">gesteld</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">in</word>
+         </functor>
+         <argument>
+            <word id="5">vraag</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

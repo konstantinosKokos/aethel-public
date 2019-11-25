@@ -1,0 +1,59 @@
+<semantics id="wiki-889.p.17.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">Toen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">de</word>
+         </functor>
+         <argument>
+            <word id="8">woorden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">wees</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">Frank Swaelen</word>
+               </functor>
+               <argument>
+                  <word id="1">kamervoorzitter</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">van Rossem</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">terecht</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,108 @@
+<semantics id="WR-P-E-J-0000000030.p.6.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">wil</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Moerman</word>
+      </functor>
+      <argument>
+         <word id="0">Minister</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="11">proactief</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">onder meer</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">deze</word>
+               </functor>
+               <argument>
+                  <word id="10">sectoren</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">op het gebied van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">en</word>
+                  </functor>
+                  <argument>
+                     <word id="4">onderzoek</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="6">ontwikkeling</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">werken</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">naar</word>
+                  </functor>
+                  <argument>
+                     <word id="13">China</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">toe</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

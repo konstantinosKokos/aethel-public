@@ -1,0 +1,38 @@
+<semantics id="wiki-5.p.13.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">verving</word>
+   </functor>
+   <argument>
+      <word id="5">Magda Aelvoet</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">en</word>
+         </functor>
+         <argument>
+            <word id="1">Volksgezondheid</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="3">Leefmilieu</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="0">Jef Tavernier</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,17 @@
+<semantics id="wiki-135.p.39.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">Gent</word>
+   </functor>
+   <argument>
+      <word id="1">hoofdstad</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Oost-Vlaanderen</word>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,59 @@
+<semantics id="wiki-7891.p.7.s.2.xml_0">
+<appl>
+<functor>
+   <word id="0">Momenteel</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">zijn</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">slechts</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">twee</word>
+            </functor>
+            <argument>
+               <word id="4">bedrijven</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">de</word>
+            </functor>
+            <argument>
+               <word id="8">Vlaamse Media Maatschappij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">eigenaar</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,131 @@
+<semantics id="wiki-3745.p.45.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">waarvan</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <word id="6">er</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">nog</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="10">staan</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="8">opgeknapte</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="7">enkele</word>
+                              </functor>
+                              <argument>
+                                 <word id="9">huisjes</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">de Beek</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">vroegere</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="2">volkswijk</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="12">daardoor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">uitgegroeid</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">tot</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">tweede</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">een</word>
+               </functor>
+               <argument>
+                  <word id="17">centrum</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

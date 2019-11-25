@@ -1,0 +1,157 @@
+<semantics id="wiki-866.p.15.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <word id="1">2000</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">kent</word>
+            </functor>
+            <argument>
+               <word id="3">Henin</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="7">en</word>
+                     </functor>
+                     <argument>
+                        <word id="6">blessures</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="8">ziekten</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="4">problemen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">en</word>
+                  </functor>
+                  <argument>
+                     <word id="13">Gold Coast</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="15">Canberra</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="11">overwinningen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="16">neemt</word>
+         </functor>
+         <argument>
+            <word id="17">ze</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="21">voor</word>
+            </functor>
+            <argument>
+               <word id="22">2001</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">fantastische</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">een</word>
+               </functor>
+               <argument>
+                  <word id="20">start</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

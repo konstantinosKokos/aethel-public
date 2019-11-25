@@ -1,0 +1,122 @@
+<semantics id="WR-P-E-J-0000000003.p.1.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">moesten</word>
+   </functor>
+   <argument>
+      <word id="2">scholen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">vaak</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Momenteel</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">doen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">een</word>
+                  </functor>
+                  <argument>
+                     <word id="5">beroep</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">op</word>
+               </functor>
+               <argument>
+                  <word id="8">vrijwilligheid</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">om</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">te</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">garanderen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="12">in</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="14">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="13">weekends</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="15">vakantieperiodes</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">de</word>
+                        </functor>
+                        <argument>
+                           <word id="11">permanentie</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

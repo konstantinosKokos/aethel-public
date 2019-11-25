@@ -1,0 +1,87 @@
+<semantics id="WR-P-E-J-0000000026.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">of</word>
+         </functor>
+         <argument>
+            <word id="0">Verscheidenheid</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">diversiteit</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">te</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">meer</word>
+         </functor>
+         <argument>
+            <word id="4">niet</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">denken</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">uit</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">moderne</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">onze</word>
+                     </functor>
+                     <argument>
+                        <word id="12">samenleving</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="6">weg</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

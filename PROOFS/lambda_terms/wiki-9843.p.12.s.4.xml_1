@@ -1,0 +1,66 @@
+<semantics id="wiki-9843.p.12.s.4.xml_1">
+<appl>
+<functor>
+   <word id="0">al</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">had</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="3">uitgever</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">wel</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">omgedoopt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">de</word>
+               </functor>
+               <argument>
+                  <word id="5">reeks</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">in</word>
+            </functor>
+            <argument>
+               <word id="9">Rikki en Wiske</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

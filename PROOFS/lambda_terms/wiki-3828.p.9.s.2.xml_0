@@ -1,0 +1,157 @@
+<semantics id="wiki-3828.p.9.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">nog</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">In</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">eerste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">de</word>
+                  </functor>
+                  <argument>
+                     <word id="3">jaargangen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">was</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">wat</word>
+                  </functor>
+                  <argument>
+                     <word id="7">drama</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="8">aanwezig</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="13">uitsluitend</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">tegenwoordig</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">is</word>
+            </functor>
+            <argument>
+               <word id="12">het</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">en</word>
+               </functor>
+               <argument>
+                  <word id="14">komedie</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="16">zeker</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">met</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="20">van</word>
+                           </functor>
+                           <argument>
+                              <word id="21">Marc Vertongen</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="18">de</word>
+                           </functor>
+                           <argument>
+                              <word id="19">introductie</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="22">slapstick</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

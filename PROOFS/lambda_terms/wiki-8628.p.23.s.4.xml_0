@@ -1,0 +1,31 @@
+<semantics id="wiki-8628.p.23.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">dronken</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Zelfs</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">de</word>
+         </functor>
+         <argument>
+            <word id="2">kinderen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="4">bier</word>
+</argument>
+</appl>
+</semantics>

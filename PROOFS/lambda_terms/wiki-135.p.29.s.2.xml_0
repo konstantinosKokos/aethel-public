@@ -1,0 +1,101 @@
+<semantics id="wiki-135.p.29.s.2.xml_0">
+<appl>
+<functor>
+   <word id="0">Langzamerhand</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">meende</word>
+      </functor>
+      <argument>
+         <word id="2">men</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">dat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">verdraagt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="8">van</word>
+                  </functor>
+                  <argument>
+                     <word id="9">België</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">maatschappelijke</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">tweeledige</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">de</word>
+                        </functor>
+                        <argument>
+                           <word id="7">structuur</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">politieke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">unitaire</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">geen</word>
+                  </functor>
+                  <argument>
+                     <word id="13">structuur</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

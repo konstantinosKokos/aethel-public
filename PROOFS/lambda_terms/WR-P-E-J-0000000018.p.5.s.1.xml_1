@@ -1,0 +1,24 @@
+<semantics id="WR-P-E-J-0000000018.p.5.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">ter uitvoering van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">de</word>
+      </functor>
+      <argument>
+         <word id="3">Ontwikkelingsschets 2010</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Verdrag</word>
+</argument>
+</appl>
+</semantics>

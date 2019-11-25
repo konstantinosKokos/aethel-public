@@ -1,0 +1,150 @@
+<semantics id="wiki-3745.p.53.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">een</word>
+      </functor>
+      <argument>
+         <word id="5">masterplan</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="20">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">tegen</word>
+               </functor>
+               <argument>
+                  <word id="13">2015-2016</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="8">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">Hasseltse</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="9">elke</word>
+                        </functor>
+                        <argument>
+                           <word id="11">wijk</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="21">leggen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="16">of</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="14">een</word>
+                              </functor>
+                              <argument>
+                                 <word id="15">park</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="17">aangename</word>
+                           </functor>
+                           <argument>
+                              <word id="18">groenzone</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="19">aan</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">In</word>
+            </functor>
+            <argument>
+               <word id="1">2005</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="6">opgesteld</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

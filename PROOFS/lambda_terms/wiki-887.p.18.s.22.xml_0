@@ -1,0 +1,73 @@
+<semantics id="wiki-887.p.18.s.22.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Clijsters</word>
+      </functor>
+      <argument>
+         <word id="0">Gravelspecialiste</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">niet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">geslaagd</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">in</word>
+            </functor>
+            <argument>
+               <word id="3">er</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">halen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">de</word>
+                  </functor>
+                  <argument>
+                     <word id="8">kwartfinale</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

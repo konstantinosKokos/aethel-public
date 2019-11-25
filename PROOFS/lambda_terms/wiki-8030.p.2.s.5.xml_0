@@ -1,0 +1,45 @@
+<semantics id="wiki-8030.p.2.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werd</word>
+   </functor>
+   <argument>
+      <word id="0">Hij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">door</word>
+      </functor>
+      <argument>
+         <word id="6">Armand DeWasch</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">in</word>
+         </functor>
+         <argument>
+            <word id="3">1990</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">opgevolgd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

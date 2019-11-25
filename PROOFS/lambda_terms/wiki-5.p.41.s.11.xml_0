@@ -1,0 +1,115 @@
+<semantics id="wiki-5.p.41.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="14">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">de</word>
+      </functor>
+      <argument>
+         <word id="16">partij</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">een</word>
+      </functor>
+      <argument>
+         <word id="12">beetje</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">na</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="6">van</word>
+                     </functor>
+                     <argument>
+                        <word id="7">2004</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">de</word>
+                     </functor>
+                     <argument>
+                        <word id="5">verkiezingen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">de</word>
+               </functor>
+               <argument>
+                  <word id="2">periode</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">keert</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">de</word>
+               </functor>
+               <argument>
+                  <word id="10">rust</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="13">weer</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

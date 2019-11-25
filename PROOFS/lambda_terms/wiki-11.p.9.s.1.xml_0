@@ -1,0 +1,157 @@
+<semantics id="wiki-11.p.9.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">Antwerpen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">toenmalige</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="8">gemeente</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">fors</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">middels</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">een</word>
+            </functor>
+            <argument>
+               <word id="5">fusie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Op</word>
+            </functor>
+            <argument>
+               <word id="1">1 januari 1983</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">uitgebreid</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <word id="21">en</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="15">Berchem</word>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <word id="16">Borgerhout</word>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="17">Deurne</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="18">Ekeren</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="19">Hoboken</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="20">Merksem</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="22">Wilrijk</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">zeven</word>
+                     </functor>
+                     <argument>
+                        <word id="14">randgemeenten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

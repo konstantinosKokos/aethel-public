@@ -1,0 +1,115 @@
+<semantics id="wiki-138.p.3.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">volledige</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">het</word>
+               </functor>
+               <argument>
+                  <word id="5">stadsgewest</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">Brussel</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">niet</word>
+               </functor>
+               <argument>
+                  <word id="13">enkel</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">de</word>
+               </functor>
+               <argument>
+                  <word id="15">gemeente</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Algemeen</word>
+      </functor>
+      <argument>
+         <word id="1">gezien</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">beschouwd</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">als</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">Brussel</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="8">stad</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

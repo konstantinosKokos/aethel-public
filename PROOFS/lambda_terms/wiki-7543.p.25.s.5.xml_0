@@ -1,0 +1,38 @@
+<semantics id="wiki-7543.p.25.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">in</word>
+   </functor>
+   <argument>
+      <word id="5">2005</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">laatste</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="2">keer</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

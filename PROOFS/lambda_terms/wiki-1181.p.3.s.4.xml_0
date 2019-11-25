@@ -1,0 +1,73 @@
+<semantics id="wiki-1181.p.3.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">van</word>
+         </functor>
+         <argument>
+            <word id="8">2001</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">de</word>
+         </functor>
+         <argument>
+            <word id="6">herfst</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">ontstond</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">de</word>
+         </functor>
+         <argument>
+            <word id="10">Nieuw-Vlaamse Alliantie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Uit</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">deze</word>
+         </functor>
+         <argument>
+            <word id="2">groep</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

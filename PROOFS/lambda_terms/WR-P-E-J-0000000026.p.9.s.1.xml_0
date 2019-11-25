@@ -1,0 +1,171 @@
+<semantics id="WR-P-E-J-0000000026.p.9.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">worden</word>
+   </functor>
+   <argument>
+      <word id="4">praktijkgetuigenissen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="19">respectievelijk</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="18">met</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="22">en</word>
+                           </functor>
+                           <argument>
+                              <word id="21">visuele</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="23">auditieve</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="20">een</word>
+                        </functor>
+                        <argument>
+                           <word id="24">handicap</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="12">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="15">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="16">de</word>
+                           </functor>
+                           <argument>
+                              <word id="17">Vlaamse Gemeenschap</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="13">het</word>
+                        </functor>
+                        <argument>
+                           <word id="14">ministerie</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">twee</word>
+                  </functor>
+                  <argument>
+                     <word id="11">personeelsleden</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">en</word>
+               </functor>
+               <argument>
+                  <word id="7">Severine D'Hondt</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="9">Beatrix Verbiest</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Na</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">middag</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">afgelegd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

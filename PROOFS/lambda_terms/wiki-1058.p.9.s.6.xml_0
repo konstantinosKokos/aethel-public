@@ -1,0 +1,73 @@
+<semantics id="wiki-1058.p.9.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">het</word>
+      </functor>
+      <argument>
+         <word id="10">Groot Begijnhof</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">opgedragen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">aan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">en</word>
+               </functor>
+               <argument>
+                  <word id="5">Sint-Alexius</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="7">Sint-Katelijne</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">barokke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="2">Begijnenkerk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

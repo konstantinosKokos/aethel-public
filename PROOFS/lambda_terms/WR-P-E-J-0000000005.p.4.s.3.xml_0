@@ -1,0 +1,175 @@
+<semantics id="WR-P-E-J-0000000005.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">gaan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">en</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <var id="0" debruijn="1"></var>
+                  </functor>
+                  <argument>
+                     <word id="1">steden</word>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <lambda varid="1">
+               <appl>
+               <functor>
+                  <var id="1" debruijn="1"></var>
+               </functor>
+               <argument>
+                  <word id="3">gemeentes</word>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">De</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">ondernemen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">om</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">te</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="16">leiden</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="11">uit</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="12">deeltijds</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="13">beroepsonderwijs</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="9">meer</word>
+                              </functor>
+                              <argument>
+                                 <word id="10">jongeren</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="17">naar</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="19">in</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <word id="21">en</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="20">gemeentes</word>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="22">afvalintercommunales</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="18">jobmogelijkheden</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="14">toe</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="6">acties</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

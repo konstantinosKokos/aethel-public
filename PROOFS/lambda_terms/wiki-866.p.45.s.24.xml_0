@@ -1,0 +1,59 @@
+<semantics id="wiki-866.p.45.s.24.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">omdat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">vreesde</word>
+         </functor>
+         <argument>
+            <word id="4">ze</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">raken</word>
+            </functor>
+            <argument>
+               <word id="6">geblesseerd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">gaf</word>
+      </functor>
+      <argument>
+         <word id="0">Henin</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">op</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,17 @@
+<semantics id="WR-P-E-J-0000000023.p.5.s.2.xml_1">
+<appl>
+<functor>
+   <word id="0">aldus</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">Moerman</word>
+   </functor>
+   <argument>
+      <word id="1">minister</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

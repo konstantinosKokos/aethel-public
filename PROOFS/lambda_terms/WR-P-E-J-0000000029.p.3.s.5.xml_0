@@ -1,0 +1,129 @@
+<semantics id="WR-P-E-J-0000000029.p.3.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">aan</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="3">en</word>
+                  </functor>
+                  <argument>
+                     <word id="2">stappers</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="4">trappers</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="0">Voorrang</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">schoolbus</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">pas</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">daarna</word>
+               </functor>
+               <argument>
+                  <word id="7">openbaar</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">vervoer</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="18">auto</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">als</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">anders</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">niet</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="16">kan</word>
+                     </functor>
+                     <argument>
+                        <word id="13">het</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="11">pas</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="17">privé-vervoer</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

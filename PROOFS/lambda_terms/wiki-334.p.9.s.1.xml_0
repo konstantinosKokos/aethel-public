@@ -1,0 +1,150 @@
+<semantics id="wiki-334.p.9.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">rond</word>
+   </functor>
+   <argument>
+      <word id="10">850</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Onder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">westelijk</word>
+                  </functor>
+                  <argument>
+                     <word id="7">Frankrijk</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">eerste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">de</word>
+                  </functor>
+                  <argument>
+                     <word id="4">koning</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="1">Karel de Kale</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">ontstond</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">dat</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">bleef</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="18">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="20">Franse</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="19">de</word>
+                           </functor>
+                           <argument>
+                              <word id="21">koning</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">een</word>
+                     </functor>
+                     <argument>
+                        <word id="16">leen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">Vlaanderen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">het</word>
+               </functor>
+               <argument>
+                  <word id="12">graafschap</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

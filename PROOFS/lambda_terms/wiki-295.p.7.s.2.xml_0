@@ -1,0 +1,31 @@
+<semantics id="wiki-295.p.7.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Te</word>
+   </functor>
+   <argument>
+      <word id="1">Duffel</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">raakt</word>
+      </functor>
+      <argument>
+         <word id="3">hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">zwaargewond</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,52 @@
+<semantics id="wiki-1941.p.15.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">in</word>
+   </functor>
+   <argument>
+      <word id="7">Rotterdam</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">begon</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">als</word>
+         </functor>
+         <argument>
+            <word id="4">schrijver</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">echte</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Zijn</word>
+            </functor>
+            <argument>
+               <word id="2">loopbaan</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

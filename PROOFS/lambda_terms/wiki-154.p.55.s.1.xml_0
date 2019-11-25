@@ -1,0 +1,66 @@
+<semantics id="wiki-154.p.55.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">VGC</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">de</word>
+         </functor>
+         <argument>
+            <word id="8">Vlaamse Gemeenschapscommissie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">oefent</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">Franse Gemeenschapscommissie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">vergelijkbare</word>
+         </functor>
+         <argument>
+            <word id="4">bevoegdheden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="5">uit</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

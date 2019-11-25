@@ -1,0 +1,150 @@
+<semantics id="wiki-1799.p.11.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">vroeg</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">witte</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">het</word>
+                     </functor>
+                     <argument>
+                        <word id="5">doek</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Dit</word>
+               </functor>
+               <argument>
+                  <word id="1">succes</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">om</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">een</word>
+            </functor>
+            <argument>
+               <word id="9">vervolg</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">in</word>
+      </functor>
+      <argument>
+         <word id="12">1990</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">kwam</word>
+            </functor>
+            <argument>
+               <word id="14">Koko Flanel</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">opnieuw</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="20">van</word>
+                     </functor>
+                     <argument>
+                        <word id="21">Stijn Coninx</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">de</word>
+                     </functor>
+                     <argument>
+                        <word id="19">samenwerking</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="15">uit</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

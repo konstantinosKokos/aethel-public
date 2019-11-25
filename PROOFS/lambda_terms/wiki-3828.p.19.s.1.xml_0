@@ -1,0 +1,110 @@
+<semantics id="wiki-3828.p.19.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">heeft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Deze</word>
+      </functor>
+      <argument>
+         <word id="1">reeks</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">opgeleverd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">die</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="13">in</word>
+                  </functor>
+                  <argument>
+                     <word id="14">Vlaanderen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">regelmatig</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">thans</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="12">hoort</word>
+                           </functor>
+                           <argument>
+                              <word id="9">men</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <var id="0" debruijn="1"></var>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">catch phrases</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">cliché</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">enkele</word>
+               </functor>
+               <argument>
+                  <word id="5">uitdrukkingen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

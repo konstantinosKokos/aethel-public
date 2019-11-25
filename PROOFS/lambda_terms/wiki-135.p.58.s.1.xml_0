@@ -1,0 +1,192 @@
+<semantics id="wiki-135.p.58.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">de</word>
+               </functor>
+               <argument>
+                  <word id="11">Rijn</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">stroomgebied</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">klein</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">ook</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="0">In</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="2">uiterste</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="1">het</word>
+                        </functor>
+                        <argument>
+                           <word id="3">oosten</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">een</word>
+                  </functor>
+                  <argument>
+                     <word id="7">stukje</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="22">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="25">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="26">de</word>
+               </functor>
+               <argument>
+                  <word id="27">Seine</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="23">het</word>
+            </functor>
+            <argument>
+               <word id="24">stroomgebied</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="16">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">Henegouwen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">de</word>
+                     </functor>
+                     <argument>
+                        <word id="18">provincie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">het</word>
+               </functor>
+               <argument>
+                  <word id="15">zuiden</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="20">een</word>
+         </functor>
+         <argument>
+            <word id="21">stukje</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

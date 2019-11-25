@@ -1,0 +1,122 @@
+<semantics id="wiki-832.p.45.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="16">in</word>
+   </functor>
+   <argument>
+      <word id="17">verzet</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="15">ertegen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">en</word>
+            </functor>
+            <argument>
+               <word id="12">meer</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="14">meer</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">naarmate</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="6">voelde</word>
+                     </functor>
+                     <argument>
+                        <word id="1">hij</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="2">zich</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="7">door</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">de</word>
+                        </functor>
+                        <argument>
+                           <word id="9">kunstwereld</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="4">of</word>
+                        </functor>
+                        <argument>
+                           <word id="3">genegeerd</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="5">afgewezen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">kwam</word>
+            </functor>
+            <argument>
+               <word id="11">hij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,136 @@
+<semantics id="wiki-208.p.68.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="14">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">in</word>
+            </functor>
+            <argument>
+               <word id="8">Brazilië</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">Vlaamse</word>
+               </functor>
+               <argument>
+                  <word id="13">Canarische Natie</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">de</word>
+               </functor>
+               <argument>
+                  <word id="11">Canarische eilanden</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="18">Vlaamse</word>
+            </functor>
+            <argument>
+               <word id="19">eilanden</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">de</word>
+            </functor>
+            <argument>
+               <word id="17">Azoren</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">gebeurden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="5">Belgen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">andere</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Enkele</word>
+            </functor>
+            <argument>
+               <word id="2">kolonisatiepogingen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

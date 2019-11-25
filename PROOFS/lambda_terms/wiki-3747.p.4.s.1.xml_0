@@ -1,0 +1,66 @@
+<semantics id="wiki-3747.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">over</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">11-juli</word>
+               </functor>
+               <argument>
+                  <word id="9">vieringen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">Vlaamse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">de</word>
+               </functor>
+               <argument>
+                  <word id="6">overheid</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">de</word>
+      </functor>
+      <argument>
+         <word id="2">website</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Vlaanderenfeest.be</word>
+</argument>
+</appl>
+</semantics>

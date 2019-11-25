@@ -1,0 +1,31 @@
+<semantics id="wiki-7543.p.43.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">Belgische</word>
+   </functor>
+   <argument>
+      <word id="4">zanger</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">02/08/1960</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">a.k.a Bart Gijselinck</word>
+      </functor>
+      <argument>
+         <word id="0">Bart Kaëll</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,145 @@
+<semantics id="wiki-4868.p.2.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="14">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">ook</word>
+      </functor>
+      <argument>
+         <word id="16">Leopold</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="17">doorgaans</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Naar</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">die</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="6">in</word>
+                        </functor>
+                        <argument>
+                           <word id="7">1826</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="13">werd</word>
+                           </functor>
+                           <argument>
+                              <var id="0" debruijn="1"></var>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="9">van</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <word id="11">en</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="10">Saksen-Coburg</word>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="12">Gotha</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="8">hertog</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">Ernst</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">oudere</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">zijn</word>
+                     </functor>
+                     <argument>
+                        <word id="3">broer</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="19">genoemd</word>
+         </functor>
+         <argument>
+            <word id="18">Saksen-Coburg-Gotha</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

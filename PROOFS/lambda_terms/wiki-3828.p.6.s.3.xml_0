@@ -1,0 +1,52 @@
+<semantics id="wiki-3828.p.6.s.3.xml_0">
+<appl>
+<functor>
+   <word id="4">er</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Vanaf</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">2006</word>
+         </functor>
+         <argument>
+            <word id="1">december</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">komt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">17e</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">een</word>
+            </functor>
+            <argument>
+               <word id="7">reeks</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

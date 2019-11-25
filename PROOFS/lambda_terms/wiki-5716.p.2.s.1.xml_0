@@ -1,0 +1,38 @@
+<semantics id="wiki-5716.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">gaat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Dit</word>
+      </functor>
+      <argument>
+         <word id="1">artikel</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">over</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">een</word>
+      </functor>
+      <argument>
+         <word id="5">rivier</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

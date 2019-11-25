@@ -1,0 +1,80 @@
+<semantics id="wiki-208.p.63.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">zorgde</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">vanaf</word>
+               </functor>
+               <argument>
+                  <word id="7">1834</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">een</word>
+               </functor>
+               <argument>
+                  <word id="5">spoorwegnet</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Ook</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">aanleg</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">economische</word>
+      </functor>
+      <argument>
+         <word id="11">impulsen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

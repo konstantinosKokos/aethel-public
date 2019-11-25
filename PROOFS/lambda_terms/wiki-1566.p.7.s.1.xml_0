@@ -1,0 +1,178 @@
+<semantics id="wiki-1566.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">in</word>
+   </functor>
+   <argument>
+      <word id="9">Amerika</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Aan</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">dertiger</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">de</word>
+                  </functor>
+                  <argument>
+                     <word id="6">jaren</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">het</word>
+            </functor>
+            <argument>
+               <word id="2">eind</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">ontstonden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="17">daarin</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">met</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="22">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="24">terugkerende</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="23">bepaalde</word>
+                              </functor>
+                              <argument>
+                                 <word id="25">hoofdfiguren</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="18">fantastische</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="20">of</word>
+                              </functor>
+                              <argument>
+                                 <word id="19">verhalen</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="21">avonturen</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">goedkope</word>
+               </functor>
+               <argument>
+                  <word id="15">boekjes</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">eigenlijke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">eerst</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">de</word>
+                  </functor>
+                  <argument>
+                     <word id="13">comics</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

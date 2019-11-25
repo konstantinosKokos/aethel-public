@@ -1,0 +1,52 @@
+<semantics id="wiki-5.p.29.s.23.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">verzamelen</word>
+      </functor>
+      <argument>
+         <word id="0">Ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">professionele</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">kleine</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">een</word>
+            </functor>
+            <argument>
+               <word id="5">staf</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">rondom</word>
+   </functor>
+   <argument>
+      <word id="7">zich</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,52 @@
+<semantics id="WR-P-E-J-0000000020.p.5.s.2.xml_0">
+<appl>
+<functor>
+   <word id="0">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">enigszins</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">draaien</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">de</word>
+                  </functor>
+                  <argument>
+                     <word id="3">rollen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="5">om</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

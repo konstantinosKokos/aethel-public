@@ -1,0 +1,24 @@
+<semantics id="wiki-138.p.64.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">van</word>
+   </functor>
+   <argument>
+      <word id="3">Brussel</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Interactieve</word>
+   </functor>
+   <argument>
+      <word id="1">kaart</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

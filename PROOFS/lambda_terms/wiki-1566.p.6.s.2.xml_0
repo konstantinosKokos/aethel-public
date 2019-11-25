@@ -1,0 +1,66 @@
+<semantics id="wiki-1566.p.6.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">waren</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Ook</word>
+      </functor>
+      <argument>
+         <word id="1">deze</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">verhogen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">de</word>
+               </functor>
+               <argument>
+                  <word id="7">omzet</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">voornamelijk</word>
+      </functor>
+      <argument>
+         <word id="4">bedoeld</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

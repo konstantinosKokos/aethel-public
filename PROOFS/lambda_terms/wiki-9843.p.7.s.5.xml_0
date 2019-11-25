@@ -1,0 +1,133 @@
+<semantics id="wiki-9843.p.7.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">en</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">eerst</word>
+               </functor>
+               <argument>
+                  <word id="5">even</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="1">las</word>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="2">het</word>
+                     </functor>
+                     <argument>
+                        <word id="3">magazine</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="6">door</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <lambda varid="1">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">per</word>
+            </functor>
+            <argument>
+               <word id="11">toeval</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">toen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="8">stuitte</word>
+                  </functor>
+                  <argument>
+                     <var id="1" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">op</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="15">over</word>
+                        </functor>
+                        <argument>
+                           <word id="16">strips</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="13">een</word>
+                        </functor>
+                        <argument>
+                           <word id="14">artikel</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Vandersteen</word>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,73 @@
+<semantics id="WR-P-E-J-0000000001.p.3.s.5.xml_3">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">heb</word>
+   </functor>
+   <argument>
+      <word id="2">ik</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">kunnen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">eigen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">mijn</word>
+               </functor>
+               <argument>
+                  <word id="8">ogen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">in</word>
+            </functor>
+            <argument>
+               <word id="4">Pakistan</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">vaststellen</word>
+            </functor>
+            <argument>
+               <word id="0">dat</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

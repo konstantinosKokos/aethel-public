@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000008.p.55.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">Op</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">Marino KEULEN</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">Vlaams</word>
+            </functor>
+            <argument>
+               <word id="4">minister</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">voorstel</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

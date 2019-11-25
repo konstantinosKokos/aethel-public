@@ -1,0 +1,138 @@
+<semantics id="WR-P-E-J-0000000020.p.5.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">moet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">de</word>
+      </functor>
+      <argument>
+         <word id="1">Europese Commissie</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">zélf</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">steeds</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">bij</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">elk</word>
+               </functor>
+               <argument>
+                  <word id="5">voorstel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">aangeven</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">waarom</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="11">volgens</word>
+                        </functor>
+                        <argument>
+                           <word id="12">haar</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <var id="0" debruijn="1"></var>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="15">is</word>
+                              </functor>
+                              <argument>
+                                 <word id="10">het</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="13">in</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <word id="16">met</word>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="17">het</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="18">subsidiariteitsbeginsel</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="14">overeenstemming</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

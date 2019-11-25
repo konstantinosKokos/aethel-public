@@ -1,0 +1,164 @@
+<semantics id="wiki-1541.p.20.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">zonder</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">enige</word>
+      </functor>
+      <argument>
+         <word id="8">twijfel</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">van</word>
+            </functor>
+            <argument>
+               <word id="4">Magritte</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">bekendste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Het</word>
+               </functor>
+               <argument>
+                  <word id="2">werk</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="18">onder</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="21">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="22">een</word>
+                        </functor>
+                        <argument>
+                           <word id="23">pijp</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="19">de</word>
+                     </functor>
+                     <argument>
+                        <word id="20">afbeelding</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">Ceci n'est pas une pipe</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">geschilderde</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">de</word>
+                     </functor>
+                     <argument>
+                        <word id="16">tekst</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">of</word>
+            </functor>
+            <argument>
+               <word id="12">Het verraad van de voorstelling</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">1928-29</word>
+            </functor>
+            <argument>
+               <word id="9">La Trahison des Images</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

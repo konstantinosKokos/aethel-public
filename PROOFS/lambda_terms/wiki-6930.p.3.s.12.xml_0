@@ -1,0 +1,73 @@
+<semantics id="wiki-6930.p.3.s.12.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">dergelijke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">een</word>
+         </functor>
+         <argument>
+            <word id="4">commissie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">zonder</word>
+      </functor>
+      <argument>
+         <word id="9">succes</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">meerdere</word>
+         </functor>
+         <argument>
+            <word id="7">malen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">reeds</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Voorheen</word>
+            </functor>
+            <argument>
+               <word id="10">gevorderd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

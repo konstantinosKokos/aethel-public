@@ -1,0 +1,80 @@
+<semantics id="wiki-3781.p.3.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">en</word>
+      </functor>
+      <argument>
+         <word id="4">sociologisch</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="6">demografisch</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">valt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">inwijkelingen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="1">groep</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">grote</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">vier</word>
+               </functor>
+               <argument>
+                  <word id="11">groepen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">uiteen</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

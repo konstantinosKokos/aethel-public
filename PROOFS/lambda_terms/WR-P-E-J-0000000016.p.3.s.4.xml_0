@@ -1,0 +1,192 @@
+<semantics id="WR-P-E-J-0000000016.p.3.s.4.xml_0">
+<appl>
+<functor>
+   <word id="7">is</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="25">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="26">21</word>
+         </functor>
+         <argument>
+            <word id="27">werkgroepen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="22">rond</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="23">8</word>
+            </functor>
+            <argument>
+               <word id="24">thema's</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">door</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="12">uit</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="19">en</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="13">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="14">bedrijfswereld</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="15">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="16">middenveld</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="17">de</word>
+                           </functor>
+                           <argument>
+                              <word id="18">universiteiten</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="20">overheid</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">bijna</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">300</word>
+                     </functor>
+                     <argument>
+                        <word id="11">deelnemers</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="0">Op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="6">maanden</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">een</word>
+                        </functor>
+                        <argument>
+                           <word id="5">viertal</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="1">relatief</word>
+                        </functor>
+                        <argument>
+                           <word id="2">korte</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="3">tijd</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="21">samengewerkt</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,157 @@
+<semantics id="wiki-135.p.28.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="17">en</word>
+         </functor>
+         <argument>
+            <word id="15">traag</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="16">onwillig</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="19">slechts</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="18">vaak</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="20">na</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="21">lang</word>
+               </functor>
+               <argument>
+                  <word id="22">aandringen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="14">echter</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">verliep</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="8">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="11">en</word>
+                           </functor>
+                           <argument>
+                              <word id="9">overheid</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="10">scholing</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="12">rechtspraak</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="6">van</word>
+                     </functor>
+                     <argument>
+                        <word id="7">taalgroepen</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">gelijke</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="3">de</word>
+                        </functor>
+                        <argument>
+                           <word id="5">rechten</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">toepassing</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

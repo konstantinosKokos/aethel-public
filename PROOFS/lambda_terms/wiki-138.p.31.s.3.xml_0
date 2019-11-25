@@ -1,0 +1,38 @@
+<semantics id="wiki-138.p.31.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">Franstalige</word>
+            </functor>
+            <argument>
+               <word id="2">zanger</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="3">componist</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="5">acteur</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Jacques Brel</word>
+</argument>
+</appl>
+</semantics>

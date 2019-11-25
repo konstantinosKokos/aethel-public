@@ -1,0 +1,31 @@
+<semantics id="wiki-3745.p.27.s.1.xml_0">
+<appl>
+<functor>
+   <word id="2">er</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Verder</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">de</word>
+         </functor>
+         <argument>
+            <word id="4">Muziek-O-Droom</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

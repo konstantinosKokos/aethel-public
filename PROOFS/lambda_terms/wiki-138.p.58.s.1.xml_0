@@ -1,0 +1,150 @@
+<semantics id="wiki-138.p.58.s.1.xml_0">
+<appl>
+<functor>
+   <word id="5">ten slotte</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">zorgt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">uitgebreid</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Een</word>
+            </functor>
+            <argument>
+               <word id="2">busnetwerk</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">voor</word>
+         </functor>
+         <argument>
+            <word id="4">er</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">dat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="18">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">openbaar</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="19">het</word>
+                     </functor>
+                     <argument>
+                        <word id="21">vervoer</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="17">is</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="12">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="11">in</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="13">rond</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="14">het</word>
+                           </functor>
+                           <argument>
+                              <word id="15">Brussels Hoofdstedelijk Gewest</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">bijna</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="9">elke</word>
+                           </functor>
+                           <argument>
+                              <word id="10">plek</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="16">bereikbaar</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,66 @@
+<semantics id="wiki-889.p.22.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">adellijke</word>
+            </functor>
+            <argument>
+               <word id="5">gunsten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">het</word>
+         </functor>
+         <argument>
+            <word id="2">verlenen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">de</word>
+         </functor>
+         <argument>
+            <word id="8">vorst</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="9">modern</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

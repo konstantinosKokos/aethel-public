@@ -1,0 +1,147 @@
+<semantics id="wiki-737.p.8.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">waarin</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <word id="7">ook</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <var id="0" debruijn="1"></var>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="10">deed</word>
+                           </functor>
+                           <argument>
+                              <word id="6">Hergé</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="8">nauwgezet</word>
+                           </functor>
+                           <argument>
+                              <word id="9">onderzoek</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="11">naar</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="14">waarin</word>
+                              </functor>
+                              <argument>
+                                 <lambda varid="1">
+                                    <appl>
+                                    <functor>
+                                       <var id="1" debruijn="1"></var>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <appl>
+                                          <functor>
+                                             <word id="18">afspeelde</word>
+                                          </functor>
+                                          <argument>
+                                             <appl>
+                                             <functor>
+                                                <word id="15">zijn</word>
+                                             </functor>
+                                             <argument>
+                                                <word id="16">verhalen</word>
+                                             </argument>
+                                             </appl>
+                                          </argument>
+                                          </appl>
+                                       </functor>
+                                       <argument>
+                                          <word id="17">zich</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </lambda>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="12">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="13">wereld</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">eerste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">het</word>
+            </functor>
+            <argument>
+               <word id="4">album</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Dit</word>
+</argument>
+</appl>
+</semantics>

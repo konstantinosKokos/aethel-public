@@ -1,0 +1,45 @@
+<semantics id="WR-P-E-J-0000000021.head.1.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">roept</word>
+      </functor>
+      <argument>
+         <word id="0">Bourgeois</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">tot</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">Vlaanderen - Noord-Frankrijk</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">betere</word>
+            </functor>
+            <argument>
+               <word id="5">spoorverbindingen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="2">op</word>
+</argument>
+</appl>
+</semantics>

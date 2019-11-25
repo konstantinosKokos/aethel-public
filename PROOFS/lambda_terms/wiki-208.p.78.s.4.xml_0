@@ -1,0 +1,143 @@
+<semantics id="wiki-208.p.78.s.4.xml_0">
+<appl>
+<functor>
+   <word id="19">snel</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="14">na</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">van</word>
+            </functor>
+            <argument>
+               <word id="18">1941</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">de</word>
+            </functor>
+            <argument>
+               <word id="16">winter</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Na</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">aanvankelijk</word>
+               </functor>
+               <argument>
+                  <word id="3">aarzelend</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">een</word>
+               </functor>
+               <argument>
+                  <word id="4">begin</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">breidde</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="7">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="8">bij</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="9">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="10">begin</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="11">ontstane</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">de</word>
+                     </functor>
+                     <argument>
+                        <word id="12">verzetsbeweging</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="13">zich</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="20">uit</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

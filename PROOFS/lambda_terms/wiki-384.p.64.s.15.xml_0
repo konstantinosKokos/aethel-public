@@ -1,0 +1,31 @@
+<semantics id="wiki-384.p.64.s.15.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">kabinet-Van Agt III</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">van</word>
+         </functor>
+         <argument>
+            <word id="3">Volkshuisvesting en Ruimtelijke Ordening</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="1">minister</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Erwin Nypels</word>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,59 @@
+<semantics id="wiki-89.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <word id="2">uiteindelijk</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">leiden</word>
+      </functor>
+      <argument>
+         <word id="0">Fusiegesprekken</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">tot</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">het</word>
+               </functor>
+               <argument>
+                  <word id="8">ABVV</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">het</word>
+            </functor>
+            <argument>
+               <word id="5">ontstaan</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

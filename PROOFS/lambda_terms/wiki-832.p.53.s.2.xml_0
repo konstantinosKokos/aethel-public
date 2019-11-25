@@ -1,0 +1,80 @@
+<semantics id="wiki-832.p.53.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">heeft</word>
+   </functor>
+   <argument>
+      <word id="6">hij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">de</word>
+      </functor>
+      <argument>
+         <word id="10">muren</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Uitermate</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="3">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">egocentrisch</word>
+                     </functor>
+                     <argument>
+                        <word id="2">ingesteld</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="4">hooghartig</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">opgejaagd</word>
+            </functor>
+            <argument>
+               <word id="8">velen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

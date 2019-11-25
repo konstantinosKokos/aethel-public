@@ -1,0 +1,73 @@
+<semantics id="wiki-1652.p.20.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">in</word>
+   </functor>
+   <argument>
+      <word id="1">2000</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">was</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">de</word>
+         </functor>
+         <argument>
+            <word id="4">partij</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">nog</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">8</word>
+               </functor>
+               <argument>
+                  <word id="10">%</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">de</word>
+         </functor>
+         <argument>
+            <word id="6">5de</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

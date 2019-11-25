@@ -1,0 +1,59 @@
+<semantics id="wiki-9844.p.46.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">bestond</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Elk</word>
+      </functor>
+      <argument>
+         <word id="1">verhaal</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">uit</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">22</word>
+            </functor>
+            <argument>
+               <word id="8">minuten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">vijf</word>
+         </functor>
+         <argument>
+            <word id="5">afleveringen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,133 @@
+<semantics id="WR-P-E-J-0000000014.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="12">en</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">is</word>
+               </functor>
+               <argument>
+                  <var id="0" debruijn="1"></var>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">reeds</word>
+               </functor>
+               <argument>
+                  <word id="11">opgesteld</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <lambda varid="1">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">zal</word>
+            </functor>
+            <argument>
+               <var id="1" debruijn="1"></var>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">worden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">eerstdaags</word>
+               </functor>
+               <argument>
+                  <word id="16">aanbesteed</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">voor</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="8">woningen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="5">afbraak</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Ook</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">het</word>
+         </functor>
+         <argument>
+            <word id="2">bestek</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

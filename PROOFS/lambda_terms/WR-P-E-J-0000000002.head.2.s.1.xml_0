@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000002.head.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">lokaal</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">het</word>
+         </functor>
+         <argument>
+            <word id="5">bestuur</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Grotere</word>
+   </functor>
+   <argument>
+      <word id="1">betrokkenheid</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

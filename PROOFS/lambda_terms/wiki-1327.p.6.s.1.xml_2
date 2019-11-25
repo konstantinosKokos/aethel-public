@@ -1,0 +1,17 @@
+<semantics id="wiki-1327.p.6.s.1.xml_2">
+<appl>
+<functor>
+   <word id="0">in</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">ruimere</word>
+   </functor>
+   <argument>
+      <word id="2">zin</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

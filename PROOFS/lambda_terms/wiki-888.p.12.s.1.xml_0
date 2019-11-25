@@ -1,0 +1,31 @@
+<semantics id="wiki-888.p.12.s.1.xml_0">
+<appl>
+<functor>
+   <word id="4">zijn</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="3">verhalen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="0">Hoofdpersonages</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

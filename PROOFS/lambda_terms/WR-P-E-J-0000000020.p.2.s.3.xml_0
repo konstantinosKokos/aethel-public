@@ -1,0 +1,31 @@
+<semantics id="WR-P-E-J-0000000020.p.2.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">zetten</word>
+      </functor>
+      <argument>
+         <word id="0">Zij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">Europese</word>
+      </functor>
+      <argument>
+         <word id="3">regelgeving</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="4">om</word>
+</argument>
+</appl>
+</semantics>

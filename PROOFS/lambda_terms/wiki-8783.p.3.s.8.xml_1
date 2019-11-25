@@ -1,0 +1,45 @@
+<semantics id="wiki-8783.p.3.s.8.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">Europese</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="6">marathon</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">zilveren</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Een</word>
+      </functor>
+      <argument>
+         <word id="2">medaille</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

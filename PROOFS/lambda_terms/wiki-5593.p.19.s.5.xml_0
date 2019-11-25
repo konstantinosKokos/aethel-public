@@ -1,0 +1,143 @@
+<semantics id="wiki-5593.p.19.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">bestond</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">zonder</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">de</word>
+            </functor>
+            <argument>
+               <word id="4">CVP</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">coalitie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">uit</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="20">Verhofstadt I</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="18">het</word>
+                  </functor>
+                  <argument>
+                     <word id="19">kabinet</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">paars-groene</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">zgn.</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">de</word>
+                  </functor>
+                  <argument>
+                     <word id="16">coalitie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">en</word>
+                  </functor>
+                  <argument>
+                     <word id="9">liberalen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="10">socialisten</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="12">groenen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">drie</word>
+            </functor>
+            <argument>
+               <word id="8">partijen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

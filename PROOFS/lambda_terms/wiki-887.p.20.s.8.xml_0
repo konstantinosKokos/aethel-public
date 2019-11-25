@@ -1,0 +1,31 @@
+<semantics id="wiki-887.p.20.s.8.xml_0">
+<appl>
+<functor>
+   <word id="0">Opnieuw</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">delft</word>
+      </functor>
+      <argument>
+         <word id="2">Kim</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">het</word>
+      </functor>
+      <argument>
+         <word id="4">onderspit</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

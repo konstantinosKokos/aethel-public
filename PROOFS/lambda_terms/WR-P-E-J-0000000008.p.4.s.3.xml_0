@@ -1,0 +1,187 @@
+<semantics id="WR-P-E-J-0000000008.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">zal</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Oostenrijkse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="2">groep</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">in</word>
+      </functor>
+      <argument>
+         <word id="5">2005</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">investeren</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">waarvan</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="25">gaat</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="17">van</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="18">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="19">investeringen</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="15">grootste</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <var id="0" debruijn="1"></var>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="14">het</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="16">deel</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="20">naar</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="23">in</word>
+                              </functor>
+                              <argument>
+                                 <word id="24">Beerse</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="21">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="22">fabriek</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">euro</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">ongeveer</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">28</word>
+                     </functor>
+                     <argument>
+                        <word id="8">miljoen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">in</word>
+         </functor>
+         <argument>
+            <word id="12">België</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

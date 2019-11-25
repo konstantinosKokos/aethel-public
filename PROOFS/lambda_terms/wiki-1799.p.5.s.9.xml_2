@@ -1,0 +1,38 @@
+<semantics id="wiki-1799.p.5.s.9.xml_2">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">werden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">zo'n</word>
+         </functor>
+         <argument>
+            <word id="1">150.000</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">exemplaren</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">verkocht</word>
+   </functor>
+   <argument>
+      <word id="4">ervan</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

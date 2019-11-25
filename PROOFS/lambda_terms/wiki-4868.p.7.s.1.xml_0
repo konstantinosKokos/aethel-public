@@ -1,0 +1,31 @@
+<semantics id="wiki-4868.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <word id="1">1830</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">keren</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">de</word>
+      </functor>
+      <argument>
+         <word id="4">kansen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

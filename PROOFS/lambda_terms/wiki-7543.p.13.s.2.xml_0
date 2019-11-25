@@ -1,0 +1,262 @@
+<semantics id="wiki-7543.p.13.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="20">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">achter</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="17">nog</word>
+                  </functor>
+                  <argument>
+                     <word id="18">steeds</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">namelijk</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="15">is</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="13">Margaretha van Parma's</word>
+                           </functor>
+                           <argument>
+                              <word id="14">huis</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="19">intact</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">het</word>
+               </functor>
+               <argument>
+                  <word id="12">Huis van Parma</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">van</word>
+            </functor>
+            <argument>
+               <word id="6">oudsher</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">ligt</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">kleinere</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">een</word>
+                     </functor>
+                     <argument>
+                        <word id="9">markt</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Naast</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">grote</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">de</word>
+                     </functor>
+                     <argument>
+                        <word id="3">markt</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="29">jarenlang</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="28">was</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="25">tussen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="26">beide</word>
+                  </functor>
+                  <argument>
+                     <word id="27">markten</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="23">gapende</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="22">brede</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="21">de</word>
+                     </functor>
+                     <argument>
+                        <word id="24">doorgang</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="32">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="35">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="36">de</word>
+                     </functor>
+                     <argument>
+                        <word id="37">gemeente</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="33">het</word>
+                  </functor>
+                  <argument>
+                     <word id="34">oog</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="30">een</word>
+            </functor>
+            <argument>
+               <word id="31">doorn</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

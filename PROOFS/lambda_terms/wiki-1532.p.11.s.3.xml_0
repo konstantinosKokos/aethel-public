@@ -1,0 +1,38 @@
+<semantics id="wiki-1532.p.11.s.3.xml_0">
+<appl>
+<functor>
+   <word id="0">Samen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">gaan</word>
+      </functor>
+      <argument>
+         <word id="2">ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">wonen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">in</word>
+         </functor>
+         <argument>
+            <word id="4">Amsterdam</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

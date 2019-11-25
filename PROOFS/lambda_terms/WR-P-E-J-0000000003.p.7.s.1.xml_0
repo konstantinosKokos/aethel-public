@@ -1,0 +1,66 @@
+<semantics id="WR-P-E-J-0000000003.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">moeten</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">nieuwe</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="2">normen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">bieden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">pedagogisch-didactisch</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">meer</word>
+            </functor>
+            <argument>
+               <word id="8">comfort</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">de</word>
+      </functor>
+      <argument>
+         <word id="5">scholen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

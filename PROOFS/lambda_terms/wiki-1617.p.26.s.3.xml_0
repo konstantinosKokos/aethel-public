@@ -1,0 +1,24 @@
+<semantics id="wiki-1617.p.26.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">eerste</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Spirits</word>
+      </functor>
+      <argument>
+         <word id="3">voorzitter</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Annemie Vandecasteele</word>
+</argument>
+</appl>
+</semantics>

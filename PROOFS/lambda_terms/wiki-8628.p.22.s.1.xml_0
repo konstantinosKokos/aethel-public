@@ -1,0 +1,73 @@
+<semantics id="wiki-8628.p.22.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">werd</word>
+   </functor>
+   <argument>
+      <word id="5">bier</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">spontane</word>
+         </functor>
+         <argument>
+            <word id="10">gisting</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">enkel</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Tot</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">14e</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">de</word>
+                  </functor>
+                  <argument>
+                     <word id="3">eeuw</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">gebrouwen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

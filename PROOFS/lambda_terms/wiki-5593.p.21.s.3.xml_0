@@ -1,0 +1,59 @@
+<semantics id="wiki-5593.p.21.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Bij</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <word id="4">2000</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">de</word>
+         </functor>
+         <argument>
+            <word id="2">gemeenteraadsverkiezingen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">zette</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">enig</word>
+         </functor>
+         <argument>
+            <word id="7">herstel</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="8">in</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

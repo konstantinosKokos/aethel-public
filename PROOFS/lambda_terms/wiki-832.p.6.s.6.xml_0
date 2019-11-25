@@ -1,0 +1,101 @@
+<semantics id="wiki-832.p.6.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">toen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">was</word>
+         </functor>
+         <argument>
+            <word id="3">Ensor</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">27</word>
+               </functor>
+               <argument>
+                  <word id="5">jaar</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">op</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">creatieve</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">zijn</word>
+                        </functor>
+                        <argument>
+                           <word id="14">periode</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">het</word>
+                  </functor>
+                  <argument>
+                     <word id="10">toppunt</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">stierf</word>
+   </functor>
+   <argument>
+      <word id="0">Hij</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

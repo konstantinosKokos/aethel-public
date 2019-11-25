@@ -1,0 +1,101 @@
+<semantics id="wiki-208.p.54.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">vanwege</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">Nederlandstalige</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">een</word>
+         </functor>
+         <argument>
+            <word id="14">politiek</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">echt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">niet</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">het</word>
+               </functor>
+               <argument>
+                  <word id="7">koninkrijk</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="3">voelden</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="0">Vooral</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="1">de</word>
+                        </functor>
+                        <argument>
+                           <word id="2">Walen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="4">zich</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="10">thuis</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

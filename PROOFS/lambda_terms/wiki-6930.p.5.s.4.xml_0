@@ -1,0 +1,24 @@
+<semantics id="wiki-6930.p.5.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">Red. E. Stols &amp; E. Waegemans</word>
+      </functor>
+      <argument>
+         <word id="2">Montagne Russe</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Een Belgisch expeditiekorps in Rusland</word>
+</argument>
+</appl>
+</semantics>

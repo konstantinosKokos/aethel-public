@@ -1,0 +1,73 @@
+<semantics id="WR-P-E-J-0000000001.p.8.s.5.xml_0">
+<appl>
+<functor>
+   <word id="6">dagelijks</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">en</word>
+            </functor>
+            <argument>
+               <word id="1">gezondheidsposten</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">veldziekenhuizen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">verzorgen</word>
+         </functor>
+         <argument>
+            <word id="5">ze</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">medische</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">meer dan</word>
+               </functor>
+               <argument>
+                  <word id="8">1000</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="10">consultaties</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

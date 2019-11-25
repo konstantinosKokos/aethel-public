@@ -1,0 +1,66 @@
+<semantics id="wiki-1550.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">Ronde van Vlaanderen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">in</word>
+      </functor>
+      <argument>
+         <word id="9">Vlaanderen</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">voor</word>
+         </functor>
+         <argument>
+            <word id="7">beroepsrenners</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">jaarlijkse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">een</word>
+            </functor>
+            <argument>
+               <word id="5">wielerwedstrijd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

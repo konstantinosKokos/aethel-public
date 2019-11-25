@@ -1,0 +1,38 @@
+<semantics id="wiki-9720.p.44.s.5.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <word id="0">bekering</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">voor</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">verder</word>
+         </functor>
+         <argument>
+            <word id="5">herstel</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">voorwaarde</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

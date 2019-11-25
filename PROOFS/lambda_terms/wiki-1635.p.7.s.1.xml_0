@@ -1,0 +1,115 @@
+<semantics id="wiki-1635.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">Frank Vandenbroucke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">Vlaams</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">vooral</word>
+            </functor>
+            <argument>
+               <word id="8">vice-minister-president</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Naast</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">en</word>
+               </functor>
+               <argument>
+                  <word id="1">Vande Lanotte</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="2">Janssens</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">Stevaert</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">erkend</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">als</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="14">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">de</word>
+                  </functor>
+                  <argument>
+                     <word id="16">partij</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">een</word>
+               </functor>
+               <argument>
+                  <word id="13">kopstuk</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,73 @@
+<semantics id="wiki-1532.p.7.s.8.xml_0">
+<appl>
+<functor>
+   <word id="0">Momenteel</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">hoort</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">het</word>
+         </functor>
+         <argument>
+            <word id="3">beeld</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">tot</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">Brusselse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">het</word>
+                  </functor>
+                  <argument>
+                     <word id="10">Koninklijke Museum voor Schone Kunsten</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="6">verzameling</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,124 @@
+<semantics id="wiki-1609.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">van</word>
+         </functor>
+         <argument>
+            <word id="3">Tervuren</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">School</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">die</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">omheen</word>
+               </functor>
+               <argument>
+                  <word id="16">Hippolyte Boulanger</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="12">te</word>
+                  </functor>
+                  <argument>
+                     <word id="13">Tervuren</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="10">rond</word>
+                     </functor>
+                     <argument>
+                        <word id="11">1870</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="14">vormde</word>
+                        </functor>
+                        <argument>
+                           <var id="0" debruijn="1"></var>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="9">zich</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">schilders</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">een</word>
+         </functor>
+         <argument>
+            <word id="6">groep</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

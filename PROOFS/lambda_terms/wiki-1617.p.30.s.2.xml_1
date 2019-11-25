@@ -1,0 +1,24 @@
+<semantics id="wiki-1617.p.30.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">van</word>
+   </functor>
+   <argument>
+      <word id="3">Spirit</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">het</word>
+   </functor>
+   <argument>
+      <word id="1">70-puntenplan</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

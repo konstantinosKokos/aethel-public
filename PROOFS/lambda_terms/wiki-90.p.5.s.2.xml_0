@@ -1,0 +1,80 @@
+<semantics id="wiki-90.p.5.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">maken</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">uit</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">verschillende</word>
+                  </functor>
+                  <argument>
+                     <word id="5">sectoren</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="1">en</word>
+                  </functor>
+                  <argument>
+                     <word id="0">Arbeiders</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="2">bedienden</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="7">deel</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">dezelfde</word>
+         </functor>
+         <argument>
+            <word id="11">organisatie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="8">uit</word>
+</argument>
+</appl>
+</semantics>

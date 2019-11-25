@@ -1,0 +1,24 @@
+<semantics id="wiki-1327.p.24.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">Antwerpen</word>
+   </functor>
+   <argument>
+      <word id="2">provincie</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Officiële</word>
+   </functor>
+   <argument>
+      <word id="1">website</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

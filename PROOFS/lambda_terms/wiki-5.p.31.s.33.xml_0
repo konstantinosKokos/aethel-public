@@ -1,0 +1,101 @@
+<semantics id="wiki-5.p.31.s.33.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">onder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">Leuvense</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">de</word>
+            </functor>
+            <argument>
+               <word id="14">studenten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="10">allereerst</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">als</word>
+      </functor>
+      <argument>
+         <word id="9">Jong-Agalev</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">apart</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">In</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">dezelfde</word>
+               </functor>
+               <argument>
+                  <word id="2">periode</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">organiseren</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">de</word>
+                  </functor>
+                  <argument>
+                     <word id="5">jongeren</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">zich</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

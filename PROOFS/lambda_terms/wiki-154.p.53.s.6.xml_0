@@ -1,0 +1,73 @@
+<semantics id="wiki-154.p.53.s.6.xml_0">
+<appl>
+<functor>
+   <word id="3">decennialang</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">weigerden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Vele</word>
+         </functor>
+         <argument>
+            <word id="1">gemeentebesturen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">richten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">Vlaamse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">gemeentelijke</word>
+                     </functor>
+                     <argument>
+                        <word id="7">bibliotheken</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="8">op</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

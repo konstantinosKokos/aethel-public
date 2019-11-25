@@ -1,0 +1,45 @@
+<semantics id="wiki-135.p.123.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">vele</word>
+      </functor>
+      <argument>
+         <word id="3">sporten</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">in</word>
+      </functor>
+      <argument>
+         <word id="6">België</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Er</word>
+      </functor>
+      <argument>
+         <word id="4">beoefend</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

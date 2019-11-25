@@ -1,0 +1,24 @@
+<semantics id="wiki-342.p.5.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">elektronica</word>
+      </functor>
+      <argument>
+         <word id="2">ingenieur</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">diploma</word>
+</argument>
+</appl>
+</semantics>

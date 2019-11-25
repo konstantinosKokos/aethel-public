@@ -1,0 +1,52 @@
+<semantics id="wiki-11.p.26.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">speelden</word>
+      </functor>
+      <argument>
+         <word id="0">Joden</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">belangrijke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">een</word>
+         </functor>
+         <argument>
+            <word id="4">rol</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">de</word>
+      </functor>
+      <argument>
+         <word id="7">diamanthandel</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

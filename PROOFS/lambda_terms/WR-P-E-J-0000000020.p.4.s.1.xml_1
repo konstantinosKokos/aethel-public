@@ -1,0 +1,17 @@
+<semantics id="WR-P-E-J-0000000020.p.4.s.1.xml_1">
+<appl>
+<functor>
+   <word id="1">Europese</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">de</word>
+   </functor>
+   <argument>
+      <word id="2">instellingen</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

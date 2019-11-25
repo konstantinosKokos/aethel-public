@@ -1,0 +1,59 @@
+<semantics id="wiki-3781.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">en</word>
+                  </functor>
+                  <argument>
+                     <word id="2">Leuven</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="3">Vilvoorde</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="4">Halle</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="5">Tienen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="6">Diest</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="8">Aarschot</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Belangrijkste</word>
+   </functor>
+   <argument>
+      <word id="1">steden</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

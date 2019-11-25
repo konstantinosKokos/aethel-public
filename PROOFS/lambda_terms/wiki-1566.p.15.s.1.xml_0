@@ -1,0 +1,138 @@
+<semantics id="wiki-1566.p.15.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">bevindt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">dat</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="9">is</word>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">geheel</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">gewijd</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">aan</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="13">van</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <word id="14">voornamelijk</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="15">Belgische</word>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <appl>
+                                          <functor>
+                                             <word id="17">en</word>
+                                          </functor>
+                                          <argument>
+                                             <word id="16">striptekenaars</word>
+                                          </argument>
+                                          </appl>
+                                       </functor>
+                                       <argument>
+                                          <word id="18">-scenaristen</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="11">het</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="12">werk</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">het</word>
+            </functor>
+            <argument>
+               <word id="5">Museum van het Beeldverhaal</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">zich</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <word id="1">Brussel</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

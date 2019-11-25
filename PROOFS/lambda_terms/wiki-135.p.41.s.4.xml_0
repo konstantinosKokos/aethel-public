@@ -1,0 +1,17 @@
+<semantics id="wiki-135.p.41.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">Namen</word>
+   </functor>
+   <argument>
+      <word id="1">hoofdstad</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Namen</word>
+</argument>
+</appl>
+</semantics>

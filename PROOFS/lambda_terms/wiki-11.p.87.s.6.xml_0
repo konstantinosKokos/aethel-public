@@ -1,0 +1,24 @@
+<semantics id="wiki-11.p.87.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">sinds</word>
+   </functor>
+   <argument>
+      <word id="3">13 juni 1997</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">Spanje</word>
+   </functor>
+   <argument>
+      <word id="0">Barcelona</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,157 @@
+<semantics id="wiki-3745.p.18.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="14">op initiatief van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="22">Patricia Ceysens</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="18">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="20">en</word>
+                  </functor>
+                  <argument>
+                     <word id="19">economie</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="21">egovernment</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">toenmalige</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">de</word>
+               </functor>
+               <argument>
+                  <word id="17">minister</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">werd</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">I-City</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">vzw</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">in samenwerking met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">Vlaamse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">de</word>
+                     </functor>
+                     <argument>
+                        <word id="13">regering</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">verschillende</word>
+               </functor>
+               <argument>
+                  <word id="9">ICT-bedrijven</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">in</word>
+            </functor>
+            <argument>
+               <word id="5">2004</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="6">opgericht</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

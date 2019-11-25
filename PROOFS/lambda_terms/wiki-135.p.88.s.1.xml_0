@@ -1,0 +1,150 @@
+<semantics id="wiki-135.p.88.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <word id="0">België</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">aan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">het</word>
+            </functor>
+            <argument>
+               <word id="12">hoofd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="21">Albert II</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">momenteel</word>
+                  </functor>
+                  <argument>
+                     <word id="20">koning</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="16">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">Leopold I</word>
+                     </functor>
+                     <argument>
+                        <word id="17">Koning</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">rechtstreeks</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">een</word>
+                     </functor>
+                     <argument>
+                        <word id="15">afstammeling</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">federaal</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">een</word>
+               </functor>
+               <argument>
+                  <word id="4">land</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">constitutionele</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">een</word>
+            </functor>
+            <argument>
+               <word id="8">monarchie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

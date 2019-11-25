@@ -1,0 +1,45 @@
+<semantics id="wiki-1541.p.6.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">had</word>
+   </functor>
+   <argument>
+      <word id="0">Hij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">en</word>
+         </functor>
+         <argument>
+            <word id="4">Raymond</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="6">Paul</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">twee</word>
+      </functor>
+      <argument>
+         <word id="3">broers</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

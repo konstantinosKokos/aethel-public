@@ -1,0 +1,59 @@
+<semantics id="wiki-866.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">wordt</word>
+   </functor>
+   <argument>
+      <word id="0">Justine Henin</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">wel</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">ook</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">door</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">haar</word>
+               </functor>
+               <argument>
+                  <word id="4">supporters</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">genoemd</word>
+            </functor>
+            <argument>
+               <word id="7">Juju</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

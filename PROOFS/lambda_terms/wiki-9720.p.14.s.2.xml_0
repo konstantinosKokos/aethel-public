@@ -1,0 +1,73 @@
+<semantics id="wiki-9720.p.14.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">werden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Sommige</word>
+      </functor>
+      <argument>
+         <word id="1">panelen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">of</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">ooit</word>
+               </functor>
+               <argument>
+                  <word id="4">verkocht</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="5">ontvreemd</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">overlangs</word>
+         </functor>
+         <argument>
+            <word id="7">doorgezaagd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">zelfs</word>
+      </functor>
+      <argument>
+         <word id="10">gegijzeld</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

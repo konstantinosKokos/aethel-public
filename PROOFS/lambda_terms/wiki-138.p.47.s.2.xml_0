@@ -1,0 +1,59 @@
+<semantics id="wiki-138.p.47.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">en</word>
+         </functor>
+         <argument>
+            <word id="1">Brussel-Kapellekerk</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="3">-Congres</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">stoppen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">enkel</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">een</word>
+            </functor>
+            <argument>
+               <word id="7">paar</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">stoptreinen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

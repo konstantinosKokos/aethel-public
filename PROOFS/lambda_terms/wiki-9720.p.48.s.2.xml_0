@@ -1,0 +1,108 @@
+<semantics id="wiki-9720.p.48.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">de</word>
+      </functor>
+      <argument>
+         <word id="6">sibillen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">in</word>
+      </functor>
+      <argument>
+         <word id="9">cycli</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">vaak</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">In</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">beeldende</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">de</word>
+                  </functor>
+                  <argument>
+                     <word id="3">kunst</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">afgebeeld</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">als</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="14">de</word>
+                        </functor>
+                        <argument>
+                           <word id="15">profeten</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="12">tegenhangers</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

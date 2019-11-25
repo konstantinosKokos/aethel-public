@@ -1,0 +1,24 @@
+<semantics id="WR-P-E-J-0000000008.p.40.s.1.xml_2">
+<appl>
+<functor>
+   <word id="0">aan</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">Feniks-Unite</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">de</word>
+      </functor>
+      <argument>
+         <word id="2">vzw</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

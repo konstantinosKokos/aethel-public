@@ -1,0 +1,122 @@
+<semantics id="wiki-3828.p.9.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">doch</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Af en toe</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">zijn</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="4">met</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">seksuele</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="5">een</word>
+                        </functor>
+                        <argument>
+                           <word id="7">ondertoon</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="3">dialogen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="16">nooit</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">vermits</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">is</word>
+               </functor>
+               <argument>
+                  <word id="12">het</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">een</word>
+               </functor>
+               <argument>
+                  <word id="14">familieserie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">worden</word>
+            </functor>
+            <argument>
+               <word id="9">deze</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="17">expliciet</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

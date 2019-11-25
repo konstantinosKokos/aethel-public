@@ -1,0 +1,38 @@
+<semantics id="wiki-1823.p.28.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">langs</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">Franstalige</word>
+      </functor>
+      <argument>
+         <word id="5">kant</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">bestaan</word>
+      </functor>
+      <argument>
+         <word id="0">Ze</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

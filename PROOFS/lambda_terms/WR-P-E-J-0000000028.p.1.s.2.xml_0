@@ -1,0 +1,101 @@
+<semantics id="WR-P-E-J-0000000028.p.1.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">heeft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Vlaamse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="2">Regering</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="13">daarvoor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">vandaag</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">goedgekeurd</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">Frank VANDENBROUCKE</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="8">van</word>
+                        </functor>
+                        <argument>
+                           <word id="11">Onderwijs</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="9">minister</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">concrete</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">de</word>
+                  </functor>
+                  <argument>
+                     <word id="7">plannen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,66 @@
+<semantics id="wiki-5.p.29.s.14.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">had</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">het</word>
+            </functor>
+            <argument>
+               <word id="5">provincieraadslid</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Vooral</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">verkiezing</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">hoge</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">een</word>
+      </functor>
+      <argument>
+         <word id="9">symboolwaarde</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

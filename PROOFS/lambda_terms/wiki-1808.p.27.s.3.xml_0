@@ -1,0 +1,129 @@
+<semantics id="wiki-1808.p.27.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">besliste</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">de</word>
+      </functor>
+      <argument>
+         <word id="11">partijtop</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="17">te</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="12">ook</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="1">na</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="4">bij</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="7">van</word>
+                           </functor>
+                           <argument>
+                              <word id="8">2006</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="5">de</word>
+                           </functor>
+                           <argument>
+                              <word id="6">gemeenteraadsverkiezingen</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="2">de</word>
+                     </functor>
+                     <argument>
+                        <word id="3">verkiezingsnederlaag</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="0">Dadelijk</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="18">zetten</word>
+               </functor>
+               <argument>
+                  <word id="13">Jean-Marie Dedecker</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">uit</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">de</word>
+                  </functor>
+                  <argument>
+                     <word id="16">partij</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

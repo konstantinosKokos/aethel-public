@@ -1,0 +1,73 @@
+<semantics id="wiki-1808.p.22.s.10.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">Vlaamse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">de</word>
+            </functor>
+            <argument>
+               <word id="10">regering</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">en</word>
+                  </functor>
+                  <argument>
+                     <word id="3">Binnenlandse Zaken</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="4">Wonen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">Inburgering</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="1">minister</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Marino Keulen</word>
+</argument>
+</appl>
+</semantics>

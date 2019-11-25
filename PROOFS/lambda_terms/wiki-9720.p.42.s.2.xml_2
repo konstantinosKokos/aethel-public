@@ -1,0 +1,59 @@
+<semantics id="wiki-9720.p.42.s.2.xml_2">
+<appl>
+<functor>
+   <word id="4">daarentegen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">als</word>
+      </functor>
+      <argument>
+         <word id="1">evangelist</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">is</word>
+         </functor>
+         <argument>
+            <word id="3">hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">met</word>
+            </functor>
+            <argument>
+               <word id="8">baard</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">een</word>
+            </functor>
+            <argument>
+               <word id="6">grijsaard</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

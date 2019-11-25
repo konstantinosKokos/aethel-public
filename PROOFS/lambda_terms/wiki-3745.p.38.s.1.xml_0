@@ -1,0 +1,136 @@
+<semantics id="wiki-3745.p.38.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">de</word>
+      </functor>
+      <argument>
+         <word id="2">Grenslandhallen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">beschikt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">stad</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">over</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="18">en</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="11">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="10">nationale</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="12">internationale</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="15">of</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="13">sport-</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="14">cultuur-</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="16">muziekevenementen</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="17">congressen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="19">beurzen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">een</word>
+            </functor>
+            <argument>
+               <word id="8">accommodatie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

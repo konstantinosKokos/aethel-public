@@ -1,0 +1,73 @@
+<semantics id="wiki-1532.p.6.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">tot</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">moest</word>
+         </functor>
+         <argument>
+            <word id="7">hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">worden</word>
+         </functor>
+         <argument>
+            <word id="8">soldaat</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">nauwelijks</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="1">hield</word>
+               </functor>
+               <argument>
+                  <word id="0">Hij</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="2">het</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">er</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">uit</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

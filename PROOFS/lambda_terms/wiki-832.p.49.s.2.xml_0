@@ -1,0 +1,59 @@
+<semantics id="wiki-832.p.49.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">frappant</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Een</word>
+         </functor>
+         <argument>
+            <word id="2">voorbeeld</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">1888</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">De staking</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">gekleurde</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="6">tekening</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

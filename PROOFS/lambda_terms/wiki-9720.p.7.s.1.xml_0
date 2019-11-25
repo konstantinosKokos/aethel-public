@@ -1,0 +1,129 @@
+<semantics id="wiki-9720.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">verwijst</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Dit</word>
+      </functor>
+      <argument>
+         <word id="1">thema</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">naar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">Joodse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">oude</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">de</word>
+               </functor>
+               <argument>
+                  <word id="7">gewoonte</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">om</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">te</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="9">middels</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">een</word>
+                           </functor>
+                           <argument>
+                              <word id="11">zoenoffer</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="15">bevrijden</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="12">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="13">volk</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="16">van</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="17">zijn</word>
+                              </functor>
+                              <argument>
+                                 <word id="18">zonden</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

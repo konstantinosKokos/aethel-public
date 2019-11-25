@@ -1,0 +1,115 @@
+<semantics id="wiki-154.p.53.s.8.xml_0">
+<appl>
+<functor>
+   <word id="11">altijd</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">niet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">heeft</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">Brusselse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">de</word>
+                     </functor>
+                     <argument>
+                        <word id="8">gemeenten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">sociale</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">lokale</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="0">Ook</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="1">het</word>
+                        </functor>
+                        <argument>
+                           <word id="4">beleid</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">Nederlandstalige</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">de</word>
+                  </functor>
+                  <argument>
+                     <word id="16">inwoners</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="12">oog</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

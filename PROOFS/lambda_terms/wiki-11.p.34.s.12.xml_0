@@ -1,0 +1,24 @@
+<semantics id="wiki-11.p.34.s.12.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">voor</word>
+   </functor>
+   <argument>
+      <word id="3">beeldhouwkunst</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Middelheim</word>
+   </functor>
+   <argument>
+      <word id="1">openluchtmuseum</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

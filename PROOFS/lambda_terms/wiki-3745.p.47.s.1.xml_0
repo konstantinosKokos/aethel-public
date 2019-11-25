@@ -1,0 +1,59 @@
+<semantics id="wiki-3745.p.47.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">Hasseltse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">nieuwe</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">de</word>
+            </functor>
+            <argument>
+               <word id="6">gevangenis</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Op</word>
+      </functor>
+      <argument>
+         <word id="1">1 februari 2005</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">genomen</word>
+      </functor>
+      <argument>
+         <word id="7">in gebruik</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

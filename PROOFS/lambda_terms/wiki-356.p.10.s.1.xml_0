@@ -1,0 +1,108 @@
+<semantics id="wiki-356.p.10.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Op</word>
+   </functor>
+   <argument>
+      <word id="1">20 november 1997</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">wordt</word>
+            </functor>
+            <argument>
+               <word id="3">Agnes Pandy</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">aangehouden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">na</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">rond</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">het</word>
+                  </functor>
+                  <argument>
+                     <word id="13">gerechtsgebouw</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">een</word>
+               </functor>
+               <argument>
+                  <word id="10">wandeling</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">bekent</word>
+            </functor>
+            <argument>
+               <word id="7">ze</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">vijf</word>
+            </functor>
+            <argument>
+               <word id="15">moorden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

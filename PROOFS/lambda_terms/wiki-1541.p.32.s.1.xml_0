@@ -1,0 +1,17 @@
+<semantics id="wiki-1541.p.32.s.1.xml_0">
+<appl>
+<functor>
+   <word id="2">Brussel</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">Esseghemstraat 135</word>
+   </functor>
+   <argument>
+      <word id="0">Magritte Museum</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

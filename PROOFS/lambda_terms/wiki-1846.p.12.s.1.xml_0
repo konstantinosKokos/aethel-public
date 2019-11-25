@@ -1,0 +1,80 @@
+<semantics id="wiki-1846.p.12.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Kort</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">na</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">het</word>
+         </functor>
+         <argument>
+            <word id="3">referendum</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">hield</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">30,18%</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">Niet splitsen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">de</word>
+                  </functor>
+                  <argument>
+                     <word id="6">groep</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">te</word>
+         </functor>
+         <argument>
+            <word id="11">bestaan</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="9">op</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,80 @@
+<semantics id="wiki-7064.p.48.s.3.xml_0">
+<appl>
+<functor>
+   <word id="0">Bovendien</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">waren</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">de</word>
+               </functor>
+               <argument>
+                  <word id="3">verantwoordelijkheden</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">versnipperd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">nauwelijks</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">er</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">was</word>
+               </functor>
+               <argument>
+                  <word id="9">sprake</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">van</word>
+               </functor>
+               <argument>
+                  <word id="11">coördinatie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

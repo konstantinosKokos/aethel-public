@@ -1,0 +1,66 @@
+<semantics id="wiki-887.p.18.s.31.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">naar</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">finale</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">op weg</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">verslaat</word>
+      </functor>
+      <argument>
+         <word id="0">Ze</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">onder anderen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">en</word>
+            </functor>
+            <argument>
+               <word id="7">Venus Williams</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="9">Maria Sjarapova</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

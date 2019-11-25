@@ -1,0 +1,52 @@
+<semantics id="wiki-9843.p.45.s.1.xml_0">
+<appl>
+<functor>
+   <word id="7">onder andere</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">behoren</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Tot</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">die</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">bedacht</word>
+               </functor>
+               <argument>
+                  <word id="4">Vandersteen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">series</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

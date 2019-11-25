@@ -1,0 +1,68 @@
+<semantics id="wiki-832.p.51.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">kan</word>
+   </functor>
+   <argument>
+      <word id="0">Men</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">voorstellen</word>
+      </functor>
+      <argument>
+         <word id="2">zich</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">hoe</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">werd</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">zijn</word>
+                  </functor>
+                  <argument>
+                     <word id="6">ijdelheid</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <var id="0" debruijn="1"></var>
+               </functor>
+               <argument>
+                  <word id="7">gestreeld</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

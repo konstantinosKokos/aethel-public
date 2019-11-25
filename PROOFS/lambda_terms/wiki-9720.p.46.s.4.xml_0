@@ -1,0 +1,175 @@
+<semantics id="wiki-9720.p.46.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">staan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="2">en</word>
+                  </functor>
+                  <argument>
+                     <lambda varid="0">
+                        <appl>
+                        <functor>
+                           <var id="0" debruijn="1"></var>
+                        </functor>
+                        <argument>
+                           <word id="1">ondergang</word>
+                        </argument>
+                        </appl>
+                     </lambda>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <lambda varid="1">
+                     <appl>
+                     <functor>
+                        <var id="1" debruijn="1"></var>
+                     </functor>
+                     <argument>
+                        <word id="3">ballingschap</word>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="0">Jeruzalems</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">zijn</word>
+                  </functor>
+                  <argument>
+                     <word id="10">prediking</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">het</word>
+               </functor>
+               <argument>
+                  <word id="7">middelpunt</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="14">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">deze</word>
+         </functor>
+         <argument>
+            <word id="13">bedreiging</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">onmiddellijk</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">verbonden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="20">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="21">het</word>
+                     </functor>
+                     <argument>
+                        <word id="22">herstel</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="18">de</word>
+                  </functor>
+                  <argument>
+                     <word id="19">voorzegging</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

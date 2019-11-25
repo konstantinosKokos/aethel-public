@@ -1,0 +1,115 @@
+<semantics id="WR-P-E-J-0000000008.p.38.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="13">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="16">Implementation of a housing component within a municipal structure and provide housing consumer education at municipalities</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">het</word>
+         </functor>
+         <argument>
+            <word id="15">project</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">kent</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">Vlaamse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="0">De</word>
+                  </functor>
+                  <argument>
+                     <word id="2">Regering</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">bijkomende</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">een</word>
+               </functor>
+               <argument>
+                  <word id="6">subsidie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">aan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">in</word>
+               </functor>
+               <argument>
+                  <word id="12">Zuid-Afrika</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">het</word>
+               </functor>
+               <argument>
+                  <word id="10">Department of Housing of KwaZulu Natal</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">toe</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

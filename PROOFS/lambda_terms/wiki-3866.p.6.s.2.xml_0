@@ -1,0 +1,124 @@
+<semantics id="wiki-3866.p.6.s.2.xml_0">
+<appl>
+<functor>
+   <word id="10">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">dan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">zijn</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">die</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="7">zijn</word>
+                        </functor>
+                        <argument>
+                           <var id="0" debruijn="1"></var>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">gevestigd</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="4">in</word>
+                           </functor>
+                           <argument>
+                              <word id="5">Sint-Katelijne-Waver</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">Mechelse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="0">De</word>
+                  </functor>
+                  <argument>
+                     <word id="2">Veilingen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">van</word>
+            </functor>
+            <argument>
+               <word id="16">Europa</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">coöperatieve</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">grootste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">de</word>
+                  </functor>
+                  <argument>
+                     <word id="14">veiling</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

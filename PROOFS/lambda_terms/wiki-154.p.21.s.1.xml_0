@@ -1,0 +1,129 @@
+<semantics id="wiki-154.p.21.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Volgens</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">het</word>
+            </functor>
+            <argument>
+               <word id="7">Brussels Observatorium voor Gezondheid en Welzijn</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">2006</word>
+            </functor>
+            <argument>
+               <word id="2">recent</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">een</word>
+            </functor>
+            <argument>
+               <word id="4">rapport</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">zijn</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="13">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">het</word>
+                     </functor>
+                     <argument>
+                        <word id="15">Brussels Hoofdstedelijk Gewest</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">de</word>
+                  </functor>
+                  <argument>
+                     <word id="12">inwoners</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="9">46,3%</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="16">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="17">buitenlandse</word>
+         </functor>
+         <argument>
+            <word id="18">oorsprong</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

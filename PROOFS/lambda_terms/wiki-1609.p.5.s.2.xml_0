@@ -1,0 +1,94 @@
+<semantics id="wiki-1609.p.5.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">degelijk</word>
+   </functor>
+   <argument>
+      <word id="2">wel</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">hadden</word>
+         </functor>
+         <argument>
+            <word id="0">Ze</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">contacten</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">andere</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">als</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="12">of</word>
+                           </functor>
+                           <argument>
+                              <word id="9">Louis Artan</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="10">Theodore Tscharner</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="11">François Binjé</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="13">Alfred Verwee</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">realisten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,80 @@
+<semantics id="wiki-9720.p.42.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <word id="0">Johannes de Evangelist/Apostel</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">te</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">herkennen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">aan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">die</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">vasthoudt</word>
+                  </functor>
+                  <argument>
+                     <word id="10">hij</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">met</word>
+                  </functor>
+                  <argument>
+                     <word id="8">slangen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">de</word>
+                  </functor>
+                  <argument>
+                     <word id="6">miskelk</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

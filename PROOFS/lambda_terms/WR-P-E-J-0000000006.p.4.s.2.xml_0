@@ -1,0 +1,164 @@
+<semantics id="WR-P-E-J-0000000006.p.4.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="18">naar</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="21">of</word>
+                        </functor>
+                        <argument>
+                           <word id="19">natuur-</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="20">bos-</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="22">andere</word>
+                     </functor>
+                     <argument>
+                        <word id="23">bestemmingen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="16">agrarische</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="15">de</word>
+                        </functor>
+                        <argument>
+                           <word id="17">bestemming</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">het</word>
+                  </functor>
+                  <argument>
+                     <word id="13">omzetten</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">gewestelijke</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">geen</word>
+            </functor>
+            <argument>
+               <word id="8">initiatieven</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">meer</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">in principe</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">er</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="0">Binnen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">die</word>
+                  </functor>
+                  <argument>
+                     <word id="2">gebieden</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="10">genomen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

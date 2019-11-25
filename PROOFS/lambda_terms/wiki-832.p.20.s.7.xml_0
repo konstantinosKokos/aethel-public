@@ -1,0 +1,80 @@
+<semantics id="wiki-832.p.20.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">en</word>
+               </functor>
+               <argument>
+                  <word id="9">kleur</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="11">licht</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">heldere</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">een</word>
+            </functor>
+            <argument>
+               <word id="7">wereld</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">schildert</word>
+      </functor>
+      <argument>
+         <word id="0">Hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">zijn</word>
+      </functor>
+      <argument>
+         <word id="3">zuster</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

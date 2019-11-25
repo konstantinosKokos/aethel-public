@@ -1,0 +1,66 @@
+<semantics id="wiki-9844.p.14.s.2.xml_0">
+<appl>
+<functor>
+   <word id="0">Zo</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">is</word>
+      </functor>
+      <argument>
+         <word id="2">De junglebloem</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">van</word>
+               </functor>
+               <argument>
+                  <word id="9">Rudyard Kipling</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="7">The Jungle Book</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">gedeeltelijke</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">een</word>
+            </functor>
+            <argument>
+               <word id="5">hervertelling</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

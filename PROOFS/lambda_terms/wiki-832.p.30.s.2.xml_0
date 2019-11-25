@@ -1,0 +1,164 @@
+<semantics id="wiki-832.p.30.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">niet</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">was</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Zijn</word>
+               </functor>
+               <argument>
+                  <word id="1">zolderatelier</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">genoeg</word>
+            </functor>
+            <argument>
+               <word id="4">hoog</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">moest</word>
+      </functor>
+      <argument>
+         <word id="7">hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="15">terwijl</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="22">blijft</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">onderste</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="16">het</word>
+                     </functor>
+                     <argument>
+                        <word id="18">gedeelte</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="23">liggen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">op</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="20">de</word>
+                     </functor>
+                     <argument>
+                        <word id="21">grond</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">spijkeren</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">het</word>
+               </functor>
+               <argument>
+                  <word id="10">doek</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">aan</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">de</word>
+               </functor>
+               <argument>
+                  <word id="14">muur</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

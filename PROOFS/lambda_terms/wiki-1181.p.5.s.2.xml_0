@@ -1,0 +1,31 @@
+<semantics id="wiki-1181.p.5.s.2.xml_0">
+<appl>
+<functor>
+   <word id="0">Zoals</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">plastisch</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">uitdrukt</word>
+         </functor>
+         <argument>
+            <word id="1">Bart de Wever</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">het</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,89 @@
+<semantics id="wiki-3781.p.3.s.4.xml_8">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">die</word>
+   </functor>
+   <argument>
+      <lambda varid="0">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">hebben</word>
+            </functor>
+            <argument>
+               <var id="0" debruijn="1"></var>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">eerst</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">ook</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">vaak</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">gewoond</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">in</word>
+                        </functor>
+                        <argument>
+                           <word id="9">Brussel</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">en</word>
+         </functor>
+         <argument>
+            <word id="0">Noord-Afrikaanse</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">Turkse</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">immigranten</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

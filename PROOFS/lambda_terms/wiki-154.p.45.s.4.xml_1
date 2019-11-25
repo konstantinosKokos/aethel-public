@@ -1,0 +1,45 @@
+<semantics id="wiki-154.p.45.s.4.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">en</word>
+         </functor>
+         <argument>
+            <word id="0">financiën</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="1">begroting</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">openbaar</word>
+      </functor>
+      <argument>
+         <word id="3">ambt</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">externe</word>
+   </functor>
+   <argument>
+      <word id="6">betrekkingen</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

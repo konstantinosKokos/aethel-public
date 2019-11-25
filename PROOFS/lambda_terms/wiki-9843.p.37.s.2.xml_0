@@ -1,0 +1,80 @@
+<semantics id="wiki-9843.p.37.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">op</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">de</word>
+      </functor>
+      <argument>
+         <word id="11">beeldbuis</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">zelfs</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">In</word>
+            </functor>
+            <argument>
+               <word id="1">1955</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">volgde</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">primitieve</word>
+                  </functor>
+                  <argument>
+                     <word id="8">filmpjes</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">een</word>
+                  </functor>
+                  <argument>
+                     <word id="6">reeks</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

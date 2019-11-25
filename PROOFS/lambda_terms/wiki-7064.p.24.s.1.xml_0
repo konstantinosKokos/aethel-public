@@ -1,0 +1,136 @@
+<semantics id="wiki-7064.p.24.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">binnen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">geïntegreerde</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="9">politie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">niveau</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">wordt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">lokale</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="2">politie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">VCLP</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="15">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">lokale</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="16">de</word>
+                        </functor>
+                        <argument>
+                           <word id="18">politie</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">vaste</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">de</word>
+                     </functor>
+                     <argument>
+                        <word id="14">commissie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="10">vertegenwoordigd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

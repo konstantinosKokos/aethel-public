@@ -1,0 +1,59 @@
+<semantics id="wiki-889.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Op</word>
+   </functor>
+   <argument>
+      <word id="1">2 juli 1959</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">trouwde</word>
+      </functor>
+      <argument>
+         <word id="3">Albert</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">Italiaanse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">een</word>
+               </functor>
+               <argument>
+                  <word id="8">Prinses</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="5">Donna Paola Ruffo di Calabria</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,45 @@
+<semantics id="wiki-415.p.5.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">werd</word>
+   </functor>
+   <argument>
+      <word id="3">Kettenis</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <word id="1">1977</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">gevoegd</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">bij</word>
+         </functor>
+         <argument>
+            <word id="5">Eupen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

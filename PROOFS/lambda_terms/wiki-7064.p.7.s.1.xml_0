@@ -1,0 +1,101 @@
+<semantics id="wiki-7064.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">Samen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">dragen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">beide</word>
+         </functor>
+         <argument>
+            <word id="3">ministers</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">de</word>
+                  </functor>
+                  <argument>
+                     <word id="14">politie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">de</word>
+                     </functor>
+                     <argument>
+                        <word id="8">organisatie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">het</word>
+                  </functor>
+                  <argument>
+                     <word id="11">bestuur</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">verantwoordelijkheid</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

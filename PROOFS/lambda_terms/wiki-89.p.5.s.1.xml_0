@@ -1,0 +1,129 @@
+<semantics id="wiki-89.p.5.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">tijdens</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">rond</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="17">en</word>
+                     </functor>
+                     <argument>
+                        <word id="16">1960</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="18">1961</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">beruchte</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">de</word>
+                  </functor>
+                  <argument>
+                     <word id="14">Eenheidswet</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">de</word>
+         </functor>
+         <argument>
+            <word id="10">agitatie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">er</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">was</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">het</word>
+               </functor>
+               <argument>
+                  <word id="5">ABVV</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">opmerkelijke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Een</word>
+               </functor>
+               <argument>
+                  <word id="2">rol</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

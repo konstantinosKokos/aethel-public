@@ -1,0 +1,73 @@
+<semantics id="WR-P-E-J-0000000010.p.3.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">zal</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">de</word>
+      </functor>
+      <argument>
+         <word id="4">Vlaming</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Via</word>
+         </functor>
+         <argument>
+            <word id="1">spots</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">oproepen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">tot</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">en</word>
+                  </functor>
+                  <argument>
+                     <word id="8">solidariteit</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="10">giften</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,101 @@
+<semantics id="wiki-5593.p.13.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">onder leiding van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">en</word>
+               </functor>
+               <argument>
+                  <word id="10">Tindemans</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="11">Martens</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="12">Paul Vanden Boeynants</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="14">Mark Eyskens</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">er</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Tussen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">en</word>
+               </functor>
+               <argument>
+                  <word id="1">1977</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="3">1981</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">zijn</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">verschillende</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">8</word>
+               </functor>
+               <argument>
+                  <word id="8">regeringen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,24 @@
+<semantics id="wiki-1566.p.19.s.1.xml_2">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">van</word>
+      </functor>
+      <argument>
+         <word id="3">AOL-Time-Warner</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">onderdeel</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">tegenwoordig</word>
+</argument>
+</appl>
+</semantics>

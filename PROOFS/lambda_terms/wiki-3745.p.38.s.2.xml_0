@@ -1,0 +1,59 @@
+<semantics id="wiki-3745.p.38.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">omvat</word>
+   </functor>
+   <argument>
+      <word id="0">De grenslandhallen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">geschikt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">voor</word>
+         </functor>
+         <argument>
+            <word id="8">beurzen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">Hal 4</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">grote</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">een</word>
+            </functor>
+            <argument>
+               <word id="4">hal</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

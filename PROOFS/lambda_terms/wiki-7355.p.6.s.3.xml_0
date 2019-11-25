@@ -1,0 +1,189 @@
+<semantics id="wiki-7355.p.6.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">bestaat</word>
+   </functor>
+   <argument>
+      <word id="0">Ze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">erin</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">dat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">worden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">prominenten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">een</word>
+                  </functor>
+                  <argument>
+                     <word id="6">aantal</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">jaarlijks</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">uitgenodigd</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">om</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">te</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="15">drinken</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="16">waarin</word>
+                              </functor>
+                              <argument>
+                                 <lambda varid="0">
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <word id="20">dat</word>
+                                       </functor>
+                                       <argument>
+                                          <lambda varid="1">
+                                             <appl>
+                                             <functor>
+                                                <appl>
+                                                <functor>
+                                                   <word id="22">moet</word>
+                                                </functor>
+                                                <argument>
+                                                   <var id="1" debruijn="1"></var>
+                                                </argument>
+                                                </appl>
+                                             </functor>
+                                             <argument>
+                                                <appl>
+                                                <functor>
+                                                   <word id="24">worden</word>
+                                                </functor>
+                                                <argument>
+                                                   <appl>
+                                                   <functor>
+                                                      <word id="21">alzo</word>
+                                                   </functor>
+                                                   <argument>
+                                                      <word id="23">doorgeslikt</word>
+                                                   </argument>
+                                                   </appl>
+                                                </argument>
+                                                </appl>
+                                             </argument>
+                                             </appl>
+                                          </lambda>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="18">levend</word>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <var id="0" debruijn="1"></var>
+                                          </functor>
+                                          <argument>
+                                             <appl>
+                                             <functor>
+                                                <word id="17">een</word>
+                                             </functor>
+                                             <argument>
+                                                <word id="19">visje</word>
+                                             </argument>
+                                             </appl>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </lambda>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="13">wijn</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="11">een</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="12">glas</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

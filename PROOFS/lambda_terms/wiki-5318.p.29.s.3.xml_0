@@ -1,0 +1,108 @@
+<semantics id="wiki-5318.p.29.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Een</word>
+         </functor>
+         <argument>
+            <word id="1">poging</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">om</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">vluchten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">naar</word>
+                  </functor>
+                  <argument>
+                     <word id="4">Amerika</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">omdat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">hadden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">de</word>
+               </functor>
+               <argument>
+                  <word id="11">Engelsen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">afgegrendeld</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">alle</word>
+               </functor>
+               <argument>
+                  <word id="13">havens</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="8">verijdeld</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

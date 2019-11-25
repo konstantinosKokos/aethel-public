@@ -1,0 +1,73 @@
+<semantics id="wiki-8628.p.22.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">onder invloed van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">technologische</word>
+      </functor>
+      <argument>
+         <word id="10">vernieuwingen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">verder</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">20e</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">de</word>
+               </functor>
+               <argument>
+                  <word id="3">eeuw</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">evolueerde</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">het</word>
+            </functor>
+            <argument>
+               <word id="6">brouwproces</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

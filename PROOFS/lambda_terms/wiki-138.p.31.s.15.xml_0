@@ -1,0 +1,52 @@
+<semantics id="wiki-138.p.31.s.15.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">de</word>
+         </functor>
+         <argument>
+            <word id="7">Smurfen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">geestelijke</word>
+      </functor>
+      <argument>
+         <word id="4">vader</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">striptekenaar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Pierre Culliford</word>
+      </functor>
+      <argument>
+         <word id="0">Peyo</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

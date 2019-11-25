@@ -1,0 +1,101 @@
+<semantics id="wiki-7298.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">50</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">eerste</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="3">jaar</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">bouwde</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">de</word>
+               </functor>
+               <argument>
+                  <word id="6">scheepswerf</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">houten</word>
+            </functor>
+            <argument>
+               <word id="8">schepen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">werkten</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">slechts</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">enkele</word>
+               </functor>
+               <argument>
+                  <word id="14">werknemers</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

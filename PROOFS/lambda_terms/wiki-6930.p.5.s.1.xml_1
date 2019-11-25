@@ -1,0 +1,17 @@
+<semantics id="wiki-6930.p.5.s.1.xml_1">
+<appl>
+<functor>
+   <word id="1">laatste</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">De</word>
+   </functor>
+   <argument>
+      <word id="2">communisten</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

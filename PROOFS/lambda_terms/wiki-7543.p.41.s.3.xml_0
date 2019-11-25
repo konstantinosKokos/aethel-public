@@ -1,0 +1,38 @@
+<semantics id="wiki-7543.p.41.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">in</word>
+   </functor>
+   <argument>
+      <word id="5">1976</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">haalde</word>
+      </functor>
+      <argument>
+         <word id="0">SP</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">16,7</word>
+      </functor>
+      <argument>
+         <word id="3">%</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

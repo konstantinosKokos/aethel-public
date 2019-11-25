@@ -1,0 +1,17 @@
+<semantics id="wiki-11.p.63.s.1.xml_0">
+<appl>
+<functor>
+   <word id="2">VLD</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">Leo Delwaide</word>
+   </functor>
+   <argument>
+      <word id="0">Baron</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,101 @@
+<semantics id="wiki-9843.p.26.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">al</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">een</word>
+         </functor>
+         <argument>
+            <word id="5">paar</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="6">jaar</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">liep</word>
+            </functor>
+            <argument>
+               <word id="0">Vandersteen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">het</word>
+                  </functor>
+                  <argument>
+                     <word id="10">idee</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">te</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">maken</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="11">een</word>
+                        </functor>
+                        <argument>
+                           <word id="12">ridderstrip</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="7">rond</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

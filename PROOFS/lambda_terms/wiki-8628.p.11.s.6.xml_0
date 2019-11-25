@@ -1,0 +1,143 @@
+<semantics id="wiki-8628.p.11.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">wordt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Dit</word>
+            </functor>
+            <argument>
+               <word id="1">beslag</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">klaren</word>
+         </functor>
+         <argument>
+            <word id="3">gefilterd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">worden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">achterblijvende</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="8">bestanddelen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">om</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="19">kunnen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">ook</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="20">gebruiken</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="16">laatste</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="15">de</word>
+                           </functor>
+                           <argument>
+                              <word id="17">suikers</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">eens</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">nog</word>
+            </functor>
+            <argument>
+               <word id="12">nagespoeld</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,143 @@
+<semantics id="wiki-8628.p.4.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">moet</word>
+   </functor>
+   <argument>
+      <word id="14">gerst</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="19">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">eerst</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">van</word>
+                  </functor>
+                  <argument>
+                     <word id="12">bier</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">de</word>
+                  </functor>
+                  <argument>
+                     <word id="10">productie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="0">Omdat</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">nauwelijks</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="2">van</word>
+                        </functor>
+                        <argument>
+                           <word id="3">nature</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="6">bevat</word>
+                           </functor>
+                           <argument>
+                              <word id="1">graan</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="5">suikers</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="20">verwerkt</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">tot</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">suikerrijke</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="16">het</word>
+                        </functor>
+                        <argument>
+                           <word id="18">wort</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,122 @@
+<semantics id="WR-P-E-J-0000000001.p.1.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">betekent</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">ook</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">hoe</word>
+            </functor>
+            <argument>
+               <word id="6">klein</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="4">Vlamingen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Elke</word>
+            </functor>
+            <argument>
+               <word id="1">bijdrage</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="12">voor</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">de</word>
+               </functor>
+               <argument>
+                  <word id="17">aardbeving</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">de</word>
+            </functor>
+            <argument>
+               <word id="14">slachtoffers</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">sprankeltje</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">een</word>
+         </functor>
+         <argument>
+            <word id="11">hoop</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

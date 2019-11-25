@@ -1,0 +1,24 @@
+<semantics id="wiki-384.p.66.s.1.xml_1">
+<appl>
+<functor>
+   <word id="0">Tussen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">en</word>
+      </functor>
+      <argument>
+         <word id="1">ideaal</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">illusie</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

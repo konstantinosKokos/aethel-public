@@ -1,0 +1,17 @@
+<semantics id="wiki-8628.p.29.s.3.xml_0">
+<appl>
+<functor>
+   <word id="2">Centraal Bureau voor de Statistiek</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">Minder bier , meer wijn</word>
+   </functor>
+   <argument>
+      <word id="0">Artikel</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

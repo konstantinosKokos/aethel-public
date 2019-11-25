@@ -1,0 +1,196 @@
+<semantics id="wiki-1400.p.15.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="24">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="25">spoelen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="13">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="17">door</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="20">van</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="21">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="22">hel</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="18">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="19">voorgeborgte</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="15">voorbije</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="14">de</word>
+                           </functor>
+                           <argument>
+                              <word id="16">tocht</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="11">en</word>
+                        </functor>
+                        <argument>
+                           <lambda varid="0">
+                              <appl>
+                              <functor>
+                                 <var id="0" debruijn="1"></var>
+                              </functor>
+                              <argument>
+                                 <word id="10">sporen</word>
+                              </argument>
+                              </appl>
+                           </lambda>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <lambda varid="1">
+                           <appl>
+                           <functor>
+                              <var id="1" debruijn="1"></var>
+                           </functor>
+                           <argument>
+                              <word id="12">ellende</word>
+                           </argument>
+                           </appl>
+                        </lambda>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="9">alle</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="23">weg</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">spoeden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">anderen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="3">zich</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">naar</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">verouderde</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="7">douches</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

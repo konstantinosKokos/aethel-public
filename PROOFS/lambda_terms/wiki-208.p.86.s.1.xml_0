@@ -1,0 +1,255 @@
+<semantics id="wiki-208.p.86.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">Economisch</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">wist</word>
+      </functor>
+      <argument>
+         <word id="2">België</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">door</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="24">en</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="11">o.a.</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="12">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="13">Marshall-plan</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="16">en</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="14">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="15">Benelux</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="18">Europese</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="17">ander</word>
+                              </functor>
+                              <argument>
+                                 <word id="19">verbanden</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="22">van</word>
+                        </functor>
+                        <argument>
+                           <word id="23">1944</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="20">de</word>
+                        </functor>
+                        <argument>
+                           <word id="21">muntsanering</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="27">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="30">en</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="28">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="29">steenkoolproductie</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="35">industriële</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="32">relatief</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="34">gebleven</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="33">intact</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="31">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="36">infrastructuur</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="25">het</word>
+                     </functor>
+                     <argument>
+                        <word id="26">op dreef brengen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">snel</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">herstellen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">de</word>
+                        </functor>
+                        <argument>
+                           <word id="9">oorlog</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="3">zich</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

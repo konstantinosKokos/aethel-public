@@ -1,0 +1,73 @@
+<semantics id="wiki-208.p.72.s.9.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">de</word>
+      </functor>
+      <argument>
+         <word id="2">Eerste Wereldoorlog</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">vluchten</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">Belgen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">grote</word>
+            </functor>
+            <argument>
+               <word id="5">aantalen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">naar</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">neutrale</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">het</word>
+            </functor>
+            <argument>
+               <word id="10">Nederland</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,150 @@
+<semantics id="wiki-737.p.6.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">deze</word>
+      </functor>
+      <argument>
+         <word id="2">stijl</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">worden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="8">of</word>
+                  </functor>
+                  <argument>
+                     <word id="7">schaduwen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="9">kleurverlopen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">of</word>
+                  </functor>
+                  <argument>
+                     <word id="4">niet</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="6">nauwelijks</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="10">gebruikt</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">worden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="14">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">een</word>
+                  </functor>
+                  <argument>
+                     <word id="16">tekening</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="13">elementen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="19">zwarte</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="18">duidelijke</word>
+                  </functor>
+                  <argument>
+                     <word id="20">lijnen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="21">begrensd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

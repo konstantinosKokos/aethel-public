@@ -1,0 +1,59 @@
+<semantics id="wiki-9720.p.44.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">was</word>
+   </functor>
+   <argument>
+      <word id="0">Zacharia</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">kleine</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">twaalf</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">de</word>
+               </functor>
+               <argument>
+                  <word id="8">profeten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">de</word>
+      </functor>
+      <argument>
+         <word id="3">elfde</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

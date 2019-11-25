@@ -1,0 +1,66 @@
+<semantics id="wiki-5593.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">als</word>
+            </functor>
+            <argument>
+               <word id="3">CD&amp;V</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="1">afgekort</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">Christen-Democratisch en Vlaams</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">politieke</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">christendemocratische</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">Vlaamse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">een</word>
+            </functor>
+            <argument>
+               <word id="9">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

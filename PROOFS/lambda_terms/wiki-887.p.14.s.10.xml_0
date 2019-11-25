@@ -1,0 +1,38 @@
+<semantics id="wiki-887.p.14.s.10.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">en</word>
+         </functor>
+         <argument>
+            <word id="3">7-5</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">4-4</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">leidde</word>
+   </functor>
+   <argument>
+      <word id="0">Ze</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

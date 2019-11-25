@@ -1,0 +1,157 @@
+<semantics id="wiki-1823.p.20.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">in vergelijking met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">zoals</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="13">en</word>
+                           </functor>
+                           <argument>
+                              <word id="10">Canada</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="11">Zwitserland</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="12">Duitsland</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">de</word>
+                     </functor>
+                     <argument>
+                        <word id="15">VS</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">federale</word>
+               </functor>
+               <argument>
+                  <word id="8">landen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">andere</word>
+         </functor>
+         <argument>
+            <word id="5">deelstaten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">dus</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">beschikt</word>
+         </functor>
+         <argument>
+            <word id="0">Vlaanderen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">over</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="19">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">minder</word>
+                  </functor>
+                  <argument>
+                     <word id="18">bevoegdheden</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="21">fiscale</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">minder</word>
+                  </functor>
+                  <argument>
+                     <word id="22">autonomie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

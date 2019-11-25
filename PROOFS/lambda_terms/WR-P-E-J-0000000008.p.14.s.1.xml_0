@@ -1,0 +1,94 @@
+<semantics id="WR-P-E-J-0000000008.p.14.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">hecht</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">Vlaamse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="2">Regering</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">principiële</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">haar</word>
+         </functor>
+         <argument>
+            <word id="6">goedkeuring</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">aan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">inzake</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">ambtshalve</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">de</word>
+               </functor>
+               <argument>
+                  <word id="13">concordantie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">het</word>
+         </functor>
+         <argument>
+            <word id="9">besluit</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

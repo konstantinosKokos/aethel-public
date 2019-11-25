@@ -1,0 +1,45 @@
+<semantics id="WR-P-E-J-0000000008.p.56.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">sociale</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">nieuwe</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">een</word>
+            </functor>
+            <argument>
+               <word id="5">huurregeling</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Hiermee</word>
+   </functor>
+   <argument>
+      <word id="6">uitgewerkt</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

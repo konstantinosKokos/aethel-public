@@ -1,0 +1,115 @@
+<semantics id="wiki-5.p.31.s.20.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">elke</word>
+               </functor>
+               <argument>
+                  <word id="12">gemeente</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">activeren</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">een</word>
+               </functor>
+               <argument>
+                  <word id="14">Agalev-groep</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">zelfs</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">komt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">witte</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">heuse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">een</word>
+                     </functor>
+                     <argument>
+                        <word id="6">vlekkenstrategie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">aan</word>
+            </functor>
+            <argument>
+               <word id="0">Er</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="8">te pas</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

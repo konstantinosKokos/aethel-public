@@ -1,0 +1,45 @@
+<semantics id="wiki-135.p.84.s.4.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">en</word>
+         </functor>
+         <argument>
+            <word id="0">bier</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">andere</word>
+         </functor>
+         <argument>
+            <word id="3">dranken</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">ook</word>
+   </functor>
+   <argument>
+      <word id="6">vervaardigd</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

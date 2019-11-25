@@ -1,0 +1,73 @@
+<semantics id="wiki-5.p.31.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">als</word>
+         </functor>
+         <argument>
+            <word id="6">team</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">principiële</word>
+         </functor>
+         <argument>
+            <word id="10">argumenten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">halen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">groenen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">eerder</word>
+      </functor>
+      <argument>
+         <word id="4">stemmen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

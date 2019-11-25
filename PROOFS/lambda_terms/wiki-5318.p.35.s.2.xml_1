@@ -1,0 +1,59 @@
+<semantics id="wiki-5318.p.35.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">over</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">deelnemende</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">alle</word>
+         </functor>
+         <argument>
+            <word id="8">legers</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">over</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">1815</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="4">campagne</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="0">studie</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,108 @@
+<semantics id="wiki-866.p.45.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">duurde</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">Australische</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">de</word>
+                     </functor>
+                     <argument>
+                        <word id="5">hitte</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="1">wedstrijd</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">meer dan</word>
+            </functor>
+            <argument>
+               <word id="8">drie</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="9">uur</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="12">had</word>
+      </functor>
+      <argument>
+         <word id="11">Henin</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="14">van</word>
+         </functor>
+         <argument>
+            <word id="15">spierkrampen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="13">last</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

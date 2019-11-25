@@ -1,0 +1,80 @@
+<semantics id="wiki-737.p.7.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">hadden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">in</word>
+         </functor>
+         <argument>
+            <word id="2">Europa</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">Weinigen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">dat</word>
+         </functor>
+         <argument>
+            <word id="6">moment</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">gehoord</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">ware</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">de</word>
+               </functor>
+               <argument>
+                  <word id="10">toedracht</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

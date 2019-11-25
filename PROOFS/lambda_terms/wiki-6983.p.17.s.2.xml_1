@@ -1,0 +1,45 @@
+<semantics id="wiki-6983.p.17.s.2.xml_1">
+<appl>
+<functor>
+   <word id="0">tevens</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">1992</word>
+            </functor>
+            <argument>
+               <word id="5">december</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">het</word>
+         </functor>
+         <argument>
+            <word id="3">VB-partijblad</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,59 @@
+<semantics id="wiki-5741.p.6.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">grenst</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">Nazareth</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">gemeente</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">aan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">volgende</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">en</word>
+            </functor>
+            <argument>
+               <word id="6">gemeenten</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">deelgemeenten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

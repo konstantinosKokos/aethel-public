@@ -1,0 +1,117 @@
+<semantics id="WR-P-E-J-0000000008.p.16.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">de</word>
+      </functor>
+      <argument>
+         <word id="3">formulieren</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">waardoor</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">moeten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">de</word>
+                  </functor>
+                  <argument>
+                     <word id="12">formulieren</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">worden</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <var id="0" debruijn="1"></var>
+                  </functor>
+                  <argument>
+                     <word id="15">teruggestuurd</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">of</word>
+            </functor>
+            <argument>
+               <word id="6">volledig</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">correct</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">niet</word>
+            </functor>
+            <argument>
+               <word id="5">steeds</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Daarnaast</word>
+            </functor>
+            <argument>
+               <word id="9">ingevuld</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

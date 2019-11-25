@@ -1,0 +1,31 @@
+<semantics id="wiki-7355.p.9.s.1.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">omvat</word>
+   </functor>
+   <argument>
+      <word id="0">Geraardsbergen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">volgende</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">de</word>
+      </functor>
+      <argument>
+         <word id="4">natuurgebieden</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

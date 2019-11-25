@@ -1,0 +1,38 @@
+<semantics id="wiki-1808.p.22.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">Vlaamse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">de</word>
+            </functor>
+            <argument>
+               <word id="5">regering</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">viceminister-president</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Fientje Moerman</word>
+</argument>
+</appl>
+</semantics>

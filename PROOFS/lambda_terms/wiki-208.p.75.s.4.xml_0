@@ -1,0 +1,101 @@
+<semantics id="wiki-208.p.75.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">dertig</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">de</word>
+         </functor>
+         <argument>
+            <word id="13">jaren</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">na</word>
+      </functor>
+      <argument>
+         <word id="10">wereldcrisis</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">al</word>
+         </functor>
+         <argument>
+            <word id="6">snel</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">kwam</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">een</word>
+               </functor>
+               <argument>
+                  <word id="8">einde</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Aan</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">economische</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">deze</word>
+                  </functor>
+                  <argument>
+                     <word id="3">opgang</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

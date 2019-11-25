@@ -1,0 +1,80 @@
+<semantics id="wiki-887.p.18.s.20.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">gaat</word>
+         </functor>
+         <argument>
+            <word id="0">Davenport</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">veel</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">echt</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">niet</word>
+                  </functor>
+                  <argument>
+                     <word id="5">beter</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="6">spelen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">zakt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">Clijsters</word>
+         </functor>
+         <argument>
+            <word id="9">niveau</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="11">weg</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

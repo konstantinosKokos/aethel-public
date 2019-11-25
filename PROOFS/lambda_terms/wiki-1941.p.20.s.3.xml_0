@@ -1,0 +1,173 @@
+<semantics id="wiki-1941.p.20.s.3.xml_0">
+<appl>
+<functor>
+   <word id="2">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">schreef</word>
+      </functor>
+      <argument>
+         <word id="0">Elsschot</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">opgedragen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">aan</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">die</word>
+                  </functor>
+                  <argument>
+                     <lambda varid="0">
+                        <appl>
+                        <functor>
+                           <word id="12">ook</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="23">schreef</word>
+                              </functor>
+                              <argument>
+                                 <var id="0" debruijn="1"></var>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="15">over</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <word id="19">van</word>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <word id="21">Duitse</word>
+                                          </functor>
+                                          <argument>
+                                             <appl>
+                                             <functor>
+                                                <word id="20">de</word>
+                                             </functor>
+                                             <argument>
+                                                <word id="22">Rijksdag</word>
+                                             </argument>
+                                             </appl>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="17">vermeende</word>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <word id="16">deze</word>
+                                          </functor>
+                                          <argument>
+                                             <word id="18">brandstichter</word>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="13">een</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="14">gedicht</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </lambda>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="10">Simon Vestdijk</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">gewijd</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">aan</word>
+               </functor>
+               <argument>
+                  <word id="7">Marinus van der Lubbe</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">een</word>
+            </functor>
+            <argument>
+               <word id="4">gedicht</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

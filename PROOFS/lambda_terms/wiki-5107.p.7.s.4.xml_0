@@ -1,0 +1,66 @@
+<semantics id="wiki-5107.p.7.s.4.xml_0">
+<appl>
+<functor>
+   <word id="6">meteen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">al</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">in</word>
+         </functor>
+         <argument>
+            <word id="4">België</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">kreeg</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Deze</word>
+               </functor>
+               <argument>
+                  <word id="1">blamage</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">communautair</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">een</word>
+               </functor>
+               <argument>
+                  <word id="9">tintje</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

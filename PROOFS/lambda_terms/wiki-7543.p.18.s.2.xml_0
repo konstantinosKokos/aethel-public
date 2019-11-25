@@ -1,0 +1,73 @@
+<semantics id="wiki-7543.p.18.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Van</word>
+   </functor>
+   <argument>
+      <word id="1">oudsher</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">kreeg</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">Pamele-Oudenaarde</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">de</word>
+            </functor>
+            <argument>
+               <word id="4">parochie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">dit</word>
+            </functor>
+            <argument>
+               <word id="10">bedevaartsoord</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">het</word>
+         </functor>
+         <argument>
+            <word id="7">beheer</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

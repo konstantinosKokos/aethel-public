@@ -1,0 +1,66 @@
+<semantics id="wiki-1808.p.7.s.3.xml_0">
+<appl>
+<functor>
+   <word id="4">uitgesproken</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">toen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">behartigde</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">de</word>
+               </functor>
+               <argument>
+                  <word id="9">werkgevers</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="6">belangen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

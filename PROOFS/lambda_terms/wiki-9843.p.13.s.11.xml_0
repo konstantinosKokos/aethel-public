@@ -1,0 +1,24 @@
+<semantics id="wiki-9843.p.13.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">was</word>
+   </functor>
+   <argument>
+      <word id="0">Dat</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">mijn</word>
+   </functor>
+   <argument>
+      <word id="3">geluk</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,143 @@
+<semantics id="WR-P-E-J-0000000030.p.5.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="15">om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="19">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="20">trekken</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">buitenlandse</word>
+               </functor>
+               <argument>
+                  <word id="17">investeringen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="18">aan</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">de</word>
+                     </functor>
+                     <argument>
+                        <word id="9">Europese Unie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">het</word>
+                  </functor>
+                  <argument>
+                     <word id="6">hart</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">centrale</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">zijn</word>
+               </functor>
+               <argument>
+                  <word id="3">ligging</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">beschikt</word>
+         </functor>
+         <argument>
+            <word id="11">Vlaanderen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">over</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">uitstekende</word>
+            </functor>
+            <argument>
+               <word id="14">troeven</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

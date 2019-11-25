@@ -1,0 +1,101 @@
+<semantics id="wiki-889.p.5.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="7">in</word>
+                     </functor>
+                     <argument>
+                        <word id="8">Zwitserland</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="6">vakantie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">dat</word>
+               </functor>
+               <argument>
+                  <word id="4">moment</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">het</word>
+         </functor>
+         <argument>
+            <word id="1">vorstenpaar</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">betrokken</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">bij</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">zwaar</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">een</word>
+            </functor>
+            <argument>
+               <word id="14">verkeersongeluk</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

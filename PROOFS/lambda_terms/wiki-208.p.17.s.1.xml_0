@@ -1,0 +1,145 @@
+<semantics id="wiki-208.p.17.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">waarvan</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">dwars</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">door</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="17">huidige</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="16">het</word>
+                           </functor>
+                           <argument>
+                              <word id="18">België</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <var id="0" debruijn="1"></var>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="19">liep</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">de</word>
+                        </functor>
+                        <argument>
+                           <word id="13">grens</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">het</word>
+         </functor>
+         <argument>
+            <word id="4">rijk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">echter</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <word id="1">639</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">verdeeld</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">en</word>
+                  </functor>
+                  <argument>
+                     <word id="8">Austrasië</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="10">Neustrië</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

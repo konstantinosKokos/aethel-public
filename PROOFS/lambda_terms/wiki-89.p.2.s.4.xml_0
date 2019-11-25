@@ -1,0 +1,38 @@
+<semantics id="wiki-89.p.2.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">staat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">sociaal</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">het</word>
+         </functor>
+         <argument>
+            <word id="5">overleg</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">daarbij</word>
+   </functor>
+   <argument>
+      <word id="0">Centraal</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,262 @@
+<semantics id="WR-P-E-J-0000000015.p.5.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">zijn</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <appl>
+                                          <functor>
+                                             <appl>
+                                             <functor>
+                                                <appl>
+                                                <functor>
+                                                   <appl>
+                                                   <functor>
+                                                      <word id="35">en</word>
+                                                   </functor>
+                                                   <argument>
+                                                      <appl>
+                                                      <functor>
+                                                         <word id="5">bakkerijgrondstoffen</word>
+                                                      </functor>
+                                                      <argument>
+                                                         <word id="4">Algist-Bruggeman</word>
+                                                      </argument>
+                                                      </appl>
+                                                   </argument>
+                                                   </appl>
+                                                </functor>
+                                                <argument>
+                                                   <appl>
+                                                   <functor>
+                                                      <word id="7">zuivel</word>
+                                                   </functor>
+                                                   <argument>
+                                                      <word id="6">Campina</word>
+                                                   </argument>
+                                                   </appl>
+                                                </argument>
+                                                </appl>
+                                             </functor>
+                                             <argument>
+                                                <appl>
+                                                <functor>
+                                                   <word id="9">zuivel</word>
+                                                </functor>
+                                                <argument>
+                                                   <word id="8">Friesland Foods Professionals Belgium</word>
+                                                </argument>
+                                                </appl>
+                                             </argument>
+                                             </appl>
+                                          </functor>
+                                          <argument>
+                                             <appl>
+                                             <functor>
+                                                <word id="11">vleeswaren</word>
+                                             </functor>
+                                             <argument>
+                                                <word id="10">Imperial Meat Products</word>
+                                             </argument>
+                                             </appl>
+                                          </argument>
+                                          </appl>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <word id="13">suikers</word>
+                                          </functor>
+                                          <argument>
+                                             <word id="12">Iscal Sugars</word>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="15">zoetwaren</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="14">Lotus Bakeries</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="17">bakkerij</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="16">Pastridor</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="19">vleeswaren</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="18">Pluma</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="21">bakkerijgrondstoffen</word>
+                              </functor>
+                              <argument>
+                                 <word id="20">Puratos Group</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="23">vruchtensappen</word>
+                           </functor>
+                           <argument>
+                              <word id="22">Sunnyland Distribution</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="25">maalderijen</word>
+                        </functor>
+                        <argument>
+                           <word id="24">Tate and Lyle Europe</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="27">bereide</word>
+                        </functor>
+                        <argument>
+                           <word id="28">maaltijden</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="26">Ter Beke Vleeswarenproductie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="30">suikers</word>
+                  </functor>
+                  <argument>
+                     <word id="29">Tiense Suikerraffinaderij</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="32">aardappelverwerking</word>
+               </functor>
+               <argument>
+                  <word id="31">Van Remoortel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="34">margarine</word>
+            </functor>
+            <argument>
+               <word id="33">Vandemoortele</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="37">zoetwaren</word>
+         </functor>
+         <argument>
+            <word id="36">Vondelmolen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">stichtende</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="2">leden</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

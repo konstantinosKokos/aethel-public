@@ -1,0 +1,66 @@
+<semantics id="wiki-5318.p.13.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Omstreeks</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">'s middags</word>
+      </functor>
+      <argument>
+         <word id="1">1 uur</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">barstte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">deze</word>
+               </functor>
+               <argument>
+                  <word id="8">grand batterie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">het</word>
+            </functor>
+            <argument>
+               <word id="5">bombardement</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="9">los</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

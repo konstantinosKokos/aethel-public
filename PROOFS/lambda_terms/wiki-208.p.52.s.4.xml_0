@@ -1,0 +1,52 @@
+<semantics id="wiki-208.p.52.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">zou</word>
+   </functor>
+   <argument>
+      <word id="0">Luxemburg</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">tevens</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">horen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">bij</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">Duitse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">de</word>
+               </functor>
+               <argument>
+                  <word id="6">Bond</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,157 @@
+<semantics id="wiki-1808.p.26.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">als</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="10">voor</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="13">in</word>
+                        </functor>
+                        <argument>
+                           <word id="14">Antwerpen</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="11">de</word>
+                        </functor>
+                        <argument>
+                           <word id="12">burgemeesterssjerp</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="9">kandidaat</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">door</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">de</word>
+                  </functor>
+                  <argument>
+                     <word id="6">partijtop</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">ooit</word>
+               </functor>
+               <argument>
+                  <word id="7">genoemd</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">Hugo Coveliers</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="15">onder andere</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">om</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">die</word>
+            </functor>
+            <argument>
+               <word id="18">reden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Zo</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="22">gezet</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">uit</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="20">de</word>
+               </functor>
+               <argument>
+                  <word id="21">partij</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

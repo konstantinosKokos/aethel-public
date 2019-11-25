@@ -1,0 +1,73 @@
+<semantics id="WR-P-E-J-0000000026.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">zorgen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">verschillende</word>
+            </functor>
+            <argument>
+               <word id="3">achtergronden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">Mensen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">nieuwe</word>
+               </functor>
+               <argument>
+                  <word id="7">ideeën</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">opvattingen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="10">invalshoeken</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

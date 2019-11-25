@@ -1,0 +1,66 @@
+<semantics id="wiki-1532.p.7.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Datzelfde</word>
+   </functor>
+   <argument>
+      <word id="1">jaar</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">maakt</word>
+      </functor>
+      <argument>
+         <word id="3">Rik</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">in</word>
+         </functor>
+         <argument>
+            <word id="9">gips</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">van</word>
+            </functor>
+            <argument>
+               <word id="7">Tytgat</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">een</word>
+            </functor>
+            <argument>
+               <word id="5">buste</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

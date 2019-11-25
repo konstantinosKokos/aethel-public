@@ -1,0 +1,38 @@
+<semantics id="wiki-3866.p.2.s.2.xml_0">
+<appl>
+<functor>
+   <word id="3">ruim</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">telt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">gemeente</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">19.500</word>
+      </functor>
+      <argument>
+         <word id="5">inwoners</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

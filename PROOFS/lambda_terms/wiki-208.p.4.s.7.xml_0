@@ -1,0 +1,73 @@
+<semantics id="wiki-208.p.4.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">specialiseren</word>
+      </functor>
+      <argument>
+         <word id="0">Anderen</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">bv.</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="6">de</word>
+                     </functor>
+                     <argument>
+                        <word id="7">Michelsberggroep</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="5">handwerknijverheid</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">Spiennes</word>
+               </functor>
+               <argument>
+                  <word id="9">steenindustrie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="2">zich</word>
+</argument>
+</appl>
+</semantics>

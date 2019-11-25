@@ -1,0 +1,66 @@
+<semantics id="WR-P-E-J-0000000018.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">werden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">vier</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="2">verdragen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">onderhandeld</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">als</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">politiek</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">gezamenlijk</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">een</word>
+               </functor>
+               <argument>
+                  <word id="8">pakket</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

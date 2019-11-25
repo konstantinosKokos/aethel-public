@@ -1,0 +1,38 @@
+<semantics id="wiki-889.p.23.s.1.xml_2">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">verschillende</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="4">partijen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">hierin</word>
+   </functor>
+   <argument>
+      <word id="5">gehoord</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

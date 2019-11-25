@@ -1,0 +1,122 @@
+<semantics id="wiki-334.p.11.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">werd</word>
+   </functor>
+   <argument>
+      <word id="3">het</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="14">na</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">langdurig</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">een</word>
+            </functor>
+            <argument>
+               <word id="17">beleg</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">van</word>
+                  </functor>
+                  <argument>
+                     <word id="12">Parma</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">de</word>
+                  </functor>
+                  <argument>
+                     <word id="10">hertog</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">Spaanse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">de</word>
+                  </functor>
+                  <argument>
+                     <word id="8">stadhouder</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">echter</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="0">In</word>
+               </functor>
+               <argument>
+                  <word id="1">1581</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="13">veroverd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

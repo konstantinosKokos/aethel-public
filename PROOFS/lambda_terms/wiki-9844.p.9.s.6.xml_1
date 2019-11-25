@@ -1,0 +1,66 @@
+<semantics id="wiki-9844.p.9.s.6.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">van</word>
+         </functor>
+         <argument>
+            <word id="2">Suske</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">Bet-bet-bet-bet-betovergrootvader</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">Amoras</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">het</word>
+            </functor>
+            <argument>
+               <word id="8">eiland</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">de</word>
+      </functor>
+      <argument>
+         <word id="5">ontdekker</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

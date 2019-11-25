@@ -1,0 +1,150 @@
+<semantics id="wiki-5.p.37.s.12.xml_0">
+<appl>
+<functor>
+   <word id="4">weer</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">dan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">putten</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="1">achterblijvers</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="5">moed</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">uit</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="9">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="13">in</word>
+                           </functor>
+                           <argument>
+                              <word id="14">Europa</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="11">groene</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="10">andere</word>
+                              </functor>
+                              <argument>
+                                 <word id="12">partijen</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">het</word>
+                     </functor>
+                     <argument>
+                        <word id="8">succes</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="18">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="20">Europese</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="19">de</word>
+                        </functor>
+                        <argument>
+                           <word id="21">Groene Partij</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">de</word>
+                  </functor>
+                  <argument>
+                     <word id="17">oprichting</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

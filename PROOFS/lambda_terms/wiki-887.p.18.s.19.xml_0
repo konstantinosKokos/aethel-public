@@ -1,0 +1,80 @@
+<semantics id="wiki-887.p.18.s.19.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">met</word>
+         </functor>
+         <argument>
+            <word id="3">gemak</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">wint</word>
+            </functor>
+            <argument>
+               <word id="0">Clijsters</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">eerste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">de</word>
+               </functor>
+               <argument>
+                  <word id="6">set</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">dan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">gaat</word>
+         </functor>
+         <argument>
+            <word id="10">het</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="11">mis</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

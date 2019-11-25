@@ -1,0 +1,24 @@
+<semantics id="wiki-1941.p.41.s.13.xml_2">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">twee</word>
+      </functor>
+      <argument>
+         <word id="3">bedrijven</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">blijspel</word>
+</argument>
+</appl>
+</semantics>

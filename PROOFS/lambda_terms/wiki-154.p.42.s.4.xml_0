@@ -1,0 +1,94 @@
+<semantics id="wiki-154.p.42.s.4.xml_0">
+<appl>
+<functor>
+   <word id="4">elk</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">beschikken</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">en</word>
+            </functor>
+            <argument>
+               <word id="0">VGC</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="2">COCOF</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">over</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">verkozen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">eigen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">een</word>
+                     </functor>
+                     <argument>
+                        <word id="9">raad</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">eigen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">een</word>
+               </functor>
+               <argument>
+                  <word id="13">bestuur</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

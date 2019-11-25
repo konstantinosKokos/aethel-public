@@ -1,0 +1,108 @@
+<semantics id="WR-P-E-J-0000000029.p.1.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">deze</word>
+               </functor>
+               <argument>
+                  <word id="4">projecten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">verbeteren</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="7">van</word>
+                        </functor>
+                        <argument>
+                           <word id="8">leerlingen</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="5">de</word>
+                        </functor>
+                        <argument>
+                           <word id="6">mobiliteit</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="12">van</word>
+                     </functor>
+                     <argument>
+                        <word id="13">schoolomgevingen</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">de</word>
+                     </functor>
+                     <argument>
+                        <word id="11">veiligheid</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Bedoeling</word>
+</argument>
+</appl>
+</semantics>

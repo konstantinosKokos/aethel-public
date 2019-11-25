@@ -1,0 +1,73 @@
+<semantics id="wiki-8894.p.7.s.2.xml_0">
+<appl>
+<functor>
+   <word id="7">zelfs</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Op</word>
+      </functor>
+      <argument>
+         <word id="1">5 mei 2003</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">stapte</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">Ecolo</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">Waalse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">de</word>
+                  </functor>
+                  <argument>
+                     <word id="5">groenen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">uit</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">de</word>
+            </functor>
+            <argument>
+               <word id="10">regering</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

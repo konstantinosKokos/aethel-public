@@ -1,0 +1,94 @@
+<semantics id="wiki-9844.p.49.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">tot en met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">1976</word>
+      </functor>
+      <argument>
+         <word id="12">december</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">1975</word>
+         </functor>
+         <argument>
+            <word id="9">oktober</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <word id="1">Nederland</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">zond</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">de</word>
+                  </functor>
+                  <argument>
+                     <word id="4">TROS</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">de</word>
+               </functor>
+               <argument>
+                  <word id="6">serie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">uit</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

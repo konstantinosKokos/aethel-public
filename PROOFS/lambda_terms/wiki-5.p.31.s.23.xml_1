@@ -1,0 +1,17 @@
+<semantics id="wiki-5.p.31.s.23.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">minder dan</word>
+   </functor>
+   <argument>
+      <word id="1">1</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="2">procent</word>
+</argument>
+</appl>
+</semantics>

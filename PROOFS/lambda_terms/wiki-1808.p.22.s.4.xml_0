@@ -1,0 +1,24 @@
+<semantics id="wiki-1808.p.22.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">van</word>
+      </functor>
+      <argument>
+         <word id="3">Buitenlandse Zaken</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">minister</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Karel De Gucht</word>
+</argument>
+</appl>
+</semantics>

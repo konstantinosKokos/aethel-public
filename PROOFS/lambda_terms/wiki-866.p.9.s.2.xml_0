@@ -1,0 +1,143 @@
+<semantics id="wiki-866.p.9.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Als</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">is</word>
+               </functor>
+               <argument>
+                  <word id="1">Henin</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="2">vijf</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">begint</word>
+            </functor>
+            <argument>
+               <word id="5">ze</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="8">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">lokale</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="9">de</word>
+                        </functor>
+                        <argument>
+                           <word id="11">tennisclub</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="7">tennissen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="13">al</word>
+      </functor>
+      <argument>
+         <word id="14">snel</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">blijkt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">dat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="20">is</word>
+               </functor>
+               <argument>
+                  <word id="17">ze</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">zeer</word>
+               </functor>
+               <argument>
+                  <word id="19">getalenteerd</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

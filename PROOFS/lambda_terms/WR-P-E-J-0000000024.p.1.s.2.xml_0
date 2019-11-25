@@ -1,0 +1,129 @@
+<semantics id="WR-P-E-J-0000000024.p.1.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">eerste</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">de</word>
+         </functor>
+         <argument>
+            <word id="7">plaats</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">richt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Dit</word>
+            </functor>
+            <argument>
+               <word id="1">seminarie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">tot</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">vrouwelijke</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">potentiële</word>
+                     </functor>
+                     <argument>
+                        <word id="11">ondernemers</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">verder</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">tot</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="17">in</word>
+                     </functor>
+                     <argument>
+                        <word id="18">Vlaanderen</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">alle</word>
+                     </functor>
+                     <argument>
+                        <word id="16">bedrijven</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">zich</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

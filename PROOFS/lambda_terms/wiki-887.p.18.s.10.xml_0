@@ -1,0 +1,143 @@
+<semantics id="wiki-887.p.18.s.10.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">met</word>
+   </functor>
+   <argument>
+      <word id="12">6-3 7-5</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">vaak</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">genoemd</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">vijfde</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">de</word>
+                     </functor>
+                     <argument>
+                        <word id="5">Grand Slam</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="1">Miami</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">wint</word>
+            </functor>
+            <argument>
+               <word id="8">Kim Clijsters</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">de</word>
+            </functor>
+            <argument>
+               <word id="10">finale</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="18">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="19">de</word>
+                     </functor>
+                     <argument>
+                        <word id="20">wereld</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">drie</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">de</word>
+                     </functor>
+                     <argument>
+                        <word id="16">nummer</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">Maria Sjarapova</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,66 @@
+<semantics id="wiki-356.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">en</word>
+            </functor>
+            <argument>
+               <word id="7">Andras</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="9">Ilona</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">eerste</word>
+      </functor>
+      <argument>
+         <word id="5">kind</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">op</word>
+         </functor>
+         <argument>
+            <word id="3">28 januari 1958</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="1">geboren</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="0">Agnes Pandy</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

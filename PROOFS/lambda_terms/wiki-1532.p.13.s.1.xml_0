@@ -1,0 +1,115 @@
+<semantics id="wiki-1532.p.13.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">nauwelijks</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">10</word>
+         </functor>
+         <argument>
+            <word id="3">jaar</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">creëerde</word>
+      </functor>
+      <argument>
+         <word id="5">hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">170</word>
+                     </functor>
+                     <argument>
+                        <word id="7">schilderijen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">35</word>
+                  </functor>
+                  <argument>
+                     <word id="9">sculpturen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">50</word>
+               </functor>
+               <argument>
+                  <word id="11">etsen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">40</word>
+            </functor>
+            <argument>
+               <word id="13">pastels</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="15">1500</word>
+         </functor>
+         <argument>
+            <word id="16">tekeningen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

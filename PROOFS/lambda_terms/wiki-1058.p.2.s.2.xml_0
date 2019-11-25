@@ -1,0 +1,147 @@
+<semantics id="wiki-1058.p.2.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="14">en</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">tussen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="8">en</word>
+                        </functor>
+                        <argument>
+                           <word id="7">Antwerpen</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="9">Brussel</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">grote</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">de</word>
+                        </functor>
+                        <argument>
+                           <word id="6">steden</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">centraal</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="1">ligt</word>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">aan</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="13">Dijle</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="11">de</word>
+                           </functor>
+                           <argument>
+                              <word id="12">rivier</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <lambda varid="1">
+         <appl>
+         <functor>
+            <word id="16">ruim</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">telt</word>
+               </functor>
+               <argument>
+                  <var id="1" debruijn="1"></var>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">78.000</word>
+               </functor>
+               <argument>
+                  <word id="18">inwoners</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Ze</word>
+</argument>
+</appl>
+</semantics>

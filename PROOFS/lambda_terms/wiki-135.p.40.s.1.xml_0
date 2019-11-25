@@ -1,0 +1,45 @@
+<semantics id="wiki-135.p.40.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">telt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">Wallonië</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Ook</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">het</word>
+            </functor>
+            <argument>
+               <word id="2">Waals Gewest</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">5</word>
+   </functor>
+   <argument>
+      <word id="6">provincies</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

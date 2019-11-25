@@ -1,0 +1,38 @@
+<semantics id="wiki-6879.p.7.s.3.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">wilde</word>
+   </functor>
+   <argument>
+      <word id="0">Elisabeth</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">bezorgen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">afleiding</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">haar</word>
+         </functor>
+         <argument>
+            <word id="3">zoon</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

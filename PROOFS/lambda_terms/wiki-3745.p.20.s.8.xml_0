@@ -1,0 +1,157 @@
+<semantics id="wiki-3745.p.20.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">wedijverden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">enz.</word>
+               </functor>
+               <argument>
+                  <word id="5">ambtenaren</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">jeneverstokers</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">rijke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Vele</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="3">en</word>
+                     </functor>
+                     <argument>
+                        <word id="2">families</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="4">renteniers</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">meest</word>
+                  </functor>
+                  <argument>
+                     <word id="12">pompeuze</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">meest</word>
+               </functor>
+               <argument>
+                  <word id="15">opvallende</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">het</word>
+            </functor>
+            <argument>
+               <word id="16">grafmonument</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="17">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="19">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="21">en</word>
+               </functor>
+               <argument>
+                  <word id="20">macht</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="22">fortuin</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="18">blijk</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,271 @@
+<semantics id="wiki-135.p.80.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="15">zijn</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">die</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="4">is</word>
+                        </functor>
+                        <argument>
+                           <var id="0" debruijn="1"></var>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="3">ondertussen</word>
+                        </functor>
+                        <argument>
+                           <word id="5">stopgezet</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="1">mijnbouw</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">en</word>
+                     </functor>
+                     <argument>
+                        <word id="10">staal</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">chemische</word>
+                     </functor>
+                     <argument>
+                        <word id="12">producten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="14">cement</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">de</word>
+            </functor>
+            <argument>
+               <word id="8">productie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="33">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="20">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="22">en</word>
+                           </functor>
+                           <argument>
+                              <word id="21">Samber</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="23">Maas</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">de</word>
+                     </functor>
+                     <argument>
+                        <word id="19">valleien</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="24">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="27">rond</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="31">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="28">Bergen</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="29">Charleroi</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="30">Namen</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="32">Luik</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="25">de</word>
+                  </functor>
+                  <argument>
+                     <word id="26">Borinage</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="34">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="36">Kempisch</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="35">het</word>
+               </functor>
+               <argument>
+                  <word id="37">steenkoolbekken</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="16">geconcentreerd</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

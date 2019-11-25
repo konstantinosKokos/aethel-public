@@ -1,0 +1,101 @@
+<semantics id="wiki-5593.p.25.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">werden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="3">gesprekken</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Uiteindelijk</word>
+         </functor>
+         <argument>
+            <word id="4">hervat</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">werd</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">een</word>
+               </functor>
+               <argument>
+                  <word id="13">kartel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">een</word>
+            </functor>
+            <argument>
+               <word id="10">akkoord</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">op</word>
+         </functor>
+         <argument>
+            <word id="7">14 februari 2004</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="14">ondertekend</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

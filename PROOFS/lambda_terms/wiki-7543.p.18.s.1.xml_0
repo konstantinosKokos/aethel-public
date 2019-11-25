@@ -1,0 +1,101 @@
+<semantics id="wiki-7543.p.18.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">te</word>
+   </functor>
+   <argument>
+      <word id="10">Kerselare</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">bevindt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">ter ere van</word>
+               </functor>
+               <argument>
+                  <word id="14">Onze-Lieve-Vrouw van Kerselare</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">een</word>
+               </functor>
+               <argument>
+                  <word id="12">bedevaartsoord</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="8">zich</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">langs</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">N8 Oudenaarde-Brakel</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">de</word>
+                  </functor>
+                  <argument>
+                     <word id="5">baan</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">Edelareberg</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

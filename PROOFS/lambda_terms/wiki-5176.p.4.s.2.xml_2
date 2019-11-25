@@ -1,0 +1,87 @@
+<semantics id="wiki-5176.p.4.s.2.xml_2">
+<appl>
+<functor>
+   <word id="0">door</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="11">te</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">leggen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">per</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">aldaar</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="5">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="7">Duitse</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="6">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="8">stellingen</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="4">spoor</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">de</word>
+               </functor>
+               <argument>
+                  <word id="2">bevoorrading</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="10">lam</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

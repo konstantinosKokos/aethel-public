@@ -1,0 +1,59 @@
+<semantics id="wiki-8628.p.18.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">heeft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">respecterende</word>
+         </functor>
+         <argument>
+            <word id="1">zichzelf</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Elke</word>
+         </functor>
+         <argument>
+            <word id="3">bierbrouwer</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">gist</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">eigen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">zijn</word>
+         </functor>
+         <argument>
+            <word id="7">type</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

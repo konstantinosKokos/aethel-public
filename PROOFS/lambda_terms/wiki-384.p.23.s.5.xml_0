@@ -1,0 +1,129 @@
+<semantics id="wiki-384.p.23.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">dat</word>
+            </functor>
+            <argument>
+               <word id="2">laatste</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">is</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">en</word>
+                  </functor>
+                  <argument>
+                     <word id="4">openheid</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="6">democratie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">noodzakelijk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">wordt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">oorspronkelijke</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">de</word>
+            </functor>
+            <argument>
+               <word id="13">bestaansgrond</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="15">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">de</word>
+            </functor>
+            <argument>
+               <word id="17">tweede</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">ook</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">daardoor</word>
+            </functor>
+            <argument>
+               <word id="18">geïmpliceerd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

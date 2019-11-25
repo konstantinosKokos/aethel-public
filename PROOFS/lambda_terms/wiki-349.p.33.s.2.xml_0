@@ -1,0 +1,38 @@
+<semantics id="wiki-349.p.33.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">en</word>
+         </functor>
+         <argument>
+            <word id="3">Meyerode</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">Heppenbach</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">Amblève</word>
+   </functor>
+   <argument>
+      <word id="0">Amel</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

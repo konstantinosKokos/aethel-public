@@ -1,0 +1,154 @@
+<semantics id="wiki-356.p.18.s.3.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">en</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="4">bezoekt</word>
+                  </functor>
+                  <argument>
+                     <var id="0" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">haar</word>
+                  </functor>
+                  <argument>
+                     <word id="6">vader</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">de</word>
+                  </functor>
+                  <argument>
+                     <word id="9">cel</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <lambda varid="1">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="17">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">een</word>
+                     </functor>
+                     <argument>
+                        <word id="19">cipier</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">een</word>
+                  </functor>
+                  <argument>
+                     <word id="16">wapen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">schiet</word>
+                  </functor>
+                  <argument>
+                     <var id="1" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="12">hem</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="13">neer</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">Agnes Pandy</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Andras Pandy</word>
+         </functor>
+         <argument>
+            <word id="1">zijn</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">dochter</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

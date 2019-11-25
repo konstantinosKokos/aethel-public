@@ -1,0 +1,24 @@
+<semantics id="wiki-3826.p.2.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">provinciehoofdplaats</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="3">Waver</word>
+</argument>
+</appl>
+</semantics>

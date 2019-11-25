@@ -1,0 +1,38 @@
+<semantics id="wiki-7218.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">kan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">of</word>
+         </functor>
+         <argument>
+            <word id="0">Congo</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">Kongo</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">verwijzen</word>
+   </functor>
+   <argument>
+      <word id="5">naar</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

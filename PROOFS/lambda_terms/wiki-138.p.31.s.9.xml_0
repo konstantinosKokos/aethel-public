@@ -1,0 +1,17 @@
+<semantics id="wiki-138.p.31.s.9.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">Art Nouveau</word>
+   </functor>
+   <argument>
+      <word id="2">architect</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Victor Horta</word>
+</argument>
+</appl>
+</semantics>

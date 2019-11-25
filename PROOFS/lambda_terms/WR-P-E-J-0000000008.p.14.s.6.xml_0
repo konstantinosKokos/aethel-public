@@ -1,0 +1,73 @@
+<semantics id="WR-P-E-J-0000000008.p.14.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Het</word>
+      </functor>
+      <argument>
+         <word id="1">uitvoeringsbesluit</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">voor</word>
+      </functor>
+      <argument>
+         <word id="5">onderhandelingen</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">nu</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">voorgelegd</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">aan</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">representatieve</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">de</word>
+                  </functor>
+                  <argument>
+                     <word id="10">vakbondsorganisaties</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

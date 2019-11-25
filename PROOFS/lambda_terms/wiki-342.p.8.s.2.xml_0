@@ -1,0 +1,66 @@
+<semantics id="wiki-342.p.8.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">verantwoordelijke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">permanente</word>
+            </functor>
+            <argument>
+               <word id="9">vorming</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">stond</word>
+         </functor>
+         <argument>
+            <word id="0">Hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <word id="4">FLV Education</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">aan het hoofd</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,157 @@
+<semantics id="WR-P-E-J-0000000002.p.7.s.3.xml_0">
+<appl>
+<functor>
+   <word id="3">niet</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">dus</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">is</word>
+            </functor>
+            <argument>
+               <word id="0">Het</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">om</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">met</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">deze</word>
+                     </functor>
+                     <argument>
+                        <word id="9">voorwaarde</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="14">of</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">te</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="13">sluiten</word>
+                              </functor>
+                              <argument>
+                                 <word id="10">mensen</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="11">uit</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="21">te</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="22">verminderen</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="18">voor</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="19">sociale</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="20">woningen</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="17">kandidaten</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="15">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="16">aantal</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">bedoeling</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

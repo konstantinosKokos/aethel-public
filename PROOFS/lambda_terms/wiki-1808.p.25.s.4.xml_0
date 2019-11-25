@@ -1,0 +1,143 @@
+<semantics id="wiki-1808.p.25.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">een</word>
+         </functor>
+         <argument>
+            <word id="12">procedure</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">om</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="20">zetten</word>
+                  </functor>
+                  <argument>
+                     <word id="15">hen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">uit</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">de</word>
+                     </functor>
+                     <argument>
+                        <word id="18">partij</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">er</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Indien</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">openlijk</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">nog</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="8">ingaan</word>
+                     </functor>
+                     <argument>
+                        <word id="1">zij</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">tegen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">officiële</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="5">het</word>
+                           </functor>
+                           <argument>
+                              <word id="7">partijstandpunt</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="13">gestart</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

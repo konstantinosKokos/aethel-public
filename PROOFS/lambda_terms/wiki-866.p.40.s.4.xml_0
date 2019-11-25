@@ -1,0 +1,101 @@
+<semantics id="wiki-866.p.40.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">drie</word>
+      </functor>
+      <argument>
+         <word id="7">sets</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">de</word>
+         </functor>
+         <argument>
+            <word id="2">finale</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">verloor</word>
+         </functor>
+         <argument>
+            <word id="4">ze</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">Amélie Mauresmo</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="10">als</word>
+                     </functor>
+                     <argument>
+                        <word id="11">eerste</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="12">geplaatste</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">de</word>
+                  </functor>
+                  <argument>
+                     <word id="13">française</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

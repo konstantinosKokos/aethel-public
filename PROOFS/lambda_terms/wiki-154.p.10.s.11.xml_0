@@ -1,0 +1,101 @@
+<semantics id="wiki-154.p.10.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">slechts</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">rond</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">twintigste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">de</word>
+                  </functor>
+                  <argument>
+                     <word id="11">eeuw</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">het</word>
+            </functor>
+            <argument>
+               <word id="7">midden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Niettemin</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">kregen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="3">Franstaligen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">numeriek</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">de</word>
+            </functor>
+            <argument>
+               <word id="14">overhand</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

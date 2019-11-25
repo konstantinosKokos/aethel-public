@@ -1,0 +1,59 @@
+<semantics id="wiki-356.p.18.s.3.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">raakt</word>
+   </functor>
+   <argument>
+      <word id="0">ze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">nog</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">3</word>
+            </functor>
+            <argument>
+               <word id="4">cipiers</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">andere</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">6</word>
+            </functor>
+            <argument>
+               <word id="8">gevangenen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

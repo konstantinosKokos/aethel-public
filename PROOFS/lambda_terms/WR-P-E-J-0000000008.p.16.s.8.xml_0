@@ -1,0 +1,154 @@
+<semantics id="WR-P-E-J-0000000008.p.16.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">en</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">wordt</word>
+               </functor>
+               <argument>
+                  <var id="0" debruijn="1"></var>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="4">voor</word>
+                  </functor>
+                  <argument>
+                     <word id="5">onderhandelingen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">nu</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">voorgelegd</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="7">aan</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="9">betrokken</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="8">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="10">vakbondsorganisaties</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <lambda varid="1">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">wordt</word>
+            </functor>
+            <argument>
+               <var id="1" debruijn="1"></var>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="14">voor</word>
+               </functor>
+               <argument>
+                  <word id="15">advies</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">vervolgens</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="16">voorgelegd</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">aan</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="18">de</word>
+                        </functor>
+                        <argument>
+                           <word id="19">Raad van State</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Het</word>
+   </functor>
+   <argument>
+      <word id="1">besluit</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,31 @@
+<semantics id="wiki-384.p.22.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">vanaf</word>
+   </functor>
+   <argument>
+      <word id="3">dan</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">heet</word>
+      </functor>
+      <argument>
+         <word id="0">D66</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">sociaal-liberaal</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,59 @@
+<semantics id="wiki-1799.p.18.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <word id="1">2003</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">begon</word>
+         </functor>
+         <argument>
+            <word id="3">Urbanus</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">nieuwe</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">twee</word>
+            </functor>
+            <argument>
+               <word id="6">stripreeksen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">met</word>
+      </functor>
+      <argument>
+         <word id="8">Dirk Stallaert</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

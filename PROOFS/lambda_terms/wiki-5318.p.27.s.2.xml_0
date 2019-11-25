@@ -1,0 +1,150 @@
+<semantics id="wiki-5318.p.27.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="15">alvorens</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="20">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">al</word>
+            </functor>
+            <argument>
+               <word id="18">vechtend</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="21">trekken</word>
+               </functor>
+               <argument>
+                  <word id="16">zich</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="19">terug</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">wisten</word>
+      </functor>
+      <argument>
+         <word id="4">zij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">nog</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="0">In</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">perfecte</word>
+                  </functor>
+                  <argument>
+                     <word id="2">formaties</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">slaan</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="9">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">de</word>
+                           </functor>
+                           <argument>
+                              <word id="11">geallieerden</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="6">een</word>
+                           </functor>
+                           <argument>
+                              <word id="7">aantal</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="8">aanvallen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="12">af</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

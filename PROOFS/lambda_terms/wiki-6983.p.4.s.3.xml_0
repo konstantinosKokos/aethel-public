@@ -1,0 +1,66 @@
+<semantics id="wiki-6983.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">nog</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Datzelfde</word>
+      </functor>
+      <argument>
+         <word id="1">jaar</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">was</word>
+      </functor>
+      <argument>
+         <word id="4">hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">van</word>
+         </functor>
+         <argument>
+            <word id="9">de Vlaamse Volkspartij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">kortstondig</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">ook</word>
+            </functor>
+            <argument>
+               <word id="7">lid</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

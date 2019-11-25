@@ -1,0 +1,178 @@
+<semantics id="wiki-737.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">toen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="23">probeerde</word>
+         </functor>
+         <argument>
+            <word id="8">hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="24">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="19">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="22">De Blauwe Lotus</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="20">het</word>
+                     </functor>
+                     <argument>
+                        <word id="21">Kuifje-album</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="25">vertellen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="12">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="17">op</word>
+                           </functor>
+                           <argument>
+                              <word id="18">China</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="15">van</word>
+                              </functor>
+                              <argument>
+                                 <word id="16">Japan</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="13">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="14">aanval</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">ware</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="9">het</word>
+                        </functor>
+                        <argument>
+                           <word id="11">verhaal</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">politiek</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">een</word>
+            </functor>
+            <argument>
+               <word id="5">conflict</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">raakte</word>
+         </functor>
+         <argument>
+            <word id="0">Hergé</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="6">betrokken</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

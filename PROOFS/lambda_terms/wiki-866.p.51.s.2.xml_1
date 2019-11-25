@@ -1,0 +1,24 @@
+<semantics id="wiki-866.p.51.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">samen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">met</word>
+      </functor>
+      <argument>
+         <word id="3">Elena Bovina</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Zurich</word>
+</argument>
+</appl>
+</semantics>

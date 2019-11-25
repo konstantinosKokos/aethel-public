@@ -1,0 +1,45 @@
+<semantics id="WR-P-E-J-0000000024.p.2.s.3.xml_0">
+<appl>
+<functor>
+   <word id="0">Achteraf</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">biedt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">het</word>
+            </functor>
+            <argument>
+               <word id="3">Euro Info Centre</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">een</word>
+         </functor>
+         <argument>
+            <word id="5">broodjeslunch</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="6">aan</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

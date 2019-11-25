@@ -1,0 +1,24 @@
+<semantics id="wiki-1058.p.21.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">om</word>
+   </functor>
+   <argument>
+      <word id="3">20.30u</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">elke</word>
+   </functor>
+   <argument>
+      <word id="1">maandag</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

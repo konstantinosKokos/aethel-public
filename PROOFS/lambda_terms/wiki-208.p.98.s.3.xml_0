@@ -1,0 +1,108 @@
+<semantics id="wiki-208.p.98.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">1,3%</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Het</word>
+         </functor>
+         <argument>
+            <word id="1">begrotingstekort</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">zodanig</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">dat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">werd</word>
+               </functor>
+               <argument>
+                  <word id="9">België</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">opgenomen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">Europese</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="13">de</word>
+                        </functor>
+                        <argument>
+                           <word id="15">Economische en Monetaire Unie</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">in</word>
+         </functor>
+         <argument>
+            <word id="5">1998</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="7">teruggedrongen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

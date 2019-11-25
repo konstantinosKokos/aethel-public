@@ -1,0 +1,101 @@
+<semantics id="wiki-1617.p.7.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <word id="4">Spirit</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">huidige</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="2">directeur</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">tevens</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">in</word>
+                  </functor>
+                  <argument>
+                     <word id="10">Kaprijke</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="8">schepen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">van</word>
+               </functor>
+               <argument>
+                  <word id="14">Prego</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="12">oud-voorzitter</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="6">Stijn Coppejans</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

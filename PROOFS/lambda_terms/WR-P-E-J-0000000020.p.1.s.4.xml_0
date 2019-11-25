@@ -1,0 +1,147 @@
+<semantics id="WR-P-E-J-0000000020.p.1.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">volgens</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">de</word>
+      </functor>
+      <argument>
+         <word id="11">RegLeg</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">ligt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">tussen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="17">en</word>
+                     </functor>
+                     <argument>
+                        <lambda varid="0">
+                           <appl>
+                           <functor>
+                              <var id="0" debruijn="1"></var>
+                           </functor>
+                           <argument>
+                              <word id="16">burger</word>
+                           </argument>
+                           </appl>
+                        </lambda>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <lambda varid="1">
+                        <appl>
+                        <functor>
+                           <var id="1" debruijn="1"></var>
+                        </functor>
+                        <argument>
+                           <word id="18">Europa</word>
+                        </argument>
+                        </appl>
+                     </lambda>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="15">de</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">de</word>
+            </functor>
+            <argument>
+               <word id="13">kloof</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Aan</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">Europese</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">huidige</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">de</word>
+                     </functor>
+                     <argument>
+                        <word id="7">crisis</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">basis</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

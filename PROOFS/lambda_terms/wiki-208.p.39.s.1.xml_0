@@ -1,0 +1,94 @@
+<semantics id="wiki-208.p.39.s.1.xml_0">
+<appl>
+<functor>
+   <word id="10">weer</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">Spaanse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">de</word>
+                  </functor>
+                  <argument>
+                     <word id="6">Successieoorlog</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">tijd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">kwamen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">de</word>
+            </functor>
+            <argument>
+               <word id="9">Zuidelijke Nederlanden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">Nederlandse</word>
+            </functor>
+            <argument>
+               <word id="13">handen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

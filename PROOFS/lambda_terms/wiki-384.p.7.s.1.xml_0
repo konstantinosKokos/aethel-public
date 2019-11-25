@@ -1,0 +1,101 @@
+<semantics id="wiki-384.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">leidden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">in</word>
+         </functor>
+         <argument>
+            <word id="6">1974</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="1">nog</word>
+               </functor>
+               <argument>
+                  <word id="2">desastreuzer</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="3">verlopen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="4">Statenverkiezingen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">tot</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">de</word>
+            </functor>
+            <argument>
+               <word id="14">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">grote</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">een</word>
+            </functor>
+            <argument>
+               <word id="11">crisis</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

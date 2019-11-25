@@ -1,0 +1,115 @@
+<semantics id="wiki-1541.p.8.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">onder invloed van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">Peters-Lacroix</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">de</word>
+               </functor>
+               <argument>
+                  <word id="15">behangpapierfabriek</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">Victor Servranckx</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">zijn</word>
+            </functor>
+            <argument>
+               <word id="11">werkbaas</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">resulteerde</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Zijn</word>
+         </functor>
+         <argument>
+            <word id="1">debuut</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">en</word>
+                  </functor>
+                  <argument>
+                     <word id="4">kubistisch</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="5">futuristisch</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="7">abstract</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">werk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

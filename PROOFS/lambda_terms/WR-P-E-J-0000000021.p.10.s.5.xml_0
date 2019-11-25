@@ -1,0 +1,108 @@
+<semantics id="WR-P-E-J-0000000021.p.10.s.5.xml_0">
+<appl>
+<functor>
+   <word id="5">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Tot</word>
+      </functor>
+      <argument>
+         <word id="1">slot</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">verleent</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="4">coördinator</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="6">ondersteuning</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">aan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">parlementaire</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">Frans-Belgische</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">de</word>
+                        </functor>
+                        <argument>
+                           <word id="15">werkgroep</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">Vlaamse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">de</word>
+                  </functor>
+                  <argument>
+                     <word id="10">parlementsleden</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

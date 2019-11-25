@@ -1,0 +1,87 @@
+<semantics id="WR-P-E-J-0000000004.p.1.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">levert</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">administratieve</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Deze</word>
+               </functor>
+               <argument>
+                  <word id="2">vereenvoudiging</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">ongeveer</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">75.000</word>
+                  </functor>
+                  <argument>
+                     <word id="11">euro</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">een</word>
+            </functor>
+            <argument>
+               <word id="7">besparing</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">de</word>
+      </functor>
+      <argument>
+         <word id="5">scholen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="12">op</word>
+</argument>
+</appl>
+</semantics>

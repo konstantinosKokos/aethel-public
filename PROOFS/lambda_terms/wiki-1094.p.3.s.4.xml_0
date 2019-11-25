@@ -1,0 +1,31 @@
+<semantics id="wiki-1094.p.3.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">in</word>
+      </functor>
+      <argument>
+         <word id="4">België</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">plaats</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">België</word>
+   </functor>
+   <argument>
+      <word id="0">Mol</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

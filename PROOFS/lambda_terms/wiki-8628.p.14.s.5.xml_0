@@ -1,0 +1,59 @@
+<semantics id="wiki-8628.p.14.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">het</word>
+      </functor>
+      <argument>
+         <word id="6">bier</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Na</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">eerste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="3">gisting</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">genoemd</word>
+      </functor>
+      <argument>
+         <word id="7">jongbier</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

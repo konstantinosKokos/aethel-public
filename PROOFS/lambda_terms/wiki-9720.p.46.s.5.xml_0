@@ -1,0 +1,150 @@
+<semantics id="wiki-9720.p.46.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <word id="0">Micha</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">dicht</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="7">naast</word>
+                     </functor>
+                     <argument>
+                        <word id="8">hem</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">een</word>
+                     </functor>
+                     <argument>
+                        <word id="11">boek</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="18">daarop</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">met</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="21">Ex te mihi egredietur qui sit dominator in Israhel</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="19">de</word>
+                        </functor>
+                        <argument>
+                           <word id="20">woorden</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="13">boven</word>
+                  </functor>
+                  <argument>
+                     <word id="14">hem</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">een</word>
+                  </functor>
+                  <argument>
+                     <word id="16">banderol</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">het</word>
+            </functor>
+            <argument>
+               <word id="4">altaarstuk</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">afgebeeld</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

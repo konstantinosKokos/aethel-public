@@ -1,0 +1,145 @@
+<semantics id="wiki-1400.p.20.s.1.xml_0">
+<appl>
+<functor>
+   <word id="15">vaak</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">waarin</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="11">moeten</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">de</word>
+                        </functor>
+                        <argument>
+                           <word id="7">renners</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="8">over</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="9">de</word>
+                           </functor>
+                           <argument>
+                              <word id="10">kasseien</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <var id="0" debruijn="1"></var>
+                        </functor>
+                        <argument>
+                           <word id="12">dokkeren</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">vaak</word>
+               </functor>
+               <argument>
+                  <word id="3">barre</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">de</word>
+               </functor>
+               <argument>
+                  <word id="4">weersomstandigheden</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">kiezen</word>
+         </functor>
+         <argument>
+            <word id="14">ploegen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">technisch</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">specifiek</word>
+               </functor>
+               <argument>
+                  <word id="19">materiaal</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

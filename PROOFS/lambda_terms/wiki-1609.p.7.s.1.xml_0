@@ -1,0 +1,87 @@
+<semantics id="wiki-1609.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">zou</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">landschapschilders</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">derde</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Zelfs</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">een</word>
+               </functor>
+               <argument>
+                  <word id="3">groep</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">nog</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">na</word>
+         </functor>
+         <argument>
+            <word id="7">1900</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">aandoen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">en</word>
+               </functor>
+               <argument>
+                  <word id="9">Tervuren</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="11">omgeving</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

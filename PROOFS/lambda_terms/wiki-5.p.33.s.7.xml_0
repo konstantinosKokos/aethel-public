@@ -1,0 +1,24 @@
+<semantics id="wiki-5.p.33.s.7.xml_0">
+<appl>
+<functor>
+   <word id="0">Onverwacht</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">verliest</word>
+      </functor>
+      <argument>
+         <word id="2">Agalev</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">terrein</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

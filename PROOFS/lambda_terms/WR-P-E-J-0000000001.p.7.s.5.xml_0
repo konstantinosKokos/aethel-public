@@ -1,0 +1,136 @@
+<semantics id="WR-P-E-J-0000000001.p.7.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">werden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="0">18.571</word>
+                  </functor>
+                  <argument>
+                     <word id="1">tenten</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">133.588</word>
+               </functor>
+               <argument>
+                  <word id="3">dekens</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">20.731</word>
+            </functor>
+            <argument>
+               <word id="5">zeildoeken</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">4264</word>
+         </functor>
+         <argument>
+            <word id="8">jerrycans</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">verdeeld</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">rond</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="18">en</word>
+                     </functor>
+                     <argument>
+                        <word id="16">Balakot</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="17">Garhi Habibullab</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="19">Batagram</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">landelijke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">de</word>
+               </functor>
+               <argument>
+                  <word id="14">gebieden</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

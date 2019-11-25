@@ -1,0 +1,108 @@
+<semantics id="wiki-208.p.83.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Na</word>
+   </functor>
+   <argument>
+      <word id="1">1946</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">volgden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">wisselende</word>
+                  </functor>
+                  <argument>
+                     <word id="7">samenstellingen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">vele</word>
+               </functor>
+               <argument>
+                  <word id="4">coalitieregeringen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">onder</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">1950-1954</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">de</word>
+                  </functor>
+                  <argument>
+                     <word id="14">CVP</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">kortstondig</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">een</word>
+               </functor>
+               <argument>
+                  <word id="11">eenpartijregering</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

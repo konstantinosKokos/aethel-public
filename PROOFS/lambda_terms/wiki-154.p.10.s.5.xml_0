@@ -1,0 +1,38 @@
+<semantics id="wiki-154.p.10.s.5.xml_0">
+<appl>
+<functor>
+   <word id="4">toen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">genoten</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Enkel</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">deze</word>
+            </functor>
+            <argument>
+               <word id="2">groepen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="5">stemrecht</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,45 @@
+<semantics id="wiki-1799.p.5.s.6.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">gaan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">de</word>
+      </functor>
+      <argument>
+         <word id="4">blinden</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">zelfs</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Nu</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">herkennen</word>
+         </functor>
+         <argument>
+            <word id="5">mij</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

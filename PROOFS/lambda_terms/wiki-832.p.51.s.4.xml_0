@@ -1,0 +1,129 @@
+<semantics id="wiki-832.p.51.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="15">tegenover</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">Oostendse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">het</word>
+               </functor>
+               <argument>
+                  <word id="18">Kursaal</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">de</word>
+         </functor>
+         <argument>
+            <word id="14">voortuinen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">zelfs</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Op</word>
+         </functor>
+         <argument>
+            <word id="1">13 april 1930</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">onthulde</word>
+            </functor>
+            <argument>
+               <word id="3">hij</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">Pro Luce</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">zijn</word>
+                     </functor>
+                     <argument>
+                        <word id="10">lijfspreuk</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">eigen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">zijn</word>
+                  </functor>
+                  <argument>
+                     <word id="7">standbeeld</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

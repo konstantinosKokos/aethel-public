@@ -1,0 +1,87 @@
+<semantics id="wiki-9844.p.25.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werd</word>
+   </functor>
+   <argument>
+      <word id="0">Hij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">onder leiding van</word>
+                  </functor>
+                  <argument>
+                     <word id="7">Luc Morjaeu</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">een</word>
+                  </functor>
+                  <argument>
+                     <word id="5">tekenteam</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">onder leiding van</word>
+               </functor>
+               <argument>
+                  <word id="12">Peter van Gucht</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">een</word>
+               </functor>
+               <argument>
+                  <word id="10">scenarioteam</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">opgevolgd</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

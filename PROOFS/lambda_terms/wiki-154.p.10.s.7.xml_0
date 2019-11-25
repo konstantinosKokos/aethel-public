@@ -1,0 +1,94 @@
+<semantics id="wiki-154.p.10.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">het</word>
+      </functor>
+      <argument>
+         <word id="4">Nederlands</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">radicaal</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">echter</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Hierdoor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">verbannen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="10">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">uit</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">alle</word>
+                        </functor>
+                        <argument>
+                           <word id="9">instellingen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">uit</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">het</word>
+                     </functor>
+                     <argument>
+                        <word id="13">bestuur</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

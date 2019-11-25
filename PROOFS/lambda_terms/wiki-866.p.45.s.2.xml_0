@@ -1,0 +1,73 @@
+<semantics id="wiki-866.p.45.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">7-5 5-7 9-7</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">haar</word>
+               </functor>
+               <argument>
+                  <word id="9">carrière</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">eerste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="6">keer</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">verslaat</word>
+      </functor>
+      <argument>
+         <word id="0">Henin</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">Davenport</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

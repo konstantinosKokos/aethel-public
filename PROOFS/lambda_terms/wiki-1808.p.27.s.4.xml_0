@@ -1,0 +1,45 @@
+<semantics id="wiki-1808.p.27.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Op</word>
+   </functor>
+   <argument>
+      <word id="1">16 oktober</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">bevestigde</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">de</word>
+         </functor>
+         <argument>
+            <word id="4">tuchtcommissie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">het</word>
+      </functor>
+      <argument>
+         <word id="6">besluit</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

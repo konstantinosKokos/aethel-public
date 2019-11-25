@@ -1,0 +1,38 @@
+<semantics id="wiki-866.p.45.s.8.xml_0">
+<appl>
+<functor>
+   <word id="5">niet</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">echter</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">ziet</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">umpire</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="3">dit</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

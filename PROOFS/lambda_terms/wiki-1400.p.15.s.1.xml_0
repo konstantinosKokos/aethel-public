@@ -1,0 +1,187 @@
+<semantics id="wiki-1400.p.15.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">zijn</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">waar</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="20">als</word>
+                  </functor>
+                  <argument>
+                     <word id="21">triomfator</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="24">zijn</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <appl>
+                                          <functor>
+                                             <appl>
+                                             <functor>
+                                                <appl>
+                                                <functor>
+                                                   <appl>
+                                                   <functor>
+                                                      <appl>
+                                                      <functor>
+                                                         <appl>
+                                                         <functor>
+                                                            <word id="18">en</word>
+                                                         </functor>
+                                                         <argument>
+                                                            <word id="5">Octave Lapize</word>
+                                                         </argument>
+                                                         </appl>
+                                                      </functor>
+                                                      <argument>
+                                                         <word id="6">Gaston Rebry</word>
+                                                      </argument>
+                                                      </appl>
+                                                   </functor>
+                                                   <argument>
+                                                      <word id="7">Rik Van Steenbergen</word>
+                                                   </argument>
+                                                   </appl>
+                                                </functor>
+                                                <argument>
+                                                   <word id="8">Rik Van Looy</word>
+                                                </argument>
+                                                </appl>
+                                             </functor>
+                                             <argument>
+                                                <word id="9">Peter Post</word>
+                                             </argument>
+                                             </appl>
+                                          </functor>
+                                          <argument>
+                                             <word id="10">Eddy Merckx</word>
+                                          </argument>
+                                          </appl>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <appl>
+                                             <functor>
+                                                <word id="12">alias</word>
+                                             </functor>
+                                             <argument>
+                                                <word id="11">Roger De Vlaeminck</word>
+                                             </argument>
+                                             </appl>
+                                          </functor>
+                                          <argument>
+                                             <word id="13">Monsieur Paris-Roubaix</word>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <word id="14">Francesco Moser</word>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="15">Hennie Kuiper</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="16">Sean Kelly</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="17">Bernard Hinault</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="19">Gilbert Duclos-Lassalle</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <var id="0" debruijn="1"></var>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="25">gekomen</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="22">naar</word>
+                           </functor>
+                           <argument>
+                              <word id="23">voor</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="3">veldslagen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Heroïsch</word>
+</argument>
+</appl>
+</semantics>

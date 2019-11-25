@@ -1,0 +1,80 @@
+<semantics id="WR-P-E-J-0000000009.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <word id="5">zal</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">vooral</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Bij</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="2">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">allochtone</word>
+                     </functor>
+                     <argument>
+                        <word id="4">afkomst</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="1">personen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">ingezet</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">de</word>
+                  </functor>
+                  <argument>
+                     <word id="9">instroom</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

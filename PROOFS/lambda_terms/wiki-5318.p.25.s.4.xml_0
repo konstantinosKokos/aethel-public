@@ -1,0 +1,157 @@
+<semantics id="wiki-5318.p.25.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">beschikte</word>
+         </functor>
+         <argument>
+            <word id="0">Wellington</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">over</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">voldoende</word>
+            </functor>
+            <argument>
+               <word id="4">reserves</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">weldra</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">vulden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">Engelse</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">de</word>
+                        </functor>
+                        <argument>
+                           <word id="10">Foot Guards</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="18">door</word>
+                        </functor>
+                        <argument>
+                           <word id="19">Generaal Chassé</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="17">geleid</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">3e</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="14">Nederlandse</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="13">frisse</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="12">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="16">divisie</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="20">het</word>
+            </functor>
+            <argument>
+               <word id="21">gat</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="22">op</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

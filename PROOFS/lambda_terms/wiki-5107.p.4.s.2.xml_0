@@ -1,0 +1,59 @@
+<semantics id="wiki-5107.p.4.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">voor</word>
+         </functor>
+         <argument>
+            <word id="4">motoren</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">eerste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="2">wedstrijd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">in</word>
+      </functor>
+      <argument>
+         <word id="8">1921</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="6">georganiseerd</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

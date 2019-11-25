@@ -1,0 +1,94 @@
+<semantics id="wiki-5593.p.10.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">onder</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">sinds</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">2002</word>
+               </functor>
+               <argument>
+                  <word id="8">mei</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">omgevormd</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">tot</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">Centre Démocrate Humaniste</word>
+                  </functor>
+                  <argument>
+                     <word id="12">CDH</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">Parti Social Chrétien</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">PSC</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="4">naam</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">de</word>
+   </functor>
+   <argument>
+      <word id="1">laatste</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,101 @@
+<semantics id="wiki-11.p.18.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">omwille van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">t.o.v.</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">aan</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="13">en</word>
+                     </functor>
+                     <argument>
+                        <word id="12">religies</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="14">levensbeschouwingen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">de</word>
+               </functor>
+               <argument>
+                  <word id="10">diversiteit</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">haar</word>
+         </functor>
+         <argument>
+            <word id="7">tolerantie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">sinds</word>
+      </functor>
+      <argument>
+         <word id="3">jaren</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">staat</word>
+         </functor>
+         <argument>
+            <word id="0">Antwerpen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">bekend</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

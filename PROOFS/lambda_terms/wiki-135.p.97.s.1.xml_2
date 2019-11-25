@@ -1,0 +1,17 @@
+<semantics id="wiki-135.p.97.s.1.xml_2">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">en</word>
+   </functor>
+   <argument>
+      <word id="0">gemeenten</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="2">provincies</word>
+</argument>
+</appl>
+</semantics>

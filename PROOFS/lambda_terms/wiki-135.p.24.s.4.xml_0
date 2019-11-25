@@ -1,0 +1,157 @@
+<semantics id="wiki-135.p.24.s.4.xml_0">
+<appl>
+<functor>
+   <word id="6">grotendeels</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="4">belgen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">rest</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="18">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="10">ca.</word>
+                     </functor>
+                     <argument>
+                        <word id="11">28%</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="8">of</word>
+                        </functor>
+                        <argument>
+                           <word id="7">agnost</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="9">vrijzinnig</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="13">ca.</word>
+                  </functor>
+                  <argument>
+                     <word id="14">4%</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="12">islamitisch</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="16">ca.</word>
+               </functor>
+               <argument>
+                  <word id="17">1%</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="15">protestants</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="20">minder</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="21">dan</word>
+               </functor>
+               <argument>
+                  <word id="22">1%</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="19">joods</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

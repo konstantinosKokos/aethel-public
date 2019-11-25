@@ -1,0 +1,143 @@
+<semantics id="wiki-1635.p.17.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="9">èn</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="7">de</word>
+                        </functor>
+                        <argument>
+                           <word id="8">partij</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">haar</word>
+                     </functor>
+                     <argument>
+                        <word id="11">voorgangers</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">de</word>
+               </functor>
+               <argument>
+                  <word id="5">geschiedenis</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">uitgebreid</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Een</word>
+            </functor>
+            <argument>
+               <word id="2">overzicht</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="13">te</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">vinden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="15">op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="18">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">de</word>
+                  </functor>
+                  <argument>
+                     <word id="20">partij</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">de</word>
+               </functor>
+               <argument>
+                  <word id="17">site</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

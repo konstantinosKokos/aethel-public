@@ -1,0 +1,17 @@
+<semantics id="WR-P-E-J-0000000021.p.4.s.3.xml_4">
+<appl>
+<functor>
+   <word id="0">bijna</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">het</word>
+   </functor>
+   <argument>
+      <word id="2">dubbele</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

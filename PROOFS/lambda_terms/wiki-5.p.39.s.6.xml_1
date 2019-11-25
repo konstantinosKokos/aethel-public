@@ -1,0 +1,80 @@
+<semantics id="wiki-5.p.39.s.6.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">mag</word>
+   </functor>
+   <argument>
+      <word id="0">Dua</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">laten</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">als</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">eerste</word>
+            </functor>
+            <argument>
+               <word id="5">groene</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">noemen</word>
+            </functor>
+            <argument>
+               <word id="2">zich</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">in plaats van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">politiek</word>
+                  </functor>
+                  <argument>
+                     <word id="11">secretaris</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">voorzitter</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

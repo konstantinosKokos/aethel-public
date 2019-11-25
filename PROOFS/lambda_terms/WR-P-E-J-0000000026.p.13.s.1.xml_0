@@ -1,0 +1,145 @@
+<semantics id="WR-P-E-J-0000000026.p.13.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">Ten slotte</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">hoopt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">Gelijke Kansen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">het</word>
+            </functor>
+            <argument>
+               <word id="3">team</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">in het kader van</word>
+               </functor>
+               <argument>
+                  <word id="9">diversiteit</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">volgend</word>
+                  </functor>
+                  <argument>
+                     <word id="7">jaar</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="14">zetten</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="15">waaraan</word>
+                           </functor>
+                           <argument>
+                              <lambda varid="0">
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <word id="18">kunnen</word>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="16">alle</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="17">personeelsleden</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="19">deelnemen</word>
+                                    </functor>
+                                    <argument>
+                                       <var id="0" debruijn="1"></var>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </lambda>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">een</word>
+                           </functor>
+                           <argument>
+                              <word id="11">evenement</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="12">op</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

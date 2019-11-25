@@ -1,0 +1,38 @@
+<semantics id="wiki-6930.p.5.s.5.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">als</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">binnenlandse</word>
+         </functor>
+         <argument>
+            <word id="5">vijand</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Het</word>
+      </functor>
+      <argument>
+         <word id="2">communisme</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">De moord op Lahaut</word>
+</argument>
+</appl>
+</semantics>

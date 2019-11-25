@@ -1,0 +1,73 @@
+<semantics id="wiki-8628.p.21.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werd</word>
+   </functor>
+   <argument>
+      <word id="0">Bier</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">in</word>
+      </functor>
+      <argument>
+         <word id="10">Mesopotamië</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">al</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">4500</word>
+               </functor>
+               <argument>
+                  <word id="5">jaar</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">voor</word>
+            </functor>
+            <argument>
+               <word id="7">Christus</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">waarschijnlijk</word>
+         </functor>
+         <argument>
+            <word id="8">gedronken</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,17 @@
+<semantics id="wiki-5.p.3.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werd</word>
+   </functor>
+   <argument>
+      <word id="0">dat</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="2">Anders Gaan Arbeiden , Leven En Vrijen</word>
+</argument>
+</appl>
+</semantics>

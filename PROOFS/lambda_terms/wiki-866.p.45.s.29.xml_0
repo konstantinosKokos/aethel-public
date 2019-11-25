@@ -1,0 +1,129 @@
+<semantics id="wiki-866.p.45.s.29.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="13">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">tegen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">zenuwachtige</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">een</word>
+               </functor>
+               <argument>
+                  <word id="12">Mauresmo</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="1">als</word>
+               </functor>
+               <argument>
+                  <word id="2">toernooienfavoriet</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="0">Getipt</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">nam</word>
+               </functor>
+               <argument>
+                  <word id="4">henin-Hardenne</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">6-2</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">vroege</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">een</word>
+                     </functor>
+                     <argument>
+                        <word id="7">leiding</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="16">maakte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">de</word>
+         </functor>
+         <argument>
+            <word id="15">laatstgenoemde</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="17">een</word>
+      </functor>
+      <argument>
+         <word id="18">terugkeer</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

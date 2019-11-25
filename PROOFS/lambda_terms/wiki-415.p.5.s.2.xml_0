@@ -1,0 +1,129 @@
+<semantics id="wiki-415.p.5.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <word id="1">2005</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">fusioneerden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">pedagogische</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">twee</word>
+                  </functor>
+                  <argument>
+                     <word id="5">instituten</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">een</word>
+            </functor>
+            <argument>
+               <word id="8">verpleegstersschool</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">tot</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="17">in</word>
+               </functor>
+               <argument>
+                  <word id="18">België</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">Duitstalige</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">openbare</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">enige</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="12">de</word>
+                        </functor>
+                        <argument>
+                           <word id="16">hogeschool</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">de</word>
+            </functor>
+            <argument>
+               <word id="11">Autonome Hochschule in der deutschsprachigen Gemeinschaft</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

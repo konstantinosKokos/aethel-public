@@ -1,0 +1,136 @@
+<semantics id="wiki-154.p.24.s.4.xml_0">
+<appl>
+<functor>
+   <word id="13">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="12">er</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">na</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="9">van</word>
+                        </functor>
+                        <argument>
+                           <word id="10">Brussel-Stad</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="8">dat</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="6">het hoogste</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="4">van</word>
+                     </functor>
+                     <argument>
+                        <word id="5">Schaarbeek</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="3">inwoners</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">het</word>
+                  </functor>
+                  <argument>
+                     <word id="2">aantal</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">was</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">aan</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="18">voor</word>
+                     </functor>
+                     <argument>
+                        <word id="19">Nederlandstaligen</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="16">meer</word>
+                     </functor>
+                     <argument>
+                        <word id="17">loketten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">nood</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

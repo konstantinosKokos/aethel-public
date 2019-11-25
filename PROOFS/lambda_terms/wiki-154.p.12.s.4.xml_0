@@ -1,0 +1,164 @@
+<semantics id="wiki-154.p.12.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">daarbij</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">afspraak</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">dat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">werd</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">deze</word>
+            </functor>
+            <argument>
+               <word id="6">oververtegenwoordiging</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="13">voor</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="20">van</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="22">Brusselse</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="21">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="23">bevolking</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="18">slechts</word>
+                           </functor>
+                           <argument>
+                              <word id="19">20%</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="16">in</word>
+                           </functor>
+                           <argument>
+                              <word id="17">Brussel</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="14">de</word>
+                           </functor>
+                           <argument>
+                              <word id="15">Vlamingen</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="12">waarborgen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">gebracht</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">in</word>
+               </functor>
+               <argument>
+                  <word id="8">evenwicht</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

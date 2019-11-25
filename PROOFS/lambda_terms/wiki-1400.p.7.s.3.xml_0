@@ -1,0 +1,131 @@
+<semantics id="wiki-1400.p.7.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">de</word>
+      </functor>
+      <argument>
+         <word id="6">startstreep</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">dat</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="17">ligt</word>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="12">zowat</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="13">80</word>
+                           </functor>
+                           <argument>
+                              <word id="14">km</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="15">ten noorden van</word>
+                        </functor>
+                        <argument>
+                           <word id="16">Parijs</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="10">Compiègne</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">voor het eerst</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">In</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="2">onder leiding van</word>
+                  </functor>
+                  <argument>
+                     <word id="3">Jean Stablinski</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="1">1968</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">getrokken</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

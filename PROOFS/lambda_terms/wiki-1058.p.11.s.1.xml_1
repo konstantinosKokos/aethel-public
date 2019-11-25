@@ -1,0 +1,24 @@
+<semantics id="wiki-1058.p.11.s.1.xml_1">
+<appl>
+<functor>
+   <word id="2">overblijvende</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">enige</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">de</word>
+      </functor>
+      <argument>
+         <word id="3">stadspoort</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

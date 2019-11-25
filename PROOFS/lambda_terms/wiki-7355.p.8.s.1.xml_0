@@ -1,0 +1,87 @@
+<semantics id="wiki-7355.p.8.s.1.xml_0">
+<appl>
+<functor>
+   <word id="2">tevens</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">heeft</word>
+      </functor>
+      <argument>
+         <word id="0">Geraardsbergen</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">met</word>
+            </functor>
+            <argument>
+               <word id="12">Kinneke Baba</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">als</word>
+            </functor>
+            <argument>
+               <word id="11">dochter</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">en</word>
+               </functor>
+               <argument>
+                  <word id="6">Goliath</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="8">Agnes</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">historisch</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">een</word>
+               </functor>
+               <argument>
+                  <word id="5">reuzenkoppel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

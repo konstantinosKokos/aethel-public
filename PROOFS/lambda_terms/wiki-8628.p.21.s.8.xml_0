@@ -1,0 +1,129 @@
+<semantics id="wiki-8628.p.21.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="16">naar</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">Frans</word>
+                  </functor>
+                  <argument>
+                     <word id="18">model</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">het</word>
+               </functor>
+               <argument>
+                  <word id="15">gruitrecht</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="12">tegenstrijd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">reguleerde</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Deze</word>
+         </functor>
+         <argument>
+            <word id="1">wet</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">om</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">te</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">brouwen</word>
+                     </functor>
+                     <argument>
+                        <word id="8">bier</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">hop</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">het</word>
+         </functor>
+         <argument>
+            <word id="4">gebruik</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

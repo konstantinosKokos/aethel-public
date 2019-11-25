@@ -1,0 +1,185 @@
+<semantics id="wiki-1635.p.11.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Door</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">binnen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">SP-PS</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">deze</word>
+               </functor>
+               <argument>
+                  <word id="5">partij</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">een</word>
+         </functor>
+         <argument>
+            <word id="2">ruzie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="15">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">in</word>
+            </functor>
+            <argument>
+               <word id="9">1978</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">trokken</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">Waalse</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">de</word>
+                        </functor>
+                        <argument>
+                           <word id="12">socialisten</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="13">zich</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">terug</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="16">werd</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="19">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">de</word>
+                  </functor>
+                  <argument>
+                     <word id="21">SP</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">de</word>
+               </functor>
+               <argument>
+                  <word id="18">naam</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="23">door</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="26">Vlaamse Socialisten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="24">de</word>
+                  </functor>
+                  <argument>
+                     <word id="25">naam</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="22">vervangen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

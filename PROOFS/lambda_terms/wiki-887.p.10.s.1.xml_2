@@ -1,0 +1,52 @@
+<semantics id="wiki-887.p.10.s.1.xml_2">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">en</word>
+            </functor>
+            <argument>
+               <word id="2">1/6</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">6/4</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">12/10</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">verloor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">van</word>
+      </functor>
+      <argument>
+         <word id="7">Jennifer Capriati</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

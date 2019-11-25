@@ -1,0 +1,73 @@
+<semantics id="wiki-208.p.97.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">zorgde</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">parlementsverkiezingen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">binnen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">politieke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">Belgische</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">de</word>
+                  </functor>
+                  <argument>
+                     <word id="10">wereld</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">grote</word>
+         </functor>
+         <argument>
+            <word id="5">verschuivingen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

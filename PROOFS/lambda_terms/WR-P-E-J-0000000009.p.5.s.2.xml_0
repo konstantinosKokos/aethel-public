@@ -1,0 +1,80 @@
+<semantics id="WR-P-E-J-0000000009.p.5.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">zullen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">zoals</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">op</word>
+               </functor>
+               <argument>
+                  <word id="4">maat</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="2">opleidingsplannen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">Projecten</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">in het kader van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">sectorale</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">het</word>
+               </functor>
+               <argument>
+                  <word id="11">overleg</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="7">besproken</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,66 @@
+<semantics id="wiki-135.p.89.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">te</word>
+         </functor>
+         <argument>
+            <word id="5">Brussel</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="3">Vlaamse Gemeenschapscommissie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">als</word>
+      </functor>
+      <argument>
+         <word id="9">parlement</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">niet</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Hierbij</word>
+         </functor>
+         <argument>
+            <word id="7">bijgeteld</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

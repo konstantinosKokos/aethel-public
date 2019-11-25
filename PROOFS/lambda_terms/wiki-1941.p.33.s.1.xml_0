@@ -1,0 +1,59 @@
+<semantics id="wiki-1941.p.33.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">tot</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">bij</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">ander</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">enig</word>
+               </functor>
+               <argument>
+                  <word id="8">land</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">ander</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">een</word>
+            </functor>
+            <argument>
+               <word id="4">lief</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,38 @@
+<semantics id="wiki-3745.p.20.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">toont</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Het</word>
+      </functor>
+      <argument>
+         <word id="1">museum</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">authentieke</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">een</word>
+      </functor>
+      <argument>
+         <word id="5">stokerij</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

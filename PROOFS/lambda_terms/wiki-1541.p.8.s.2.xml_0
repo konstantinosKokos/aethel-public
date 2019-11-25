@@ -1,0 +1,115 @@
+<semantics id="wiki-1541.p.8.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Na</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">in</word>
+         </functor>
+         <argument>
+            <word id="9">1925</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">van</word>
+                  </functor>
+                  <argument>
+                     <word id="7">Giorgio de Chirico</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">het</word>
+                  </functor>
+                  <argument>
+                     <word id="5">werk</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">kennismaking</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">begon</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">zijn</word>
+         </functor>
+         <argument>
+            <word id="12">werk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">assimileren</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">surrealistische</word>
+            </functor>
+            <argument>
+               <word id="14">elementen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

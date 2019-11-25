@@ -1,0 +1,52 @@
+<semantics id="wiki-295.p.9.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">als</word>
+   </functor>
+   <argument>
+      <word id="7">beeldhouwer</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">eerst</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">in</word>
+         </functor>
+         <argument>
+            <word id="5">1937</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">ontpopt</word>
+         </functor>
+         <argument>
+            <word id="0">Permeke</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">zich</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

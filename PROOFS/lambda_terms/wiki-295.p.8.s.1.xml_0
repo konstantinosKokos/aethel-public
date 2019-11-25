@@ -1,0 +1,129 @@
+<semantics id="wiki-295.p.8.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <word id="1">1921</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">bezorgen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">en</word>
+                  </functor>
+                  <argument>
+                     <word id="8">P.G. Van Hecke</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="10">André De Ridder</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">van</word>
+                  </functor>
+                  <argument>
+                     <word id="7">Sélection</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">Brusselse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">de</word>
+                     </functor>
+                     <argument>
+                        <word id="5">galerijhouders</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="17">te</word>
+                  </functor>
+                  <argument>
+                     <word id="18">Antwerpen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="16">Kunst van Heden</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">opmerkelijke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">een</word>
+               </functor>
+               <argument>
+                  <word id="14">expositie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="11">Constant Permeke</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

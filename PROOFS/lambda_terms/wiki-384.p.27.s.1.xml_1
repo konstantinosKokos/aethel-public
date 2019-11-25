@@ -1,0 +1,80 @@
+<semantics id="wiki-384.p.27.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">De Verenigde Staten van Europa</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">het</word>
+         </functor>
+         <argument>
+            <word id="10">pamflet</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">zo</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">pleit</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="3">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">voor</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">federaal</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">een</word>
+               </functor>
+               <argument>
+                  <word id="7">Europa</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

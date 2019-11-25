@@ -1,0 +1,101 @@
+<semantics id="wiki-1823.p.16.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">kunnen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">het</word>
+            </functor>
+            <argument>
+               <word id="7">parlement</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="1">in</word>
+               </functor>
+               <argument>
+                  <word id="2">Brussel</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="3">gekozen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="4">leden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">niet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">evenwel</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">meestemmen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">over</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">Vlaamse</word>
+               </functor>
+               <argument>
+                  <word id="14">gewestaangelegenheden</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

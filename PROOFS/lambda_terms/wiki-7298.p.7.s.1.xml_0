@@ -1,0 +1,80 @@
+<semantics id="wiki-7298.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">in</word>
+         </functor>
+         <argument>
+            <word id="3">Temse</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Het</word>
+         </functor>
+         <argument>
+            <word id="1">bedrijventerrein</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">er</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">bouwen</word>
+               </functor>
+               <argument>
+                  <word id="9">woningen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">thans</word>
+      </functor>
+      <argument>
+         <word id="6">opgekocht</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

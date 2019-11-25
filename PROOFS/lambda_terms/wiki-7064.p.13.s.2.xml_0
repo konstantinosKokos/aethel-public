@@ -1,0 +1,87 @@
+<semantics id="wiki-7064.p.13.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">per</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">onder</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">gerechtelijk</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">een</word>
+                     </functor>
+                     <argument>
+                        <word id="12">directeur</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="8">leiding</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">gerechtelijk</word>
+         </functor>
+         <argument>
+            <word id="6">arrondissement</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">gerechtelijke</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">federale</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">de</word>
+         </functor>
+         <argument>
+            <word id="3">politie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,38 @@
+<semantics id="wiki-89.p.2.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">behoort</word>
+   </functor>
+   <argument>
+      <word id="0">Zij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">tot</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">socialistische</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">de</word>
+         </functor>
+         <argument>
+            <word id="5">zuil</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,166 @@
+<semantics id="wiki-9843.p.28.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">die</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">begon</word>
+            </functor>
+            <argument>
+               <word id="4">hij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">laatste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="2">reeks</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="16">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">waar</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="15">verschenen</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="12">tien</word>
+                           </functor>
+                           <argument>
+                              <word id="13">albums</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="14">van</word>
+                        </functor>
+                        <argument>
+                           <var id="0" debruijn="1"></var>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">die</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="21">wou</word>
+                  </functor>
+                  <argument>
+                     <word id="18">hij</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">nooit</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="22">geven</word>
+                     </functor>
+                     <argument>
+                        <word id="20">uit handen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">een</word>
+         </functor>
+         <argument>
+            <word id="10">serie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">1985-1990</word>
+      </functor>
+      <argument>
+         <word id="7">De Geuzen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

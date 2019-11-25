@@ -1,0 +1,96 @@
+<semantics id="wiki-295.p.8.s.8.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">wat</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <word id="1">eerst</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">betekende</word>
+                  </functor>
+                  <argument>
+                     <var id="0" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="3">en</word>
+                     </functor>
+                     <argument>
+                        <word id="2">visser</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="4">zee</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">en</word>
+            </functor>
+            <argument>
+               <word id="10">boer</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="12">akker</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">nu</word>
+      </functor>
+      <argument>
+         <word id="8">gedomineerd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

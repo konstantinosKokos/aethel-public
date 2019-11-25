@@ -1,0 +1,150 @@
+<semantics id="wiki-1625.p.3.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">al</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="20">in</word>
+                     </functor>
+                     <argument>
+                        <word id="21">Milaan</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="19">L'ambrogino d'oro</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="17">de</word>
+                        </functor>
+                        <argument>
+                           <word id="18">wedstrijd</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="14">Ami Ami</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">het</word>
+         </functor>
+         <argument>
+            <word id="13">liedje</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">als</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">Musiclub</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">het</word>
+                  </functor>
+                  <argument>
+                     <word id="9">groepje</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="6">zangeres</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">later</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Twee</word>
+            </functor>
+            <argument>
+               <word id="1">jaar</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">stond</word>
+         </functor>
+         <argument>
+            <word id="4">ze</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

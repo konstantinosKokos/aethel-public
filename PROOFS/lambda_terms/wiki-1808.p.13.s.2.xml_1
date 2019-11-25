@@ -1,0 +1,73 @@
+<semantics id="wiki-1808.p.13.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">maakten</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">uit</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">toenmalige</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">de</word>
+               </functor>
+               <argument>
+                  <word id="7">Volksunie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">bekende</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">vooral</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">enkele</word>
+               </functor>
+               <argument>
+                  <word id="3">figuren</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">de</word>
+   </functor>
+   <argument>
+      <word id="10">overstap</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

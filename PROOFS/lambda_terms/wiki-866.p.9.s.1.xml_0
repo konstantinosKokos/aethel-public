@@ -1,0 +1,115 @@
+<semantics id="wiki-866.p.9.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">dicht bij</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">van</word>
+               </functor>
+               <argument>
+                  <word id="16">Rochefort</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">de</word>
+               </functor>
+               <argument>
+                  <word id="14">tennisclub</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">een</word>
+         </functor>
+         <argument>
+            <word id="11">huis</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">groeit</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">kleine</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="2">Justine</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">Rochefort</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">de</word>
+               </functor>
+               <argument>
+                  <word id="7">gemeente</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">op</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

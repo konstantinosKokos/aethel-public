@@ -1,0 +1,115 @@
+<semantics id="wiki-6879.p.17.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">via</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">een</word>
+      </functor>
+      <argument>
+         <word id="10">veiling</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">belandde</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">Elisabeth</word>
+               </functor>
+               <argument>
+                  <word id="5">Koningin</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">bekende</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Ook</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">de</word>
+                  </functor>
+                  <argument>
+                     <word id="3">Cartier-tiara</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">terug</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">van</word>
+               </functor>
+               <argument>
+                  <word id="16">Cartier</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">de</word>
+               </functor>
+               <argument>
+                  <word id="14">collectie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

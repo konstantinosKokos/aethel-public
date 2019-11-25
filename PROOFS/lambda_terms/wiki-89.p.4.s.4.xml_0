@@ -1,0 +1,129 @@
+<semantics id="wiki-89.p.4.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">heeft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">sociaal-democratische</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">de</word>
+         </functor>
+         <argument>
+            <word id="14">tendens</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="15">volledig</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">na verloop van</word>
+         </functor>
+         <argument>
+            <word id="11">tijd</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Alhoewel</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="8">was</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="4">in</word>
+                        </functor>
+                        <argument>
+                           <word id="5">oorsprong</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="2">communistische</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="1">de</word>
+                           </functor>
+                           <argument>
+                              <word id="3">tendens</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">zeer</word>
+                  </functor>
+                  <argument>
+                     <word id="7">sterk</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="18">gehaald</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">de</word>
+               </functor>
+               <argument>
+                  <word id="17">overhand</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

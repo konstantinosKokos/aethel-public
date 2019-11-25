@@ -1,0 +1,213 @@
+<semantics id="WR-P-E-J-0000000007.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="16">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="22">bijkomende</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="20">een</word>
+            </functor>
+            <argument>
+               <word id="21">aantal</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="23">ontginningsgebieden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="17">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="18">het</word>
+         </functor>
+         <argument>
+            <word id="19">GRUP</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In overleg met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="12">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <word id="7">en</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="3">Bilzen</word>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="4">Lanaken</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="5">Riemst</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="6">Hoeselt</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="8">Hasselt</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="1">de</word>
+                        </functor>
+                        <argument>
+                           <word id="2">gemeenten</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">Limburg</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">de</word>
+                     </functor>
+                     <argument>
+                        <word id="10">provincie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">betrokken</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">de</word>
+                  </functor>
+                  <argument>
+                     <word id="15">administraties</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="24">aangeduid</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="25">als</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="27">op</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="29">algemene</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="28">het</word>
+                        </functor>
+                        <argument>
+                           <word id="30">oppervlaktedelfstoffenplan</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="26">voorafname</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

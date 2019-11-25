@@ -1,0 +1,66 @@
+<semantics id="wiki-3745.p.21.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">focust</word>
+      </functor>
+      <argument>
+         <word id="0">Z33</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">vooral</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">en</word>
+                  </functor>
+                  <argument>
+                     <word id="5">media</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="6">vormgeving</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">beeldende</word>
+               </functor>
+               <argument>
+                  <word id="9">kunsten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="2">zich</word>
+</argument>
+</appl>
+</semantics>

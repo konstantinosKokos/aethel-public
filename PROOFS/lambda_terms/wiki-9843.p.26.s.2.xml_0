@@ -1,0 +1,80 @@
+<semantics id="wiki-9843.p.26.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">Leopold Vermeiren</word>
+      </functor>
+      <argument>
+         <word id="1">jeugdschrijver</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">kreeg</word>
+      </functor>
+      <argument>
+         <word id="4">hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">de</word>
+         </functor>
+         <argument>
+            <word id="6">toestemming</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">gebruiken</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">De Rode Ridder</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">diens</word>
+                  </functor>
+                  <argument>
+                     <word id="8">romanfiguur</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

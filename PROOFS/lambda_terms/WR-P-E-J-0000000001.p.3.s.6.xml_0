@@ -1,0 +1,115 @@
+<semantics id="WR-P-E-J-0000000001.p.3.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="15">kunnen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">maximaal</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">helpen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="10">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="11">de</word>
+                        </functor>
+                        <argument>
+                           <word id="12">aardbeving</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">de</word>
+                     </functor>
+                     <argument>
+                        <word id="9">slachtoffers</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">hoop</word>
+      </functor>
+      <argument>
+         <word id="0">Ik</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">heel</word>
+            </functor>
+            <argument>
+               <word id="5">succesvolle</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">een</word>
+            </functor>
+            <argument>
+               <word id="6">actie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

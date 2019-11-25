@@ -1,0 +1,24 @@
+<semantics id="wiki-1550.p.10.s.1.xml_0">
+<appl>
+<functor>
+   <word id="3">2006</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">17</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="2">hellingen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

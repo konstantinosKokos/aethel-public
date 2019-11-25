@@ -1,0 +1,17 @@
+<semantics id="wiki-135.p.31.s.2.xml_1">
+<appl>
+<functor>
+   <word id="0">zie</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">bovenste</word>
+   </functor>
+   <argument>
+      <word id="2">kaart</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

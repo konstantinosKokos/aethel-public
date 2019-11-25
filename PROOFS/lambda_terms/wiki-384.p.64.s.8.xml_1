@@ -1,0 +1,24 @@
+<semantics id="wiki-384.p.64.s.8.xml_1">
+<appl>
+<functor>
+   <word id="3">kabinet-Den Uyl</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">van</word>
+      </functor>
+      <argument>
+         <word id="2">Financiën</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="0">staatssecretaris</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

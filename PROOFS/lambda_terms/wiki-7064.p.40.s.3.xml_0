@@ -1,0 +1,45 @@
+<semantics id="wiki-7064.p.40.s.3.xml_0">
+<appl>
+<functor>
+   <word id="6">CP 1KL</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">van</word>
+      </functor>
+      <argument>
+         <word id="5">politie</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">°</word>
+            </functor>
+            <argument>
+               <word id="1">1</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">klasse</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">commissaris</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

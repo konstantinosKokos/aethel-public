@@ -1,0 +1,115 @@
+<semantics id="wiki-832.p.26.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">25e</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">zijn</word>
+               </functor>
+               <argument>
+                  <word id="3">jaar</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">doken</word>
+            </functor>
+            <argument>
+               <word id="5">darmklachten</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="6">op</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">werd</word>
+      </functor>
+      <argument>
+         <word id="8">dat</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="14">omtrent</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">zijn</word>
+            </functor>
+            <argument>
+               <word id="16">gezondheid</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">chronische</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">eerste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">de</word>
+               </functor>
+               <argument>
+                  <word id="13">bezorgdheid</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

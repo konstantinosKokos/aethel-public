@@ -1,0 +1,136 @@
+<semantics id="wiki-3745.p.52.s.4.xml_0">
+<appl>
+<functor>
+   <word id="0">Hierdoor</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="14">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">komt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">nieuwe</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">het</word>
+                  </functor>
+                  <argument>
+                     <word id="4">stadshuis</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="8">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="9">de</word>
+                           </functor>
+                           <argument>
+                              <word id="10">stad</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">het</word>
+                        </functor>
+                        <argument>
+                           <word id="7">binnenste</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">staan</word>
+                  </functor>
+                  <argument>
+                     <word id="11">leeg</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="15">worden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">nieuwe</word>
+            </functor>
+            <argument>
+               <word id="18">woongelegenheden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">er</word>
+         </functor>
+         <argument>
+            <word id="19">gecreëerd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

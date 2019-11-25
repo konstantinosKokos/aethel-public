@@ -1,0 +1,17 @@
+<semantics id="wiki-9844.p.2.s.2.xml_1">
+<appl>
+<functor>
+   <word id="0">kort</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">voor</word>
+   </functor>
+   <argument>
+      <word id="2">Louise</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

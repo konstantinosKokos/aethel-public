@@ -1,0 +1,101 @@
+<semantics id="wiki-384.p.7.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">werd</word>
+         </functor>
+         <argument>
+            <word id="0">Dit</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">niet</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">door</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">eigen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">de</word>
+                     </functor>
+                     <argument>
+                        <word id="5">aanhang</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="7">begrepen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">zakte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">de</word>
+         </functor>
+         <argument>
+            <word id="10">partij</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="12">naar</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">6</word>
+         </functor>
+         <argument>
+            <word id="14">zetels</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

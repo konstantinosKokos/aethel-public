@@ -1,0 +1,38 @@
+<semantics id="wiki-5.p.41.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">kiest</word>
+   </functor>
+   <argument>
+      <word id="0">Groen !</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">gerichte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">een</word>
+         </functor>
+         <argument>
+            <word id="5">campagne</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

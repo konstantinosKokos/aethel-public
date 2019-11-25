@@ -1,0 +1,59 @@
+<semantics id="WR-P-E-J-0000000010.p.3.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">zal</word>
+   </functor>
+   <argument>
+      <word id="3">Tenten voor Pakistan</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Op</word>
+      </functor>
+      <argument>
+         <word id="1">21 december</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">uitmonden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">gezamenlijk</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">een</word>
+               </functor>
+               <argument>
+                  <word id="8">televisieprogramma</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

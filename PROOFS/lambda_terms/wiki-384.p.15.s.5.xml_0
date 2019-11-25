@@ -1,0 +1,52 @@
+<semantics id="wiki-384.p.15.s.5.xml_0">
+<appl>
+<functor>
+   <word id="0">Vervolgens</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">stellen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">andere</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">de</word>
+               </functor>
+               <argument>
+                  <word id="4">ministers</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">hun</word>
+         </functor>
+         <argument>
+            <word id="6">portefeuille</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">ter beschikking</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

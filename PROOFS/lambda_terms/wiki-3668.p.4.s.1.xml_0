@@ -1,0 +1,24 @@
+<semantics id="wiki-3668.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">en</word>
+      </functor>
+      <argument>
+         <word id="0">Geografie</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">demografie</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="3">taal</word>
+</argument>
+</appl>
+</semantics>

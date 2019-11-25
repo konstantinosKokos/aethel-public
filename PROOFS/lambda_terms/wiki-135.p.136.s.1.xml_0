@@ -1,0 +1,17 @@
+<semantics id="wiki-135.p.136.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">en</word>
+   </functor>
+   <argument>
+      <word id="0">Verkeer</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="2">vervoer</word>
+</argument>
+</appl>
+</semantics>

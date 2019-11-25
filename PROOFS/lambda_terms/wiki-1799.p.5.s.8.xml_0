@@ -1,0 +1,101 @@
+<semantics id="wiki-1799.p.5.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Na</word>
+   </functor>
+   <argument>
+      <word id="1">Vlaanderen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">was</word>
+            </functor>
+            <argument>
+               <word id="3">Nederland</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">aan de beurt</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">ook</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">vanaf</word>
+            </functor>
+            <argument>
+               <word id="9">1975</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">trad</word>
+                  </functor>
+                  <argument>
+                     <word id="7">hij</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">Nederlandse</word>
+                     </functor>
+                     <argument>
+                        <word id="13">theaters</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">op</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

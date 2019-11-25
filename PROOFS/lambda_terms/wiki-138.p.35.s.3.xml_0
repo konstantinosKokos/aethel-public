@@ -1,0 +1,38 @@
+<semantics id="wiki-138.p.35.s.3.xml_0">
+<appl>
+<functor>
+   <word id="2">Nederlands-Brits</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">en</word>
+            </functor>
+            <argument>
+               <word id="0">Audrey Hepburn</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="1">1929</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="3">actrice</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="5">filantrope</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

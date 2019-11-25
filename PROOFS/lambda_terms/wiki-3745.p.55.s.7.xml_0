@@ -1,0 +1,45 @@
+<semantics id="wiki-3745.p.55.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">beeldende</word>
+               </functor>
+               <argument>
+                  <word id="3">kunst</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">mode</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="6">design</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Triënnale</word>
+</argument>
+</appl>
+</semantics>

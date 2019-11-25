@@ -1,0 +1,115 @@
+<semantics id="wiki-415.p.15.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">valt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">Hertogenwoud</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">grote</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">het</word>
+                  </functor>
+                  <argument>
+                     <word id="5">bos</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Een</word>
+         </functor>
+         <argument>
+            <word id="1">deel</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="14">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">deze</word>
+            </functor>
+            <argument>
+               <word id="16">gemeente</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">en</word>
+               </functor>
+               <argument>
+                  <word id="10">zuidelijk</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="12">oostelijk</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">het</word>
+            </functor>
+            <argument>
+               <word id="13">deel</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

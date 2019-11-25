@@ -1,0 +1,164 @@
+<semantics id="wiki-1181.p.5.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">heeft</word>
+   </functor>
+   <argument>
+      <word id="11">men</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="13">door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="17">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="14">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">het</word>
+                  </functor>
+                  <argument>
+                     <word id="16">programma</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">schrijven</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">dat</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="23">is</word>
+                        </functor>
+                        <argument>
+                           <word id="20">vrede</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="21">een</word>
+                        </functor>
+                        <argument>
+                           <word id="22">prioriteit</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="12">benadrukt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Dat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">enkel</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">via</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">politieke</word>
+                     </functor>
+                     <argument>
+                        <word id="8">wegen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">nastreeft</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">deze</word>
+                     </functor>
+                     <argument>
+                        <word id="2">partij</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">die</word>
+                  </functor>
+                  <argument>
+                     <word id="4">onafhankelijkheid</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

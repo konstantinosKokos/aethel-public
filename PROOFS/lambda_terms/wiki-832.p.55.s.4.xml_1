@@ -1,0 +1,66 @@
+<semantics id="wiki-832.p.55.s.4.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">1983</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">te</word>
+                  </functor>
+                  <argument>
+                     <word id="8">Antwerpen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">het</word>
+                  </functor>
+                  <argument>
+                     <word id="6">KMSK</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="3">tentoonstelling</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">catalogus</word>
+</argument>
+</appl>
+</semantics>

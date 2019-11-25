@@ -1,0 +1,59 @@
+<semantics id="wiki-5.p.39.s.10.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">blijft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">uiteindelijke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="4">beslissingsmacht</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Desalniettemin</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">liggen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">bij</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">het</word>
+            </functor>
+            <argument>
+               <word id="7">ledencongres</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

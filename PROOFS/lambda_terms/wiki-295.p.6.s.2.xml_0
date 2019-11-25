@@ -1,0 +1,80 @@
+<semantics id="wiki-295.p.6.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">kon</word>
+   </functor>
+   <argument>
+      <word id="0">Servaes</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">als</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">Vlaamse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">het</word>
+                  </functor>
+                  <argument>
+                     <word id="11">expressionisme</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="7">Vader</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">al</word>
+         </functor>
+         <argument>
+            <word id="2">toen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">doorgaan</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

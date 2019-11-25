@@ -1,0 +1,52 @@
+<semantics id="wiki-1846.p.11.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">won</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">drie</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">de</word>
+               </functor>
+               <argument>
+                  <word id="4">groepen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">Geen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">het</word>
+   </functor>
+   <argument>
+      <word id="7">referendum</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

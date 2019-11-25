@@ -1,0 +1,80 @@
+<semantics id="wiki-3745.p.38.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Naast</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">de</word>
+      </functor>
+      <argument>
+         <word id="2">Grenslandhallen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">ligt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">sinds</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">2005</word>
+               </functor>
+               <argument>
+                  <word id="10">einde</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">open</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">overdekt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">een</word>
+               </functor>
+               <argument>
+                  <word id="7">themapark</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">Plopsa Indoor Hasselt</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

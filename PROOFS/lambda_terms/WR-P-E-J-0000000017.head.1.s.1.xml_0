@@ -1,0 +1,45 @@
+<semantics id="WR-P-E-J-0000000017.head.1.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">moet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Alternatieve</word>
+      </functor>
+      <argument>
+         <word id="1">financiering</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">helpen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">versneld</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">realiseren</word>
+         </functor>
+         <argument>
+            <word id="3">missing links</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

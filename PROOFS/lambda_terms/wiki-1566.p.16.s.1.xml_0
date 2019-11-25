@@ -1,0 +1,52 @@
+<semantics id="wiki-1566.p.16.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">pas</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">sinds</word>
+      </functor>
+      <argument>
+         <word id="4">2004</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">beschikt</word>
+      </functor>
+      <argument>
+         <word id="0">Nederland</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">over</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">een</word>
+         </functor>
+         <argument>
+            <word id="7">stripmuseum</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,73 @@
+<semantics id="wiki-60.p.3.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">die</word>
+      </functor>
+      <argument>
+         <word id="2">zin</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">is</word>
+      </functor>
+      <argument>
+         <word id="4">het</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">en</word>
+               </functor>
+               <argument>
+                  <word id="8">Goede Vrijdag</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="10">Pasen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">een</word>
+         </functor>
+         <argument>
+            <word id="6">voorbereiding</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

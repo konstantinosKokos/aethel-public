@@ -1,0 +1,59 @@
+<semantics id="wiki-1941.p.34.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">want</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">niet</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">deed</word>
+            </functor>
+            <argument>
+               <word id="2">hij</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="0">doodslaan</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">tussen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">en</word>
+         </functor>
+         <argument>
+            <word id="6">droom</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="8">daad</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

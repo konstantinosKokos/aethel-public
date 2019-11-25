@@ -1,0 +1,150 @@
+<semantics id="wiki-1846.p.12.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">onder</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">spirit</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">de</word>
+               </functor>
+               <argument>
+                  <word id="10">naam</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">richtte</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">22,63%</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="0">De</word>
+                     </functor>
+                     <argument>
+                        <word id="1">Toekomstgroep</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">nieuwe</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">een</word>
+                  </functor>
+                  <argument>
+                     <word id="6">partij</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">op</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="18">onder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="21">N-VA</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">de</word>
+            </functor>
+            <argument>
+               <word id="20">naam</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="16">deed</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">Vlaams-Nationaal</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">de</word>
+               </functor>
+               <argument>
+                  <word id="14">groep</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="17">dat</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

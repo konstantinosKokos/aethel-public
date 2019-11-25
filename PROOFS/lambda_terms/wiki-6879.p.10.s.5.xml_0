@@ -1,0 +1,31 @@
+<semantics id="wiki-6879.p.10.s.5.xml_0">
+<appl>
+<functor>
+   <word id="0">Bovendien</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">was</word>
+      </functor>
+      <argument>
+         <word id="2">Lilian</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">een</word>
+      </functor>
+      <argument>
+         <word id="4">burgermeisje</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

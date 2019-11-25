@@ -1,0 +1,157 @@
+<semantics id="wiki-1823.p.35.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">dit</word>
+                  </functor>
+                  <argument>
+                     <word id="12">geheel</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">de</word>
+               </functor>
+               <argument>
+                  <word id="9">afscheidingsbeweging</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">de</word>
+         </functor>
+         <argument>
+            <word id="6">aanhang</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Afhankelijk</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="3">opiniepeiler</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="22">geschat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">tussen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="19">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">de</word>
+                  </functor>
+                  <argument>
+                     <word id="21">bevolking</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="16">en</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">de</word>
+                     </functor>
+                     <argument>
+                        <word id="15">13</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">de</word>
+                  </functor>
+                  <argument>
+                     <word id="18">51%</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

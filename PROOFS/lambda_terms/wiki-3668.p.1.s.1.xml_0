@@ -1,0 +1,17 @@
+<semantics id="wiki-3668.p.1.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">Belgische</word>
+   </functor>
+   <argument>
+      <word id="2">provincie</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Limburg</word>
+</argument>
+</appl>
+</semantics>

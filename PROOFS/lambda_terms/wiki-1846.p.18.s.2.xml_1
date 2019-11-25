@@ -1,0 +1,45 @@
+<semantics id="wiki-1846.p.18.s.2.xml_1">
+<appl>
+<functor>
+   <word id="0">zoals</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">en</word>
+               </functor>
+               <argument>
+                  <word id="1">Karel Dillen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="2">Wim Verreycken</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">Roeland Raes</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">Francis Van den Eynde</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="6">Frank Vanhecke</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,45 @@
+<semantics id="wiki-6983.p.21.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">wentelen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">vreemdelingen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="0">Ze</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">in</word>
+      </functor>
+      <argument>
+         <word id="6">zelfbeklag</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="4">zich</word>
+</argument>
+</appl>
+</semantics>

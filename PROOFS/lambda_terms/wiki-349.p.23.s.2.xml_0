@@ -1,0 +1,52 @@
+<semantics id="wiki-349.p.23.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">en</word>
+            </functor>
+            <argument>
+               <word id="2">werkgelegenheid</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">gezinszaken</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">sociale</word>
+         </functor>
+         <argument>
+            <word id="5">zaken</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">gezondheid</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">PFF</word>
+   </functor>
+   <argument>
+      <word id="0">Bernd Gentges</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

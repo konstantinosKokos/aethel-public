@@ -1,0 +1,80 @@
+<semantics id="wiki-3745.p.31.s.8.xml_0">
+<appl>
+<functor>
+   <word id="1">wordt</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">hard</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Momenteel</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">gewerkt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">aan</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="9">voor</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="10">de</word>
+                        </functor>
+                        <argument>
+                           <word id="11">abdij</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">nieuwe</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">een</word>
+                        </functor>
+                        <argument>
+                           <word id="8">toekomst</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

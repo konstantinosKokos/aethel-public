@@ -1,0 +1,157 @@
+<semantics id="wiki-5107.p.8.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">zowat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">de</word>
+         </functor>
+         <argument>
+            <word id="11">helft</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">nog</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">ook</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Tot</word>
+            </functor>
+            <argument>
+               <word id="1">2000</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">bestond</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">nieuwe</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">het</word>
+                     </functor>
+                     <argument>
+                        <word id="6">tracé</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">uit</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="16">voor</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="20">buiten</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="21">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="22">wedstrijddagen</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="18">gewone</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="17">het</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="19">verkeer</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="15">open</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">gewone</word>
+                     </functor>
+                     <argument>
+                        <word id="14">rijkswegen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

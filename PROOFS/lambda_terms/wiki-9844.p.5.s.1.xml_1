@@ -1,0 +1,143 @@
+<semantics id="wiki-9844.p.5.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">naast</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">Sidonia</word>
+      </functor>
+      <argument>
+         <word id="1">tante</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">vormen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">pompeuze</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">de</word>
+                     </functor>
+                     <argument>
+                        <word id="6">Lambik</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">krachtige</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">de</word>
+                  </functor>
+                  <argument>
+                     <word id="9">Jerom</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">Barabas</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">geleerde</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">de</word>
+                  </functor>
+                  <argument>
+                     <word id="13">professor</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="18">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">de</word>
+            </functor>
+            <argument>
+               <word id="20">strip</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">vaste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">de</word>
+            </functor>
+            <argument>
+               <word id="17">volwassenen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,166 @@
+<semantics id="wiki-135.p.110.s.1.xml_0">
+<appl>
+<functor>
+   <word id="11">nog</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">er</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Sedert</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">WET 07/12/1998</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="3">die</word>
+                  </functor>
+                  <argument>
+                     <lambda varid="0">
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="6">werd</word>
+                           </functor>
+                           <argument>
+                              <var id="0" debruijn="1"></var>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="4">in</word>
+                              </functor>
+                              <argument>
+                                 <word id="5">België</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="7">doorgevoerd</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </lambda>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">de</word>
+                  </functor>
+                  <argument>
+                     <word id="2">politiehervorming</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">bestaat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">namelijk</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="20">op</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="21">2</word>
+                           </functor>
+                           <argument>
+                              <word id="22">niveaus</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="19">gestructureerd</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">geïntegreerde</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="16">een</word>
+                        </functor>
+                        <argument>
+                           <word id="18">politie</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">slechts</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">1</word>
+                  </functor>
+                  <argument>
+                     <word id="14">politiedienst</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

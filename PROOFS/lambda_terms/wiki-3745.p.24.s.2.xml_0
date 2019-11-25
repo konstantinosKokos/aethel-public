@@ -1,0 +1,227 @@
+<semantics id="wiki-3745.p.24.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="31">tot</word>
+   </functor>
+   <argument>
+      <word id="32">nu</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="27">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="29">achttiende</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="28">de</word>
+            </functor>
+            <argument>
+               <word id="30">eeuw</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="17">aan de hand van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="25">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="20">reukflessen</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="21">miniaturen</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="22">staaltjes</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="23">parfumkaarten</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="24">publiciteit</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="26">poederdozen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">een</word>
+               </functor>
+               <argument>
+                  <word id="19">collectie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="2">neemt</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="0">De</word>
+                     </functor>
+                     <argument>
+                        <word id="1">Parfum-O-Theek</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="3">je</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="11">in</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="14">van</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="15">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="16">parfum</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="12">de</word>
+                           </functor>
+                           <argument>
+                              <word id="13">wereld</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="8">en</word>
+                           </functor>
+                           <argument>
+                              <word id="7">historische</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="9">culturele</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">een</word>
+                        </functor>
+                        <argument>
+                           <word id="10">reis</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">mee</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

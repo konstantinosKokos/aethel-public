@@ -1,0 +1,66 @@
+<semantics id="wiki-11.p.9.s.3.xml_0">
+<appl>
+<functor>
+   <word id="4">nu</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">zijn</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">voormalige</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="2">(rand-)gemeenten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">binnen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">Antwerpen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="8">gemeente</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">districten</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,17 @@
+<semantics id="wiki-1820.p.6.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">en</word>
+   </functor>
+   <argument>
+      <word id="0">Oppervlakte</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="2">bevolking</word>
+</argument>
+</appl>
+</semantics>

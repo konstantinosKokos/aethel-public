@@ -1,0 +1,108 @@
+<semantics id="wiki-5.p.8.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">moest</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">de</word>
+      </functor>
+      <argument>
+         <word id="10">partij</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Vanwege</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">als</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">niet-parlementaire</word>
+               </functor>
+               <argument>
+                  <word id="7">partij</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">aan</word>
+               </functor>
+               <argument>
+                  <word id="4">inkomsten</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">het</word>
+               </functor>
+               <argument>
+                  <word id="2">verlies</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">ontslaan</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">medewerkers</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">groot</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">een</word>
+               </functor>
+               <argument>
+                  <word id="13">aantal</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

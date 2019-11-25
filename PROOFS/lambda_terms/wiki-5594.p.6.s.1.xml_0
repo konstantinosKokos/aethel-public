@@ -1,0 +1,94 @@
+<semantics id="wiki-5594.p.6.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">ter vervanging van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">sociaal</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">huidige</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">het</word>
+                  </functor>
+                  <argument>
+                     <word id="13">zekerheidsysteem</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">elke</word>
+               </functor>
+               <argument>
+                  <word id="8">burger</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">onvoorwaardelijk</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">een</word>
+               </functor>
+               <argument>
+                  <word id="5">basisinkomen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Het</word>
+   </functor>
+   <argument>
+      <word id="1">invoeren</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

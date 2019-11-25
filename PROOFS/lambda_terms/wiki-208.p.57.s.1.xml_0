@@ -1,0 +1,115 @@
+<semantics id="wiki-208.p.57.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">op</word>
+   </functor>
+   <argument>
+      <word id="12">25 augustus 1830</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">economische</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">slechte</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">de</word>
+                     </functor>
+                     <argument>
+                        <word id="4">toestand</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">Franse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">de</word>
+               </functor>
+               <argument>
+                  <word id="8">Julirevolutie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">kwam</word>
+         </functor>
+         <argument>
+            <word id="10">het</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">tot</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">in</word>
+               </functor>
+               <argument>
+                  <word id="16">Brussel</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">relletjes</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

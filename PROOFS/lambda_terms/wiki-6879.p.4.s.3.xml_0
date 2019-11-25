@@ -1,0 +1,164 @@
+<semantics id="wiki-6879.p.4.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="14">bij</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="17">aan</word>
+               </functor>
+               <argument>
+                  <word id="18">West-Vlaanderen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">een</word>
+               </functor>
+               <argument>
+                  <word id="16">bezoek</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">ook</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="23">meebrengt</word>
+               </functor>
+               <argument>
+                  <word id="13">Leopold</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="21">of</word>
+                     </functor>
+                     <argument>
+                        <word id="19">Josephine-Charlotte</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="20">Boudewijn</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="22">Albert</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">soms</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">als</word>
+         </functor>
+         <argument>
+            <word id="4">gouverneur</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">neemt</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="0">Haar</word>
+                  </functor>
+                  <argument>
+                     <word id="1">vader</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">zijn</word>
+                     </functor>
+                     <argument>
+                        <word id="9">kinderen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="6">enkele</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="10">mee</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,87 @@
+<semantics id="WR-P-E-J-0000000025.p.4.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">via</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">speciale</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">twee</word>
+         </functor>
+         <argument>
+            <word id="6">Trustfondsen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Jaarlijks</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">besteden</word>
+            </functor>
+            <argument>
+               <word id="2">we</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">euro</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">ongeveer</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">1,75</word>
+                  </functor>
+                  <argument>
+                     <word id="9">miljoen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">aan</word>
+         </functor>
+         <argument>
+            <word id="12">UNESCO-projecten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

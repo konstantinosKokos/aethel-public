@@ -1,0 +1,66 @@
+<semantics id="wiki-208.p.82.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">politieke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">grote</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="3">stromingen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">door</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">twee</word>
+         </functor>
+         <argument>
+            <word id="8">partijen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">vaak</word>
+      </functor>
+      <argument>
+         <word id="9">vertegenwoordigd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

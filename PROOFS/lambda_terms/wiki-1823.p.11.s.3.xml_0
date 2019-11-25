@@ -1,0 +1,129 @@
+<semantics id="wiki-1823.p.11.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="13">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="11">en</word>
+                     </functor>
+                     <argument>
+                        <word id="10">heide</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="12">dennenbossen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="8">Kempen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">vervolgens</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="15">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">vruchtbare</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">het</word>
+               </functor>
+               <argument>
+                  <word id="18">Haspengouw</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">komt</word>
+      </functor>
+      <argument>
+         <word id="5">men</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Naar</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">het</word>
+            </functor>
+            <argument>
+               <word id="2">oosten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="3">toe</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

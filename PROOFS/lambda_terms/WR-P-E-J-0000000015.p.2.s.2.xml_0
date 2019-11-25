@@ -1,0 +1,131 @@
+<semantics id="WR-P-E-J-0000000015.p.2.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">waarover</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="8">zal</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">nieuwe</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">de</word>
+                        </functor>
+                        <argument>
+                           <word id="6">competentiepool</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <var id="0" debruijn="1"></var>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">verrichten</word>
+                     </functor>
+                     <argument>
+                        <word id="7">onderzoek</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">centrale</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Het</word>
+            </functor>
+            <argument>
+               <word id="2">thema</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="15">voor</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">de</word>
+         </functor>
+         <argument>
+            <word id="17">toekomst</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">en</word>
+            </functor>
+            <argument>
+               <word id="11">evenwichtige</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="13">lekkere</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="14">voeding</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

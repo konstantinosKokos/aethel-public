@@ -1,0 +1,38 @@
+<semantics id="wiki-138.p.5.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">als</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">en</word>
+            </functor>
+            <argument>
+               <word id="2">Belgisch</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">Europees</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">Centrum</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Brussel</word>
+</argument>
+</appl>
+</semantics>

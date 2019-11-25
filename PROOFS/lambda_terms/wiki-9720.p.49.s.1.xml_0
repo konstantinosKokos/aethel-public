@@ -1,0 +1,24 @@
+<semantics id="wiki-9720.p.49.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">gaat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Gods</word>
+      </functor>
+      <argument>
+         <word id="0">Lam</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="3">digitaal</word>
+</argument>
+</appl>
+</semantics>

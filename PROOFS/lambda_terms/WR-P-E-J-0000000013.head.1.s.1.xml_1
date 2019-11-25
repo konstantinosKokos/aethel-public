@@ -1,0 +1,66 @@
+<semantics id="WR-P-E-J-0000000013.head.1.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">gewestelijke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="9">waterzuiveringsinfrastructuur</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">optimalisatie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">euro</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">100</word>
+      </functor>
+      <argument>
+         <word id="1">miljoen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

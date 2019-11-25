@@ -1,0 +1,370 @@
+<semantics id="wiki-7355.p.2.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">stad</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="22">en</word>
+                  </functor>
+                  <argument>
+                     <lambda varid="0">
+                        <lambda varid="1">
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="20">in</word>
+                              </functor>
+                              <argument>
+                                 <word id="21">1971</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="8">tussen</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <word id="12">en</word>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <word id="10">oorspronkelijke</word>
+                                          </functor>
+                                          <argument>
+                                             <appl>
+                                             <functor>
+                                                <word id="9">het</word>
+                                             </functor>
+                                             <argument>
+                                                <word id="11">Geraardsbergen</word>
+                                             </argument>
+                                             </appl>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <appl>
+                                          <functor>
+                                             <appl>
+                                             <functor>
+                                                <appl>
+                                                <functor>
+                                                   <appl>
+                                                   <functor>
+                                                      <appl>
+                                                      <functor>
+                                                         <word id="18">en</word>
+                                                      </functor>
+                                                      <argument>
+                                                         <lambda varid="2">
+                                                            <lambda varid="3">
+                                                               <appl>
+                                                               <functor>
+                                                                  <word id="15">Onkerzele</word>
+                                                               </functor>
+                                                               <argument>
+                                                                  <appl>
+                                                                  <functor>
+                                                                     <var id="2" debruijn="2"></var>
+                                                                  </functor>
+                                                                  <argument>
+                                                                     <var id="3" debruijn="1"></var>
+                                                                  </argument>
+                                                                  </appl>
+                                                               </argument>
+                                                               </appl>
+                                                            </lambda>
+                                                         </lambda>
+                                                      </argument>
+                                                      </appl>
+                                                   </functor>
+                                                   <argument>
+                                                      <lambda varid="4">
+                                                         <lambda varid="5">
+                                                            <appl>
+                                                            <functor>
+                                                               <word id="16">Overboelare</word>
+                                                            </functor>
+                                                            <argument>
+                                                               <appl>
+                                                               <functor>
+                                                                  <var id="4" debruijn="2"></var>
+                                                               </functor>
+                                                               <argument>
+                                                                  <var id="5" debruijn="1"></var>
+                                                               </argument>
+                                                               </appl>
+                                                            </argument>
+                                                            </appl>
+                                                         </lambda>
+                                                      </lambda>
+                                                   </argument>
+                                                   </appl>
+                                                </functor>
+                                                <argument>
+                                                   <lambda varid="6">
+                                                      <lambda varid="7">
+                                                         <appl>
+                                                         <functor>
+                                                            <word id="17">Goeferdinge</word>
+                                                         </functor>
+                                                         <argument>
+                                                            <appl>
+                                                            <functor>
+                                                               <var id="6" debruijn="2"></var>
+                                                            </functor>
+                                                            <argument>
+                                                               <var id="7" debruijn="1"></var>
+                                                            </argument>
+                                                            </appl>
+                                                         </argument>
+                                                         </appl>
+                                                      </lambda>
+                                                   </lambda>
+                                                </argument>
+                                                </appl>
+                                             </functor>
+                                             <argument>
+                                                <lambda varid="8">
+                                                   <lambda varid="9">
+                                                      <appl>
+                                                      <functor>
+                                                         <word id="19">Nederboelare</word>
+                                                      </functor>
+                                                      <argument>
+                                                         <appl>
+                                                         <functor>
+                                                            <var id="8" debruijn="2"></var>
+                                                         </functor>
+                                                         <argument>
+                                                            <var id="9" debruijn="1"></var>
+                                                         </argument>
+                                                         </appl>
+                                                      </argument>
+                                                      </appl>
+                                                   </lambda>
+                                                </lambda>
+                                             </argument>
+                                             </appl>
+                                          </functor>
+                                          <argument>
+                                             <word id="13">de</word>
+                                          </argument>
+                                          </appl>
+                                       </functor>
+                                       <argument>
+                                          <word id="14">gemeenten</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <var id="0" debruijn="2"></var>
+                                 </functor>
+                                 <argument>
+                                    <var id="1" debruijn="1"></var>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </lambda>
+                     </lambda>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <lambda varid="10">
+                     <lambda varid="11">
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="36">in</word>
+                           </functor>
+                           <argument>
+                              <word id="37">1977</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="23">met</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <appl>
+                                          <functor>
+                                             <appl>
+                                             <functor>
+                                                <appl>
+                                                <functor>
+                                                   <appl>
+                                                   <functor>
+                                                      <appl>
+                                                      <functor>
+                                                         <appl>
+                                                         <functor>
+                                                            <appl>
+                                                            <functor>
+                                                               <appl>
+                                                               <functor>
+                                                                  <word id="34">en</word>
+                                                               </functor>
+                                                               <argument>
+                                                                  <word id="24">Schendelbeke</word>
+                                                               </argument>
+                                                               </appl>
+                                                            </functor>
+                                                            <argument>
+                                                               <word id="25">Idegem</word>
+                                                            </argument>
+                                                            </appl>
+                                                         </functor>
+                                                         <argument>
+                                                            <word id="26">Moerbeke</word>
+                                                         </argument>
+                                                         </appl>
+                                                      </functor>
+                                                      <argument>
+                                                         <word id="27">Viane</word>
+                                                      </argument>
+                                                      </appl>
+                                                   </functor>
+                                                   <argument>
+                                                      <word id="28">Zarlardinge</word>
+                                                   </argument>
+                                                   </appl>
+                                                </functor>
+                                                <argument>
+                                                   <word id="29">Ophasselt</word>
+                                                </argument>
+                                                </appl>
+                                             </functor>
+                                             <argument>
+                                                <word id="30">Smeerebbe-Vloerzegem</word>
+                                             </argument>
+                                             </appl>
+                                          </functor>
+                                          <argument>
+                                             <word id="31">Grimminge</word>
+                                          </argument>
+                                          </appl>
+                                       </functor>
+                                       <argument>
+                                          <word id="32">Zandbergen</word>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <word id="33">Nieuwenhove</word>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="35">Waarbeke</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <var id="10" debruijn="2"></var>
+                              </functor>
+                              <argument>
+                                 <var id="11" debruijn="1"></var>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </lambda>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">de</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">fusie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">het</word>
+      </functor>
+      <argument>
+         <word id="4">resultaat</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

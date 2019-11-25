@@ -1,0 +1,24 @@
+<semantics id="wiki-138.p.24.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">19de-20ste</word>
+   </functor>
+   <argument>
+      <word id="3">eeuw</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">het</word>
+   </functor>
+   <argument>
+      <word id="1">Museum voor Moderne Kunst</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

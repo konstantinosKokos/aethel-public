@@ -1,0 +1,157 @@
+<semantics id="wiki-5.p.27.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="14">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="19">kleine</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="18">een</word>
+         </functor>
+         <argument>
+            <word id="20">uitgeverij</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="16">in</word>
+      </functor>
+      <argument>
+         <word id="17">1971</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">al</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Hoewel</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">vooral</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="4">in</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">eerste</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="5">de</word>
+                           </functor>
+                           <argument>
+                              <word id="7">jaren</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="13">richtte</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="1">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="2">beweging</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="9">tot</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="11">eigen</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="10">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="12">leden</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="3">zich</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="22">gezet</word>
+            </functor>
+            <argument>
+               <word id="21">op poten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

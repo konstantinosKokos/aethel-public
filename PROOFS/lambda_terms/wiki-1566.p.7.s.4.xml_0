@@ -1,0 +1,122 @@
+<semantics id="wiki-1566.p.7.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">als</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="15">en</word>
+                        </functor>
+                        <argument>
+                           <word id="11">Superman</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="12">Batman</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="13">Spiderman</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="14">The Fantastic Four</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">vele</word>
+               </functor>
+               <argument>
+                  <word id="17">andere</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="9">verhalen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">hieruit</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Na</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="2">oorlog</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">ontstond</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">Amerikaanse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">de</word>
+               </functor>
+               <argument>
+                  <word id="7">comic-cultuur</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

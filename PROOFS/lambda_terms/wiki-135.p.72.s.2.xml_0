@@ -1,0 +1,73 @@
+<semantics id="wiki-135.p.72.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">het</word>
+                  </functor>
+                  <argument>
+                     <word id="6">land</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">het</word>
+               </functor>
+               <argument>
+                  <word id="3">oppervlak</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="0">20.4%</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="8">bedekt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">met</word>
+      </functor>
+      <argument>
+         <word id="10">bos</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,164 @@
+<semantics id="wiki-7064.p.29.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Bij</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">gerechtelijke</word>
+                  </functor>
+                  <argument>
+                     <word id="7">politie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="4">opdrachten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">het</word>
+         </functor>
+         <argument>
+            <word id="2">uitvoeren</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">staat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">de</word>
+            </functor>
+            <argument>
+               <word id="10">politieambtenaar</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="21">of</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="19">des</word>
+                        </functor>
+                        <argument>
+                           <word id="20">Konings</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="16">bv</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="17">de</word>
+                           </functor>
+                           <argument>
+                              <word id="18">procureur</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="22">de</word>
+                  </functor>
+                  <argument>
+                     <word id="23">onderzoeksrechter</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">gerechtelijke</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">een</word>
+                  </functor>
+                  <argument>
+                     <word id="15">overheid</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="11">onder leiding en gezag</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

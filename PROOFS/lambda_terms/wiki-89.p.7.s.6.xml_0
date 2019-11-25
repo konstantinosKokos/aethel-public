@@ -1,0 +1,24 @@
+<semantics id="wiki-89.p.7.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">en</word>
+      </functor>
+      <argument>
+         <word id="0">Bond der Bedienden</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">Technici</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="3">Kaders van België</word>
+</argument>
+</appl>
+</semantics>

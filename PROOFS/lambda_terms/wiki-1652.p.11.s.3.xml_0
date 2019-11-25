@@ -1,0 +1,24 @@
+<semantics id="wiki-1652.p.11.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">de</word>
+      </functor>
+      <argument>
+         <word id="3">Zusters van de Berkenboom</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Klooster</word>
+</argument>
+</appl>
+</semantics>

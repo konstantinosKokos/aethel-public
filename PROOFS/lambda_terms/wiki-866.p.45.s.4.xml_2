@@ -1,0 +1,24 @@
+<semantics id="wiki-866.p.45.s.4.xml_2">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">tegen</word>
+   </functor>
+   <argument>
+      <word id="3">Serena Williams</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">halve</word>
+   </functor>
+   <argument>
+      <word id="1">finale</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

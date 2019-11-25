@@ -1,0 +1,94 @@
+<semantics id="wiki-135.p.35.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">zijn</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">dit</word>
+            </functor>
+            <argument>
+               <word id="4">federalisme</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Bepaalde</word>
+         </functor>
+         <argument>
+            <word id="1">aspecten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">minder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">dan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">federale</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">andere</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">meeste</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">de</word>
+                     </functor>
+                     <argument>
+                        <word id="13">staten</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">verregaand</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

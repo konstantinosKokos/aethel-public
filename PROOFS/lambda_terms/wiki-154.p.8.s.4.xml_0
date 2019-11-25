@@ -1,0 +1,59 @@
+<semantics id="wiki-154.p.8.s.4.xml_0">
+<appl>
+<functor>
+   <word id="3">afwisselend</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">waren</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Beide</word>
+         </functor>
+         <argument>
+            <word id="1">steden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">het</word>
+            </functor>
+            <argument>
+               <word id="8">hertogdom</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">hoofdstad</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

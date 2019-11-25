@@ -1,0 +1,136 @@
+<semantics id="wiki-5107.p.8.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Sinds</word>
+   </functor>
+   <argument>
+      <word id="1">2000</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">echter</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">is</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">het</word>
+                  </functor>
+                  <argument>
+                     <word id="4">circuit</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">permanent</word>
+                  </functor>
+                  <argument>
+                     <word id="8">afgesloten</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">een</word>
+                  </functor>
+                  <argument>
+                     <word id="9">racecircuit</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">werd</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">openbare</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">nieuwe</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">een</word>
+                  </functor>
+                  <argument>
+                     <word id="15">weg</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">ten oosten van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">het</word>
+               </functor>
+               <argument>
+                  <word id="19">circuit</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="16">aangelegd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

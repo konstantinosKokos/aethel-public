@@ -1,0 +1,24 @@
+<semantics id="wiki-6984.p.6.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">de</word>
+   </functor>
+   <argument>
+      <word id="3">gezinspartij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Het</word>
+   </functor>
+   <argument>
+      <word id="1">Vlaams Blok</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

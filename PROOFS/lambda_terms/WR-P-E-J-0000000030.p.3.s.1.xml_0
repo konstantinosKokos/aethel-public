@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000030.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">streeft</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Deze</word>
+         </functor>
+         <argument>
+            <word id="1">Chinastrategie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">drie</word>
+      </functor>
+      <argument>
+         <word id="4">doelstellingen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="5">na</word>
+</argument>
+</appl>
+</semantics>

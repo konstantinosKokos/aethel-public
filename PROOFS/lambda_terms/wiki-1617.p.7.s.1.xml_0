@@ -1,0 +1,52 @@
+<semantics id="wiki-1617.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">waren</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Opeenvolgende</word>
+      </functor>
+      <argument>
+         <word id="1">voorzitters</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">2001-2002</word>
+         </functor>
+         <argument>
+            <word id="3">Annemie Vandecasteele</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">2002-2004</word>
+      </functor>
+      <argument>
+         <word id="6">Els Van Weert</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

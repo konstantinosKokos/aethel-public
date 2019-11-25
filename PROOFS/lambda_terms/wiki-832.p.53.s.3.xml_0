@@ -1,0 +1,73 @@
+<semantics id="wiki-832.p.53.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">menen</word>
+   </functor>
+   <argument>
+      <word id="0">Sommigen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">dat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">als</word>
+         </functor>
+         <argument>
+            <word id="7">etser</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">was</word>
+            </functor>
+            <argument>
+               <word id="3">Ensor</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">groter</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">dan</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">als</word>
+                  </functor>
+                  <argument>
+                     <word id="10">schilder</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

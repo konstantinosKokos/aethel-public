@@ -1,0 +1,108 @@
+<semantics id="wiki-384.p.8.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">bleef</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">de</word>
+      </functor>
+      <argument>
+         <word id="9">partij</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Ondanks</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">14</word>
+            </functor>
+            <argument>
+               <word id="6">zetels</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">in</word>
+               </functor>
+               <argument>
+                  <word id="4">1998</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">een</word>
+               </functor>
+               <argument>
+                  <word id="2">verkiezingsnederlaag</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">uitmaken</word>
+         </functor>
+         <argument>
+            <word id="10">deel</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">paarse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">een</word>
+               </functor>
+               <argument>
+                  <word id="15">coalitie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

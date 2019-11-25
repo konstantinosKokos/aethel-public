@@ -1,0 +1,45 @@
+<semantics id="wiki-8628.p.29.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">ter</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">traditioneel</word>
+               </functor>
+               <argument>
+                  <word id="6">bier</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">promotie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">vereniging</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">PINT</word>
+</argument>
+</appl>
+</semantics>

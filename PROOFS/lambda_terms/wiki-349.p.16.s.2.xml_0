@@ -1,0 +1,87 @@
+<semantics id="wiki-349.p.16.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">als</word>
+            </functor>
+            <argument>
+               <word id="12">college</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">en</word>
+               </functor>
+               <argument>
+                  <word id="8">samen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="10">eenparig</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">wil</word>
+            </functor>
+            <argument>
+               <word id="5">dit</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">zeggen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">collegiaal</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">neemt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">regering</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">beslissingen</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

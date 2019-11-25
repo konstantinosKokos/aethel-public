@@ -1,0 +1,73 @@
+<semantics id="wiki-866.p.41.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">na</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">1-0</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">6-0</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">een</word>
+            </functor>
+            <argument>
+               <word id="10">achterstand</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">de</word>
+         </functor>
+         <argument>
+            <word id="2">finale</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">gaf</word>
+         </functor>
+         <argument>
+            <word id="4">Lindsay Davenport</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">op</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

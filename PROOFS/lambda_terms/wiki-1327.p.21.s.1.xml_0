@@ -1,0 +1,59 @@
+<semantics id="wiki-1327.p.21.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">dagelijks</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Het</word>
+            </functor>
+            <argument>
+               <word id="2">bestuur</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">bestendige</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="8">deputatie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="4">in handen</word>
+</argument>
+</appl>
+</semantics>

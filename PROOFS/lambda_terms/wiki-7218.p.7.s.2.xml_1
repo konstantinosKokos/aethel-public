@@ -1,0 +1,75 @@
+<semantics id="wiki-7218.p.7.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">dat</word>
+   </functor>
+   <argument>
+      <lambda varid="0">
+         <appl>
+         <functor>
+            <word id="3">ruwweg</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">omvat</word>
+               </functor>
+               <argument>
+                  <var id="0" debruijn="1"></var>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">de</word>
+                     </functor>
+                     <argument>
+                        <word id="8">Kongo</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">het</word>
+                  </functor>
+                  <argument>
+                     <word id="5">stroomgebied</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">een</word>
+   </functor>
+   <argument>
+      <word id="1">regenwoudgebied</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

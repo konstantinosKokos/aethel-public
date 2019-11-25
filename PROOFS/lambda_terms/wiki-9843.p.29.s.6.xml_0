@@ -1,0 +1,101 @@
+<semantics id="wiki-9843.p.29.s.6.xml_0">
+<appl>
+<functor>
+   <word id="11">nog</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">enkel</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">echter</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">oude</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">de</word>
+                  </functor>
+                  <argument>
+                     <word id="3">succesreeksen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">weten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="8">en</word>
+                     </functor>
+                     <argument>
+                        <word id="7">De Rode Ridder</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="9">Suske en Wiske</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">te</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="14">houden</word>
+                     </functor>
+                     <argument>
+                        <word id="10">zich</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="12">staande</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

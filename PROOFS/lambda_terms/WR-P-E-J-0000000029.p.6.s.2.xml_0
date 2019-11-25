@@ -1,0 +1,45 @@
+<semantics id="WR-P-E-J-0000000029.p.6.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">in samenwerking met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">de</word>
+      </functor>
+      <argument>
+         <word id="6">scholen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">doet</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">gemeente</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">dit</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

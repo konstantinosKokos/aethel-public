@@ -1,0 +1,101 @@
+<semantics id="wiki-889.p.5.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">koninklijke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="2">familie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">naar</word>
+            </functor>
+            <argument>
+               <word id="6">Duitsland</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">gedeporteerd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">Amerikaanse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">het</word>
+               </functor>
+               <argument>
+                  <word id="13">leger</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">op</word>
+            </functor>
+            <argument>
+               <word id="9">7 mei 1945</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="14">bevrijd</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,66 @@
+<semantics id="wiki-8628.p.24.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">leerde</word>
+      </functor>
+      <argument>
+         <word id="0">Navraag</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">hem</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">dat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">de</word>
+            </functor>
+            <argument>
+               <word id="7">fabriek</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">dronk</word>
+            </functor>
+            <argument>
+               <word id="4">niemand</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">water</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

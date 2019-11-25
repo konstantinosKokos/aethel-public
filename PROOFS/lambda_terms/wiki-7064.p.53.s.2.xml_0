@@ -1,0 +1,66 @@
+<semantics id="wiki-7064.p.53.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Deze</word>
+      </functor>
+      <argument>
+         <word id="1">reparatiewet</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">voor</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">het</word>
+         </functor>
+         <argument>
+            <word id="9">Arbitragehof</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">massaal</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">opnieuw</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">echter</word>
+            </functor>
+            <argument>
+               <word id="6">gecontesteerd</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

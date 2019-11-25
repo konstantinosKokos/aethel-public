@@ -1,0 +1,24 @@
+<semantics id="wiki-138.p.55.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">Via</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">openbaar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">het</word>
+      </functor>
+      <argument>
+         <word id="3">vervoer</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

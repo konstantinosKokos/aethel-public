@@ -1,0 +1,94 @@
+<semantics id="wiki-1941.p.7.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">heb</word>
+   </functor>
+   <argument>
+      <word id="0">ik</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">omdat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">moest</word>
+            </functor>
+            <argument>
+               <word id="5">ik</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">een of andere</word>
+                  </functor>
+                  <argument>
+                     <word id="9">manier</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">komen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="10">van</word>
+                     </functor>
+                     <argument>
+                        <word id="6">er</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="11">af</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">geschreven</word>
+      </functor>
+      <argument>
+         <word id="2">Lijmen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

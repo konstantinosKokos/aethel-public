@@ -1,0 +1,163 @@
+<semantics id="wiki-832.p.33.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="12">en</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="1">behoorde</word>
+               </functor>
+               <argument>
+                  <var id="0" debruijn="1"></var>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">tot</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="7">die</word>
+                     </functor>
+                     <argument>
+                        <lambda varid="1">
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="9">opnam</word>
+                                 </functor>
+                                 <argument>
+                                    <var id="1" debruijn="1"></var>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="8">het</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="10">voor</word>
+                              </functor>
+                              <argument>
+                                 <word id="11">Ensor</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </lambda>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">intellectuelen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">kleine</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="3">de</word>
+                           </functor>
+                           <argument>
+                              <word id="5">kring</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <lambda varid="2">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">schreef</word>
+            </functor>
+            <argument>
+               <var id="2" debruijn="1"></var>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">Mort Mystique d'un théologien</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="17">over</word>
+                  </functor>
+                  <argument>
+                     <word id="18">Ensor</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">eerste</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="14">de</word>
+                     </functor>
+                     <argument>
+                        <word id="16">monografie</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Eugène Demolder</word>
+</argument>
+</appl>
+</semantics>

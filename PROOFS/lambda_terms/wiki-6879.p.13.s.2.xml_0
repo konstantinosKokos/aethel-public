@@ -1,0 +1,52 @@
+<semantics id="wiki-6879.p.13.s.2.xml_0">
+<appl>
+<functor>
+   <word id="4">er</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Met</word>
+      </functor>
+      <argument>
+         <word id="1">Lilian</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">leidde</word>
+         </functor>
+         <argument>
+            <word id="3">hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">mondain</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">een</word>
+            </functor>
+            <argument>
+               <word id="7">leven</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

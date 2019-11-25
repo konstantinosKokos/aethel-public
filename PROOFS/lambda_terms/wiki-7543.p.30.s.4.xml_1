@@ -1,0 +1,115 @@
+<semantics id="wiki-7543.p.30.s.4.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">heeft</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">deze</word>
+            </functor>
+            <argument>
+               <word id="1">nijverheid</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">relatief</word>
+         </functor>
+         <argument>
+            <word id="4">standgehouden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">sinds</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">twintigste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">de</word>
+            </functor>
+            <argument>
+               <word id="11">eeuw</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">is</word>
+         </functor>
+         <argument>
+            <word id="6">toerisme</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">van</word>
+            </functor>
+            <argument>
+               <word id="16">inkomsten</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">belangrijke</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">een</word>
+               </functor>
+               <argument>
+                  <word id="14">bron</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,87 @@
+<semantics id="wiki-356.p.14.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">1998</word>
+      </functor>
+      <argument>
+         <word id="1">november</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">laat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">Bruno Bulthé</word>
+         </functor>
+         <argument>
+            <word id="4">onderzoeksrechter</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">de</word>
+                  </functor>
+                  <argument>
+                     <word id="11">KUL</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="8">wetenschappers</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">onderzoeken</word>
+         </functor>
+         <argument>
+            <word id="6">dit</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

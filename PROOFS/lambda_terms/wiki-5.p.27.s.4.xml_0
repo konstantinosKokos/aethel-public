@@ -1,0 +1,206 @@
+<semantics id="wiki-5.p.27.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Vanaf</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">'70</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">vroege</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">de</word>
+            </functor>
+            <argument>
+               <word id="3">jaren</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">trachtte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">Luc Versteylen</word>
+         </functor>
+         <argument>
+            <word id="6">jezuïet-leraar</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="21">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="25">rond</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="28">van</word>
+                              </functor>
+                              <argument>
+                                 <word id="29">Viersel</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="26">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="27">Brouwerij</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="23">en</word>
+                           </functor>
+                           <argument>
+                              <word id="22">herlevings-</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="24">zelfverbeteringsgroepen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">zachte</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">de</word>
+                     </functor>
+                     <argument>
+                        <word id="20">waarden</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">aan</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">Borgerhoutse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">het</word>
+                     </functor>
+                     <argument>
+                        <word id="13">Xaveriuscollege</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="16">maken</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">zijn</word>
+                     </functor>
+                     <argument>
+                        <word id="9">leerlingen</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="14">warm</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

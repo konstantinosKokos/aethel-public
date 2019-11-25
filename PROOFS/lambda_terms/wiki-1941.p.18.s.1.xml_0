@@ -1,0 +1,145 @@
+<semantics id="wiki-1941.p.18.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="15">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">die</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="11">op</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="13">Vlaamse</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="12">het</word>
+                              </functor>
+                              <argument>
+                                 <word id="14">platteland</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="10">uitoefende</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="8">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="9">Rooms-Katholieke Kerk</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <var id="0" debruijn="1"></var>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">totalitaire</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">de</word>
+                  </functor>
+                  <argument>
+                     <word id="6">macht</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">scherpe</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Een</word>
+            </functor>
+            <argument>
+               <word id="2">aanval</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="19">1921</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="18">De Verlossing</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">het</word>
+         </functor>
+         <argument>
+            <word id="17">verhaal</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

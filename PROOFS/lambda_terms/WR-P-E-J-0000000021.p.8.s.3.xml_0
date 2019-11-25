@@ -1,0 +1,327 @@
+<semantics id="WR-P-E-J-0000000021.p.8.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">werden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">betrokken</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Beide</word>
+         </functor>
+         <argument>
+            <word id="2">spoormaatschappijen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">tot</word>
+      </functor>
+      <argument>
+         <word id="5">slot</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">opgeroepen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="20">maar</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">om</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">te</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">willen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="9">steeds</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="8">niet</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="19">maximaliseren</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <word id="13">op</word>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="15">eigen</word>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <word id="14">het</word>
+                                          </functor>
+                                          <argument>
+                                             <word id="16">grondgebied</word>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <word id="10">het</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="11">aantal</word>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <word id="12">reizigerskilometers</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="21">wél</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="22">om</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="24">te</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="23">systematisch</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="25">opteren</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="26">voor</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="29">die</word>
+                                 </functor>
+                                 <argument>
+                                    <lambda varid="0">
+                                       <appl>
+                                       <functor>
+                                          <appl>
+                                          <functor>
+                                             <word id="39">van</word>
+                                          </functor>
+                                          <argument>
+                                             <appl>
+                                             <functor>
+                                                <word id="41">a</word>
+                                             </functor>
+                                             <argument>
+                                                <word id="40">punt</word>
+                                             </argument>
+                                             </appl>
+                                          </argument>
+                                          </appl>
+                                       </functor>
+                                       <argument>
+                                          <appl>
+                                          <functor>
+                                             <appl>
+                                             <functor>
+                                                <word id="32">op</word>
+                                             </functor>
+                                             <argument>
+                                                <appl>
+                                                <functor>
+                                                   <appl>
+                                                   <functor>
+                                                      <appl>
+                                                      <functor>
+                                                         <word id="35">en</word>
+                                                      </functor>
+                                                      <argument>
+                                                         <word id="34">snelste</word>
+                                                      </argument>
+                                                      </appl>
+                                                   </functor>
+                                                   <argument>
+                                                      <appl>
+                                                      <functor>
+                                                         <word id="36">meest</word>
+                                                      </functor>
+                                                      <argument>
+                                                         <word id="37">veilige</word>
+                                                      </argument>
+                                                      </appl>
+                                                   </argument>
+                                                   </appl>
+                                                </functor>
+                                                <argument>
+                                                   <appl>
+                                                   <functor>
+                                                      <word id="33">de</word>
+                                                   </functor>
+                                                   <argument>
+                                                      <word id="38">manier</word>
+                                                   </argument>
+                                                   </appl>
+                                                </argument>
+                                                </appl>
+                                             </argument>
+                                             </appl>
+                                          </functor>
+                                          <argument>
+                                             <appl>
+                                             <functor>
+                                                <appl>
+                                                <functor>
+                                                   <appl>
+                                                   <functor>
+                                                      <word id="45">brengt</word>
+                                                   </functor>
+                                                   <argument>
+                                                      <var id="0" debruijn="1"></var>
+                                                   </argument>
+                                                   </appl>
+                                                </functor>
+                                                <argument>
+                                                   <appl>
+                                                   <functor>
+                                                      <word id="30">de</word>
+                                                   </functor>
+                                                   <argument>
+                                                      <word id="31">reiziger</word>
+                                                   </argument>
+                                                   </appl>
+                                                </argument>
+                                                </appl>
+                                             </functor>
+                                             <argument>
+                                                <appl>
+                                                <functor>
+                                                   <word id="42">naar</word>
+                                                </functor>
+                                                <argument>
+                                                   <appl>
+                                                   <functor>
+                                                      <word id="44">b</word>
+                                                   </functor>
+                                                   <argument>
+                                                      <word id="43">punt</word>
+                                                   </argument>
+                                                   </appl>
+                                                </argument>
+                                                </appl>
+                                             </argument>
+                                             </appl>
+                                          </argument>
+                                          </appl>
+                                       </argument>
+                                       </appl>
+                                    </lambda>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="27">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="28">oplossing</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

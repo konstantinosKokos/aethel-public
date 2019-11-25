@@ -1,0 +1,31 @@
+<semantics id="wiki-9843.p.20.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">het</word>
+      </functor>
+      <argument>
+         <word id="4">beeldverhaal</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">De</word>
+   </functor>
+   <argument>
+      <word id="1">Bruegel</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,157 @@
+<semantics id="wiki-135.p.132.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">Er</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">zijn</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <appl>
+                                          <functor>
+                                             <appl>
+                                             <functor>
+                                                <appl>
+                                                <functor>
+                                                   <word id="20">en</word>
+                                                </functor>
+                                                <argument>
+                                                   <word id="4">Antwerpen</word>
+                                                </argument>
+                                                </appl>
+                                             </functor>
+                                             <argument>
+                                                <word id="5">Brussel</word>
+                                             </argument>
+                                             </appl>
+                                          </functor>
+                                          <argument>
+                                             <word id="6">Gent</word>
+                                          </argument>
+                                          </appl>
+                                       </functor>
+                                       <argument>
+                                          <word id="7">Hasselt</word>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <appl>
+                                       <functor>
+                                          <word id="9">Liege</word>
+                                       </functor>
+                                       <argument>
+                                          <word id="8">Luik</word>
+                                       </argument>
+                                       </appl>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="10">Leuven</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="11">Louvain-la-Neuve</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="12">Diepenbeek</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="14">Mons</word>
+                           </functor>
+                           <argument>
+                              <word id="13">Bergen</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="16">Namur</word>
+                        </functor>
+                        <argument>
+                           <word id="15">Namen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="17">Kortrijk</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">Gembloux</word>
+                  </functor>
+                  <argument>
+                     <word id="18">Gembloers</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="22">Arlon</word>
+               </functor>
+               <argument>
+                  <word id="21">Aarlen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">universiteiten</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

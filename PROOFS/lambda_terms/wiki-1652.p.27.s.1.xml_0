@@ -1,0 +1,17 @@
+<semantics id="wiki-1652.p.27.s.1.xml_0">
+<appl>
+<functor>
+   <word id="2">Sint-Niklaas</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">7de</word>
+   </functor>
+   <argument>
+      <word id="1">FOS Mercator</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

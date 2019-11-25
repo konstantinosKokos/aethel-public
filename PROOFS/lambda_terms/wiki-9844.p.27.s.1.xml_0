@@ -1,0 +1,171 @@
+<semantics id="wiki-9844.p.27.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="15">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="18">Vandersteen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">de</word>
+         </functor>
+         <argument>
+            <word id="17">erven</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Omdat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">drastisch</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="8">'90</word>
+                  </functor>
+                  <argument>
+                     <word id="7">jaren</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="6">eind</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">daalden</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="3">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">de</word>
+                        </functor>
+                        <argument>
+                           <word id="5">albums</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">de</word>
+                     </functor>
+                     <argument>
+                        <word id="2">oplagecijfers</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">kregen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">en</word>
+               </functor>
+               <argument>
+                  <word id="12">Paul Geerts</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">Marc Verhaegen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="19">de</word>
+            </functor>
+            <argument>
+               <word id="20">opdracht</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="21">om</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="23">te</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="24">moderniseren</word>
+                  </functor>
+                  <argument>
+                     <word id="22">Suske en Wiske</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

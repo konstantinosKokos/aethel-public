@@ -1,0 +1,52 @@
+<semantics id="wiki-342.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">was</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">21 maart 1941</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">Poperinge</word>
+         </functor>
+         <argument>
+            <word id="0">Dirk Dries David Damiaan burggraaf Frimout</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">Vlaams-Belgische</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">eerste</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="7">ruimtevaarder</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

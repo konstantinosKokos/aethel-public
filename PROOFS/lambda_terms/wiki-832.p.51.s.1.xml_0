@@ -1,0 +1,143 @@
+<semantics id="wiki-832.p.51.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Alhoewel</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">heeft</word>
+         </functor>
+         <argument>
+            <word id="1">hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="13">en</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="8">1927</word>
+                              </functor>
+                              <argument>
+                                 <word id="7">Hannover</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="9">Berlijn</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="10">Dresden</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="12">1928</word>
+                     </functor>
+                     <argument>
+                        <word id="11">Mannheim</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="14">Leipzig</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">al</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">intussen</word>
+               </functor>
+               <argument>
+                  <word id="4">geëxposeerd</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="15">werd</word>
+      </functor>
+      <argument>
+         <word id="16">1929</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="19">voor</word>
+         </functor>
+         <argument>
+            <word id="20">Ensor</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="17">het</word>
+         </functor>
+         <argument>
+            <word id="18">gloriejaar</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

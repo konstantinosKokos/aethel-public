@@ -1,0 +1,80 @@
+<semantics id="wiki-5318.p.17.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">voor</word>
+   </functor>
+   <argument>
+      <word id="3">Wellington</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">was</word>
+      </functor>
+      <argument>
+         <word id="0">Dit</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">het</word>
+         </functor>
+         <argument>
+            <word id="5">sein</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">om</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">laten</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">uitvoeren</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">een</word>
+                     </functor>
+                     <argument>
+                        <word id="8">tegenaanval</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,45 @@
+<semantics id="WR-P-E-J-0000000024.p.1.s.7.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">kunt</word>
+   </functor>
+   <argument>
+      <word id="0">U</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">gratis</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">parkeren</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">het</word>
+            </functor>
+            <argument>
+               <word id="6">gebouw</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

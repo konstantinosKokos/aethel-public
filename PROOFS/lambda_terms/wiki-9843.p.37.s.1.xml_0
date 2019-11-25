@@ -1,0 +1,145 @@
+<semantics id="wiki-9843.p.37.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">het</word>
+      </functor>
+      <argument>
+         <word id="12">poppentheater</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <word id="1">1949</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">bewerkte</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">Pats</word>
+                  </functor>
+                  <argument>
+                     <word id="6">poppenspel</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="3">Karel Weyler</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">die</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="18">werden</word>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="16">op</word>
+                        </functor>
+                        <argument>
+                           <word id="17">tv</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="15">ook</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="14">later</word>
+                           </functor>
+                           <argument>
+                              <word id="19">uitgezonden</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="7">een</word>
+               </functor>
+               <argument>
+                  <word id="8">aantal</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="9">Suske en Wiskeverhalen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,136 @@
+<semantics id="wiki-832.p.40.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="3">dat</word>
+                  </functor>
+                  <argument>
+                     <word id="4">jaar</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="1">december</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">door</word>
+         </functor>
+         <argument>
+            <word id="8">Eugène Demolder</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="6">aangezet</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">organiseerde</word>
+      </functor>
+      <argument>
+         <word id="10">hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="15">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="18">te</word>
+               </functor>
+               <argument>
+                  <word id="19">Brussel</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">de</word>
+               </functor>
+               <argument>
+                  <word id="17">Comptoir des Arts Industriels La Royale</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">eigen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">eerste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">zijn</word>
+               </functor>
+               <argument>
+                  <word id="14">tentoonstelling</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

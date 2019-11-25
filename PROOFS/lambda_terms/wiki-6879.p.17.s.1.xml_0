@@ -1,0 +1,122 @@
+<semantics id="wiki-6879.p.17.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">deels</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">omdat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">het</word>
+               </functor>
+               <argument>
+                  <word id="16">openbaar</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">zelden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">verscheen</word>
+               </functor>
+               <argument>
+                  <word id="12">ze</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">echt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">nooit</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">was</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="1">prinses</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">geliefd</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">bij</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">Belgische</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="7">het</word>
+                     </functor>
+                     <argument>
+                        <word id="9">volk</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

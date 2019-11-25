@@ -1,0 +1,45 @@
+<semantics id="wiki-9843.p.37.s.4.xml_0">
+<appl>
+<functor>
+   <word id="3">echter</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">bleken</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="1">verhalen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">te</word>
+         </functor>
+         <argument>
+            <word id="4">veel</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="6">Vlaams/Nederlands</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

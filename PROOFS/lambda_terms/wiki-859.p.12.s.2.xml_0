@@ -1,0 +1,38 @@
+<semantics id="wiki-859.p.12.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">met</word>
+   </functor>
+   <argument>
+      <word id="5">Als ich can</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">ook</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Soms</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">signeerde</word>
+         </functor>
+         <argument>
+            <word id="2">hij</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

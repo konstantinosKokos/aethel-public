@@ -1,0 +1,129 @@
+<semantics id="wiki-7064.p.54.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">zal</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Deze</word>
+      </functor>
+      <argument>
+         <word id="1">wet</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="10">weer</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">ook</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">zoals</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">door</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">enkele</word>
+                     </functor>
+                     <argument>
+                        <word id="7">vakbondsorganisaties</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="8">aangekondigd</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">ongetwijfeld</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">leiden</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="12">tot</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="14">tot</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="16">voor</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="17">het</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="18">Arbitragehof</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="15">vernietiging</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="13">procedures</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

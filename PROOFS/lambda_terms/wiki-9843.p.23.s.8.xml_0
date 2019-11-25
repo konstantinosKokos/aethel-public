@@ -1,0 +1,31 @@
+<semantics id="wiki-9843.p.23.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">in</word>
+   </functor>
+   <argument>
+      <word id="3">1959</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Zo</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">ontstond</word>
+      </functor>
+      <argument>
+         <word id="4">Studio Vandersteen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

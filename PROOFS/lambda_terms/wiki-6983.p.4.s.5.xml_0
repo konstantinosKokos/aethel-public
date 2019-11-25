@@ -1,0 +1,66 @@
+<semantics id="wiki-6983.p.4.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <word id="1">1983</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">sloot</word>
+            </functor>
+            <argument>
+               <word id="3">hij</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">bij</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">toenmalige</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">het</word>
+                  </functor>
+                  <argument>
+                     <word id="9">Vlaams Blok</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">zich</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="5">aan</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

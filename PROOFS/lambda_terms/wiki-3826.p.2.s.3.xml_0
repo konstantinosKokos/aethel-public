@@ -1,0 +1,101 @@
+<semantics id="wiki-3826.p.2.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">is</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">oppervlakte</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">1093</word>
+         </functor>
+         <argument>
+            <word id="4">km²</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">heeft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">27</word>
+            </functor>
+            <argument>
+               <word id="14">gemeenten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">Nijvel</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">administratief</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">slechts</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">één</word>
+                  </functor>
+                  <argument>
+                     <word id="10">arrondissement</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

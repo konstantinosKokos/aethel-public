@@ -1,0 +1,115 @@
+<semantics id="wiki-208.p.86.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">toen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="16">terugschroefde</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">socialistisch-liberale</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">het</word>
+               </functor>
+               <argument>
+                  <word id="9">kabinet-Van Acker</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="12">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="14">katholiek</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">vrij</word>
+                  </functor>
+                  <argument>
+                     <word id="15">onderwijs</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">de</word>
+            </functor>
+            <argument>
+               <word id="11">subsidiëring</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">weer</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">ook</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">laaide</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="1">schoolstrijd</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="5">op</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,101 @@
+<semantics id="wiki-154.p.38.s.2.xml_0">
+<appl>
+<functor>
+   <word id="7">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">nemen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="1">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">Franstalige</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">72</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="2">de</word>
+                        </functor>
+                        <argument>
+                           <word id="5">leden</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="0">19</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="13">de</word>
+                  </functor>
+                  <argument>
+                     <word id="14">Franse Gemeenschap</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">het</word>
+               </functor>
+               <argument>
+                  <word id="11">parlement</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="8">zitting</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

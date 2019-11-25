@@ -1,0 +1,101 @@
+<semantics id="wiki-887.p.18.s.32.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">en</word>
+         </functor>
+         <argument>
+            <word id="6">6-3</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="8">6-1</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">de</word>
+         </functor>
+         <argument>
+            <word id="2">finale</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">wint</word>
+         </functor>
+         <argument>
+            <word id="4">ze</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">Mary Pierce</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">andere</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">verrassende</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">de</word>
+                     </functor>
+                     <argument>
+                        <word id="13">finaliste</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

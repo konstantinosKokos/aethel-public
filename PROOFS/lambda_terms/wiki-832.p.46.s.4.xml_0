@@ -1,0 +1,52 @@
+<semantics id="wiki-832.p.46.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">uit</word>
+   </functor>
+   <argument>
+      <word id="7">1887</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">in</word>
+      </functor>
+      <argument>
+         <word id="5">Carnaval op strand</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">verschijnen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">en</word>
+            </functor>
+            <argument>
+               <word id="0">Carnaval</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="2">travestie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

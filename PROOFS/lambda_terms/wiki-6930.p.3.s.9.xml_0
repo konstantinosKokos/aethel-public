@@ -1,0 +1,59 @@
+<semantics id="wiki-6930.p.3.s.9.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">volledige</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">De</word>
+         </functor>
+         <argument>
+            <word id="2">waarheid</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">volledig</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">nooit</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">gekomen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">naar</word>
+            </functor>
+            <argument>
+               <word id="7">boven</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

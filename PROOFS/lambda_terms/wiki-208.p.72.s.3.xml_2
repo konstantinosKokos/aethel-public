@@ -1,0 +1,38 @@
+<semantics id="wiki-208.p.72.s.3.xml_2">
+<appl>
+<functor>
+   <word id="0">hierdoor</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">stierven</word>
+      </functor>
+      <argument>
+         <word id="2">velen</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">nutteloze</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">een</word>
+         </functor>
+         <argument>
+            <word id="5">dood</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

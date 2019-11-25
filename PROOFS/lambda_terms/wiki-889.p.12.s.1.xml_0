@@ -1,0 +1,101 @@
+<semantics id="wiki-889.p.12.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">op</word>
+   </functor>
+   <argument>
+      <word id="11">9 augustus 1993</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Na</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">Boudewijn I</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">zijn</word>
+                  </functor>
+                  <argument>
+                     <word id="5">broer</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">het</word>
+            </functor>
+            <argument>
+               <word id="2">overlijden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">werd</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">Albert</word>
+            </functor>
+            <argument>
+               <word id="8">prins</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="13">zesde</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">de</word>
+            </functor>
+            <argument>
+               <word id="14">Koning der Belgen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,101 @@
+<semantics id="wiki-6879.p.12.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">werd</word>
+   </functor>
+   <argument>
+      <word id="10">Leopold</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="11">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">zijn</word>
+         </functor>
+         <argument>
+            <word id="13">gezin</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Kort</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">na</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">op</word>
+                  </functor>
+                  <argument>
+                     <word id="8">6 juni 1944</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="5">in</word>
+                     </functor>
+                     <argument>
+                        <word id="6">Normandië</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">geallieerde</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="2">de</word>
+                        </functor>
+                        <argument>
+                           <word id="4">landing</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="14">weggevoerd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

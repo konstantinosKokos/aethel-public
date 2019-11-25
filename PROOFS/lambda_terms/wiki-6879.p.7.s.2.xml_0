@@ -1,0 +1,87 @@
+<semantics id="wiki-6879.p.7.s.2.xml_0">
+<appl>
+<functor>
+   <word id="3">werd</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">verteld</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Aan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">haar</word>
+            </functor>
+            <argument>
+               <word id="2">ouders</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">dat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">zou</word>
+            </functor>
+            <argument>
+               <word id="6">ze</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">bezighouden</word>
+               </functor>
+               <argument>
+                  <word id="7">zich</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">Leopolds</word>
+                  </functor>
+                  <argument>
+                     <word id="10">kinderen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

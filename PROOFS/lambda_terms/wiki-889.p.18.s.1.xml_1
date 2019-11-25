@@ -1,0 +1,59 @@
+<semantics id="wiki-889.p.18.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">zal</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">dit</word>
+            </functor>
+            <argument>
+               <word id="4">land</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">het</word>
+         </functor>
+         <argument>
+            <word id="1">volk</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="7">hiervoor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">veroordelen</word>
+      </functor>
+      <argument>
+         <word id="6">u</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

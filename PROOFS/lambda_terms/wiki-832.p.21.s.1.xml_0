@@ -1,0 +1,157 @@
+<semantics id="wiki-832.p.21.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="15">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="8">en</word>
+                        </functor>
+                        <argument>
+                           <word id="7">1882</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="9">1883</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">het</word>
+                  </functor>
+                  <argument>
+                     <word id="5">Kursaal van Oostende</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">1883</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">32ste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="11">de</word>
+                  </functor>
+                  <argument>
+                     <word id="13">Triënnale van Gent</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="16">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="22">1883</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="19">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">de</word>
+                  </functor>
+                  <argument>
+                     <word id="21">Société Royale des Aquarellistes Belges</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">het</word>
+               </functor>
+               <argument>
+                  <word id="18">salon</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">stelt</word>
+      </functor>
+      <argument>
+         <word id="0">Hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">tentoon</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

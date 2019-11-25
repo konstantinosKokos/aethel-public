@@ -1,0 +1,52 @@
+<semantics id="wiki-889.p.21.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">waren</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">als</word>
+         </functor>
+         <argument>
+            <word id="4">koning</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">eerste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Zijn</word>
+            </functor>
+            <argument>
+               <word id="2">stappen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">zeer</word>
+   </functor>
+   <argument>
+      <word id="7">onwennig</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

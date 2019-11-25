@@ -1,0 +1,24 @@
+<semantics id="wiki-135.p.149.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">in</word>
+   </functor>
+   <argument>
+      <word id="3">beeld</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Belgisch</word>
+   </functor>
+   <argument>
+      <word id="1">patrominium</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

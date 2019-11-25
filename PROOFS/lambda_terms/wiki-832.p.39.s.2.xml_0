@@ -1,0 +1,80 @@
+<semantics id="wiki-832.p.39.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Nog</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">hetzelfde</word>
+      </functor>
+      <argument>
+         <word id="2">jaar</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">verkoopt</word>
+         </functor>
+         <argument>
+            <word id="4">hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">25</word>
+         </functor>
+         <argument>
+            <word id="6">gravures</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">aan</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">van</word>
+            </functor>
+            <argument>
+               <word id="11">Dresden</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">het</word>
+            </functor>
+            <argument>
+               <word id="9">Prentenkabinet</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,24 @@
+<semantics id="wiki-7543.p.43.s.9.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">Belgisch</word>
+   </functor>
+   <argument>
+      <word id="3">wielrenner</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">25/05/79</word>
+   </functor>
+   <argument>
+      <word id="0">Wim Vanhuffel</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

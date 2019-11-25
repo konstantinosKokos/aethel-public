@@ -1,0 +1,52 @@
+<semantics id="wiki-1617.p.4.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">behoorde</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">voormalige</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">de</word>
+         </functor>
+         <argument>
+            <word id="2">Volksunie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">tot</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">stichtende</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">de</word>
+         </functor>
+         <argument>
+            <word id="7">leden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

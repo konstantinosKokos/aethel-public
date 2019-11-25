@@ -1,0 +1,164 @@
+<semantics id="wiki-3745.p.20.s.9.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="16">aan de hand van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="22">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">authentieke</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="19">en</word>
+                     </functor>
+                     <argument>
+                        <word id="18">kleding</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="20">accessoires</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="21">mode-illustraties</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="23">--foto's</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">schetst</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Het</word>
+         </functor>
+         <argument>
+            <word id="1">Stedelijk Modemuseum</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">tot</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">twintigste</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">de</word>
+                     </functor>
+                     <argument>
+                        <word id="15">eeuw</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">de</word>
+                     </functor>
+                     <argument>
+                        <word id="11">achttiende</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">westerse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">de</word>
+                     </functor>
+                     <argument>
+                        <word id="8">mode</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">de</word>
+         </functor>
+         <argument>
+            <word id="4">geschiedenis</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

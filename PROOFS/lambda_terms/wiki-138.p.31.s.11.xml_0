@@ -1,0 +1,45 @@
+<semantics id="wiki-138.p.31.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">van</word>
+      </functor>
+      <argument>
+         <word id="6">België</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">Eerste</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">gewezen</word>
+         </functor>
+         <argument>
+            <word id="4">Minister</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">politicus</word>
+   </functor>
+   <argument>
+      <word id="0">Paul-Emile Janson</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

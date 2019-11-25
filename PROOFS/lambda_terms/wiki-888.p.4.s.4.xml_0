@@ -1,0 +1,152 @@
+<semantics id="wiki-888.p.4.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">kostte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">die</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">vergde</word>
+               </functor>
+               <argument>
+                  <word id="5">dit</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="0">de</word>
+                  </functor>
+                  <argument>
+                     <word id="1">studie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="3">onderzoek</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="8">Herge</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="13">waar</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <word id="17">bijna</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">zelfs</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">geestelijk</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="20">ging</word>
+                           </functor>
+                           <argument>
+                              <word id="14">hij</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="18">aan</word>
+                           </functor>
+                           <argument>
+                              <var id="0" debruijn="1"></var>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="19">onderdoor</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="12">werk</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">enorme</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">een</word>
+            </functor>
+            <argument>
+               <word id="11">hoeveelheid</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

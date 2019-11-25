@@ -1,0 +1,24 @@
+<semantics id="wiki-1617.p.23.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">in</word>
+      </functor>
+      <argument>
+         <word id="3">Mechelen</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">ex-schepen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Ali Salmi</word>
+</argument>
+</appl>
+</semantics>

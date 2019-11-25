@@ -1,0 +1,101 @@
+<semantics id="wiki-1566.p.7.s.7.xml_0">
+<appl>
+<functor>
+   <word id="6">zelfs</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">negentig</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">de</word>
+            </functor>
+            <argument>
+               <word id="4">jaren</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Er</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">ontstond</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">voor</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="12">met</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="13">vrouwelijke</word>
+                        </functor>
+                        <argument>
+                           <word id="14">hoofdpersonen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">bepaalde</word>
+                     </functor>
+                     <argument>
+                        <word id="11">comics</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">een</word>
+               </functor>
+               <argument>
+                  <word id="8">woord</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

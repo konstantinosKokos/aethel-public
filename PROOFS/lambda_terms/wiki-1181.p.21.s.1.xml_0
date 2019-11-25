@@ -1,0 +1,24 @@
+<semantics id="wiki-1181.p.21.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">het</word>
+      </functor>
+      <argument>
+         <word id="3">Europees Parlement</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Leden</word>
+</argument>
+</appl>
+</semantics>

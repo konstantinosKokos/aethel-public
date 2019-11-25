@@ -1,0 +1,31 @@
+<semantics id="wiki-7543.p.25.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">van</word>
+      </functor>
+      <argument>
+         <word id="4">februari</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">laatste</word>
+      </functor>
+      <argument>
+         <word id="2">vrijdag</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Provinciale Fokveedag</word>
+</argument>
+</appl>
+</semantics>

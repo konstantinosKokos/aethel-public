@@ -1,0 +1,283 @@
+<semantics id="wiki-334.p.5.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Naast</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">het</word>
+      </functor>
+      <argument>
+         <word id="2">stadscentrum</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">bestaat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">gemeente</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">uit</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">namelijk</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <appl>
+                                       <functor>
+                                          <appl>
+                                          <functor>
+                                             <appl>
+                                             <functor>
+                                                <appl>
+                                                <functor>
+                                                   <appl>
+                                                   <functor>
+                                                      <appl>
+                                                      <functor>
+                                                         <appl>
+                                                         <functor>
+                                                            <appl>
+                                                            <functor>
+                                                               <appl>
+                                                               <functor>
+                                                                  <appl>
+                                                                  <functor>
+                                                                     <appl>
+                                                                     <functor>
+                                                                        <appl>
+                                                                        <functor>
+                                                                           <appl>
+                                                                           <functor>
+                                                                              <appl>
+                                                                              <functor>
+                                                                                 <appl>
+                                                                                 <functor>
+                                                                                    <appl>
+                                                                                    <functor>
+                                                                                       <appl>
+                                                                                       <functor>
+                                                                                          <appl>
+                                                                                          <functor>
+                                                                                             <appl>
+                                                                                             <functor>
+                                                                                                <appl>
+                                                                                                <functor>
+                                                                                                   <appl>
+                                                                                                   <functor>
+                                                                                                      <word id="39">en</word>
+                                                                                                   </functor>
+                                                                                                   <argument>
+                                                                                                      <word id="11">Barry</word>
+                                                                                                   </argument>
+                                                                                                   </appl>
+                                                                                                </functor>
+                                                                                                <argument>
+                                                                                                   <word id="12">Beclers</word>
+                                                                                                </argument>
+                                                                                                </appl>
+                                                                                             </functor>
+                                                                                             <argument>
+                                                                                                <word id="13">Blandain</word>
+                                                                                             </argument>
+                                                                                             </appl>
+                                                                                          </functor>
+                                                                                          <argument>
+                                                                                             <word id="14">Chercq</word>
+                                                                                          </argument>
+                                                                                          </appl>
+                                                                                       </functor>
+                                                                                       <argument>
+                                                                                          <word id="15">Ere</word>
+                                                                                       </argument>
+                                                                                       </appl>
+                                                                                    </functor>
+                                                                                    <argument>
+                                                                                       <word id="16">Esplechin</word>
+                                                                                    </argument>
+                                                                                    </appl>
+                                                                                 </functor>
+                                                                                 <argument>
+                                                                                    <word id="17">Froidmont</word>
+                                                                                 </argument>
+                                                                                 </appl>
+                                                                              </functor>
+                                                                              <argument>
+                                                                                 <word id="18">Froyennes</word>
+                                                                              </argument>
+                                                                              </appl>
+                                                                           </functor>
+                                                                           <argument>
+                                                                              <word id="19">Gaurain-Ramecroix</word>
+                                                                           </argument>
+                                                                           </appl>
+                                                                        </functor>
+                                                                        <argument>
+                                                                           <word id="20">Havinnes</word>
+                                                                        </argument>
+                                                                        </appl>
+                                                                     </functor>
+                                                                     <argument>
+                                                                        <word id="21">Hertain</word>
+                                                                     </argument>
+                                                                     </appl>
+                                                                  </functor>
+                                                                  <argument>
+                                                                     <word id="22">Kain</word>
+                                                                  </argument>
+                                                                  </appl>
+                                                               </functor>
+                                                               <argument>
+                                                                  <word id="23">Lamain</word>
+                                                               </argument>
+                                                               </appl>
+                                                            </functor>
+                                                            <argument>
+                                                               <word id="24">Marquain</word>
+                                                            </argument>
+                                                            </appl>
+                                                         </functor>
+                                                         <argument>
+                                                            <word id="25">Maulde</word>
+                                                         </argument>
+                                                         </appl>
+                                                      </functor>
+                                                      <argument>
+                                                         <word id="26">Melles</word>
+                                                      </argument>
+                                                      </appl>
+                                                   </functor>
+                                                   <argument>
+                                                      <word id="27">Mont-Saint-Aubert</word>
+                                                   </argument>
+                                                   </appl>
+                                                </functor>
+                                                <argument>
+                                                   <word id="28">Mourcourt</word>
+                                                </argument>
+                                                </appl>
+                                             </functor>
+                                             <argument>
+                                                <word id="29">Orcq</word>
+                                             </argument>
+                                             </appl>
+                                          </functor>
+                                          <argument>
+                                             <word id="30">Quartes</word>
+                                          </argument>
+                                          </appl>
+                                       </functor>
+                                       <argument>
+                                          <word id="31">Ramegnies-Chin</word>
+                                       </argument>
+                                       </appl>
+                                    </functor>
+                                    <argument>
+                                       <word id="32">Rumillies</word>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="33">Saint-Maur</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="34">Templeuve</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="35">Thimougies</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="36">Vaulx-lez-Tournai</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="37">Vezon</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="38">Warchin</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="40">Willemeau</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">nog</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">29</word>
+               </functor>
+               <argument>
+                  <word id="9">deelgemeenten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

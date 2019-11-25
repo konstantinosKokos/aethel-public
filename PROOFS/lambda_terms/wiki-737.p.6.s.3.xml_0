@@ -1,0 +1,94 @@
+<semantics id="wiki-737.p.6.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">besteedde</word>
+            </functor>
+            <argument>
+               <word id="0">Hergé</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">veel</word>
+            </functor>
+            <argument>
+               <word id="3">zorg</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">aan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">zijn</word>
+            </functor>
+            <argument>
+               <word id="6">tekeningen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">valt</word>
+      </functor>
+      <argument>
+         <word id="8">dat</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="12">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">zien</word>
+            </functor>
+            <argument>
+               <word id="10">eraan</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="11">af</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

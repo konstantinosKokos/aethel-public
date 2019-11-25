@@ -1,0 +1,80 @@
+<semantics id="wiki-889.p.20.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">zouden</word>
+   </functor>
+   <argument>
+      <word id="0">Velen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">onthouden</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">dit</word>
+            </functor>
+            <argument>
+               <word id="3">beeld</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">geven</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">eigen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">een</word>
+               </functor>
+               <argument>
+                  <word id="9">interpretatie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">aan</word>
+         </functor>
+         <argument>
+            <word id="6">er</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

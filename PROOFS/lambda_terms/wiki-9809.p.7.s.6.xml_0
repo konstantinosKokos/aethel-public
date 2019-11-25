@@ -1,0 +1,101 @@
+<semantics id="wiki-9809.p.7.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">de</word>
+               </functor>
+               <argument>
+                  <word id="10">Tiende Tactische Wing</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">Belgische</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">de</word>
+               </functor>
+               <argument>
+                  <word id="14">F-16</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">thuisbasis</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">in</word>
+            </functor>
+            <argument>
+               <word id="6">Kleine-Brogel</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="4">luchtmachtbasis</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">militair</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">het</word>
+         </functor>
+         <argument>
+            <word id="2">domein</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

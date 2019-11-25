@@ -1,0 +1,94 @@
+<semantics id="wiki-3668.p.3.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Toen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">in</word>
+         </functor>
+         <argument>
+            <word id="4">1830</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">afscheidde</word>
+            </functor>
+            <argument>
+               <word id="1">België</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="2">zich</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">kwam</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">met uitzondering van</word>
+            </functor>
+            <argument>
+               <word id="10">Maastricht</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">heel</word>
+            </functor>
+            <argument>
+               <word id="8">Limburg</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">onder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">Belgisch</word>
+         </functor>
+         <argument>
+            <word id="13">bestuur</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

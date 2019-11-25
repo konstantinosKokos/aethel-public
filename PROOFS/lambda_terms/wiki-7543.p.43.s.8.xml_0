@@ -1,0 +1,24 @@
+<semantics id="wiki-7543.p.43.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">Belgisch</word>
+   </functor>
+   <argument>
+      <word id="3">ex-veldrijder</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">05/03/66</word>
+   </functor>
+   <argument>
+      <word id="0">Mario De Clercq</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

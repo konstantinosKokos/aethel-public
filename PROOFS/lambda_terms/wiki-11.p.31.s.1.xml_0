@@ -1,0 +1,31 @@
+<semantics id="wiki-11.p.31.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">in</word>
+         </functor>
+         <argument>
+            <word id="4">Antwerpen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">kerken</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Lijst</word>
+</argument>
+</appl>
+</semantics>

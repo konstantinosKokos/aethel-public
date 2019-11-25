@@ -1,0 +1,38 @@
+<semantics id="wiki-9843.p.41.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">De duistere diamant</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">het</word>
+         </functor>
+         <argument>
+            <word id="4">album</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">de</word>
+   </functor>
+   <argument>
+      <word id="1">verfilming</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

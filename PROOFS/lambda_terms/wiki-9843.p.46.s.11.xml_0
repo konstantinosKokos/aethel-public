@@ -1,0 +1,31 @@
+<semantics id="wiki-9843.p.46.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">als</word>
+      </functor>
+      <argument>
+         <word id="4">Old Shatterhand</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">Ook</word>
+      </functor>
+      <argument>
+         <word id="2">bekend</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Karl May</word>
+</argument>
+</appl>
+</semantics>

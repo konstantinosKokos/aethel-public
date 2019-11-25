@@ -1,0 +1,45 @@
+<semantics id="wiki-887.p.14.s.4.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">na</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">wegens</word>
+         </functor>
+         <argument>
+            <word id="6">kwetsuur</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">opgave</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">tegen</word>
+      </functor>
+      <argument>
+         <word id="2">Justine Henin-Hardenne</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="0">wint</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

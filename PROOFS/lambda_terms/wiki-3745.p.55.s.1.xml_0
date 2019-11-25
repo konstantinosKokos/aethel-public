@@ -1,0 +1,24 @@
+<semantics id="wiki-3745.p.55.s.1.xml_0">
+<appl>
+<functor>
+   <word id="3">2010</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">zevenjaarlijkse</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="2">Virga-Jessefeesten</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

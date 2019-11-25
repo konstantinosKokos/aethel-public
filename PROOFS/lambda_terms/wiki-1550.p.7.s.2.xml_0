@@ -1,0 +1,201 @@
+<semantics id="wiki-1550.p.7.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="14">waarna</word>
+   </functor>
+   <argument>
+      <lambda varid="0">
+         <appl>
+         <functor>
+            <var id="0" debruijn="1"></var>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="21">slingert</word>
+                  </functor>
+                  <argument>
+                     <word id="15">het</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="16">zich</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="17">door</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">Vlaamse</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">het</word>
+                     </functor>
+                     <argument>
+                        <word id="20">heuvelland</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="12">richting</word>
+      </functor>
+      <argument>
+         <word id="13">Kortrijk</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">via</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">en</word>
+               </functor>
+               <argument>
+                  <word id="9">Oostende</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="11">Torhout</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Na</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="2">relatief</word>
+                  </functor>
+                  <argument>
+                     <word id="3">vlak</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">een</word>
+                  </functor>
+                  <argument>
+                     <word id="4">begin</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">gaat</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">het</word>
+                  </functor>
+                  <argument>
+                     <word id="7">parcours</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="22">tot</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="23">aan</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="26">in</word>
+                        </functor>
+                        <argument>
+                           <word id="27">Meerbeke</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="24">de</word>
+                        </functor>
+                        <argument>
+                           <word id="25">finish</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

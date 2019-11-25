@@ -1,0 +1,24 @@
+<semantics id="wiki-1941.p.25.s.1.xml_0">
+<appl>
+<functor>
+   <word id="0">Toen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">bespeurde</word>
+      </functor>
+      <argument>
+         <word id="1">hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">hoe</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

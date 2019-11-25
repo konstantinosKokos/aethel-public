@@ -1,0 +1,24 @@
+<semantics id="WR-P-E-J-0000000017.p.5.s.7.xml_1">
+<appl>
+<functor>
+   <word id="2">waarde-kostprijs</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">optimale</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Een</word>
+      </functor>
+      <argument>
+         <word id="3">verhouding</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

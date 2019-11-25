@@ -1,0 +1,17 @@
+<semantics id="wiki-888.p.7.s.2.xml_0">
+<appl>
+<functor>
+   <word id="0">Zie</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">weekblad</word>
+   </functor>
+   <argument>
+      <word id="1">Kuifje</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

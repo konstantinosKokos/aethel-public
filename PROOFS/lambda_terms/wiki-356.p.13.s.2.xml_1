@@ -1,0 +1,59 @@
+<semantics id="wiki-356.p.13.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">werden</word>
+   </functor>
+   <argument>
+      <word id="0">resten</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">bij</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="7">van</word>
+            </functor>
+            <argument>
+               <word id="8">Anderlecht</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">het</word>
+            </functor>
+            <argument>
+               <word id="6">slachthuis</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">achteraf</word>
+      </functor>
+      <argument>
+         <word id="3">gedumpt</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

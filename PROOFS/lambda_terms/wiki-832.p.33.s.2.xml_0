@@ -1,0 +1,24 @@
+<semantics id="wiki-832.p.33.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">In</word>
+   </functor>
+   <argument>
+      <word id="1">1892</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">schreef</word>
+   </functor>
+   <argument>
+      <word id="3">Demolder</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

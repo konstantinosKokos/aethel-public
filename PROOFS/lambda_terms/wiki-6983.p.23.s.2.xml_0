@@ -1,0 +1,80 @@
+<semantics id="wiki-6983.p.23.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">kunnen</word>
+   </functor>
+   <argument>
+      <word id="7">wij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">beter</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">maar</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">In plaats van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">te</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="5">gaan</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="1">als</word>
+                        </functor>
+                        <argument>
+                           <word id="2">angsthazen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="3">door het leven</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">worden</word>
+            </functor>
+            <argument>
+               <word id="10">boswachter</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

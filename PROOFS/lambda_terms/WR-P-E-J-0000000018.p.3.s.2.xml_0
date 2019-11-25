@@ -1,0 +1,108 @@
+<semantics id="WR-P-E-J-0000000018.p.3.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">moet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">Nederlandse</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">de</word>
+         </functor>
+         <argument>
+            <word id="11">Regering</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="12">nog</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Over</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">nieuwe</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">vier</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">de</word>
+                        </functor>
+                        <argument>
+                           <word id="7">Scheldeverdragen</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">het</word>
+               </functor>
+               <argument>
+                  <word id="2">pakket</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="15">nemen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">een</word>
+            </functor>
+            <argument>
+               <word id="14">beslissing</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,66 @@
+<semantics id="WR-P-E-J-0000000029.p.5.s.4.xml_0">
+<appl>
+<functor>
+   <word id="6">soms</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Ook</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">tijdens</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="3">schooluren</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">hebben</word>
+            </functor>
+            <argument>
+               <word id="5">scholen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">behoefte</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">aan</word>
+         </functor>
+         <argument>
+            <word id="9">busvervoer</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

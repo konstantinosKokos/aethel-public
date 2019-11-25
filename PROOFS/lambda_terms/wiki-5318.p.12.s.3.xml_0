@@ -1,0 +1,136 @@
+<semantics id="wiki-5318.p.12.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">terwijl</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="16">achter</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">de</word>
+            </functor>
+            <argument>
+               <word id="18">heuvelkam</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="19">stond</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="12">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">geallieerde</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">het</word>
+                     </functor>
+                     <argument>
+                        <word id="15">leger</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">de</word>
+               </functor>
+               <argument>
+                  <word id="11">rest</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">voor</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">de</word>
+         </functor>
+         <argument>
+            <word id="8">Fransen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">stonden</word>
+         </functor>
+         <argument>
+            <word id="0">Ze</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">zo</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="4">en</word>
+               </functor>
+               <argument>
+                  <word id="3">open</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="5">bloot</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

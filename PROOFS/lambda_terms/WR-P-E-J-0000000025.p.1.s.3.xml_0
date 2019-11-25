@@ -1,0 +1,108 @@
+<semantics id="WR-P-E-J-0000000025.p.1.s.3.xml_0">
+<appl>
+<functor>
+   <word id="6">bekend</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">maakt</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">Geert BOURGEOIS</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">van</word>
+               </functor>
+               <argument>
+                  <word id="3">Buitenlands Beleid</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Vlaams</word>
+               </functor>
+               <argument>
+                  <word id="1">minister</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">dat</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">wil</word>
+            </functor>
+            <argument>
+               <word id="8">hij</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">verder</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">nog</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="15">versterken</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="10">Vlaamse</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="9">de</word>
+                        </functor>
+                        <argument>
+                           <word id="11">UNESCO-commissie</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

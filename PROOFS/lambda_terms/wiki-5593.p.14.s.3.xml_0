@@ -1,0 +1,59 @@
+<semantics id="wiki-5593.p.14.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">blijft</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">de</word>
+      </functor>
+      <argument>
+         <word id="4">CVP</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">bij</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">elke</word>
+         </functor>
+         <argument>
+            <word id="7">verkiezing</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Vanaf</word>
+         </functor>
+         <argument>
+            <word id="1">1985</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="8">verliezen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

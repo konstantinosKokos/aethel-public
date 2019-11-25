@@ -1,0 +1,101 @@
+<semantics id="wiki-90.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">of</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">ACLVB</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="1">Algemene Centrale der Liberale Vakbonden van België</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">CGSLB</word>
+         </functor>
+         <argument>
+            <word id="4">Centrale Générale des Syndicats Libéraux de Belgique</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">in</word>
+            </functor>
+            <argument>
+               <word id="14">België</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">representatieve</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">drie</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">de</word>
+                  </functor>
+                  <argument>
+                     <word id="12">vakbonden</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="7">een</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

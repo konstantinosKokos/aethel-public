@@ -1,0 +1,17 @@
+<semantics id="wiki-135.p.53.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">staatsgrens</word>
+   </functor>
+   <argument>
+      <word id="1">kilometers</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Aantal</word>
+</argument>
+</appl>
+</semantics>

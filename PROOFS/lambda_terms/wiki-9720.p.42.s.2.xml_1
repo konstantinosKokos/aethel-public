@@ -1,0 +1,31 @@
+<semantics id="wiki-9720.p.42.s.2.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">als</word>
+   </functor>
+   <argument>
+      <word id="1">apostel</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">is</word>
+      </functor>
+      <argument>
+         <word id="3">hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">jong</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

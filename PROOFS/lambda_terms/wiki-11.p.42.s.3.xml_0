@@ -1,0 +1,143 @@
+<semantics id="wiki-11.p.42.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">moet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">een</word>
+      </functor>
+      <argument>
+         <word id="9">speelster</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="15">in</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="18">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="19">5</word>
+               </functor>
+               <argument>
+                  <word id="20">jaar</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="16">een</word>
+            </functor>
+            <argument>
+               <word id="17">periode</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">3</word>
+         </functor>
+         <argument>
+            <word id="13">keer</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Om</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">te</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">mee</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="6">nemen</word>
+                        </functor>
+                        <argument>
+                           <word id="1">het</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="3">naar</word>
+                        </functor>
+                        <argument>
+                           <word id="4">huis</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">winnen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="10">het</word>
+               </functor>
+               <argument>
+                  <word id="11">tornooi</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

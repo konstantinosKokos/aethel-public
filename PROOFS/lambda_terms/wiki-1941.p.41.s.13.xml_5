@@ -1,0 +1,38 @@
+<semantics id="wiki-1941.p.41.s.13.xml_5">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">vinden</word>
+      </functor>
+      <argument>
+         <word id="0">anderen</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">de</word>
+      </functor>
+      <argument>
+         <word id="3">tekst</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">te</word>
+   </functor>
+   <argument>
+      <word id="5">Vlaams</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

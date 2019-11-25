@@ -1,0 +1,24 @@
+<semantics id="wiki-9809.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">uit</word>
+   </functor>
+   <argument>
+      <word id="3">1422</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">de</word>
+   </functor>
+   <argument>
+      <word id="1">Sint-Trudokerk</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

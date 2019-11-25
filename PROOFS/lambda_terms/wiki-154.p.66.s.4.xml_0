@@ -1,0 +1,24 @@
+<semantics id="wiki-154.p.66.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">het</word>
+      </functor>
+      <argument>
+         <word id="3">Brussels Hoofdstedelijk Parlement</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Website</word>
+</argument>
+</appl>
+</semantics>

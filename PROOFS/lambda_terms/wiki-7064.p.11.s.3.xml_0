@@ -1,0 +1,38 @@
+<semantics id="wiki-7064.p.11.s.3.xml_0">
+<appl>
+<functor>
+   <word id="5">DGS</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">operationele</word>
+      </functor>
+      <argument>
+         <word id="4">ondersteuning</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">algemene</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">de</word>
+         </functor>
+         <argument>
+            <word id="2">directie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

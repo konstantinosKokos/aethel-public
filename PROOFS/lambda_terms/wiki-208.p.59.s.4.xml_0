@@ -1,0 +1,101 @@
+<semantics id="wiki-208.p.59.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Voordat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="6">ontplofte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">zijn</word>
+               </functor>
+               <argument>
+                  <word id="5">bemanning</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">zijn</word>
+            </functor>
+            <argument>
+               <word id="2">schip</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">waren</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">laatste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">zijn</word>
+            </functor>
+            <argument>
+               <word id="10">woorden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">Nog liever</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="14">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="12">de</word>
+            </functor>
+            <argument>
+               <word id="13">lucht</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

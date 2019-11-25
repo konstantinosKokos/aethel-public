@@ -1,0 +1,80 @@
+<semantics id="wiki-1181.p.9.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">moesten</word>
+   </functor>
+   <argument>
+      <word id="2">ze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">niet</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">verdwijnen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="6">uit</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">Vlaamse</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="7">het</word>
+                        </functor>
+                        <argument>
+                           <word id="9">parlement</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">halen</word>
+      </functor>
+      <argument>
+         <word id="0">Deze</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,38 @@
+<semantics id="wiki-1941.p.7.s.4.xml_0">
+<appl>
+<functor>
+   <word id="2">niet</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">hield</word>
+      </functor>
+      <argument>
+         <word id="0">Elsschot</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">reklamewereld</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

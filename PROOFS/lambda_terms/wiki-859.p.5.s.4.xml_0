@@ -1,0 +1,45 @@
+<semantics id="wiki-859.p.5.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">zou</word>
+   </functor>
+   <argument>
+      <word id="0">Deze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">zijn</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">eerder</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">20</word>
+            </functor>
+            <argument>
+               <word id="3">jaar</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="5">geboren</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

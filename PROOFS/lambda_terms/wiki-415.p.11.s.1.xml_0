@@ -1,0 +1,136 @@
+<semantics id="wiki-415.p.11.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">samen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="13">en</word>
+                  </functor>
+                  <argument>
+                     <word id="10">Sankt-Vith</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="11">Büllingen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="12">Bütgenbach</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="14">Burg-Reuland</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">vormen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">Eupen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">het</word>
+                  </functor>
+                  <argument>
+                     <word id="5">kanton</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">volgende</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">De</word>
+               </functor>
+               <argument>
+                  <word id="2">gemeenten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="18">in</word>
+         </functor>
+         <argument>
+            <word id="19">België</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="16">Duitse</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">het</word>
+            </functor>
+            <argument>
+               <word id="17">taalgebied</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

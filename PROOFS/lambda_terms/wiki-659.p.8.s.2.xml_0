@@ -1,0 +1,183 @@
+<semantics id="wiki-659.p.8.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="9">en</word>
+      </functor>
+      <argument>
+         <lambda varid="0">
+            <appl>
+            <functor>
+               <word id="2">voordien</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="1">was</word>
+                  </functor>
+                  <argument>
+                     <var id="0" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="4">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">Metro</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="6">gratis</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="5">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="7">krant</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="3">hoofdredacteur</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <lambda varid="1">
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="10">gaf</word>
+               </functor>
+               <argument>
+                  <var id="1" debruijn="1"></var>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="14">en</word>
+                        </functor>
+                        <argument>
+                           <lambda varid="2">
+                              <lambda varid="3">
+                                 <appl>
+                                 <functor>
+                                    <word id="13">jonger</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <var id="2" debruijn="2"></var>
+                                    </functor>
+                                    <argument>
+                                       <var id="3" debruijn="1"></var>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </lambda>
+                           </lambda>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <lambda varid="4">
+                           <lambda varid="5">
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="16">breed</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="15">ondertussen</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="17">gewaardeerd</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <var id="4" debruijn="2"></var>
+                                 </functor>
+                                 <argument>
+                                    <var id="5" debruijn="1"></var>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </lambda>
+                        </lambda>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="12">een</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="18">imago</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="11">Gazet van Antwerpen</word>
+         </argument>
+         </appl>
+      </lambda>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Hij</word>
+</argument>
+</appl>
+</semantics>

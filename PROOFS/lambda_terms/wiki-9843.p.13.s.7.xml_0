@@ -1,0 +1,24 @@
+<semantics id="wiki-9843.p.13.s.7.xml_0">
+<appl>
+<functor>
+   <word id="0">Als</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">wordt</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">er</word>
+      </functor>
+      <argument>
+         <word id="2">gehekeld</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

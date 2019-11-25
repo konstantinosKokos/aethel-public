@@ -1,0 +1,143 @@
+<semantics id="wiki-295.p.9.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">samen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="13">en</word>
+               </functor>
+               <argument>
+                  <word id="12">Frits Van den Berghe</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">Gust De Smet</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">zijn</word>
+            </functor>
+            <argument>
+               <word id="11">vrienden</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">had</word>
+      </functor>
+      <argument>
+         <word id="5">hij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="18">op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="19">de</word>
+            </functor>
+            <argument>
+               <word id="20">XVde Internationale Expositie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">dezelfde</word>
+               </functor>
+               <argument>
+                  <word id="17">stad</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">al</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="0">Ook</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">in</word>
+                     </functor>
+                     <argument>
+                        <word id="2">1926</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">vertegenwoordigd</word>
+               </functor>
+               <argument>
+                  <word id="6">België</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

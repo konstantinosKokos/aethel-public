@@ -1,0 +1,157 @@
+<semantics id="WR-P-E-J-0000000017.p.6.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="11">laat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">Peeters</word>
+      </functor>
+      <argument>
+         <word id="12">minister</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="19">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="22">PMV</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="20">de</word>
+            </functor>
+            <argument>
+               <word id="21">Participatiemaatschappij Vlaanderen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="2">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="7">van</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="9">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="8">Financiën</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="10">Begroting</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="5">Vlaams</word>
+                        </functor>
+                        <argument>
+                           <word id="6">minister</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="4">Dirk VAN MECHELEN</word>
+                     </functor>
+                     <argument>
+                        <word id="3">minister</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="1">samenspraak</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="18">oprichten</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">SPV</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">speciale</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">een</word>
+                  </functor>
+                  <argument>
+                     <word id="16">projectvennootschap</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

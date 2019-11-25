@@ -1,0 +1,136 @@
+<semantics id="wiki-737.p.9.s.1.xml_1">
+<appl>
+<functor>
+   <word id="0">temeer</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">omdat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">heeft</word>
+         </functor>
+         <argument>
+            <word id="2">hij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">voor</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="16">in</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="17">de</word>
+                     </functor>
+                     <argument>
+                        <word id="18">politiek</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="19">stapte</word>
+                  </functor>
+                  <argument>
+                     <word id="15">deze</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">tijdens</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">de</word>
+                  </functor>
+                  <argument>
+                     <word id="11">Tweede Wereldoorlog</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">gekend</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="7">van</word>
+                        </functor>
+                        <argument>
+                           <word id="8">Hitler</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="5">Belgische</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="4">dé</word>
+                           </functor>
+                           <argument>
+                              <word id="6">aanhanger</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="3">Leon Degrelle</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

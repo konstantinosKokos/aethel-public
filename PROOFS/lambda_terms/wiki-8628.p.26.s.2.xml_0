@@ -1,0 +1,38 @@
+<semantics id="wiki-8628.p.26.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">worden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Alternatieve</word>
+      </functor>
+      <argument>
+         <word id="1">biersoorten</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">uit</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">wel</word>
+      </functor>
+      <argument>
+         <word id="4">gemaakt</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

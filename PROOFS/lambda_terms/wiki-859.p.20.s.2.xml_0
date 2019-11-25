@@ -1,0 +1,17 @@
+<semantics id="wiki-859.p.20.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">goede</word>
+   </functor>
+   <argument>
+      <word id="2">afbeeldingen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Web Gallery of Art</word>
+</argument>
+</appl>
+</semantics>

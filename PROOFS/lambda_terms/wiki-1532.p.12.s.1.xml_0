@@ -1,0 +1,66 @@
+<semantics id="wiki-1532.p.12.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">in</word>
+   </functor>
+   <argument>
+      <word id="9">1916</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">nog</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">organiseert</word>
+         </functor>
+         <argument>
+            <word id="0">Men</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">in</word>
+            </functor>
+            <argument>
+               <word id="7">Amsterdam</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">2de</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">een</word>
+               </functor>
+               <argument>
+                  <word id="5">tentoonstelling</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

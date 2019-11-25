@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000004.head.1.s.1.xml_3">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">meer</word>
+   </functor>
+   <argument>
+      <word id="2">niet</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="5">melden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">vaste</word>
+         </functor>
+         <argument>
+            <word id="1">benoeming</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">aangetekend</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

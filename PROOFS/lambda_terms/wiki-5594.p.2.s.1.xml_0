@@ -1,0 +1,136 @@
+<semantics id="wiki-5594.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">is</word>
+   </functor>
+   <argument>
+      <word id="0">Vivant</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="13">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="16">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="19">Melexis</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="17">het</word>
+                        </functor>
+                        <argument>
+                           <word id="18">auto-elektronicabedrijf</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="15">bedrijfsleider</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">Roland Duchâtelet</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">in</word>
+            </functor>
+            <argument>
+               <word id="11">1997</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="12">opgericht</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">politieke</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">Belgische</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">een</word>
+                  </functor>
+                  <argument>
+                     <word id="5">partij</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">beweging&amp;partij</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">een</word>
+                  </functor>
+                  <argument>
+                     <word id="8">organisatie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

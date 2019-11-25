@@ -1,0 +1,94 @@
+<semantics id="wiki-7543.p.34.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">werd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="11">een</word>
+      </functor>
+      <argument>
+         <word id="12">klooster</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="6">ter</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">de</word>
+               </functor>
+               <argument>
+                  <word id="10">streek</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">pacificatie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Op</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">Ename</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="2">oude</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">het</word>
+                  </functor>
+                  <argument>
+                     <word id="3">stadje</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="13">gebouwd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

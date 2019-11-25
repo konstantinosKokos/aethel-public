@@ -1,0 +1,38 @@
+<semantics id="wiki-8628.p.27.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">in</word>
+      </functor>
+      <argument>
+         <word id="4">Nigeria</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="5">verplicht</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">in plaats van</word>
+      </functor>
+      <argument>
+         <word id="2">mout</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="0">sorghum</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

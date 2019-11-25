@@ -1,0 +1,59 @@
+<semantics id="wiki-9720.p.36.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">verleent</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">doordachte</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Deze</word>
+            </functor>
+            <argument>
+               <word id="2">compositie</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">inwendige</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">een</word>
+         </functor>
+         <argument>
+            <word id="8">dynamiek</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">het</word>
+   </functor>
+   <argument>
+      <word id="5">werk</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,73 @@
+<semantics id="wiki-3745.p.16.s.10.xml_0">
+<appl>
+<functor>
+   <word id="5">zelf</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">kunnen</word>
+      </functor>
+      <argument>
+         <word id="0">Sportvliegtuigen</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">in</word>
+         </functor>
+         <argument>
+            <word id="4">Hasselt</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">echter</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">landen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="10">Kiewit</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">het</word>
+                     </functor>
+                     <argument>
+                        <word id="9">vliegveld</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

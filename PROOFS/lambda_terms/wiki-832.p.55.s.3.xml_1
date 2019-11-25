@@ -1,0 +1,73 @@
+<semantics id="wiki-832.p.55.s.3.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">05.10.96-02.02.97</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">in</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="8">te</word>
+                     </functor>
+                     <argument>
+                        <word id="9">Oostende</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">het</word>
+                     </functor>
+                     <argument>
+                        <word id="7">PMMK</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">de</word>
+               </functor>
+               <argument>
+                  <word id="4">tentoonstelling</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">Catalogus</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Van Ensor tot Delvaux</word>
+</argument>
+</appl>
+</semantics>

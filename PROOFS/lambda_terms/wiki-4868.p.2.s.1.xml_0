@@ -1,0 +1,115 @@
+<semantics id="wiki-4868.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">tot</word>
+   </functor>
+   <argument>
+      <word id="11">1865</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">van</word>
+      </functor>
+      <argument>
+         <word id="9">1831</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">was</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">van</word>
+                  </functor>
+                  <argument>
+                     <word id="6">Saksen</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="4">hertog</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="2">van</word>
+                     </functor>
+                     <argument>
+                        <word id="3">Saksen-Coburg-Saalfeld</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="1">prins</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="0">Leopold Joris Christiaan Frederik</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="15">der</word>
+            </functor>
+            <argument>
+               <word id="16">Belgen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">eerste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">de</word>
+               </functor>
+               <argument>
+                  <word id="14">koning</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,24 @@
+<semantics id="wiki-6983.p.15.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">zijn</word>
+   </functor>
+   <argument>
+      <word id="0">Mensenrechten</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">valse</word>
+   </functor>
+   <argument>
+      <word id="3">schijnwaarden</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

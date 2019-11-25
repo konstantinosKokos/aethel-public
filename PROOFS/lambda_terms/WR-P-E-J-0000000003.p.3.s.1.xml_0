@@ -1,0 +1,52 @@
+<semantics id="WR-P-E-J-0000000003.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">vanaf</word>
+   </functor>
+   <argument>
+      <word id="5">1 januari 2006</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">daarom</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">neemt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">Vandenbroucke</word>
+            </functor>
+            <argument>
+               <word id="0">Minister</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">volgende</word>
+         </functor>
+         <argument>
+            <word id="7">maatregelen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

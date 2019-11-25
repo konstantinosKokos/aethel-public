@@ -1,0 +1,59 @@
+<semantics id="wiki-9720.p.18.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">nemen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Franse</word>
+            </functor>
+            <argument>
+               <word id="1">soldaten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">centrale</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">de</word>
+            </functor>
+            <argument>
+               <word id="5">delen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">naar</word>
+      </functor>
+      <argument>
+         <word id="8">Parijs</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="6">mee</word>
+</argument>
+</appl>
+</semantics>

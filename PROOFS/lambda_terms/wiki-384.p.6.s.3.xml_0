@@ -1,0 +1,80 @@
+<semantics id="wiki-384.p.6.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">mislukte</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Deze</word>
+         </functor>
+         <argument>
+            <word id="1">vorming</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">in</word>
+      </functor>
+      <argument>
+         <word id="5">1972</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">zakte</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">de</word>
+            </functor>
+            <argument>
+               <word id="8">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="9">naar</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">6</word>
+            </functor>
+            <argument>
+               <word id="11">zetels</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

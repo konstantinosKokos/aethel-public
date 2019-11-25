@@ -1,0 +1,80 @@
+<semantics id="wiki-889.p.21.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">koos</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">koning</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">ervoor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="4">om</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="11">nemen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="7">van</word>
+                     </functor>
+                     <argument>
+                        <word id="8">Boudewijn</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">de</word>
+                     </functor>
+                     <argument>
+                        <word id="6">hofhouding</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="9">over</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,24 @@
+<semantics id="wiki-11.p.30.s.14.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">het</word>
+   </functor>
+   <argument>
+      <word id="3">Chinatown van Antwerpen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">De</word>
+   </functor>
+   <argument>
+      <word id="1">Van Wesenbekestraat</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

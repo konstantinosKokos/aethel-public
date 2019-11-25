@@ -1,0 +1,59 @@
+<semantics id="wiki-8894.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <word id="5">weer</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">er</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="1">sinds</word>
+            </functor>
+            <argument>
+               <word id="2">1999</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="0">Voor het eerst</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="3">vonden</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">federale</word>
+               </functor>
+               <argument>
+                  <word id="7">verkiezingen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">plaats</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

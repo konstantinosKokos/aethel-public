@@ -1,0 +1,24 @@
+<semantics id="wiki-9720.p.52.s.1.xml_4">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">eigen</word>
+      </functor>
+      <argument>
+         <word id="3">beheer</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">uitgegeven</word>
+</argument>
+</appl>
+</semantics>

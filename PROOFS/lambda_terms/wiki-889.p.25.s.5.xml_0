@@ -1,0 +1,143 @@
+<semantics id="wiki-889.p.25.s.5.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">omdat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">wordt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">een</word>
+            </functor>
+            <argument>
+               <word id="7">koning</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">volgens</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="9">de</word>
+               </functor>
+               <argument>
+                  <word id="10">grondwet</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">geacht</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">te</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="17">in</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="19">politieke</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="18">het</word>
+                           </functor>
+                           <argument>
+                              <word id="20">gebeuren</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="16">houden</word>
+                        </functor>
+                        <argument>
+                           <word id="13">zich</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="14">afzijdig</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Daarop</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">kreeg</word>
+         </functor>
+         <argument>
+            <word id="2">Albert</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">veel</word>
+         </functor>
+         <argument>
+            <word id="4">kritiek</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

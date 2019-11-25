@@ -1,0 +1,96 @@
+<semantics id="wiki-859.p.9.s.1.xml_0">
+<appl>
+<functor>
+   <word id="7">niet</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In tegenstelling tot</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">wat</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="3">wordt</word>
+                  </functor>
+                  <argument>
+                     <var id="0" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="2">vaak</word>
+                  </functor>
+                  <argument>
+                     <word id="4">beweerd</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="5">is</word>
+         </functor>
+         <argument>
+            <word id="6">Jan van Eyck</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">de</word>
+               </functor>
+               <argument>
+                  <word id="12">olieverfschilderkunst</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">de</word>
+            </functor>
+            <argument>
+               <word id="9">uitvinder</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

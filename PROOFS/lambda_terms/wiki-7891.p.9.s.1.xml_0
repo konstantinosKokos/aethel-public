@@ -1,0 +1,213 @@
+<semantics id="wiki-7891.p.9.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">van</word>
+         </functor>
+         <argument>
+            <word id="11">VTM</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">het</word>
+         </functor>
+         <argument>
+            <word id="9">marktaandeel</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="22">vooral</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="23">door</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="26">bij</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="29">nu</word>
+                     </functor>
+                     <argument>
+                        <word id="30">één</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="28">TV1</word>
+                     </functor>
+                     <argument>
+                        <word id="27">VRT</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="24">een</word>
+               </functor>
+               <argument>
+                  <word id="25">vernieuwingsoperatie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="14">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">35</word>
+            </functor>
+            <argument>
+               <word id="16">%</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">flink</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="0">Op</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="3">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">'90</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="4">de</word>
+                           </functor>
+                           <argument>
+                              <word id="5">jaren</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">het</word>
+                     </functor>
+                     <argument>
+                        <word id="2">eind</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">gedaald</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="17">tot</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="19">à</word>
+                           </functor>
+                           <argument>
+                              <word id="18">20</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="20">25</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="21">%</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,87 @@
+<semantics id="WR-P-E-J-0000000030.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">Flanders and China : an excellent future together</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">de</word>
+         </functor>
+         <argument>
+            <word id="2">strategie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">lanceert</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">Moerman</word>
+         </functor>
+         <argument>
+            <word id="5">minister</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="8">concrete</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">8</word>
+               </functor>
+               <argument>
+                  <word id="9">actiepunten</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="11">4</word>
+         </functor>
+         <argument>
+            <word id="12">aanbevelingen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

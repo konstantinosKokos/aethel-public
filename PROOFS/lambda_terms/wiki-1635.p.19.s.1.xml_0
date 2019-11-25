@@ -1,0 +1,31 @@
+<semantics id="wiki-1635.p.19.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">de</word>
+         </functor>
+         <argument>
+            <word id="4">sp.a</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">jongerenafdeling</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">animo</word>
+</argument>
+</appl>
+</semantics>

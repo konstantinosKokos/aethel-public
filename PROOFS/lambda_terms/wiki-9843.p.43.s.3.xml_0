@@ -1,0 +1,150 @@
+<semantics id="wiki-9843.p.43.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">beïnvloedden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">andere</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Ook</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="1">Vandersteen's</word>
+            </functor>
+            <argument>
+               <word id="3">reeksen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="20">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="10">Marc Sleen</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="11">Jef Nys</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="12">Merho</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="14">en</word>
+                           </functor>
+                           <argument>
+                              <word id="13">Willy Linthout</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="15">Urbanus</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="16">Jan Bosschaert</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="17">Jean-Pol</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="18">Marc Legendre</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="19">Jeroom</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="21">Kamagurka</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">in</word>
+         </functor>
+         <argument>
+            <word id="9">Vlaanderen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">vrijwel</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">elke</word>
+            </functor>
+            <argument>
+               <word id="7">striptekenaar</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

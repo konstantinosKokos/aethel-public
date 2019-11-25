@@ -1,0 +1,227 @@
+<semantics id="wiki-1846.p.10.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">toen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="27">als</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="29">tegen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="32">Patrik Vankrunkelsven</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="30">toenmalig</word>
+                     </functor>
+                     <argument>
+                        <word id="31">voorzitter</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="28">tegenkandidaat</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="26">werd</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="8">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="15">binnen</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="16">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="17">Volksunie</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="13">Vlaams-nationalistische</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <appl>
+                                    <functor>
+                                       <word id="11">en</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="10">traditionalistische</word>
+                                    </argument>
+                                    </appl>
+                                 </functor>
+                                 <argument>
+                                    <word id="12">centrum-rechtse</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="9">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="14">vleugel</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">de</word>
+                     </functor>
+                     <argument>
+                        <word id="7">voorman</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="5">Geert Bourgeois</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="20">door</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="21">de</word>
+                  </functor>
+                  <argument>
+                     <word id="22">leden</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="18">in</word>
+                  </functor>
+                  <argument>
+                     <word id="19">2000</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="25">verkozen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="23">tot</word>
+                     </functor>
+                     <argument>
+                        <word id="24">voorzitter</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">namen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Deze</word>
+         </functor>
+         <argument>
+            <word id="1">spanningen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="3">toe</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,115 @@
+<semantics id="wiki-208.p.4.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">bewijzen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Archeologische</word>
+      </functor>
+      <argument>
+         <word id="1">vondsten</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">dat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="11">werd</word>
+         </functor>
+         <argument>
+            <word id="10">Noordwest-Europa</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">door</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">zogenaamde</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">de</word>
+                  </functor>
+                  <argument>
+                     <word id="16">Neanderthalers</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="6">voor</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="8">agrarische</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="7">het</word>
+                        </functor>
+                        <argument>
+                           <word id="9">neolithicum</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">al</word>
+                  </functor>
+                  <argument>
+                     <word id="5">lang</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="12">bewoond</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

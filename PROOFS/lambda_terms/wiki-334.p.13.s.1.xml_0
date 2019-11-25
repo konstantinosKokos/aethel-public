@@ -1,0 +1,105 @@
+<semantics id="wiki-334.p.13.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">ging</word>
+   </functor>
+   <argument>
+      <word id="3">Doornik</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <word id="1">1815</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">en</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <var id="0" debruijn="1"></var>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="5">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="6">het</word>
+                        </functor>
+                        <argument>
+                           <word id="7">Verenigd Koninkrijk der Nederlanden</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <lambda varid="1">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="9">in</word>
+                  </functor>
+                  <argument>
+                     <word id="10">1830</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <var id="1" debruijn="1"></var>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="11">van</word>
+                     </functor>
+                     <argument>
+                        <word id="12">België</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">uitmaken</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

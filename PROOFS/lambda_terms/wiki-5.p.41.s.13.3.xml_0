@@ -1,0 +1,59 @@
+<semantics id="wiki-5.p.41.s.13.3.xml_0">
+<appl>
+<functor>
+   <word id="1">wordt</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="3">intensief</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">verder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="0">Er</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">samengewerkt</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">Europese</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="6">de</word>
+                     </functor>
+                     <argument>
+                        <word id="8">Groene Partij</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

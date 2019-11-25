@@ -1,0 +1,59 @@
+<semantics id="wiki-342.p.5.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">BIRA</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">het</word>
+         </functor>
+         <argument>
+            <word id="7">Belgisch Instituut voor Ruimte-Aeronomie</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">tot</word>
+      </functor>
+      <argument>
+         <word id="4">1978</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Ondertussen</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">werkte</word>
+         </functor>
+         <argument>
+            <word id="2">hij</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

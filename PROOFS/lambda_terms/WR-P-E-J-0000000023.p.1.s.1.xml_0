@@ -1,0 +1,122 @@
+<semantics id="WR-P-E-J-0000000023.p.1.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="12">samen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">met</word>
+      </functor>
+      <argument>
+         <word id="14">FlandersBio en Pharma.be</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="10">in</word>
+      </functor>
+      <argument>
+         <word id="11">Gent</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">vanmiddag</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">lanceert</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">Fientje MOERMLAN</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="2">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="5">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="3">Economie</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="4">Wetenschap</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="6">Innovatie</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="0">Vlaams</word>
+                     </functor>
+                     <argument>
+                        <word id="1">minister</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="17">levenswetenschappen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="15">de</word>
+               </functor>
+               <argument>
+                  <word id="16">rondetafelconferentie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

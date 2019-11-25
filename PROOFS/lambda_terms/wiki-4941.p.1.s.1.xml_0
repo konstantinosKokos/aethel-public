@@ -1,0 +1,17 @@
+<semantics id="wiki-4941.p.1.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">Belgische</word>
+   </functor>
+   <argument>
+      <word id="2">feestdag</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Wapenstilstand</word>
+</argument>
+</appl>
+</semantics>

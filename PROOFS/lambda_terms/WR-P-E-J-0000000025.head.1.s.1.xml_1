@@ -1,0 +1,31 @@
+<semantics id="WR-P-E-J-0000000025.head.1.s.1.xml_1">
+<appl>
+<functor>
+   <word id="3">verder</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">bouwt</word>
+         </functor>
+         <argument>
+            <word id="0">Vlaanderen</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">UNESCO-commissie</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">uit</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

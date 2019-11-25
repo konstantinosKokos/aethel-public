@@ -1,0 +1,108 @@
+<semantics id="wiki-208.p.94.s.6.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">kon</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">het</word>
+            </functor>
+            <argument>
+               <word id="1">begrotingstekort</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">worden</word>
+         </functor>
+         <argument>
+            <word id="4">beperkt</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="8">begon</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">de</word>
+         </functor>
+         <argument>
+            <word id="7">werkloosheid</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="11">mede</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">dankzij</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="14">heroplevende</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="13">de</word>
+                     </functor>
+                     <argument>
+                        <word id="15">conjunctuur</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="10">dalen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

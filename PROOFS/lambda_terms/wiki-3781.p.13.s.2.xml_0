@@ -1,0 +1,24 @@
+<semantics id="wiki-3781.p.13.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">telt</word>
+   </functor>
+   <argument>
+      <word id="0">Hij</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">84</word>
+   </functor>
+   <argument>
+      <word id="3">zetels</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

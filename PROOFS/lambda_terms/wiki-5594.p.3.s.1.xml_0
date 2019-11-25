@@ -1,0 +1,138 @@
+<semantics id="wiki-5594.p.3.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="8">is</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">economische</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">vooral</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">het</word>
+               </functor>
+               <argument>
+                  <word id="7">deel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">van</word>
+            </functor>
+            <argument>
+               <word id="3">Vivant</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Het</word>
+            </functor>
+            <argument>
+               <word id="1">gedachtegoed</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">gebaseerd</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="10">op</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="14">dat</word>
+            </functor>
+            <argument>
+               <lambda varid="0">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="17">in</word>
+                     </functor>
+                     <argument>
+                        <word id="18">1994</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="16">schreef</word>
+                        </functor>
+                        <argument>
+                           <word id="15">Duchâtelet</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <var id="0" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">NV België : verslag aan de aandeelhouders</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">het</word>
+               </functor>
+               <argument>
+                  <word id="12">boek</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

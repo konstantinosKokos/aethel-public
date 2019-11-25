@@ -1,0 +1,59 @@
+<semantics id="wiki-5176.p.14.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">met</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">515</word>
+                  </functor>
+                  <argument>
+                     <word id="8">inwoners</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">+4,20</word>
+               </functor>
+               <argument>
+                  <word id="5">km²</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="3">Lemberge</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">afstand</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">1965</word>
+</argument>
+</appl>
+</semantics>

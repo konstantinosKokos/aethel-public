@@ -1,0 +1,94 @@
+<semantics id="wiki-1541.p.25.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="5">met</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">150</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">hun</word>
+         </functor>
+         <argument>
+            <word id="8">stuks</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">bezitten</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">te</word>
+            </functor>
+            <argument>
+               <word id="3">Brussel</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">De</word>
+            </functor>
+            <argument>
+               <word id="1">Koninklijke Musea voor Schone Kunsten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">ter</word>
+         </functor>
+         <argument>
+            <word id="13">wereld</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">rijkste</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">de</word>
+            </functor>
+            <argument>
+               <word id="11">Magritte-verzameling</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

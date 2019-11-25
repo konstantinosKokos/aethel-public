@@ -1,0 +1,73 @@
+<semantics id="wiki-5.p.29.s.27.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">trachten</word>
+   </functor>
+   <argument>
+      <word id="2">ze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="9">te</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Anderzijds</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">bevorderen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="6">en</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">gemeenschapsgerichte</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="3">de</word>
+                     </functor>
+                     <argument>
+                        <word id="5">zelfontplooiing</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">de</word>
+               </functor>
+               <argument>
+                  <word id="8">basisdemocratie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

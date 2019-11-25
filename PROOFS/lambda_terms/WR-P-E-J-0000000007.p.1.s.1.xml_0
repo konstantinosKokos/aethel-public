@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000007.p.1.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">voor</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">Zuid</word>
+         </functor>
+         <argument>
+            <word id="3">Limburgse</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="4">leemindustrie</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">gewaarborgd</word>
+   </functor>
+   <argument>
+      <word id="0">Bedrijfszekerheid</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

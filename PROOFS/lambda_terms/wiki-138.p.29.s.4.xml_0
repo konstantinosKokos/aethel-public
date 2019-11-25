@@ -1,0 +1,45 @@
+<semantics id="wiki-138.p.29.s.4.xml_0">
+<appl>
+<functor>
+   <word id="4">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Sinds</word>
+      </functor>
+      <argument>
+         <word id="1">2005</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">heeft</word>
+         </functor>
+         <argument>
+            <word id="3">Brussel</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">een</word>
+         </functor>
+         <argument>
+            <word id="6">casino</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

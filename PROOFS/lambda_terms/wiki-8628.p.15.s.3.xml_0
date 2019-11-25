@@ -1,0 +1,38 @@
+<semantics id="wiki-8628.p.15.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">kan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">het</word>
+      </functor>
+      <argument>
+         <word id="3">koolzuur</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">niet</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Hierdoor</word>
+      </functor>
+      <argument>
+         <word id="5">ontsnappen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,17 @@
+<semantics id="wiki-1181.p.5.s.2.xml_3">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">en</word>
+   </functor>
+   <argument>
+      <word id="0">Vlaanderen</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="2">Wallonië</word>
+</argument>
+</appl>
+</semantics>

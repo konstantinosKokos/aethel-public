@@ -1,0 +1,115 @@
+<semantics id="WR-P-E-J-0000000008.p.38.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">werd</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">509.179</word>
+            </functor>
+            <argument>
+               <word id="8">euro</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="5">in</word>
+            </functor>
+            <argument>
+               <word id="6">2004</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">er</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="0">Door</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">een</word>
+                     </functor>
+                     <argument>
+                        <word id="2">vergissing</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="9">toegekend</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="14">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">maximale</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">het</word>
+            </functor>
+            <argument>
+               <word id="13">bedrag</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="15">590.179</word>
+      </functor>
+      <argument>
+         <word id="16">euro</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

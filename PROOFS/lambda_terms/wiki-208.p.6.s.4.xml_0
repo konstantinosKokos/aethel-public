@@ -1,0 +1,101 @@
+<semantics id="wiki-208.p.6.s.4.xml_0">
+<appl>
+<functor>
+   <word id="8">heden</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="7">zijn</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="2">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="0">Het</word>
+               </functor>
+               <argument>
+                  <word id="1">Zoniënwoud</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">van</word>
+               </functor>
+               <argument>
+                  <word id="6">Heverlee-Meerdaal</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="3">het</word>
+               </functor>
+               <argument>
+                  <word id="4">bos</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">van</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="13">dit</word>
+            </functor>
+            <argument>
+               <word id="14">"oer"-woud</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">enige</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="9">de</word>
+            </functor>
+            <argument>
+               <word id="11">overblijfselen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

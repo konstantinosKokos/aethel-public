@@ -1,0 +1,66 @@
+<semantics id="wiki-1823.p.36.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Binnen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">het</word>
+      </functor>
+      <argument>
+         <word id="2">OVV</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">vinden</word>
+         </functor>
+         <argument>
+            <word id="4">we</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">al</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">zowat</word>
+               </functor>
+               <argument>
+                  <word id="7">deze</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">strekkingen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="9">terug</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

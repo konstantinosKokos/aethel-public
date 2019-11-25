@@ -1,0 +1,45 @@
+<semantics id="WR-P-E-J-0000000030.p.13.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">tussen</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">en</word>
+               </functor>
+               <argument>
+                  <word id="4">Vlaanderen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">China</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">onderzoekers</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Mobiliteit</word>
+</argument>
+</appl>
+</semantics>

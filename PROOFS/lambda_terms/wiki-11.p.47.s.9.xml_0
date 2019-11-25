@@ -1,0 +1,38 @@
+<semantics id="wiki-11.p.47.s.9.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">bevat</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">De</word>
+      </functor>
+      <argument>
+         <word id="1">Kammenstraat</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">trendy</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="3">veel</word>
+      </functor>
+      <argument>
+         <word id="5">kledingzaken</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

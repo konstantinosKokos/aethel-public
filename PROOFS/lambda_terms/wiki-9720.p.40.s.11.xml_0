@@ -1,0 +1,38 @@
+<semantics id="wiki-9720.p.40.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">was</word>
+   </functor>
+   <argument>
+      <word id="0">Johannes de Doper</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">van</word>
+      </functor>
+      <argument>
+         <word id="5">Gent</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">een</word>
+      </functor>
+      <argument>
+         <word id="3">patroonheilige</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

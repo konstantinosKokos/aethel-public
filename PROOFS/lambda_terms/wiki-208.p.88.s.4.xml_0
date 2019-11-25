@@ -1,0 +1,89 @@
+<semantics id="wiki-208.p.88.s.4.xml_0">
+<appl>
+<functor>
+   <word id="0">Meteen</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">braken</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">die</word>
+               </functor>
+               <argument>
+                  <lambda varid="0">
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="7">noopten</word>
+                           </functor>
+                           <argument>
+                              <var id="0" debruijn="1"></var>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="6">België</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">tot</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">militaire</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="9">een</word>
+                              </functor>
+                              <argument>
+                                 <word id="11">interventie</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </lambda>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="3">onlusten</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="2">daar</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">uit</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,59 @@
+<semantics id="wiki-5.p.31.s.21.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="6">rond</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="7">de</word>
+      </functor>
+      <argument>
+         <word id="8">1.000</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="5">lang</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Rond</word>
+         </functor>
+         <argument>
+            <word id="1">1985</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">schommelt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">het</word>
+            </functor>
+            <argument>
+               <word id="4">ledenaantal</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

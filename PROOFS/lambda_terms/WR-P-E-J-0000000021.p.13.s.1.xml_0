@@ -1,0 +1,87 @@
+<semantics id="WR-P-E-J-0000000021.p.13.s.1.xml_0">
+<appl>
+<functor>
+   <word id="3">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">gaat</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Bijzondere</word>
+            </functor>
+            <argument>
+               <word id="1">aandacht</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">naar</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="8">van</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="11">in</word>
+                     </functor>
+                     <argument>
+                        <word id="12">Nord-Pas de Calais</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="9">het</word>
+                     </functor>
+                     <argument>
+                        <word id="10">Nederlands</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">het</word>
+               </functor>
+               <argument>
+                  <word id="7">onderwijs</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">uit</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

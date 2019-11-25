@@ -1,0 +1,108 @@
+<semantics id="wiki-887.p.18.s.14.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="14">tegen</word>
+         </functor>
+         <argument>
+            <word id="15">Svetlana Kuznetsova</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="12">halve</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">de</word>
+            </functor>
+            <argument>
+               <word id="13">finale</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">het</word>
+               </functor>
+               <argument>
+                  <word id="6">jaar</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">eerste</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">het</word>
+               </functor>
+               <argument>
+                  <word id="3">graveltoernooi</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="7">gaat</word>
+         </functor>
+         <argument>
+            <word id="8">Clijsters</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="9">eruit</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

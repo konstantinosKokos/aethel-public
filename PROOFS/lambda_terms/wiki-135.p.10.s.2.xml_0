@@ -1,0 +1,206 @@
+<semantics id="wiki-135.p.10.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="4">werden</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="8">in</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="20">en</word>
+                        </functor>
+                        <argument>
+                           <word id="17">Zuid-Nederland</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="18">België</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="19">Noord-Frankrijk</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="22">van</word>
+                     </functor>
+                     <argument>
+                        <word id="23">West-Duitsland</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="21">delen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="11">tussen</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="15">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="12">Noordzee</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="13">Rijn</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="14">Seine</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="16">Marne</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="9">het</word>
+                  </functor>
+                  <argument>
+                     <word id="10">gebied</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="6">Keltische</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="5">de</word>
+            </functor>
+            <argument>
+               <word id="7">stammen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="24">samen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">In</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">Romeinse</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="1">de</word>
+               </functor>
+               <argument>
+                  <word id="3">tijd</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="25">aangeduid</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="26">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="29">Belgae</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="27">het</word>
+                  </functor>
+                  <argument>
+                     <word id="28">woord</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

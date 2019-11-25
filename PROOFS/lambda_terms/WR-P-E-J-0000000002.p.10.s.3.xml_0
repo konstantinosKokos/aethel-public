@@ -1,0 +1,38 @@
+<semantics id="WR-P-E-J-0000000002.p.10.s.3.xml_0">
+<appl>
+<functor>
+   <word id="2">dan</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">kunnen</word>
+      </functor>
+      <argument>
+         <word id="0">Zij</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">opmaken</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">een</word>
+         </functor>
+         <argument>
+            <word id="4">proces-verbaal</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

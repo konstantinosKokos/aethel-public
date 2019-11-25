@@ -1,0 +1,157 @@
+<semantics id="wiki-5.p.33.s.6.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="10">maar</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="3">met</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">propere handen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="4">het</word>
+               </functor>
+               <argument>
+                  <word id="5">thema</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">daarom</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="1">trekt</word>
+               </functor>
+               <argument>
+                  <word id="0">Agalev</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">naar</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">de</word>
+                  </functor>
+                  <argument>
+                     <word id="9">kiezer</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="16">liever</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">geeft</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">die</word>
+               </functor>
+               <argument>
+                  <word id="12">laatste</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="14">zijn</word>
+            </functor>
+            <argument>
+               <word id="15">stem</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="17">aan</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="21">gekwetste</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">de</word>
+                  </functor>
+                  <argument>
+                     <word id="22">SP</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">de</word>
+               </functor>
+               <argument>
+                  <word id="19">underdog</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

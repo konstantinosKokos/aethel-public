@@ -1,0 +1,108 @@
+<semantics id="wiki-8628.p.11.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">door</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="14">te</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="15">voegen</word>
+               </functor>
+               <argument>
+                  <word id="11">zoetstoffen</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="12">aan</word>
+               </functor>
+               <argument>
+                  <word id="10">er</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="13">toe</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">verwerkten</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Nederlandse</word>
+            </functor>
+            <argument>
+               <word id="1">brouwerijen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">dergelijk</word>
+         </functor>
+         <argument>
+            <word id="4">dunbier</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">tot</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="7">oud</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">zogenaamd</word>
+            </functor>
+            <argument>
+               <word id="8">bruin</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

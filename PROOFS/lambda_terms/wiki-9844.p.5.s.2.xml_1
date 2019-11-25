@@ -1,0 +1,52 @@
+<semantics id="wiki-9844.p.5.s.2.xml_1">
+<appl>
+<functor>
+   <word id="3">écht</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">Sidonia</word>
+         </functor>
+         <argument>
+            <word id="0">Tante</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="6">van</word>
+         </functor>
+         <argument>
+            <word id="7">Wiske</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">de</word>
+         </functor>
+         <argument>
+            <word id="5">tante</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

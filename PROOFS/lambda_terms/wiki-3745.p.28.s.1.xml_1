@@ -1,0 +1,129 @@
+<semantics id="wiki-3745.p.28.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">op</word>
+   </functor>
+   <argument>
+      <word id="3">jaarbasis</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">presenteert</word>
+      </functor>
+      <argument>
+         <word id="0">het</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="8">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="17">en</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="10">en</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="9">video-</word>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <word id="11">film</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="13">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="12">dans</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="14">theater</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <word id="15">concerten</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="16">exposities</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="18">performances</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">publieke</word>
+            </functor>
+            <argument>
+               <word id="7">voorstellingen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="4">een</word>
+         </functor>
+         <argument>
+            <word id="5">200-tal</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

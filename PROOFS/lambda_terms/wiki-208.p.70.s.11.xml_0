@@ -1,0 +1,164 @@
+<semantics id="wiki-208.p.70.s.11.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="17">en</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="12">voor</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="13">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="14">Kongostaat</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">een</word>
+                           </functor>
+                           <argument>
+                              <word id="11">kroondomein</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="15">een</word>
+                     </functor>
+                     <argument>
+                        <word id="16">vrijhandelszone</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="22">gesloten</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="19">voor</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="20">de</word>
+                           </functor>
+                           <argument>
+                              <word id="21">handel</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="18">een</word>
+                     </functor>
+                     <argument>
+                        <word id="23">gebied</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="7">een</word>
+            </functor>
+            <argument>
+               <word id="8">verdeling</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">als</word>
+      </functor>
+      <argument>
+         <word id="6">gevolg</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Hiertegen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">volgden</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">vele</word>
+         </functor>
+         <argument>
+            <word id="3">protesten</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,66 @@
+<semantics id="wiki-9720.p.22.s.1.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">aan</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">de</word>
+      </functor>
+      <argument>
+         <word id="9">Koninklijke Musea voor Schone Kunsten van België</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">van</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="5">en</word>
+               </functor>
+               <argument>
+                  <word id="4">Adam</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">Eva</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="2">de</word>
+            </functor>
+            <argument>
+               <word id="3">panelen</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="0">verkoop</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

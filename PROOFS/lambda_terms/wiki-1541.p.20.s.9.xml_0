@@ -1,0 +1,73 @@
+<semantics id="wiki-1541.p.20.s.9.xml_0">
+<appl>
+<functor>
+   <word id="3">altijd</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">roept</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Zijn</word>
+            </functor>
+            <argument>
+               <word id="1">kunst</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="4">meer</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">dan</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="9">kan</word>
+                     </functor>
+                     <argument>
+                        <word id="8">zij</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="10">beantwoorden</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="5">vragen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="6">op</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

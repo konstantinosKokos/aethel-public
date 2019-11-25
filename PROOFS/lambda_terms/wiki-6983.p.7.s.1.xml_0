@@ -1,0 +1,24 @@
+<semantics id="wiki-6983.p.7.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">economische</word>
+   </functor>
+   <argument>
+      <word id="3">opleiding</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">Secundair</word>
+   </functor>
+   <argument>
+      <word id="1">onderwijs</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

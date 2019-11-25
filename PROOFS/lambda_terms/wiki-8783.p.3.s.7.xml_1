@@ -1,0 +1,144 @@
+<semantics id="wiki-8783.p.3.s.7.xml_1">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">en</word>
+         </functor>
+         <argument>
+            <lambda varid="0">
+               <lambda varid="1">
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="7">6,2</word>
+                        </functor>
+                        <argument>
+                           <word id="8">seconden</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="5">58</word>
+                        </functor>
+                        <argument>
+                           <word id="6">minuten</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <var id="0" debruijn="2"></var>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="3">20</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="2">de</word>
+                              </functor>
+                              <argument>
+                                 <word id="4">kilometer</word>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <var id="1" debruijn="1"></var>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </lambda>
+            </lambda>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <lambda varid="2">
+            <lambda varid="3">
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="14">20.664</word>
+                  </functor>
+                  <argument>
+                     <word id="15">meter</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <var id="2" debruijn="2"></var>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="11">1</word>
+                           </functor>
+                           <argument>
+                              <word id="12">uur</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="10">de</word>
+                           </functor>
+                           <argument>
+                              <word id="13">race</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <var id="3" debruijn="1"></var>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </lambda>
+         </lambda>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">voor</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Wereldrecords</word>
+</argument>
+</appl>
+</semantics>

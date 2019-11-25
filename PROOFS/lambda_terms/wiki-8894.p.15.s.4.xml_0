@@ -1,0 +1,129 @@
+<semantics id="wiki-8894.p.15.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">kon</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="8">de</word>
+      </functor>
+      <argument>
+         <word id="9">regering</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="15">als</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">zonder</word>
+            </functor>
+            <argument>
+               <word id="18">groen</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="16">paars</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="13">verder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="10">zonder</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="11">veel</word>
+               </functor>
+               <argument>
+                  <word id="12">moeite</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="0">Na</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="3">van</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="5">door</word>
+                           </functor>
+                           <argument>
+                              <word id="6">Elio Di Rupo</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="4">informatiegespreken</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <word id="1">enkele</word>
+                     </functor>
+                     <argument>
+                        <word id="2">weken</word>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="14">regeren</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

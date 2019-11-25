@@ -1,0 +1,24 @@
+<semantics id="wiki-7064.p.40.s.2.xml_0">
+<appl>
+<functor>
+   <word id="3">CP</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="1">van</word>
+      </functor>
+      <argument>
+         <word id="2">politie</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="0">commissaris</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

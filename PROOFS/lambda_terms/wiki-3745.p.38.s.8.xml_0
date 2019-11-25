@@ -1,0 +1,80 @@
+<semantics id="wiki-3745.p.38.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Samen</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="2">de</word>
+         </functor>
+         <argument>
+            <word id="3">Ethias Arena</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="4">is</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="9">en</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">een</word>
+               </functor>
+               <argument>
+                  <word id="7">artiestendorp</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="10">een</word>
+            </functor>
+            <argument>
+               <word id="11">studio/fuifbunker</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="5">er</word>
+      </functor>
+      <argument>
+         <word id="8">gebouwd</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

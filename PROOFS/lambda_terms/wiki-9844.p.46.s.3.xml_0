@@ -1,0 +1,66 @@
+<semantics id="wiki-9844.p.46.s.3.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">ging</word>
+   </functor>
+   <argument>
+      <word id="0">Het</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="8">en</word>
+                     </functor>
+                     <argument>
+                        <word id="3">De minilotten van Kokonera</word>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <word id="4">De Gouden Locomotief</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="5">De Zingende Kaars</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="6">De Windbrekers</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="7">De Regenboogprinses</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="9">Het Laatste Dwaallicht</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

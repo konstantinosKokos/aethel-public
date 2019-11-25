@@ -1,0 +1,66 @@
+<semantics id="WR-P-E-J-0000000025.p.1.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">wordt</word>
+   </functor>
+   <argument>
+      <word id="3">ze</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="4">alvast</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="0">Volgend</word>
+         </functor>
+         <argument>
+            <word id="1">jaar</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">uitgebreid</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="6">met</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="8">voltijdse</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="7">een</word>
+                  </functor>
+                  <argument>
+                     <word id="9">secretaris</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

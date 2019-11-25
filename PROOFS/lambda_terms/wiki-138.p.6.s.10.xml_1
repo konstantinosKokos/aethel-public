@@ -1,0 +1,17 @@
+<semantics id="wiki-138.p.6.s.10.xml_1">
+<appl>
+<functor>
+   <word id="0">zie</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="1">externe</word>
+   </functor>
+   <argument>
+      <word id="2">links</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

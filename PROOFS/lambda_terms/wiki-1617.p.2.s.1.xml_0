@@ -1,0 +1,80 @@
+<semantics id="wiki-1617.p.2.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="0">Om</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="1">technische</word>
+      </functor>
+      <argument>
+         <word id="2">redenen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">begint</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="6">van</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="7">dit</word>
+               </functor>
+               <argument>
+                  <word id="8">artikel</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">de</word>
+            </functor>
+            <argument>
+               <word id="5">titel</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="9">met</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="10">een</word>
+         </functor>
+         <argument>
+            <word id="11">hoofdletter</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

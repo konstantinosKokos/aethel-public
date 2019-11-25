@@ -1,0 +1,24 @@
+<semantics id="wiki-384.p.2.s.1.xml_3">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="2">als</word>
+   </functor>
+   <argument>
+      <word id="3">D'66</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="0">vroeger</word>
+   </functor>
+   <argument>
+      <word id="1">afgekort</word>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

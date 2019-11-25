@@ -1,0 +1,101 @@
+<semantics id="wiki-4941.p.5.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">in</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">groots</word>
+         </functor>
+         <argument>
+            <word id="10">opgezette</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="8">een</word>
+         </functor>
+         <argument>
+            <word id="11">campagne</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="6">jaarlijks</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="4">op</word>
+         </functor>
+         <argument>
+            <word id="5">11 november</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Sinds</word>
+            </functor>
+            <argument>
+               <word id="1">1965</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="2">vraagt</word>
+                  </functor>
+                  <argument>
+                     <word id="3">11.11.11</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="12">aandacht</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="13">voor</word>
+               </functor>
+               <argument>
+                  <word id="14">wereldproblemen</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

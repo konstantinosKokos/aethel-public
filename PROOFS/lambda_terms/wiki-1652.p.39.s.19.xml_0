@@ -1,0 +1,31 @@
+<semantics id="wiki-1652.p.39.s.19.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="3">en</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">huidig</word>
+         </functor>
+         <argument>
+            <word id="2">burgemeester</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="4">ex-senator</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Freddy Willockx</word>
+</argument>
+</appl>
+</semantics>

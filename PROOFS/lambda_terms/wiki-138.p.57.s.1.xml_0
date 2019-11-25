@@ -1,0 +1,150 @@
+<semantics id="wiki-138.p.57.s.1.xml_0">
+<appl>
+<functor>
+   <word id="3">ook</word>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <word id="2">er</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="0">Verder</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">is</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="7">met</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="16">met</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <appl>
+                                 <functor>
+                                    <word id="19">van</word>
+                                 </functor>
+                                 <argument>
+                                    <appl>
+                                    <functor>
+                                       <word id="20">de</word>
+                                    </functor>
+                                    <argument>
+                                       <word id="21">treinen</word>
+                                    </argument>
+                                    </appl>
+                                 </argument>
+                                 </appl>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="17">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="18">noord-zuidverbinding</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <word id="15">parallel</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="14">Noordstation</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="13">De Brouckère</word>
+                           </functor>
+                           <argument>
+                              <appl>
+                              <functor>
+                                 <word id="12">Zuidstation</word>
+                              </functor>
+                              <argument>
+                                 <appl>
+                                 <functor>
+                                    <word id="10">de</word>
+                                 </functor>
+                                 <argument>
+                                    <word id="11">noord-zuidverbinding</word>
+                                 </argument>
+                                 </appl>
+                              </argument>
+                              </appl>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="8">als</word>
+                  </functor>
+                  <argument>
+                     <word id="9">zwaartepunt</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="5">uitgebreid</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="4">een</word>
+                  </functor>
+                  <argument>
+                     <word id="6">tramnetwerk</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

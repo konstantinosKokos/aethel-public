@@ -1,0 +1,150 @@
+<semantics id="wiki-384.p.6.s.4.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="20">ten gunste van</word>
+   </functor>
+   <argument>
+      <word id="21">Jan Terlouw</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="14">vanwege</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="17">in</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">de</word>
+               </functor>
+               <argument>
+                  <word id="19">fractie</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">onvoldoende</word>
+            </functor>
+            <argument>
+               <word id="16">steun</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="12">als</word>
+         </functor>
+         <argument>
+            <word id="13">fractievoorzitter</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="0">Na</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="3">van</word>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="6">waaraan</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="8">deelnam</word>
+                           </functor>
+                           <argument>
+                              <word id="7">D66</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="4">het</word>
+                        </functor>
+                        <argument>
+                           <word id="5">kabinet</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="1">de</word>
+                  </functor>
+                  <argument>
+                     <word id="2">formatie</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="9">trad</word>
+               </functor>
+               <argument>
+                  <word id="10">Van Mierlo</word>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <word id="11">af</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

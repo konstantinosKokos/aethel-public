@@ -1,0 +1,24 @@
+<semantics id="wiki-1823.p.45.s.8.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="1">van</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <word id="2">Vlaamse</word>
+      </functor>
+      <argument>
+         <word id="3">ondernemingen</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Lijst</word>
+</argument>
+</appl>
+</semantics>

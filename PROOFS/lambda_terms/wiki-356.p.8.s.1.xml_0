@@ -1,0 +1,129 @@
+<semantics id="wiki-356.p.8.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="9">en</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">later</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="0">Een</word>
+            </functor>
+            <argument>
+               <word id="1">jaar</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <word id="3">krijgt</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="5">François Monsieur</word>
+                  </functor>
+                  <argument>
+                     <word id="4">commissaris</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="6">het</word>
+               </functor>
+               <argument>
+                  <word id="7">dossier</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="8">in handen</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="16">voor</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="17">een</word>
+         </functor>
+         <argument>
+            <word id="18">gesprek</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="10">na</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="11">enig</word>
+            </functor>
+            <argument>
+               <word id="12">puzzelwerk</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <appl>
+            <functor>
+               <word id="13">vraagt</word>
+            </functor>
+            <argument>
+               <word id="14">hij</word>
+            </argument>
+            </appl>
+         </functor>
+         <argument>
+            <word id="15">Agnes Pandy</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

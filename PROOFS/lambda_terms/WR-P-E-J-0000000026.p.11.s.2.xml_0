@@ -1,0 +1,157 @@
+<semantics id="WR-P-E-J-0000000026.p.11.s.2.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="3">heeft</word>
+   </functor>
+   <argument>
+      <word id="4">het</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">In</word>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="1">het</word>
+         </functor>
+         <argument>
+            <word id="2">verleden</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="9">gezet</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="22">enzovoort</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <appl>
+                           <functor>
+                              <word id="13">van</word>
+                           </functor>
+                           <argument>
+                              <word id="14">affiches</word>
+                           </argument>
+                           </appl>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <appl>
+                              <functor>
+                                 <word id="11">en</word>
+                              </functor>
+                              <argument>
+                                 <word id="10">aanmaken</word>
+                              </argument>
+                              </appl>
+                           </functor>
+                           <argument>
+                              <word id="12">verspreiden</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="17">over</word>
+                        </functor>
+                        <argument>
+                           <appl>
+                           <functor>
+                              <word id="18">ontoelaatbaar</word>
+                           </functor>
+                           <argument>
+                              <word id="19">gedrag</word>
+                           </argument>
+                           </appl>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="15">een</word>
+                        </functor>
+                        <argument>
+                           <word id="16">infosessie</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <word id="20">genderneutrale</word>
+                  </functor>
+                  <argument>
+                     <word id="21">functiebeschrijvingen</word>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <appl>
+                  <functor>
+                     <word id="5">al</word>
+                  </functor>
+                  <argument>
+                     <word id="6">verschillende</word>
+                  </argument>
+                  </appl>
+               </functor>
+               <argument>
+                  <word id="7">acties</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <word id="8">op touw</word>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

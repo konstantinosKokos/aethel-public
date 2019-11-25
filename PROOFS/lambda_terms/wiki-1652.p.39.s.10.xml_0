@@ -1,0 +1,24 @@
+<semantics id="wiki-1652.p.39.s.10.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="2">in</word>
+      </functor>
+      <argument>
+         <word id="3">Sint-Niklaas</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="1">geboren</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="0">Gustaaf Kardinaal Joos</word>
+</argument>
+</appl>
+</semantics>

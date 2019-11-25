@@ -1,0 +1,150 @@
+<semantics id="wiki-384.p.15.s.1.xml_0">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <word id="7">door</word>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="17">en</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="15">te</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="16">steunen</word>
+               </functor>
+               <argument>
+                  <appl>
+                  <functor>
+                     <appl>
+                     <functor>
+                        <word id="12">tegen</word>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="14">Verdonk</word>
+                        </functor>
+                        <argument>
+                           <word id="13">Minister</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </functor>
+                  <argument>
+                     <appl>
+                     <functor>
+                        <appl>
+                        <functor>
+                           <word id="10">van</word>
+                        </functor>
+                        <argument>
+                           <word id="11">afkeuring</word>
+                        </argument>
+                        </appl>
+                     </functor>
+                     <argument>
+                        <appl>
+                        <functor>
+                           <word id="8">een</word>
+                        </functor>
+                        <argument>
+                           <word id="9">motie</word>
+                        </argument>
+                        </appl>
+                     </argument>
+                     </appl>
+                  </argument>
+                  </appl>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="20">te</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="21">eisen</word>
+            </functor>
+            <argument>
+               <appl>
+               <functor>
+                  <word id="18">haar</word>
+               </functor>
+               <argument>
+                  <word id="19">vertrek</word>
+               </argument>
+               </appl>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <word id="0">Op</word>
+      </functor>
+      <argument>
+         <word id="1">29 juni 2006</word>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="2">veroorzaakt</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="3">de</word>
+            </functor>
+            <argument>
+               <word id="4">partij</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="5">een</word>
+         </functor>
+         <argument>
+            <word id="6">kabinetscrisis</word>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </argument>
+   </appl>
+</argument>
+</appl>
+</semantics>

@@ -1,0 +1,45 @@
+<semantics id="wiki-356.p.33.s.1.xml_2">
+<appl>
+<functor>
+   <appl>
+   <functor>
+      <appl>
+      <functor>
+         <appl>
+         <functor>
+            <word id="1">legt</word>
+         </functor>
+         <argument>
+            <word id="0">zij</word>
+         </argument>
+         </appl>
+      </functor>
+      <argument>
+         <appl>
+         <functor>
+            <word id="3">bij</word>
+         </functor>
+         <argument>
+            <appl>
+            <functor>
+               <word id="4">het</word>
+            </functor>
+            <argument>
+               <word id="5">vonnis</word>
+            </argument>
+            </appl>
+         </argument>
+         </appl>
+      </argument>
+      </appl>
+   </functor>
+   <argument>
+      <word id="2">zich</word>
+   </argument>
+   </appl>
+</functor>
+<argument>
+   <word id="6">neer</word>
+</argument>
+</appl>
+</semantics>
