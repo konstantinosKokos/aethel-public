@@ -4,7 +4,7 @@ The files in this folder provide various views of the lexicon and relevant utili
 
 ---  
 
-## WORD_LEXICON.lex
+## word_lexicon.lex
 WORD_LEXICON.lex contains a mapping from word and part-of-speech tag pairs into sequences of pairs of types and their 
 corresponding counts.
 The keys (words and pos tags) are arranged in alphanumeric order, whereas their values (types and counts) are arranged 
@@ -38,7 +38,7 @@ The grammar of the file is:
  corresponding word and pos tag.
  
  
-## TYPE_LEXICON.lex
+## type_lexicon.lex
  TYPE_LEXICON.lex contains a mapping from types to sequences of pairs of words and their corresponding counts. 
  The keys are (types) are arranged by their cumulative occurrence counts (descending), and the values (word and count 
  pairs) are arranged by counts (descending).
@@ -69,7 +69,7 @@ The grammar of the file is:
  corresponding type.
     
  
-## WORD_MAP.map
+## word_map.map
  WORD_MAP.map contains a mapping from tuples of words, part-of-speech tags and lemmata to pairs of types and 
  their respective occurrence counts. 
  Unlike the *.lex files, this mapping is non-unique (i.e. there are multiple assignments to each tuple of the domain).
@@ -94,7 +94,7 @@ The grammar of the file is:
  and `COUNT` the occurrence count of that type.
  
  
-## TYPE_FREQUENCIES.freq
+## type_frequencies.freq
  TYPE_FREQUENCIES.freq contains a mapping from types to integers, counting the sum of occurrences of each unique type 
  within the corpus.
  
@@ -111,7 +111,7 @@ The grammar of the file is:
   and `COUNT` the integer representing its cumulative occurrence count.
   
   
-## POS_FREQUENCIES.freq
+## pos_frequencies.freq
  Ditto, for the part of speech tags present in the corpus.
  
  
