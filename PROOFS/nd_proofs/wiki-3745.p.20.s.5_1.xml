@@ -1,7 +1,7 @@
-<proof id="wiki-3745.p.20.s.5.xml_1" date="19112019">
+<proof id="wiki-3745.p.20.s.5_1.xml" date="27052020">
  <string>vroeger</string>
  <lexicon>
-  <lexicon_item id="1"><word>vroeger</word><pos1>adj</pos1><pos2>ADJ(vrij,comp,zonder)</pos2><lemma>vroeg</lemma><formula><atom id = "0">adj</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>vroeger</word><pos1>adj</pos1><pos2>ADJ(vrij,comp,zonder)</pos2><lemma>vroeg</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">adj</atom></formula></antecedent><formula><atom id = "0">adj</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
 </proof>

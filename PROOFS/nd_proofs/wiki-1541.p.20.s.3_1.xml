@@ -1,7 +1,7 @@
-<proof id="wiki-1541.p.20.s.3.xml_1" date="19112019">
+<proof id="wiki-1541.p.20.s.3_1.xml" date="27052020">
  <string>neen</string>
  <lexicon>
-  <lexicon_item id="1"><word>neen</word><pos1>tag</pos1><pos2>TSW()</pos2><lemma>neen</lemma><formula><atom id = "0">tsw</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>neen</word><pos1>tag</pos1><pos2>TSW()</pos2><lemma>neen</lemma><formula><atom id="0">tsw</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">tsw</atom></formula></antecedent><formula><atom id = "0">tsw</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">tsw</atom></formula></antecedent><formula><atom id="0">tsw</atom></formula><premisses></premisses></rule>
 </proof>

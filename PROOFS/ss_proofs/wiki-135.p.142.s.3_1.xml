@@ -1,7 +1,7 @@
-<proof id="wiki-135.p.142.s.3.xml_1" date="31102019">
+<proof id="wiki-135.p.142.s.3_1.xml" date="27052020">
  <string>historical demographical data</string>
  <lexicon>
-  <lexicon_item id="1"><word>historical demographical data</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>historical demographical data</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>historical demographical data</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
 </proof>

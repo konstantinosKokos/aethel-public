@@ -1,7 +1,7 @@
-<proof id="wiki-6983.p.13.s.5.xml_0" date="31102019">
+<proof id="wiki-6983.p.13.s.5_0.xml" date="27052020">
  <string>Immigratie : De tijdbom tikt</string>
  <lexicon>
-  <lexicon_item id="1"><word>Immigratie : De tijdbom tikt</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Immigratie : De tijdbom tikt</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Immigratie : De tijdbom tikt</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
 </proof>

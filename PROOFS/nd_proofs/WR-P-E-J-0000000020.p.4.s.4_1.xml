@@ -1,11 +1,11 @@
-<proof id="WR-P-E-J-0000000020.p.4.s.4.xml_1" date="19112019">
+<proof id="WR-P-E-J-0000000020.p.4.s.4_1.xml" date="27052020">
  <string>verduidelijkt Bourgeois</string>
  <lexicon>
-  <lexicon_item id="1"><word>verduidelijkt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>verduidelijken</lemma><formula><impl dep="su"><atom id = "2">n</atom><atom id = "1">sv1</atom></impl></formula></lexicon_item>
-  <lexicon_item id="2"><word>Bourgeois</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Bourgeois</lemma><formula><atom id = "2">n</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>verduidelijkt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>verduidelijken</lemma><formula><impl><dia dep="su"><atom id="2">n</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Bourgeois</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Bourgeois</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ie"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">sv1</atom></impl></formula></antecedent><formula><atom id = "1">sv1</atom></formula><premisses>
-   <rule name="ax"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
-   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "2">n</atom><atom id = "1">sv1</atom></impl></formula></antecedent><formula><impl><atom id = "2">n</atom><atom id = "1">sv1</atom></impl></formula><premisses></premisses></rule>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula><premisses></premisses></rule>
    </premisses></rule>
 </proof>

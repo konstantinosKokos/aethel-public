@@ -1,7 +1,7 @@
-<proof id="wiki-1181.p.26.s.1.xml_1" date="31102019">
+<proof id="wiki-1181.p.26.s.1_1.xml" date="27052020">
  <string>Gerda Van Langendonck</string>
  <lexicon>
-  <lexicon_item id="1"><word>Gerda Van Langendonck</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Gerda Van Langendonck</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Gerda Van Langendonck</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
 </proof>

@@ -1,7 +1,0 @@
-<proof id="wiki-5318.p.24.s.3_4.xml_1" date="31102019">
- <string>Grouchy</string>
- <lexicon>
-  <lexicon_item id="1"><word>Grouchy</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Grouchy</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
-</proof>

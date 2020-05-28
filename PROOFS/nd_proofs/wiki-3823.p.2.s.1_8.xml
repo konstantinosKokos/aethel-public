@@ -1,7 +1,7 @@
-<proof id="wiki-3823.p.2.s.1.xml_8" date="19112019">
+<proof id="wiki-3823.p.2.s.1_8.xml" date="27052020">
  <string>Léck</string>
  <lexicon>
-  <lexicon_item id="1"><word>Léck</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Léck</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Léck</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Léck</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
 </proof>

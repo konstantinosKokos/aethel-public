@@ -1,7 +1,7 @@
-<proof id="wiki-832.p.47.s.1.xml_20" date="31102019">
+<proof id="wiki-832.p.47.s.1_20.xml" date="27052020">
  <string>Zelfportret met schelpen en maskers</string>
  <lexicon>
-  <lexicon_item id="1"><word>Zelfportret met schelpen en maskers</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Zelfportret met schelpen en maskers</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Zelfportret met schelpen en maskers</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
 </proof>

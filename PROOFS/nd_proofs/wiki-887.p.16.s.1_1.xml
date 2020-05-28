@@ -1,7 +1,7 @@
-<proof id="wiki-887.p.16.s.1.xml_1" date="19112019">
+<proof id="wiki-887.p.16.s.1_1.xml" date="27052020">
  <string>finaliste</string>
  <lexicon>
-  <lexicon_item id="1"><word>finaliste</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>finaliste</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>finaliste</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>finaliste</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
 </proof>

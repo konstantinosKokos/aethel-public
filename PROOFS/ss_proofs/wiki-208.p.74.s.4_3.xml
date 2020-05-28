@@ -1,7 +1,7 @@
-<proof id="wiki-208.p.74.s.4.xml_3" date="31102019">
+<proof id="wiki-208.p.74.s.4_3.xml" date="27052020">
  <string>KPB</string>
  <lexicon>
-  <lexicon_item id="1"><word>KPB</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>KPB</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>KPB</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>KPB</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
 </proof>

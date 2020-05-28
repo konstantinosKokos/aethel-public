@@ -1,7 +1,7 @@
-<proof id="wiki-1541.p.30.s.21.xml_1" date="31102019">
+<proof id="wiki-1541.p.30.s.21_1.xml" date="27052020">
  <string>The Means of Existence</string>
  <lexicon>
-  <lexicon_item id="1"><word>The Means of Existence</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>The Means of Existence</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>The Means of Existence</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
 </proof>

@@ -1,7 +1,7 @@
-<proof id="wiki-3828.p.20.s.11.xml_1" date="31102019">
+<proof id="wiki-3828.p.20.s.11_1.xml" date="27052020">
  <string>he</string>
  <lexicon>
-  <lexicon_item id="1"><word>he</word><pos1>tag</pos1><pos2>TSW()</pos2><lemma>he</lemma><formula><atom id = "0">tsw</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>he</word><pos1>tag</pos1><pos2>TSW()</pos2><lemma>he</lemma><formula><atom id="0">tsw</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">tsw</atom></formula></antecedent><formula><atom id = "0">tsw</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">tsw</atom></formula></antecedent><formula><atom id="0">tsw</atom></formula><premisses></premisses></rule>
 </proof>

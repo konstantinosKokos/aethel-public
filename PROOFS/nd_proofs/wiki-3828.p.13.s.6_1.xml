@@ -1,7 +1,7 @@
-<proof id="wiki-3828.p.13.s.6.xml_1" date="19112019">
+<proof id="wiki-3828.p.13.s.6_1.xml" date="27052020">
  <string>Danni Heylen</string>
  <lexicon>
-  <lexicon_item id="1"><word>Danni Heylen</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Danni Heylen</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Danni Heylen</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
 </proof>

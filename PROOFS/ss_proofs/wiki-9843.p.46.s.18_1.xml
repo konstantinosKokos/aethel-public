@@ -1,7 +1,7 @@
-<proof id="wiki-9843.p.46.s.18.xml_1" date="31102019">
+<proof id="wiki-9843.p.46.s.18_1.xml" date="27052020">
  <string>1986-2001</string>
  <lexicon>
-  <lexicon_item id="1"><word>1986-2001</word><pos1>num</pos1><pos2>SPEC(symb)</pos2><lemma>1986-2001</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>1986-2001</word><pos1>num</pos1><pos2>SPEC(symb)</pos2><lemma>1986-2001</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
 </proof>

@@ -1,7 +1,7 @@
-<proof id="wiki-1941.p.41.s.4.xml_1" date="31102019">
+<proof id="wiki-1941.p.41.s.4_1.xml" date="27052020">
  <string>Lijmen</string>
  <lexicon>
-  <lexicon_item id="1"><word>Lijmen</word><pos1>name</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>lijmen</lemma><formula><atom id = "0">ww</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Lijmen</word><pos1>name</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>lijmen</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">ww</atom></formula></antecedent><formula><atom id = "0">ww</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>
 </proof>

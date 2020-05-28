@@ -1,23 +1,23 @@
-<proof id="wiki-1617.p.28.s.1.xml_0" date="31102019">
+<proof id="wiki-1617.p.28.s.1_0.xml" date="27052020">
  <string>Bart Staes ex-Europarlementariër voor Spirit</string>
  <lexicon>
-  <lexicon_item id="1"><word>Bart Staes</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Bart Staes</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
-  <lexicon_item id="2"><word>ex-Europarlementariër</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>ex-europarlementariër</lemma><formula><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl></formula></lexicon_item>
-  <lexicon_item id="3"><word>voor</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>voor</lemma><formula><impl><atom id = "8">n</atom><impl><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl><impl><atom id = "0">np</atom><atom id = "7">np</atom></impl></impl></impl></formula></lexicon_item>
-  <lexicon_item id="4"><word>Spirit</word><pos1>name</pos1><pos2>N(eigen,ev,basis,genus,stan)</pos2><lemma>Spirit</lemma><formula><atom id = "8">n</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Bart Staes</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>ex-Europarlementariër</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>ex-europarlementariër</lemma><formula><box dep="mod"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>voor</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>voor</lemma><formula><impl><dia dep="obj1"><atom id="8">n</atom></dia><box dep="mod"><impl><box dep="mod"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></box><box dep="mod"><impl><atom id="0">np</atom><atom id="7">np</atom></impl></box></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>Spirit</word><pos1>name</pos1><pos2>N(eigen,ev,basis,genus,stan)</pos2><lemma>Spirit</lemma><formula><atom id="8">n</atom></formula></lexicon_item>
  </lexicon>
-<rule name="il"><antecedent><formula id="1"><atom id = "8">n</atom></formula><formula id="2"><impl><atom id = "8">n</atom><impl><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl><impl><atom id = "0">np</atom><atom id = "7">np</atom></impl></impl></impl></formula><formula id="3"><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl></formula><formula id="4"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
-   <rule name="ax"><antecedent><formula id="1"><atom id = "8">n</atom></formula></antecedent><formula><atom id = "8">n</atom></formula><premisses></premisses></rule>,
-   <rule name="il"><antecedent><formula id="1"><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl></formula><formula id="2"><impl><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl><impl><atom id = "0">np</atom><atom id = "7">np</atom></impl></impl></formula><formula id="3"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
-      <rule name="ir"><antecedent><formula id="1"><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl></formula><premisses>
-         <rule name="il"><antecedent><formula id="1"><atom id = "4">np</atom></formula><formula id="2"><impl><atom id = "4">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
-            <rule name="ax"><antecedent><formula id="1"><atom id = "4">np</atom></formula></antecedent><formula><atom id = "4">np</atom></formula><premisses></premisses></rule>,
-            <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>
+<rule name="il"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><impl><impl><atom id="4">np</atom><atom id="2">np</atom></impl><impl><atom id="0">np</atom><atom id="7">np</atom></impl></impl></impl></formula><formula id="3"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></formula><formula id="4"><atom id="0">np</atom></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="8">n</atom></formula></antecedent><formula><atom id="8">n</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></formula><formula id="2"><impl><impl><atom id="4">np</atom><atom id="2">np</atom></impl><impl><atom id="0">np</atom><atom id="7">np</atom></impl></impl></formula><formula id="3"><atom id="0">np</atom></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+      <rule name="ir"><antecedent><formula id="1"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><impl><atom id="4">np</atom><atom id="2">np</atom></impl></formula><premisses>
+         <rule name="il"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="4">np</atom></formula></antecedent><formula><atom id="4">np</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>
             </premisses></rule>
          </premisses></rule>,
-      <rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "7">np</atom></impl></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
-         <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
-         <rule name="ax"><antecedent><formula id="1"><atom id = "7">np</atom></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses></premisses></rule>
+      <rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="7">np</atom></impl></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="7">np</atom></formula></antecedent><formula><atom id="7">np</atom></formula><premisses></premisses></rule>
          </premisses></rule>
       </premisses></rule>
    </premisses></rule>

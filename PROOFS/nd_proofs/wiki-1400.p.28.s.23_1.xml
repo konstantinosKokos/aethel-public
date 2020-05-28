@@ -1,15 +1,15 @@
-<proof id="wiki-1400.p.28.s.23.xml_1" date="19112019">
+<proof id="wiki-1400.p.28.s.23_1.xml" date="27052020">
  <string>Serse Coppi en André Mahe</string>
  <lexicon>
-  <lexicon_item id="1"><word>Serse Coppi</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Serse Coppi</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
-  <lexicon_item id="2"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl dep="cnj"><atom id = "0">spec</atom><impl dep="cnj"><atom id = "4">spec</atom><atom id = "3">spec</atom></impl></impl></formula></lexicon_item>
-  <lexicon_item id="3"><word>André Mahe</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>André Mahe</lemma><formula><atom id = "4">spec</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Serse Coppi</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><dia dep="cnj"><atom id="0">spec</atom></dia><impl><dia dep="cnj"><atom id="4">spec</atom></dia><atom id="3">spec</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>André Mahe</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="4">spec</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ie"><antecedent><formula id="1"><atom id = "4">spec</atom></formula><formula id="2"><atom id = "0">spec</atom></formula><formula id="3"><impl><atom id = "0">spec</atom><impl><atom id = "4">spec</atom><atom id = "3">spec</atom></impl></impl></formula></antecedent><formula><atom id = "3">spec</atom></formula><premisses>
-   <rule name="ax"><antecedent><formula id="1"><atom id = "4">spec</atom></formula></antecedent><formula><atom id = "4">spec</atom></formula><premisses></premisses></rule>,
-   <rule name="ie"><antecedent><formula id="1"><atom id = "0">spec</atom></formula><formula id="2"><impl><atom id = "0">spec</atom><impl><atom id = "4">spec</atom><atom id = "3">spec</atom></impl></impl></formula></antecedent><formula><impl><atom id = "4">spec</atom><atom id = "3">spec</atom></impl></formula><premisses>
-      <rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>,
-      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "0">spec</atom><impl><atom id = "4">spec</atom><atom id = "3">spec</atom></impl></impl></formula></antecedent><formula><impl><atom id = "0">spec</atom><impl><atom id = "4">spec</atom><atom id = "3">spec</atom></impl></impl></formula><premisses></premisses></rule>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">spec</atom></formula><formula id="2"><atom id="0">spec</atom></formula><formula id="3"><impl><atom id="0">spec</atom><impl><atom id="4">spec</atom><atom id="3">spec</atom></impl></impl></formula></antecedent><formula><atom id="3">spec</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">spec</atom></formula></antecedent><formula><atom id="4">spec</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="0">spec</atom></formula><formula id="2"><impl><atom id="0">spec</atom><impl><atom id="4">spec</atom><atom id="3">spec</atom></impl></impl></formula></antecedent><formula><impl><atom id="4">spec</atom><atom id="3">spec</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="0">spec</atom><impl><atom id="4">spec</atom><atom id="3">spec</atom></impl></impl></formula></antecedent><formula><impl><atom id="0">spec</atom><impl><atom id="4">spec</atom><atom id="3">spec</atom></impl></impl></formula><premisses></premisses></rule>
       </premisses></rule>
    </premisses></rule>
 </proof>

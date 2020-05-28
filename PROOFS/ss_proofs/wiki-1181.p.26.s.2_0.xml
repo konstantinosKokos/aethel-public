@@ -1,7 +1,7 @@
-<proof id="wiki-1181.p.26.s.2.xml_0" date="31102019">
+<proof id="wiki-1181.p.26.s.2_0.xml" date="27052020">
  <string>West-Vlaanderen</string>
  <lexicon>
-  <lexicon_item id="1"><word>West-Vlaanderen</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>West-Vlaanderen</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>West-Vlaanderen</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>West-Vlaanderen</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
 </proof>

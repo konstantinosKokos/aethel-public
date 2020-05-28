@@ -1,7 +1,7 @@
-<proof id="wiki-1941.p.2.s.1.xml_3" date="19112019">
+<proof id="wiki-1941.p.2.s.1_3.xml" date="27052020">
  <string>ald</string>
  <lexicon>
-  <lexicon_item id="1"><word>ald</word><pos1>adv</pos1><pos2>SPEC(afk)</pos2><lemma>ald</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>ald</word><pos1>adv</pos1><pos2>SPEC(afk)</pos2><lemma>ald</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
 </proof>

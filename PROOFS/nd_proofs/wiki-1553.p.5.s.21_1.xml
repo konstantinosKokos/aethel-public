@@ -1,7 +1,7 @@
-<proof id="wiki-1553.p.5.s.21.xml_1" date="19112019">
+<proof id="wiki-1553.p.5.s.21_1.xml" date="27052020">
  <string>Roger Swerts</string>
  <lexicon>
-  <lexicon_item id="1"><word>Roger Swerts</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Roger Swerts</lemma><formula><atom id = "0">spec</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Roger Swerts</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">spec</atom></formula></antecedent><formula><atom id = "0">spec</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
 </proof>

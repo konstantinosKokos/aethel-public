@@ -1,7 +1,7 @@
-<proof id="wiki-3745.p.55.s.4.xml_1" date="19112019">
+<proof id="wiki-3745.p.55.s.4_1.xml" date="27052020">
  <string>Gaz de France Stars Hasselt</string>
  <lexicon>
-  <lexicon_item id="1"><word>Gaz de France Stars Hasselt</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Gaz de France Stars Hasselt</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Gaz de France Stars Hasselt</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
 </proof>

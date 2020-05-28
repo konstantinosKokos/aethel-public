@@ -1,7 +1,7 @@
-<proof id="wiki-1941.p.2.s.1.xml_4" date="19112019">
+<proof id="wiki-1941.p.2.s.1_4.xml" date="27052020">
  <string>31 mei 1960</string>
  <lexicon>
-  <lexicon_item id="1"><word>31 mei 1960</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>31 mei 1960</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>31 mei 1960</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
 </proof>

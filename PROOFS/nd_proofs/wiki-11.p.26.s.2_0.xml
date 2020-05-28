@@ -1,23 +1,23 @@
-<proof id="wiki-11.p.26.s.2.xml_0" date="19112019">
+<proof id="wiki-11.p.26.s.2_0.xml" date="27052020">
  <string>Chassidische joden vormen het merendeel</string>
  <lexicon>
-  <lexicon_item id="1"><word>Chassidische</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>chassidisch</lemma><formula><impl dep="mod"><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
-  <lexicon_item id="2"><word>joden</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>jood</lemma><formula><atom id = "2">np</atom></formula></lexicon_item>
-  <lexicon_item id="3"><word>vormen</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>vormen</lemma><formula><impl dep="su"><atom id = "1">np</atom><impl dep="obj1"><atom id = "7">np</atom><atom id = "5">smain</atom></impl></impl></formula></lexicon_item>
-  <lexicon_item id="4"><word>het</word><pos1>det</pos1><pos2>LID(bep,stan,evon)</pos2><lemma>het</lemma><formula><impl dep="invdet"><atom id = "8">n</atom><atom id = "7">np</atom></impl></formula></lexicon_item>
-  <lexicon_item id="5"><word>merendeel</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>merendeel</lemma><formula><atom id = "8">n</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Chassidische</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>chassidisch</lemma><formula><box dep="mod"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>joden</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>jood</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>vormen</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>vormen</lemma><formula><impl><dia dep="obj1"><atom id="7">np</atom></dia><impl><dia dep="su"><atom id="1">np</atom></dia><atom id="5">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>het</word><pos1>det</pos1><pos2>LID(bep,stan,evon)</pos2><lemma>het</lemma><formula><box dep="det"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="5"><word>merendeel</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>merendeel</lemma><formula><atom id="8">n</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ie"><antecedent><formula id="1"><atom id = "8">n</atom></formula><formula id="2"><impl><atom id = "8">n</atom><atom id = "7">np</atom></impl></formula><formula id="3"><atom id = "2">np</atom></formula><formula id="4"><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula><formula id="5"><impl><atom id = "1">np</atom><impl><atom id = "7">np</atom><atom id = "5">smain</atom></impl></impl></formula></antecedent><formula><atom id = "5">smain</atom></formula><premisses>
-   <rule name="ie"><antecedent><formula id="1"><atom id = "8">n</atom></formula><formula id="2"><impl><atom id = "8">n</atom><atom id = "7">np</atom></impl></formula></antecedent><formula><atom id = "7">np</atom></formula><premisses>
-      <rule name="ax"><antecedent><formula id="1"><atom id = "8">n</atom></formula></antecedent><formula><atom id = "8">n</atom></formula><premisses></premisses></rule>,
-      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "8">n</atom><atom id = "7">np</atom></impl></formula></antecedent><formula><impl><atom id = "8">n</atom><atom id = "7">np</atom></impl></formula><premisses></premisses></rule>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><formula id="3"><atom id="8">n</atom></formula><formula id="4"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula><formula id="5"><impl><atom id="7">np</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula></antecedent><formula><atom id="5">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><premisses></premisses></rule>
       </premisses></rule>,
-   <rule name="ie"><antecedent><formula id="1"><atom id = "2">np</atom></formula><formula id="2"><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><impl><atom id = "7">np</atom><atom id = "5">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "7">np</atom><atom id = "5">smain</atom></impl></formula><premisses>
-      <rule name="ie"><antecedent><formula id="1"><atom id = "2">np</atom></formula><formula id="2"><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
-         <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>,
-         <rule name="ax"><antecedent><formula id="1"><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><impl><atom id = "2">np</atom><atom id = "1">np</atom></impl></formula><premisses></premisses></rule>
+   <rule name="ie"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula><formula id="3"><impl><atom id="7">np</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="8">n</atom></formula></antecedent><formula><atom id="8">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula></antecedent><formula><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula><premisses></premisses></rule>
          </premisses></rule>,
-      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "1">np</atom><impl><atom id = "7">np</atom><atom id = "5">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "1">np</atom><impl><atom id = "7">np</atom><atom id = "5">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="7">np</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="7">np</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula><premisses></premisses></rule>
       </premisses></rule>
    </premisses></rule>
 </proof>

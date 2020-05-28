@@ -1,7 +1,7 @@
-<proof id="wiki-5090.p.4.s.4.xml_0" date="19112019">
+<proof id="wiki-5090.p.4.s.4_0.xml" date="27052020">
  <string>1992</string>
  <lexicon>
-  <lexicon_item id="1"><word>1992</word><pos1>noun</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1992</lemma><formula><atom id = "0">tw</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>1992</word><pos1>noun</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1992</lemma><formula><atom id="0">tw</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">tw</atom></formula></antecedent><formula><atom id = "0">tw</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">tw</atom></formula></antecedent><formula><atom id="0">tw</atom></formula><premisses></premisses></rule>
 </proof>

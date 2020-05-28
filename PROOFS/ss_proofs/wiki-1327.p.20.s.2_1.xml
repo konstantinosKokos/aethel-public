@@ -1,7 +1,7 @@
-<proof id="wiki-1327.p.20.s.2.xml_1" date="31102019">
+<proof id="wiki-1327.p.20.s.2_1.xml" date="27052020">
  <string>20</string>
  <lexicon>
-  <lexicon_item id="1"><word>20</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>20</lemma><formula><atom id = "0">tw</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>20</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>20</lemma><formula><atom id="0">tw</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">tw</atom></formula></antecedent><formula><atom id = "0">tw</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">tw</atom></formula></antecedent><formula><atom id="0">tw</atom></formula><premisses></premisses></rule>
 </proof>

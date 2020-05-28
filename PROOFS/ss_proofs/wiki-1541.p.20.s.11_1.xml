@@ -1,15 +1,15 @@
-<proof id="wiki-1541.p.20.s.11.xml_1" date="31102019">
+<proof id="wiki-1541.p.20.s.11_1.xml" date="27052020">
  <string>schilderij l'Exception 1963</string>
  <lexicon>
-  <lexicon_item id="1"><word>schilderij</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>schilderij</lemma><formula><atom id = "0">np</atom></formula></lexicon_item>
-  <lexicon_item id="2"><word>l'Exception</word><pos1>name</pos1><pos2>SPEC(vreemd)</pos2><lemma>l'Exception</lemma><formula><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></lexicon_item>
-  <lexicon_item id="3"><word>1963</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1963</lemma><formula><impl><atom id = "2">np</atom><atom id = "4">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="1"><word>schilderij</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>schilderij</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>l'Exception</word><pos1>name</pos1><pos2>SPEC(vreemd)</pos2><lemma>l'Exception</lemma><formula><box dep="app"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>1963</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1963</lemma><formula><box dep="app"><impl><atom id="2">np</atom><atom id="4">np</atom></impl></box></formula></lexicon_item>
  </lexicon>
-<rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula><formula id="3"><impl><atom id = "2">np</atom><atom id = "4">np</atom></impl></formula></antecedent><formula><atom id = "4">np</atom></formula><premisses>
-   <rule name="il"><antecedent><formula id="1"><atom id = "0">np</atom></formula><formula id="2"><impl><atom id = "0">np</atom><atom id = "2">np</atom></impl></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses>
-      <rule name="ax"><antecedent><formula id="1"><atom id = "0">np</atom></formula></antecedent><formula><atom id = "0">np</atom></formula><premisses></premisses></rule>,
-      <rule name="ax"><antecedent><formula id="1"><atom id = "2">np</atom></formula></antecedent><formula><atom id = "2">np</atom></formula><premisses></premisses></rule>
+<rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></formula><formula id="3"><impl><atom id="2">np</atom><atom id="4">np</atom></impl></formula></antecedent><formula><atom id="4">np</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>
       </premisses></rule>,
-   <rule name="ax"><antecedent><formula id="1"><atom id = "4">np</atom></formula></antecedent><formula><atom id = "4">np</atom></formula><premisses></premisses></rule>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">np</atom></formula></antecedent><formula><atom id="4">np</atom></formula><premisses></premisses></rule>
    </premisses></rule>
 </proof>

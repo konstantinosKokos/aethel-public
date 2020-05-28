@@ -1,23 +1,23 @@
-<proof id="wiki-866.p.38.s.3.xml_2" date="19112019">
+<proof id="wiki-866.p.38.s.3_2.xml" date="27052020">
  <string>zonder een set te verliezen</string>
  <lexicon>
-  <lexicon_item id="1"><word>zonder</word><pos1>comp</pos1><pos2>VZ(init)</pos2><lemma>zonder</lemma><formula><impl dep="cmp_body"><atom id = "6">ti</atom><atom id = "1">cp</atom></impl></formula></lexicon_item>
-  <lexicon_item id="2"><word>een</word><pos1>det</pos1><pos2>LID(onbep,stan,agr)</pos2><lemma>een</lemma><formula><impl dep="invdet"><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula></lexicon_item>
-  <lexicon_item id="3"><word>set</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>set</lemma><formula><atom id = "4">n</atom></formula></lexicon_item>
-  <lexicon_item id="4"><word>te</word><pos1>comp</pos1><pos2>VZ(init)</pos2><lemma>te</lemma><formula><impl dep="cmp_body"><atom id = "8">inf</atom><atom id = "6">ti</atom></impl></formula></lexicon_item>
-  <lexicon_item id="5"><word>verliezen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>verliezen</lemma><formula><impl dep="obj1"><atom id = "3">np</atom><atom id = "8">inf</atom></impl></formula></lexicon_item>
+  <lexicon_item id="1"><word>zonder</word><pos1>comp</pos1><pos2>VZ(init)</pos2><lemma>zonder</lemma><formula><impl><dia dep="cmp_body"><atom id="6">ti</atom></dia><atom id="1">cp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>een</word><pos1>det</pos1><pos2>LID(onbep,stan,agr)</pos2><lemma>een</lemma><formula><box dep="det"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>set</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>set</lemma><formula><atom id="4">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>te</word><pos1>comp</pos1><pos2>VZ(init)</pos2><lemma>te</lemma><formula><impl><dia dep="cmp_body"><atom id="8">inf</atom></dia><atom id="6">ti</atom></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>verliezen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>verliezen</lemma><formula><impl><dia dep="obj1"><atom id="3">np</atom></dia><atom id="8">inf</atom></impl></formula></lexicon_item>
  </lexicon>
-<rule name="ie"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula><formula id="3"><impl><atom id = "3">np</atom><atom id = "8">inf</atom></impl></formula><formula id="4"><impl><atom id = "8">inf</atom><atom id = "6">ti</atom></impl></formula><formula id="5"><impl><atom id = "6">ti</atom><atom id = "1">cp</atom></impl></formula></antecedent><formula><atom id = "1">cp</atom></formula><premisses>
-   <rule name="ie"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula><formula id="3"><impl><atom id = "3">np</atom><atom id = "8">inf</atom></impl></formula><formula id="4"><impl><atom id = "8">inf</atom><atom id = "6">ti</atom></impl></formula></antecedent><formula><atom id = "6">ti</atom></formula><premisses>
-      <rule name="ie"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula><formula id="3"><impl><atom id = "3">np</atom><atom id = "8">inf</atom></impl></formula></antecedent><formula><atom id = "8">inf</atom></formula><premisses>
-         <rule name="ie"><antecedent><formula id="1"><atom id = "4">n</atom></formula><formula id="2"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><atom id = "3">np</atom></formula><premisses>
-            <rule name="ax"><antecedent><formula id="1"><atom id = "4">n</atom></formula></antecedent><formula><atom id = "4">n</atom></formula><premisses></premisses></rule>,
-            <rule name="ax"><antecedent><formula id="1"><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula></antecedent><formula><impl><atom id = "4">n</atom><atom id = "3">np</atom></impl></formula><premisses></premisses></rule>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="8">inf</atom></impl></formula><formula id="4"><impl><atom id="8">inf</atom><atom id="6">ti</atom></impl></formula><formula id="5"><impl><atom id="6">ti</atom><atom id="1">cp</atom></impl></formula></antecedent><formula><atom id="1">cp</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="8">inf</atom></impl></formula><formula id="4"><impl><atom id="8">inf</atom><atom id="6">ti</atom></impl></formula></antecedent><formula><atom id="6">ti</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="8">inf</atom></impl></formula></antecedent><formula><atom id="8">inf</atom></formula><premisses>
+         <rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="4">n</atom></formula></antecedent><formula><atom id="4">n</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula></antecedent><formula><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula><premisses></premisses></rule>
             </premisses></rule>,
-         <rule name="ax"><antecedent><formula id="1"><impl><atom id = "3">np</atom><atom id = "8">inf</atom></impl></formula></antecedent><formula><impl><atom id = "3">np</atom><atom id = "8">inf</atom></impl></formula><premisses></premisses></rule>
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="8">inf</atom></impl></formula></antecedent><formula><impl><atom id="3">np</atom><atom id="8">inf</atom></impl></formula><premisses></premisses></rule>
          </premisses></rule>,
-      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "8">inf</atom><atom id = "6">ti</atom></impl></formula></antecedent><formula><impl><atom id = "8">inf</atom><atom id = "6">ti</atom></impl></formula><premisses></premisses></rule>
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="8">inf</atom><atom id="6">ti</atom></impl></formula></antecedent><formula><impl><atom id="8">inf</atom><atom id="6">ti</atom></impl></formula><premisses></premisses></rule>
       </premisses></rule>,
-   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "6">ti</atom><atom id = "1">cp</atom></impl></formula></antecedent><formula><impl><atom id = "6">ti</atom><atom id = "1">cp</atom></impl></formula><premisses></premisses></rule>
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">ti</atom><atom id="1">cp</atom></impl></formula></antecedent><formula><impl><atom id="6">ti</atom><atom id="1">cp</atom></impl></formula><premisses></premisses></rule>
    </premisses></rule>
 </proof>

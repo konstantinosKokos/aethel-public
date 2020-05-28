@@ -1,15 +1,15 @@
-<proof id="WR-P-E-J-0000000025.head.1.s.1.xml_0" date="19112019">
+<proof id="WR-P-E-J-0000000025.head.1.s.1_0.xml" date="27052020">
  <string>60 jaar UNESCO</string>
  <lexicon>
-  <lexicon_item id="1"><word>60</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>60</lemma><formula><impl dep="invdet"><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></lexicon_item>
-  <lexicon_item id="2"><word>jaar</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>jaar</lemma><formula><atom id = "2">n</atom></formula></lexicon_item>
-  <lexicon_item id="3"><word>UNESCO</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>UNESCO</lemma><formula><impl dep="mod"><atom id = "1">np</atom><atom id = "4">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="1"><word>60</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>60</lemma><formula><box dep="det"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>jaar</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>jaar</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>UNESCO</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>UNESCO</lemma><formula><box dep="mod"><impl><atom id="1">np</atom><atom id="4">np</atom></impl></box></formula></lexicon_item>
  </lexicon>
-<rule name="ie"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><formula id="3"><impl><atom id = "1">np</atom><atom id = "4">np</atom></impl></formula></antecedent><formula><atom id = "4">np</atom></formula><premisses>
-   <rule name="ie"><antecedent><formula id="1"><atom id = "2">n</atom></formula><formula id="2"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><atom id = "1">np</atom></formula><premisses>
-      <rule name="ax"><antecedent><formula id="1"><atom id = "2">n</atom></formula></antecedent><formula><atom id = "2">n</atom></formula><premisses></premisses></rule>,
-      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula></antecedent><formula><impl><atom id = "2">n</atom><atom id = "1">np</atom></impl></formula><premisses></premisses></rule>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><atom id="1">np</atom><atom id="4">np</atom></impl></formula></antecedent><formula><atom id="4">np</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula><premisses></premisses></rule>
       </premisses></rule>,
-   <rule name="ax"><antecedent><formula id="1"><impl><atom id = "1">np</atom><atom id = "4">np</atom></impl></formula></antecedent><formula><impl><atom id = "1">np</atom><atom id = "4">np</atom></impl></formula><premisses></premisses></rule>
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="1">np</atom><atom id="4">np</atom></impl></formula></antecedent><formula><impl><atom id="1">np</atom><atom id="4">np</atom></impl></formula><premisses></premisses></rule>
    </premisses></rule>
 </proof>

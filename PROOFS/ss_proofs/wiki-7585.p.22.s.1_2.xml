@@ -1,7 +1,7 @@
-<proof id="wiki-7585.p.22.s.1.xml_2" date="31102019">
+<proof id="wiki-7585.p.22.s.1_2.xml" date="27052020">
  <string>hoorspel</string>
  <lexicon>
-  <lexicon_item id="1"><word>hoorspel</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>hoorspel</lemma><formula><atom id = "0">n</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>hoorspel</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>hoorspel</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id = "0">n</atom></formula></antecedent><formula><atom id = "0">n</atom></formula><premisses></premisses></rule>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
 </proof>

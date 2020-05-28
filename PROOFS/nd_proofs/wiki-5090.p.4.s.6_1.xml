@@ -1,15 +1,15 @@
-<proof id="wiki-5090.p.4.s.6.xml_1" date="19112019">
+<proof id="wiki-5090.p.4.s.6_1.xml" date="27052020">
  <string>Gwij Mandelinck voor De droefheid is in handbereik</string>
  <lexicon>
-  <lexicon_item id="1"><word>Gwij Mandelinck</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>Gwij Mandelinck</lemma><formula><atom id = "0">smain</atom></formula></lexicon_item>
-  <lexicon_item id="2"><word>voor</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>voor</lemma><formula><impl dep="obj1"><atom id = "4">np</atom><impl dep="mod"><atom id = "0">smain</atom><atom id = "3">smain</atom></impl></impl></formula></lexicon_item>
-  <lexicon_item id="3"><word>De droefheid is in handbereik</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>De droefheid is in handbereik</lemma><formula><atom id = "4">np</atom></formula></lexicon_item>
+  <lexicon_item id="1"><word>Gwij Mandelinck</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">smain</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>voor</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>voor</lemma><formula><impl><dia dep="obj1"><atom id="4">np</atom></dia><box dep="mod"><impl><atom id="0">smain</atom><atom id="3">smain</atom></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>De droefheid is in handbereik</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="4">np</atom></formula></lexicon_item>
  </lexicon>
-<rule name="ie"><antecedent><formula id="1"><atom id = "0">smain</atom></formula><formula id="2"><atom id = "4">np</atom></formula><formula id="3"><impl><atom id = "4">np</atom><impl><atom id = "0">smain</atom><atom id = "3">smain</atom></impl></impl></formula></antecedent><formula><atom id = "3">smain</atom></formula><premisses>
-   <rule name="ax"><antecedent><formula id="1"><atom id = "0">smain</atom></formula></antecedent><formula><atom id = "0">smain</atom></formula><premisses></premisses></rule>,
-   <rule name="ie"><antecedent><formula id="1"><atom id = "4">np</atom></formula><formula id="2"><impl><atom id = "4">np</atom><impl><atom id = "0">smain</atom><atom id = "3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "0">smain</atom><atom id = "3">smain</atom></impl></formula><premisses>
-      <rule name="ax"><antecedent><formula id="1"><atom id = "4">np</atom></formula></antecedent><formula><atom id = "4">np</atom></formula><premisses></premisses></rule>,
-      <rule name="ax"><antecedent><formula id="1"><impl><atom id = "4">np</atom><impl><atom id = "0">smain</atom><atom id = "3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id = "4">np</atom><impl><atom id = "0">smain</atom><atom id = "3">smain</atom></impl></impl></formula><premisses></premisses></rule>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">smain</atom></formula><formula id="2"><atom id="4">np</atom></formula><formula id="3"><impl><atom id="4">np</atom><impl><atom id="0">smain</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">smain</atom></formula></antecedent><formula><atom id="0">smain</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><impl><atom id="0">smain</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="0">smain</atom><atom id="3">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">np</atom></formula></antecedent><formula><atom id="4">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">np</atom><impl><atom id="0">smain</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="4">np</atom><impl><atom id="0">smain</atom><atom id="3">smain</atom></impl></impl></formula><premisses></premisses></rule>
       </premisses></rule>
    </premisses></rule>
 </proof>
