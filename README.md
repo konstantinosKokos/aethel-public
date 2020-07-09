@@ -3,7 +3,32 @@ Repository containing the public subset of the [AETHEL dataset](http://www.lrec-
 
 
 The repository contains 8,569 linear logic theorems, each corresponding to a parse of a written Dutch sentence or phrase.
-Included in the LEXICON directory are also files containing lexical type assignments for 81,730 words (obtained from the aggregation of the full dataset).
+Included in the LEXICON directory are also files containing lexical type assignments for 81,730 words 
+(obtained from the aggregation of the full dataset). 
 
+---
 
+#### Binary Version
+You can download a binary version of the data in the form of a python pickle from 
+[here](https://surfdrive.surf.nl/files/index.php/s/jIpWUphW7RSQJ5V).
+To be able to access the data you will need to clone the 
+[extraction code](https://github.com/konstantinosKokos/Lassy-TLG-Extraction/tree/master) 
+and place the downloaded file in the
+outermost directory, then executing the lines below in your Python interpreter:
+ 
+``` 
+import pickle
+with open('./public.p', 'rb') as f:
+    data = pickle.load(f) 
+```
+  
+The data are represented as a list of tuples, the first element containing a graph corresponding to the dependency
+parse including type assignments for words, and the second element containing a proofnet, encoded as a bijection between
+atomic types.
+The extraction subfolder `LassyExtraction.utils.tools` contains utility functions intended to help speed up data 
+processing and exploration.  
+
+---
+
+ 
 If you would like to access the full dataset, require a representation format not available in the repo, or encounter any issues, do not hesitate to get in touch.
