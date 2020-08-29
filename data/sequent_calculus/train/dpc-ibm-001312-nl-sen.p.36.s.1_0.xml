@@ -1,0 +1,23 @@
+<proof id="dpc-ibm-001312-nl-sen.p.36.s.1_0.xml" date="27052020">
+ <string>De initiatievenportefeuille in evenwicht brengen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>De</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><box dep="det"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>initiatievenportefeuille</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>initiatievenportefeuille</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>in</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>in</lemma><formula><impl><dia dep="obj1"><atom id="5">n</atom></dia><atom id="4">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>evenwicht</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>evenwicht</lemma><formula><atom id="5">n</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>brengen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>brengen</lemma><formula><impl><dia dep="predc"><atom id="4">pp</atom></dia><impl><dia dep="obj1"><atom id="1">np</atom></dia><atom id="8">inf</atom></impl></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><atom id="4">pp</atom></impl></formula><formula id="3"><impl><atom id="4">pp</atom><impl><atom id="1">np</atom><atom id="8">inf</atom></impl></impl></formula><formula id="4"><atom id="2">n</atom></formula><formula id="5"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="8">inf</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><atom id="4">pp</atom></impl></formula></antecedent><formula><atom id="4">pp</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="5">n</atom></formula></antecedent><formula><atom id="5">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">pp</atom></formula></antecedent><formula><atom id="4">pp</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><atom id="1">np</atom><atom id="8">inf</atom></impl></formula></antecedent><formula><atom id="8">inf</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="1">np</atom></formula></antecedent><formula><atom id="1">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="8">inf</atom></formula></antecedent><formula><atom id="8">inf</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

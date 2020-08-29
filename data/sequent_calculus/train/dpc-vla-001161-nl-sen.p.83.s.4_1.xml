@@ -1,0 +1,11 @@
+<proof id="dpc-vla-001161-nl-sen.p.83.s.4_1.xml" date="27052020">
+ <string>die beslissen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>die</word><pos1>det</pos1><pos2>VNW(betr,pron,stan,vol,persoon,getal)</pos2><lemma>die</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>beslissen</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>beslissen</lemma><formula><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="2">ssub</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><impl><atom id="0">vnw</atom><atom id="2">ssub</atom></impl></formula></antecedent><formula><atom id="2">ssub</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">ssub</atom></formula></antecedent><formula><atom id="2">ssub</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

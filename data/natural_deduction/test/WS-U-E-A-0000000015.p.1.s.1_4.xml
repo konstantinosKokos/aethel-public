@@ -1,0 +1,11 @@
+<proof id="WS-U-E-A-0000000015.p.1.s.1_4.xml" date="27052020">
+ <string>op stap</string>
+ <lexicon>
+  <lexicon_item id="1"><word>op</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>op</lemma><formula><impl><dia dep="obj1"><atom id="2">n</atom></dia><atom id="1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>stap</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>stap</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">n</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><impl><atom id="2">n</atom><atom id="1">pp</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="dpc-fsz-000543-nl-sen.p.249.s.1_4.xml" date="27052020">
+ <string>deels</string>
+ <lexicon>
+  <lexicon_item id="1"><word>deels</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>deels</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,11 @@
+<proof id="WR-P-E-J-0000000017.p.13.s.1_2.xml" date="27052020">
+ <string>e-mail persdienst.vanmechelen@vlaanderen.be</string>
+ <lexicon>
+  <lexicon_item id="1"><word>e-mail</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>e-mail</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>persdienst.vanmechelen@vlaanderen.be</word><pos1>noun</pos1><pos2>SPEC(symb)</pos2><lemma>persdienst.vanmechelen@vlaanderen.be</lemma><formula><box dep="app"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

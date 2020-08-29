@@ -1,0 +1,7 @@
+<proof id="WS-U-E-A-0000000009.p.4.s.1_1.xml" date="27052020">
+ <string>Goedenavond</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Goedenavond</word><pos1>noun</pos1><pos2>TSW()</pos2><lemma>goedenavond</lemma><formula><atom id="0">tsw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">tsw</atom></formula></antecedent><formula><atom id="0">tsw</atom></formula><premisses></premisses></rule>
+</proof>

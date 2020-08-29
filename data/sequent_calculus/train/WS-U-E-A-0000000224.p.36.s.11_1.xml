@@ -1,0 +1,7 @@
+<proof id="WS-U-E-A-0000000224.p.36.s.11_1.xml" date="27052020">
+ <string>wertk</string>
+ <lexicon>
+  <lexicon_item id="1"><word>wertk</word><pos1>noun</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>werken</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>
+</proof>

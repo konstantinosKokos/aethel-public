@@ -1,0 +1,11 @@
+<proof id="wiki-1823.p.33.s.3_1.xml" date="27052020">
+ <string>1999-2003 VLD</string>
+ <lexicon>
+  <lexicon_item id="1"><word>1999-2003</word><pos1>num</pos1><pos2>SPEC(symb)</pos2><lemma>1999-2003</lemma><formula><box dep="app"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>VLD</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>VLD</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">np</atom></formula></antecedent><formula><atom id="1">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

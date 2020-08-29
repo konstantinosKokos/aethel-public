@@ -1,0 +1,7 @@
+<proof id="dpc-ibm-001316-nl-sen.p.23.s.1_0.xml" date="27052020">
+ <string>Authorization/permit</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Authorization/permit</word><pos1>name</pos1><pos2>SPEC(vreemd)</pos2><lemma>Authorization/permit</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,23 @@
+<proof id="dpc-vla-001171-nl-sen.p.156.s.4_1.xml" date="27052020">
+ <string>Vlaanderen moest ook eentalig worden</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Vlaanderen</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Vlaanderen</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>moest</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>moeten</lemma><formula><impl><dia dep="vc"><atom id="5">inf</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>ook</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>ook</lemma><formula><box dep="mod"><impl><atom id="8">inf</atom><atom id="5">inf</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>eentalig</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>eentalig</lemma><formula><atom id="6">adj</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>worden</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>worden</lemma><formula><impl><dia dep="predc"><atom id="6">adj</atom></dia><atom id="8">inf</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="6">adj</atom></formula><formula id="2"><impl><atom id="6">adj</atom><atom id="8">inf</atom></impl></formula><formula id="3"><impl><atom id="8">inf</atom><atom id="5">inf</atom></impl></formula><formula id="4"><impl><atom id="5">inf</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula><formula id="5"><atom id="0">n</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="6">adj</atom></formula><formula id="2"><impl><atom id="6">adj</atom><atom id="8">inf</atom></impl></formula><formula id="3"><impl><atom id="8">inf</atom><atom id="5">inf</atom></impl></formula></antecedent><formula><atom id="5">inf</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="6">adj</atom></formula><formula id="2"><impl><atom id="6">adj</atom><atom id="8">inf</atom></impl></formula></antecedent><formula><atom id="8">inf</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">adj</atom></formula></antecedent><formula><atom id="6">adj</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="8">inf</atom></formula></antecedent><formula><atom id="8">inf</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="5">inf</atom></formula></antecedent><formula><atom id="5">inf</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">smain</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

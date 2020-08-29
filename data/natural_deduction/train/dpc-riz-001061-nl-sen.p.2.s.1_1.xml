@@ -1,0 +1,7 @@
+<proof id="dpc-riz-001061-nl-sen.p.2.s.1_1.xml" date="27052020">
+ <string>Rechtzetting</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Rechtzetting</word><pos1>name</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>rechtzetting</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
+</proof>

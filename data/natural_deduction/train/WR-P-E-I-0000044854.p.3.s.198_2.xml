@@ -1,0 +1,11 @@
+<proof id="WR-P-E-I-0000044854.p.3.s.198_2.xml" date="27052020">
+ <string>het bovenvermelde</string>
+ <lexicon>
+  <lexicon_item id="1"><word>het</word><pos1>det</pos1><pos2>LID(bep,stan,evon)</pos2><lemma>het</lemma><formula><box dep="det"><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>bovenvermelde</word><pos1>adj</pos1><pos2>ADJ(nom,basis,met-e,zonder-n,stan)</pos2><lemma>bovenvermeld</lemma><formula><atom id="2">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">adj</atom></formula><formula id="2"><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">adj</atom></formula></antecedent><formula><atom id="2">adj</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

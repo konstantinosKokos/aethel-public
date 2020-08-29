@@ -1,0 +1,11 @@
+<proof id="WS-U-E-A-0000000208.p.27.s.2_1.xml" date="27052020">
+ <string>zegt Peter van der Poel</string>
+ <lexicon>
+  <lexicon_item id="1"><word>zegt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>zeggen</lemma><formula><impl><dia dep="su"><atom id="2">spec</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Peter van der Poel</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="2">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">spec</atom></formula><formula id="2"><impl><atom id="2">spec</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">spec</atom></formula></antecedent><formula><atom id="2">spec</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">spec</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><impl><atom id="2">spec</atom><atom id="1">sv1</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

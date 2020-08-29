@@ -1,0 +1,7 @@
+<proof id="WS-U-E-A-0000000048.p.42.s.1_5.xml" date="27052020">
+ <string>overigens</string>
+ <lexicon>
+  <lexicon_item id="1"><word>overigens</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>overigens</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
+</proof>

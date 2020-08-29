@@ -1,0 +1,23 @@
+<proof id="WR-P-P-C-0000000048.txt-191_1.xml" date="27052020">
+ <string>alcohol kan geen problemen oplossen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>alcohol</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>alcohol</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>kan</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>kunnen</lemma><formula><impl><dia dep="vc"><atom id="8">inf</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>geen</word><pos1>det</pos1><pos2>VNW(onbep,det,stan,prenom,zonder,agr)</pos2><lemma>geen</lemma><formula><box dep="det"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>problemen</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>probleem</lemma><formula><atom id="6">n</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>oplossen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>oplossen</lemma><formula><impl><dia dep="obj1"><atom id="5">np</atom></dia><atom id="8">inf</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><atom id="6">n</atom></formula><formula id="3"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><formula id="4"><impl><atom id="5">np</atom><atom id="8">inf</atom></impl></formula><formula id="5"><impl><atom id="8">inf</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><formula id="3"><impl><atom id="5">np</atom><atom id="8">inf</atom></impl></formula><formula id="4"><impl><atom id="8">inf</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><formula id="3"><impl><atom id="5">np</atom><atom id="8">inf</atom></impl></formula></antecedent><formula><atom id="8">inf</atom></formula><premisses>
+         <rule name="ie"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="6">n</atom></formula></antecedent><formula><atom id="6">n</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula></antecedent><formula><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><premisses></premisses></rule>
+            </premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="5">np</atom><atom id="8">inf</atom></impl></formula></antecedent><formula><impl><atom id="5">np</atom><atom id="8">inf</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="8">inf</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="8">inf</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

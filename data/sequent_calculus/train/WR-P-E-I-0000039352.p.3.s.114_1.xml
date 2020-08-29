@@ -1,0 +1,15 @@
+<proof id="WR-P-E-I-0000039352.p.3.s.114_1.xml" date="27052020">
+ <string>schutters zijn gelijk</string>
+ <lexicon>
+  <lexicon_item id="1"><word>schutters</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>schutter</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>zijn</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>zijn</lemma><formula><impl><dia dep="predc"><atom id="4">adj</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>gelijk</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>gelijk</lemma><formula><atom id="4">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">adj</atom></formula><formula id="2"><impl><atom id="4">adj</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula><formula id="3"><atom id="0">n</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">adj</atom></formula></antecedent><formula><atom id="4">adj</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">smain</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

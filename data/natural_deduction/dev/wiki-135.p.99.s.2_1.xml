@@ -1,0 +1,19 @@
+<proof id="wiki-135.p.99.s.2_1.xml" date="27052020">
+ <string>België telt 10 provincies</string>
+ <lexicon>
+  <lexicon_item id="1"><word>België</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>België</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>telt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>tellen</lemma><formula><impl><dia dep="obj1"><atom id="5">np</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>10</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>10</lemma><formula><box dep="det"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>provincies</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>provincie</lemma><formula><atom id="6">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><atom id="6">n</atom></formula><formula id="3"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><formula id="4"><impl><atom id="5">np</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><formula id="3"><impl><atom id="5">np</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">n</atom></formula></antecedent><formula><atom id="6">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula></antecedent><formula><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="5">np</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="5">np</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

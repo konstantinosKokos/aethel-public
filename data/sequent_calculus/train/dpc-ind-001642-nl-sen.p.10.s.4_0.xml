@@ -1,0 +1,19 @@
+<proof id="dpc-ind-001642-nl-sen.p.10.s.4_0.xml" date="27052020">
+ <string>Televisies koelkasten airconditioners noem maar op</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Televisies</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>televisie</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>koelkasten</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>koelkast</lemma><formula><atom id="1">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>airconditioners</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>airconditioner</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>noem maar op</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><impl><dia dep="cnj"><atom id="0">np</atom></dia><impl><dia dep="cnj"><atom id="1">np</atom></dia><impl><dia dep="cnj"><atom id="2">np</atom></dia><atom id="6">np</atom></impl></impl></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><impl><atom id="1">np</atom><impl><atom id="2">np</atom><atom id="6">np</atom></impl></impl></impl></formula><formula id="3"><atom id="1">np</atom></formula><formula id="4"><atom id="2">np</atom></formula></antecedent><formula><atom id="6">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="1">np</atom></formula><formula id="2"><impl><atom id="1">np</atom><impl><atom id="2">np</atom><atom id="6">np</atom></impl></impl></formula><formula id="3"><atom id="2">np</atom></formula></antecedent><formula><atom id="6">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="1">np</atom></formula></antecedent><formula><atom id="1">np</atom></formula><premisses></premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="6">np</atom></impl></formula></antecedent><formula><atom id="6">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">np</atom></formula></antecedent><formula><atom id="6">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

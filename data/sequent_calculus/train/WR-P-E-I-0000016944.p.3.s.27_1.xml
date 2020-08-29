@@ -1,0 +1,15 @@
+<proof id="WR-P-E-I-0000016944.p.3.s.27_1.xml" date="27052020">
+ <string>Juhas werd wild</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Juhas</word><pos1>noun</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Juhas</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>werd</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>worden</lemma><formula><impl><dia dep="predc"><atom id="4">n</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>wild</word><pos1>adj</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>wild</lemma><formula><atom id="4">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula><formula id="3"><atom id="0">n</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">n</atom></formula></antecedent><formula><atom id="4">n</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">smain</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

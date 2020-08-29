@@ -1,0 +1,7 @@
+<proof id="wiki-9844.p.39.s.14_0.xml" date="27052020">
+ <string>Japans</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Japans</word><pos1>noun</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>Japans</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
+</proof>

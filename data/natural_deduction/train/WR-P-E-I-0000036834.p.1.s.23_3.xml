@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000036834.p.1.s.23_3.xml" date="27052020">
+ <string>daarvan</string>
+ <lexicon>
+  <lexicon_item id="1"><word>daarvan</word><pos1>pp</pos1><pos2>BW()</pos2><lemma>daarvan</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
+</proof>

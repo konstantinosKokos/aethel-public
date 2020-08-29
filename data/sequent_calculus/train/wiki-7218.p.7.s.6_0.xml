@@ -1,0 +1,15 @@
+<proof id="wiki-7218.p.7.s.6_0.xml" date="27052020">
+ <string>Kikongo of Kongo</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Kikongo</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Kikongo</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>of</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>of</lemma><formula><impl><dia dep="cnj"><atom id="0">np</atom></dia><impl><dia dep="cnj"><atom id="4">np</atom></dia><atom id="3">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>Kongo</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Kongo</lemma><formula><atom id="4">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><impl><atom id="4">np</atom><atom id="3">np</atom></impl></impl></formula><formula id="3"><atom id="4">np</atom></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">np</atom></formula></antecedent><formula><atom id="4">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">np</atom></formula></antecedent><formula><atom id="3">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,11 @@
+<proof id="WR-P-E-H-0000000052.p.683.s.1_1.xml" date="27052020">
+ <string>gegevens verwerkende</string>
+ <lexicon>
+  <lexicon_item id="1"><word>gegevens</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>gegeven</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>verwerkende</word><pos1>adj</pos1><pos2>WW(od,prenom,met-e)</pos2><lemma>verwerken</lemma><formula><impl><dia dep="obj1"><atom id="0">n</atom></dia><atom id="2">ppres</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="2">ppres</atom></impl></formula></antecedent><formula><atom id="2">ppres</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="0">n</atom><atom id="2">ppres</atom></impl></formula></antecedent><formula><impl><atom id="0">n</atom><atom id="2">ppres</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

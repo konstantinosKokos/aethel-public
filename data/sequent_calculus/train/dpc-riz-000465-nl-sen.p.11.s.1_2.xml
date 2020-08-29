@@ -1,0 +1,7 @@
+<proof id="dpc-riz-000465-nl-sen.p.11.s.1_2.xml" date="27052020">
+ <string>indicatoren</string>
+ <lexicon>
+  <lexicon_item id="1"><word>indicatoren</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>indicator</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
+</proof>

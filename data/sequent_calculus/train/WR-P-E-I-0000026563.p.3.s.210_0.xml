@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000026563.p.3.s.210_0.xml" date="27052020">
+ <string>24 en 25 maart</string>
+ <lexicon>
+  <lexicon_item id="1"><word>24 en 25 maart</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
+</proof>

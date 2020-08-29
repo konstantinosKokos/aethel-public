@@ -1,0 +1,24 @@
+<proof id="wiki-1566.p.19.s.1_2.xml" date="27052020">
+ <string>tegenwoordig onderdeel van AOL-Time-Warner</string>
+ <lexicon>
+  <lexicon_item id="1"><word>tegenwoordig</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>tegenwoordig</lemma><formula><atom id="0">ap</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>onderdeel</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>onderdeel</lemma><formula><box dep="mod"><impl><atom id="4">ap</atom><atom id="2">ap</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>van</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>van</lemma><formula><impl><dia dep="obj1"><atom id="8">n</atom></dia><box dep="mod"><impl><box dep="mod"><impl><atom id="4">ap</atom><atom id="2">ap</atom></impl></box><box dep="mod"><impl><atom id="0">ap</atom><atom id="7">ap</atom></impl></box></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>AOL-Time-Warner</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>AOL-Time-Warner</lemma><formula><atom id="8">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><impl><impl><atom id="4">ap</atom><atom id="2">ap</atom></impl><impl><atom id="0">ap</atom><atom id="7">ap</atom></impl></impl></impl></formula><formula id="3"><impl><atom id="4">ap</atom><atom id="2">ap</atom></impl></formula><formula id="4"><atom id="0">ap</atom></formula></antecedent><formula><atom id="7">ap</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="8">n</atom></formula></antecedent><formula><atom id="8">n</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><impl><atom id="4">ap</atom><atom id="2">ap</atom></impl></formula><formula id="2"><impl><impl><atom id="4">ap</atom><atom id="2">ap</atom></impl><impl><atom id="0">ap</atom><atom id="7">ap</atom></impl></impl></formula><formula id="3"><atom id="0">ap</atom></formula></antecedent><formula><atom id="7">ap</atom></formula><premisses>
+      <rule name="ir"><antecedent><formula id="1"><impl><atom id="4">ap</atom><atom id="2">ap</atom></impl></formula></antecedent><formula><impl><atom id="4">ap</atom><atom id="2">ap</atom></impl></formula><premisses>
+         <rule name="il"><antecedent><formula id="1"><atom id="4">ap</atom></formula><formula id="2"><impl><atom id="4">ap</atom><atom id="2">ap</atom></impl></formula></antecedent><formula><atom id="2">ap</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="4">ap</atom></formula></antecedent><formula><atom id="4">ap</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id="2">ap</atom></formula></antecedent><formula><atom id="2">ap</atom></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="0">ap</atom></formula><formula id="2"><impl><atom id="0">ap</atom><atom id="7">ap</atom></impl></formula></antecedent><formula><atom id="7">ap</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="0">ap</atom></formula></antecedent><formula><atom id="0">ap</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="7">ap</atom></formula></antecedent><formula><atom id="7">ap</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000050381.p.1.s.420_1.xml" date="27052020">
+ <string>vervangingsproducten</string>
+ <lexicon>
+  <lexicon_item id="1"><word>vervangingsproducten</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>vervangingsproduct</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
+</proof>

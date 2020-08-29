@@ -1,0 +1,11 @@
+<proof id="dpc-bmm-001093-nl-sen.p.5.s.1_0.xml" date="27052020">
+ <string>BEELD BEKIJKEN</string>
+ <lexicon>
+  <lexicon_item id="1"><word>BEELD</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>beeld</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>BEKIJKEN</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>bekijken</lemma><formula><impl><dia dep="obj1"><atom id="0">n</atom></dia><atom id="2">inf</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="2">inf</atom></impl></formula></antecedent><formula><atom id="2">inf</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="0">n</atom><atom id="2">inf</atom></impl></formula></antecedent><formula><impl><atom id="0">n</atom><atom id="2">inf</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,19 @@
+<proof id="WS-U-E-A-0000000045.p.17.s.1_0.xml" date="27052020">
+ <string>25 doden zijn geborgen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>25</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>25</lemma><formula><box dep="det"><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>doden</word><pos1>adj</pos1><pos2>ADJ(nom,basis,met-e,mv-n)</pos2><lemma>dood</lemma><formula><atom id="2">adj</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>zijn</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>zijn</lemma><formula><impl><dia dep="vc"><atom id="6">ww</atom></dia><impl><dia dep="su"><atom id="1">np</atom></dia><atom id="5">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>geborgen</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>bergen</lemma><formula><atom id="6">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">adj</atom></formula><formula id="2"><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></formula><formula id="3"><atom id="6">ww</atom></formula><formula id="4"><impl><atom id="6">ww</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula></antecedent><formula><atom id="5">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="2">adj</atom></formula><formula id="2"><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">adj</atom></formula></antecedent><formula><atom id="2">adj</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">ww</atom></formula><formula id="2"><impl><atom id="6">ww</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="6">ww</atom></formula></antecedent><formula><atom id="6">ww</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">ww</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="6">ww</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

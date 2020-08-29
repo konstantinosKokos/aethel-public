@@ -1,0 +1,19 @@
+<proof id="WS-U-E-A-0000000021.p.1.s.1_1.xml" date="27052020">
+ <string>voor anderen gloort hoop</string>
+ <lexicon>
+  <lexicon_item id="1"><word>voor</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>voor</lemma><formula><impl><dia dep="obj1"><atom id="3">adj</atom></dia><box dep="mod"><impl><atom id="5">smain</atom><atom id="2">smain</atom></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>anderen</word><pos1>adj</pos1><pos2>ADJ(nom,basis,met-e,mv-n)</pos2><lemma>ander</lemma><formula><atom id="3">adj</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>gloort</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>gloren</lemma><formula><impl><dia dep="su"><atom id="6">n</atom></dia><atom id="5">smain</atom></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>hoop</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>hoop</lemma><formula><atom id="6">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">smain</atom></impl></formula><formula id="3"><atom id="3">adj</atom></formula><formula id="4"><impl><atom id="3">adj</atom><impl><atom id="5">smain</atom><atom id="2">smain</atom></impl></impl></formula></antecedent><formula><atom id="2">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">smain</atom></impl></formula></antecedent><formula><atom id="5">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="6">n</atom></formula></antecedent><formula><atom id="6">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">n</atom><atom id="5">smain</atom></impl></formula></antecedent><formula><impl><atom id="6">n</atom><atom id="5">smain</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="3">adj</atom></formula><formula id="2"><impl><atom id="3">adj</atom><impl><atom id="5">smain</atom><atom id="2">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="5">smain</atom><atom id="2">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">adj</atom></formula></antecedent><formula><atom id="3">adj</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">adj</atom><impl><atom id="5">smain</atom><atom id="2">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="3">adj</atom><impl><atom id="5">smain</atom><atom id="2">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,19 @@
+<proof id="WR-P-P-I-0000000077.p.1.s.3_0.xml" date="27052020">
+ <string>We domineren de aarde</string>
+ <lexicon>
+  <lexicon_item id="1"><word>We</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,red,1,mv)</pos2><lemma>we</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>domineren</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>domineren</lemma><formula><impl><dia dep="obj1"><atom id="5">np</atom></dia><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>de</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><box dep="det"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>aarde</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>aarde</lemma><formula><atom id="6">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><formula id="3"><impl><atom id="5">np</atom><impl><atom id="0">vnw</atom><atom id="3">smain</atom></impl></impl></formula><formula id="4"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="6">n</atom></formula></antecedent><formula><atom id="6">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="5">np</atom></formula></antecedent><formula><atom id="5">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><impl><atom id="0">vnw</atom><atom id="3">smain</atom></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">smain</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

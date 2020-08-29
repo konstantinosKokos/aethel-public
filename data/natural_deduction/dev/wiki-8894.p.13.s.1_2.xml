@@ -1,0 +1,7 @@
+<proof id="wiki-8894.p.13.s.1_2.xml" date="27052020">
+ <string>Co</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Co</word><pos1>name</pos1><pos2>SPEC(afk)</pos2><lemma>Co</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
+</proof>

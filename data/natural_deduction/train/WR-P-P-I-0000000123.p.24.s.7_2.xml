@@ -1,0 +1,7 @@
+<proof id="WR-P-P-I-0000000123.p.24.s.7_2.xml" date="27052020">
+ <string>eveneens</string>
+ <lexicon>
+  <lexicon_item id="1"><word>eveneens</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>eveneens</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,29 @@
+<proof id="wiki-1823.p.26.s.2_0.xml" date="27052020">
+ <string>Departement Algemene Zaken en Financiën</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Departement</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>departement</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>Algemene Zaken</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><box dep="app"><impl><atom id="3">np</atom><atom id="2">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><dia dep="cnj"><box dep="app"><impl><atom id="3">np</atom><atom id="2">np</atom></impl></box></dia><impl><dia dep="cnj"><box dep="app"><impl><atom id="5">np</atom><atom id="10">np</atom></impl></box></dia><box dep="app"><impl><atom id="0">np</atom><atom id="8">np</atom></impl></box></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>Financiën</word><pos1>name</pos1><pos2>N(soort,mv,basis)</pos2><lemma>financiën</lemma><formula><box dep="app"><impl><atom id="5">np</atom><atom id="10">np</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="2">np</atom></impl></formula><formula id="2"><impl><impl><atom id="3">np</atom><atom id="2">np</atom></impl><impl><impl><atom id="5">np</atom><atom id="10">np</atom></impl><impl><atom id="0">np</atom><atom id="8">np</atom></impl></impl></impl></formula><formula id="3"><impl><atom id="5">np</atom><atom id="10">np</atom></impl></formula><formula id="4"><atom id="0">np</atom></formula></antecedent><formula><atom id="8">np</atom></formula><premisses>
+   <rule name="ir"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><impl><atom id="3">np</atom><atom id="2">np</atom></impl></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="3">np</atom></formula><formula id="2"><impl><atom id="3">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="3">np</atom></formula></antecedent><formula><atom id="3">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><impl><atom id="5">np</atom><atom id="10">np</atom></impl></formula><formula id="2"><impl><impl><atom id="5">np</atom><atom id="10">np</atom></impl><impl><atom id="0">np</atom><atom id="8">np</atom></impl></impl></formula><formula id="3"><atom id="0">np</atom></formula></antecedent><formula><atom id="8">np</atom></formula><premisses>
+      <rule name="ir"><antecedent><formula id="1"><impl><atom id="5">np</atom><atom id="10">np</atom></impl></formula></antecedent><formula><impl><atom id="5">np</atom><atom id="10">np</atom></impl></formula><premisses>
+         <rule name="il"><antecedent><formula id="1"><atom id="5">np</atom></formula><formula id="2"><impl><atom id="5">np</atom><atom id="10">np</atom></impl></formula></antecedent><formula><atom id="10">np</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="5">np</atom></formula></antecedent><formula><atom id="5">np</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id="10">np</atom></formula></antecedent><formula><atom id="10">np</atom></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="8">np</atom></impl></formula></antecedent><formula><atom id="8">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="8">np</atom></formula></antecedent><formula><atom id="8">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

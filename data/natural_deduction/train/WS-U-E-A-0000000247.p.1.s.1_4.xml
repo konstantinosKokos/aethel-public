@@ -1,0 +1,19 @@
+<proof id="WS-U-E-A-0000000247.p.1.s.1_4.xml" date="27052020">
+ <string>Oud-topambtenaar beschuldigt Netelenbos van</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Oud-topambtenaar</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>oud-topambtenaar</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>beschuldigt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>beschuldigen</lemma><formula><impl><dia dep="pc"><atom id="6">vz</atom></dia><impl><dia dep="obj1"><atom id="5">n</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="4">smain</atom></impl></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>Netelenbos</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Netelenbos</lemma><formula><atom id="5">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>van</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>van</lemma><formula><atom id="6">vz</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><atom id="5">n</atom></formula><formula id="3"><atom id="6">vz</atom></formula><formula id="4"><impl><atom id="6">vz</atom><impl><atom id="5">n</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><atom id="6">vz</atom></formula><formula id="3"><impl><atom id="6">vz</atom><impl><atom id="5">n</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="5">n</atom></formula></antecedent><formula><atom id="5">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><atom id="6">vz</atom></formula><formula id="2"><impl><atom id="6">vz</atom><impl><atom id="5">n</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id="5">n</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">vz</atom></formula></antecedent><formula><atom id="6">vz</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">vz</atom><impl><atom id="5">n</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id="6">vz</atom><impl><atom id="5">n</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

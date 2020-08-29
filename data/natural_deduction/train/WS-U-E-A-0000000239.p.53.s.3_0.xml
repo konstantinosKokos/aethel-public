@@ -1,0 +1,19 @@
+<proof id="WS-U-E-A-0000000239.p.53.s.3_0.xml" date="27052020">
+ <string>Rusland haalde er 27</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Rusland</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Rusland</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>haalde</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>halen</lemma><formula><impl><dia dep="obj1"><atom id="5">np</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>er</word><pos1>adv</pos1><pos2>VNW(onbep,adv-pron,gen,red,3,getal)</pos2><lemma>er</lemma><formula><impl><dia dep="obj1"><atom id="6">tw</atom></dia><atom id="5">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>27</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>27</lemma><formula><atom id="6">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><atom id="6">tw</atom></formula><formula id="3"><impl><atom id="6">tw</atom><atom id="5">np</atom></impl></formula><formula id="4"><impl><atom id="5">np</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">tw</atom></formula><formula id="2"><impl><atom id="6">tw</atom><atom id="5">np</atom></impl></formula><formula id="3"><impl><atom id="5">np</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="6">tw</atom></formula><formula id="2"><impl><atom id="6">tw</atom><atom id="5">np</atom></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">tw</atom></formula></antecedent><formula><atom id="6">tw</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">tw</atom><atom id="5">np</atom></impl></formula></antecedent><formula><impl><atom id="6">tw</atom><atom id="5">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="5">np</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="5">np</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

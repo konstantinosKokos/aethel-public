@@ -1,0 +1,29 @@
+<proof id="WR-P-E-H-0000000051.p.82.s.1_1.xml" date="27052020">
+ <string>Feitelijke en cijfermatige gegevens</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Feitelijke</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>feitelijk</lemma><formula><box dep="mod"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><dia dep="cnj"><box dep="mod"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></box></dia><impl><dia dep="cnj"><box dep="mod"><impl><atom id="4">np</atom><atom id="9">np</atom></impl></box></dia><box dep="mod"><impl><atom id="10">np</atom><atom id="7">np</atom></impl></box></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>cijfermatige</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>cijfermatig</lemma><formula><box dep="mod"><impl><atom id="4">np</atom><atom id="9">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>gegevens</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>gegeven</lemma><formula><atom id="10">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="10">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="9">np</atom></impl></formula><formula id="3"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><formula id="4"><impl><impl><atom id="2">np</atom><atom id="1">np</atom></impl><impl><impl><atom id="4">np</atom><atom id="9">np</atom></impl><impl><atom id="10">np</atom><atom id="7">np</atom></impl></impl></impl></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="10">np</atom></formula></antecedent><formula><atom id="10">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><impl><atom id="4">np</atom><atom id="9">np</atom></impl></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><impl><atom id="2">np</atom><atom id="1">np</atom></impl><impl><impl><atom id="4">np</atom><atom id="9">np</atom></impl><impl><atom id="10">np</atom><atom id="7">np</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id="10">np</atom><atom id="7">np</atom></impl></formula><premisses>
+      <rule name="ii(2)"><antecedent><formula id="1"><impl><atom id="4">np</atom><atom id="9">np</atom></impl></formula></antecedent><formula><impl><atom id="4">np</atom><atom id="9">np</atom></impl></formula><premisses>
+         <rule name="ie"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="9">np</atom></impl></formula></antecedent><formula><atom id="9">np</atom></formula><premisses>
+            <rule name="hyp(2)"><antecedent><formula id="1"><atom id="4">np</atom></formula></antecedent><formula><atom id="4">np</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">np</atom><atom id="9">np</atom></impl></formula></antecedent><formula><impl><atom id="4">np</atom><atom id="9">np</atom></impl></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><formula id="2"><impl><impl><atom id="2">np</atom><atom id="1">np</atom></impl><impl><impl><atom id="4">np</atom><atom id="9">np</atom></impl><impl><atom id="10">np</atom><atom id="7">np</atom></impl></impl></impl></formula></antecedent><formula><impl><impl><atom id="4">np</atom><atom id="9">np</atom></impl><impl><atom id="10">np</atom><atom id="7">np</atom></impl></impl></formula><premisses>
+         <rule name="ii(1)"><antecedent><formula id="1"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><premisses>
+            <rule name="ie"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+               <rule name="hyp(1)"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+               <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><premisses></premisses></rule>
+               </premisses></rule>
+            </premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><impl><atom id="2">np</atom><atom id="1">np</atom></impl><impl><impl><atom id="4">np</atom><atom id="9">np</atom></impl><impl><atom id="10">np</atom><atom id="7">np</atom></impl></impl></impl></formula></antecedent><formula><impl><impl><atom id="2">np</atom><atom id="1">np</atom></impl><impl><impl><atom id="4">np</atom><atom id="9">np</atom></impl><impl><atom id="10">np</atom><atom id="7">np</atom></impl></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

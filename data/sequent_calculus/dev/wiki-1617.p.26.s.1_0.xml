@@ -1,0 +1,28 @@
+<proof id="wiki-1617.p.26.s.1_0.xml" date="27052020">
+ <string>Fons Borginon ex-voorzitter ad interim Volksunie</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Fons Borginon</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>ex-voorzitter</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>ex-voorzitter</lemma><formula><box dep="mod"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>ad</word><pos1>prep</pos1><pos2>SPEC(vreemd)</pos2><lemma>ad</lemma><formula><impl><dia dep="obj1"><atom id="10">np</atom></dia><box dep="mod"><impl><box dep="mod"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></box><box dep="mod"><impl><atom id="0">np</atom><atom id="7">np</atom></impl></box></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>interim</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>interim</lemma><formula><atom id="8">np</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>Volksunie</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Volksunie</lemma><formula><box dep="app"><impl><atom id="8">np</atom><atom id="10">np</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="8">np</atom></formula><formula id="2"><impl><atom id="8">np</atom><atom id="10">np</atom></impl></formula><formula id="3"><impl><atom id="10">np</atom><impl><impl><atom id="4">np</atom><atom id="2">np</atom></impl><impl><atom id="0">np</atom><atom id="7">np</atom></impl></impl></impl></formula><formula id="4"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></formula><formula id="5"><atom id="0">np</atom></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="8">np</atom></formula><formula id="2"><impl><atom id="8">np</atom><atom id="10">np</atom></impl></formula></antecedent><formula><atom id="10">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="8">np</atom></formula></antecedent><formula><atom id="8">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="10">np</atom></formula></antecedent><formula><atom id="10">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></formula><formula id="2"><impl><impl><atom id="4">np</atom><atom id="2">np</atom></impl><impl><atom id="0">np</atom><atom id="7">np</atom></impl></impl></formula><formula id="3"><atom id="0">np</atom></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+      <rule name="ir"><antecedent><formula id="1"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><impl><atom id="4">np</atom><atom id="2">np</atom></impl></formula><premisses>
+         <rule name="il"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="4">np</atom></formula></antecedent><formula><atom id="4">np</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="7">np</atom></impl></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="7">np</atom></formula></antecedent><formula><atom id="7">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

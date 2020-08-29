@@ -1,0 +1,11 @@
+<proof id="dpc-svb-000429-nl-sen.p.62.s.1_1.xml" date="27052020">
+ <string>NIET MOGELIJK</string>
+ <lexicon>
+  <lexicon_item id="1"><word>NIET</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>niet</lemma><formula><box dep="mod"><impl><atom id="2">ap</atom><atom id="1">ap</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>MOGELIJK</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>mogelijk</lemma><formula><atom id="2">ap</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">ap</atom></formula><formula id="2"><impl><atom id="2">ap</atom><atom id="1">ap</atom></impl></formula></antecedent><formula><atom id="1">ap</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">ap</atom></formula></antecedent><formula><atom id="2">ap</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">ap</atom><atom id="1">ap</atom></impl></formula></antecedent><formula><impl><atom id="2">ap</atom><atom id="1">ap</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

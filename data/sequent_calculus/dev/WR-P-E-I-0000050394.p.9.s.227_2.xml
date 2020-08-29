@@ -1,0 +1,27 @@
+<proof id="WR-P-E-I-0000050394.p.9.s.227_2.xml" date="27052020">
+ <string>later toen dit grondwettelijk verboden werd</string>
+ <lexicon>
+  <lexicon_item id="1"><word>later</word><pos1>adj</pos1><pos2>ADJ(vrij,comp,zonder)</pos2><lemma>laat</lemma><formula><atom id="0">ap</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>toen</word><pos1>comp</pos1><pos2>BW()</pos2><lemma>toen</lemma><formula><impl><dia dep="cmp_body"><atom id="10">ssub</atom></dia><box dep="mod"><impl><atom id="0">ap</atom><atom id="3">ap</atom></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>dit</word><pos1>det</pos1><pos2>VNW(aanw,pron,stan,vol,3o,ev)</pos2><lemma>dit</lemma><formula><atom id="4">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>grondwettelijk</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>grondwettelijk</lemma><formula><box dep="mod"><impl><atom id="7">ppart</atom><atom id="6">ppart</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="5"><word>verboden</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>verbieden</lemma><formula><atom id="7">ppart</atom></formula></lexicon_item>
+  <lexicon_item id="6"><word>werd</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>worden</lemma><formula><impl><dia dep="vc"><atom id="6">ppart</atom></dia><impl><dia dep="su"><atom id="4">vnw</atom></dia><atom id="10">ssub</atom></impl></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="7">ppart</atom></formula><formula id="2"><impl><atom id="7">ppart</atom><atom id="6">ppart</atom></impl></formula><formula id="3"><impl><atom id="6">ppart</atom><impl><atom id="4">vnw</atom><atom id="10">ssub</atom></impl></impl></formula><formula id="4"><atom id="4">vnw</atom></formula><formula id="5"><impl><atom id="10">ssub</atom><impl><atom id="0">ap</atom><atom id="3">ap</atom></impl></impl></formula><formula id="6"><atom id="0">ap</atom></formula></antecedent><formula><atom id="3">ap</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="7">ppart</atom></formula><formula id="2"><impl><atom id="7">ppart</atom><atom id="6">ppart</atom></impl></formula><formula id="3"><impl><atom id="6">ppart</atom><impl><atom id="4">vnw</atom><atom id="10">ssub</atom></impl></impl></formula><formula id="4"><atom id="4">vnw</atom></formula></antecedent><formula><atom id="10">ssub</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="7">ppart</atom></formula><formula id="2"><impl><atom id="7">ppart</atom><atom id="6">ppart</atom></impl></formula></antecedent><formula><atom id="6">ppart</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="7">ppart</atom></formula></antecedent><formula><atom id="7">ppart</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">ppart</atom></formula></antecedent><formula><atom id="6">ppart</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="4">vnw</atom></formula><formula id="2"><impl><atom id="4">vnw</atom><atom id="10">ssub</atom></impl></formula></antecedent><formula><atom id="10">ssub</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="4">vnw</atom></formula></antecedent><formula><atom id="4">vnw</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="10">ssub</atom></formula></antecedent><formula><atom id="10">ssub</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">ap</atom></formula><formula id="2"><impl><atom id="0">ap</atom><atom id="3">ap</atom></impl></formula></antecedent><formula><atom id="3">ap</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">ap</atom></formula></antecedent><formula><atom id="0">ap</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">ap</atom></formula></antecedent><formula><atom id="3">ap</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

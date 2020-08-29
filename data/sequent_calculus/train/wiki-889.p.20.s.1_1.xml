@@ -1,0 +1,15 @@
+<proof id="wiki-889.p.20.s.1_1.xml" date="27052020">
+ <string>zijn hand bibberde</string>
+ <lexicon>
+  <lexicon_item id="1"><word>zijn</word><pos1>det</pos1><pos2>VNW(bez,det,stan,vol,3,ev,prenom,zonder,agr)</pos2><lemma>zijn</lemma><formula><box dep="det"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>hand</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>hand</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>bibberde</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>bibberen</lemma><formula><impl><dia dep="su"><atom id="1">np</atom></dia><atom id="4">smain</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><atom id="1">np</atom><atom id="4">smain</atom></impl></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="1">np</atom></formula></antecedent><formula><atom id="1">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">smain</atom></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

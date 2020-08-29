@@ -1,0 +1,7 @@
+<proof id="dpc-vla-001161-nl-sen.p.50.s.5_1.xml" date="27052020">
+ <string>enz.</string>
+ <lexicon>
+  <lexicon_item id="1"><word>enz.</word><pos1>adv</pos1><pos2>SPEC(afk)</pos2><lemma>enz.</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="WS-U-E-A-0000000226.p.6.s.12_1.xml" date="27052020">
+ <string>één</string>
+ <lexicon>
+  <lexicon_item id="1"><word>één</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>één</lemma><formula><atom id="0">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">tw</atom></formula></antecedent><formula><atom id="0">tw</atom></formula><premisses></premisses></rule>
+</proof>

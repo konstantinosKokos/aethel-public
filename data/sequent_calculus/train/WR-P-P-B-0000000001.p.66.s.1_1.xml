@@ -1,0 +1,11 @@
+<proof id="WR-P-P-B-0000000001.p.66.s.1_1.xml" date="27052020">
+ <string>roept Lila</string>
+ <lexicon>
+  <lexicon_item id="1"><word>roept</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>roepen</lemma><formula><impl><dia dep="su"><atom id="2">n</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Lila</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Lila</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">sv1</atom></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

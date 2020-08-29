@@ -1,0 +1,15 @@
+<proof id="dpc-qty-000932-nl-sen.p.11.s.5_1.xml" date="27052020">
+ <string>licht Pierre Davin toe</string>
+ <lexicon>
+  <lexicon_item id="1"><word>licht</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>lichten</lemma><formula><impl><dia dep="svp"><atom id="4">vz</atom></dia><impl><dia dep="su"><atom id="3">spec</atom></dia><atom id="2">sv1</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Pierre Davin</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="3">spec</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>toe</word><pos1>part</pos1><pos2>VZ(fin)</pos2><lemma>toe</lemma><formula><atom id="4">vz</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">vz</atom></formula><formula id="2"><impl><atom id="4">vz</atom><impl><atom id="3">spec</atom><atom id="2">sv1</atom></impl></impl></formula><formula id="3"><atom id="3">spec</atom></formula></antecedent><formula><atom id="2">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">vz</atom></formula></antecedent><formula><atom id="4">vz</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="3">spec</atom></formula><formula id="2"><impl><atom id="3">spec</atom><atom id="2">sv1</atom></impl></formula></antecedent><formula><atom id="2">sv1</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">spec</atom></formula></antecedent><formula><atom id="3">spec</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">sv1</atom></formula></antecedent><formula><atom id="2">sv1</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

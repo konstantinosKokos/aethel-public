@@ -1,0 +1,19 @@
+<proof id="WS-U-E-A-0000000016.p.4.s.7_1.xml" date="27052020">
+ <string>vindt ook het kabinet</string>
+ <lexicon>
+  <lexicon_item id="1"><word>vindt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>vinden</lemma><formula><impl><dia dep="su"><atom id="5">np</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>ook</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>ook</lemma><formula><box dep="mod"><impl><atom id="1">sv1</atom><atom id="3">sv1</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>het</word><pos1>det</pos1><pos2>LID(bep,stan,evon)</pos2><lemma>het</lemma><formula><box dep="det"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>kabinet</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>kabinet</lemma><formula><atom id="6">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><formula id="3"><impl><atom id="5">np</atom><atom id="1">sv1</atom></impl></formula><formula id="4"><impl><atom id="1">sv1</atom><atom id="3">sv1</atom></impl></formula></antecedent><formula><atom id="3">sv1</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><formula id="3"><impl><atom id="5">np</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">n</atom></formula></antecedent><formula><atom id="6">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="5">np</atom></formula></antecedent><formula><atom id="5">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="1">sv1</atom></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="3">sv1</atom></formula></antecedent><formula><atom id="3">sv1</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

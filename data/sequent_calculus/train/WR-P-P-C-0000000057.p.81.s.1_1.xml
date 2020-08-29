@@ -1,0 +1,7 @@
+<proof id="WR-P-P-C-0000000057.p.81.s.1_1.xml" date="27052020">
+ <string>www.imec.be</string>
+ <lexicon>
+  <lexicon_item id="1"><word>www.imec.be</word><pos1>noun</pos1><pos2>SPEC(symb)</pos2><lemma>www.imec.be</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
+</proof>

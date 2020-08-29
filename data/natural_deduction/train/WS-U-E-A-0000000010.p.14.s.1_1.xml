@@ -1,0 +1,23 @@
+<proof id="WS-U-E-A-0000000010.p.14.s.1_1.xml" date="27052020">
+ <string>schip haalt een molen neer</string>
+ <lexicon>
+  <lexicon_item id="1"><word>schip</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>schip</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>haalt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>halen</lemma><formula><impl><dia dep="svp"><atom id="8">vz</atom></dia><impl><dia dep="obj1"><atom id="6">np</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="4">smain</atom></impl></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>een</word><pos1>det</pos1><pos2>LID(onbep,stan,agr)</pos2><lemma>een</lemma><formula><box dep="det"><impl><atom id="7">n</atom><atom id="6">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>molen</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>molen</lemma><formula><atom id="7">n</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>neer</word><pos1>part</pos1><pos2>VZ(fin)</pos2><lemma>neer</lemma><formula><atom id="8">vz</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><atom id="7">n</atom></formula><formula id="3"><impl><atom id="7">n</atom><atom id="6">np</atom></impl></formula><formula id="4"><atom id="8">vz</atom></formula><formula id="5"><impl><atom id="8">vz</atom><impl><atom id="6">np</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="7">n</atom></formula><formula id="2"><impl><atom id="7">n</atom><atom id="6">np</atom></impl></formula><formula id="3"><atom id="8">vz</atom></formula><formula id="4"><impl><atom id="8">vz</atom><impl><atom id="6">np</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="7">n</atom></formula><formula id="2"><impl><atom id="7">n</atom><atom id="6">np</atom></impl></formula></antecedent><formula><atom id="6">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="7">n</atom></formula></antecedent><formula><atom id="7">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="7">n</atom><atom id="6">np</atom></impl></formula></antecedent><formula><impl><atom id="7">n</atom><atom id="6">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><atom id="8">vz</atom></formula><formula id="2"><impl><atom id="8">vz</atom><impl><atom id="6">np</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id="6">np</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="8">vz</atom></formula></antecedent><formula><atom id="8">vz</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="8">vz</atom><impl><atom id="6">np</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id="8">vz</atom><impl><atom id="6">np</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

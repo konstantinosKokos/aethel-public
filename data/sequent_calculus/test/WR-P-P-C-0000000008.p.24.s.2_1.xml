@@ -1,0 +1,19 @@
+<proof id="WR-P-P-C-0000000008.p.24.s.2_1.xml" date="27052020">
+ <string>maken uitvoeren en handhaven</string>
+ <lexicon>
+  <lexicon_item id="1"><word>maken</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>maken</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>uitvoeren</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>uitvoeren</lemma><formula><atom id="1">ww</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><dia dep="cnj"><atom id="0">ww</atom></dia><impl><dia dep="cnj"><atom id="1">ww</atom></dia><impl><dia dep="cnj"><atom id="6">ww</atom></dia><atom id="5">ww</atom></impl></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>handhaven</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>handhaven</lemma><formula><atom id="6">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">ww</atom></formula><formula id="2"><impl><atom id="0">ww</atom><impl><atom id="1">ww</atom><impl><atom id="6">ww</atom><atom id="5">ww</atom></impl></impl></impl></formula><formula id="3"><atom id="1">ww</atom></formula><formula id="4"><atom id="6">ww</atom></formula></antecedent><formula><atom id="5">ww</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="1">ww</atom></formula><formula id="2"><impl><atom id="1">ww</atom><impl><atom id="6">ww</atom><atom id="5">ww</atom></impl></impl></formula><formula id="3"><atom id="6">ww</atom></formula></antecedent><formula><atom id="5">ww</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="1">ww</atom></formula></antecedent><formula><atom id="1">ww</atom></formula><premisses></premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="6">ww</atom></formula><formula id="2"><impl><atom id="6">ww</atom><atom id="5">ww</atom></impl></formula></antecedent><formula><atom id="5">ww</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">ww</atom></formula></antecedent><formula><atom id="6">ww</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="5">ww</atom></formula></antecedent><formula><atom id="5">ww</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

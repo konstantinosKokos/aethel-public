@@ -1,0 +1,7 @@
+<proof id="dpc-eup-000019-nl-sen.p.9.s.3_1.xml" date="27052020">
+ <string>ons</string>
+ <lexicon>
+  <lexicon_item id="1"><word>ons</word><pos1>pron</pos1><pos2>VNW(pr,pron,obl,vol,1,mv)</pos2><lemma>ons</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
+</proof>

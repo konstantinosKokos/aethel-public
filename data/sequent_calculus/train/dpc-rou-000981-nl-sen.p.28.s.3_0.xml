@@ -1,0 +1,15 @@
+<proof id="dpc-rou-000981-nl-sen.p.28.s.3_0.xml" date="27052020">
+ <string>Mensen ontdekken iets</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Mensen</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>mens</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>ontdekken</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>ontdekken</lemma><formula><impl><dia dep="obj1"><atom id="4">vnw</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>iets</word><pos1>noun</pos1><pos2>VNW(onbep,pron,stan,vol,3o,ev)</pos2><lemma>iets</lemma><formula><atom id="4">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">vnw</atom></formula><formula id="2"><impl><atom id="4">vnw</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula><formula id="3"><atom id="0">n</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">vnw</atom></formula></antecedent><formula><atom id="4">vnw</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">smain</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

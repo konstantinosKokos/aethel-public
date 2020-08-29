@@ -1,0 +1,11 @@
+<proof id="4186_2.xml" date="27052020">
+ <string>zo nodig</string>
+ <lexicon>
+  <lexicon_item id="1"><word>zo</word><pos1>comp</pos1><pos2>BW()</pos2><lemma>zo</lemma><formula><impl><dia dep="cmp_body"><atom id="2">adj</atom></dia><atom id="1">cp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>nodig</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>nodig</lemma><formula><atom id="2">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">adj</atom></formula><formula id="2"><impl><atom id="2">adj</atom><atom id="1">cp</atom></impl></formula></antecedent><formula><atom id="1">cp</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">adj</atom></formula></antecedent><formula><atom id="2">adj</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">adj</atom><atom id="1">cp</atom></impl></formula></antecedent><formula><impl><atom id="2">adj</atom><atom id="1">cp</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

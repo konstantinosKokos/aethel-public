@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000050394.p.9.s.75_1.xml" date="27052020">
+ <string>afknijpen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>afknijpen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>afknijpen</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>
+</proof>

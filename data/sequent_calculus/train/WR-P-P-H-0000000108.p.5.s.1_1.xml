@@ -1,0 +1,7 @@
+<proof id="WR-P-P-H-0000000108.p.5.s.1_1.xml" date="27052020">
+ <string>VS</string>
+ <lexicon>
+  <lexicon_item id="1"><word>VS</word><pos1>name</pos1><pos2>N(eigen,mv,basis)</pos2><lemma>VS</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
+</proof>

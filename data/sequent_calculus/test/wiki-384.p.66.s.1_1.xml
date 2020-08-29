@@ -1,0 +1,19 @@
+<proof id="wiki-384.p.66.s.1_1.xml" date="27052020">
+ <string>Tussen ideaal en illusie</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Tussen</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>tussen</lemma><formula><impl><dia dep="obj1"><atom id="5">np</atom></dia><atom id="1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>ideaal</word><pos1>noun</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>ideaal</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><dia dep="cnj"><atom id="2">np</atom></dia><impl><dia dep="cnj"><atom id="6">np</atom></dia><atom id="5">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>illusie</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>illusie</lemma><formula><atom id="6">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><impl><atom id="6">np</atom><atom id="5">np</atom></impl></impl></formula><formula id="3"><atom id="6">np</atom></formula><formula id="4"><impl><atom id="5">np</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><impl><atom id="6">np</atom><atom id="5">np</atom></impl></impl></formula><formula id="3"><atom id="6">np</atom></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="6">np</atom></formula><formula id="2"><impl><atom id="6">np</atom><atom id="5">np</atom></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">np</atom></formula></antecedent><formula><atom id="6">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="5">np</atom></formula></antecedent><formula><atom id="5">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">pp</atom></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

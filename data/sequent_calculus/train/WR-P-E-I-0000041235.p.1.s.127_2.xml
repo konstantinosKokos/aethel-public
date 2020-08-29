@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000041235.p.1.s.127_2.xml" date="27052020">
+ <string>ab+ac</string>
+ <lexicon>
+  <lexicon_item id="1"><word>ab+ac</word><pos1>noun</pos1><pos2>SPEC(symb)</pos2><lemma>ab+ac</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
+</proof>

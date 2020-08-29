@@ -1,0 +1,23 @@
+<proof id="wiki-702.p.2.s.1_0.xml" date="27052020">
+ <string>Hop kan betrekking hebben op</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Hop</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>hop</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>kan</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>kunnen</lemma><formula><impl><dia dep="vc"><atom id="7">inf</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>betrekking</word><pos1>part</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>betrekking</lemma><formula><atom id="4">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>hebben</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>hebben</lemma><formula><impl><dia dep="svp"><atom id="4">n</atom></dia><impl><dia dep="pc"><atom id="8">vz</atom></dia><atom id="7">inf</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>op</word><pos1>prep</pos1><pos2>VZ(fin)</pos2><lemma>op</lemma><formula><atom id="8">vz</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><impl><atom id="8">vz</atom><atom id="7">inf</atom></impl></impl></formula><formula id="3"><atom id="8">vz</atom></formula><formula id="4"><impl><atom id="7">inf</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula><formula id="5"><atom id="0">n</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><impl><atom id="8">vz</atom><atom id="7">inf</atom></impl></impl></formula><formula id="3"><atom id="8">vz</atom></formula></antecedent><formula><atom id="7">inf</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">n</atom></formula></antecedent><formula><atom id="4">n</atom></formula><premisses></premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="8">vz</atom></formula><formula id="2"><impl><atom id="8">vz</atom><atom id="7">inf</atom></impl></formula></antecedent><formula><atom id="7">inf</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="8">vz</atom></formula></antecedent><formula><atom id="8">vz</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="7">inf</atom></formula></antecedent><formula><atom id="7">inf</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">smain</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

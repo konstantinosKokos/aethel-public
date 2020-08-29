@@ -1,0 +1,7 @@
+<proof id="WR-P-P-I-0000000122.p.7.s.6_1.xml" date="27052020">
+ <string>dat wou zeggen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>dat wou zeggen</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>
+</proof>

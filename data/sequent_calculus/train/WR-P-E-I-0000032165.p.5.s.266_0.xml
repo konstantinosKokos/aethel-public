@@ -1,0 +1,11 @@
+<proof id="WR-P-E-I-0000032165.p.5.s.266_0.xml" date="27052020">
+ <string>Zie Consensus van Washington</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Zie</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>zien</lemma><formula><impl><dia dep="obj1"><atom id="2">np</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Consensus van Washington</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">sv1</atom></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

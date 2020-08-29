@@ -1,0 +1,23 @@
+<proof id="WR-P-P-I-0000000095.p.6.s.6_1.xml" date="27052020">
+ <string>schertste Flahaut op een persbijeenkomst</string>
+ <lexicon>
+  <lexicon_item id="1"><word>schertste</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>schertsen</lemma><formula><impl><dia dep="su"><atom id="2">n</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Flahaut</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Flahaut</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>op</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>op</lemma><formula><impl><dia dep="obj1"><atom id="7">np</atom></dia><box dep="mod"><impl><atom id="1">sv1</atom><atom id="5">sv1</atom></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>een</word><pos1>det</pos1><pos2>LID(onbep,stan,agr)</pos2><lemma>een</lemma><formula><box dep="det"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="5"><word>persbijeenkomst</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>persbijeenkomst</lemma><formula><atom id="8">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula><formula id="3"><atom id="8">n</atom></formula><formula id="4"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula><formula id="5"><impl><atom id="7">np</atom><impl><atom id="1">sv1</atom><atom id="5">sv1</atom></impl></impl></formula></antecedent><formula><atom id="5">sv1</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula><formula id="3"><impl><atom id="7">np</atom><impl><atom id="1">sv1</atom><atom id="5">sv1</atom></impl></impl></formula></antecedent><formula><impl><atom id="1">sv1</atom><atom id="5">sv1</atom></impl></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="8">n</atom></formula></antecedent><formula><atom id="8">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula></antecedent><formula><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="7">np</atom><impl><atom id="1">sv1</atom><atom id="5">sv1</atom></impl></impl></formula></antecedent><formula><impl><atom id="7">np</atom><impl><atom id="1">sv1</atom><atom id="5">sv1</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

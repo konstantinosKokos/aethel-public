@@ -1,0 +1,43 @@
+<proof id="dpc-ind-001637-nl-sen.p.8.s.2_0.xml" date="27052020">
+ <string>Zelfs wolkenkrabbers worden er tot op 30 meter onzichtbaar door</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Zelfs</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>zelfs</lemma><formula><box dep="mod"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>wolkenkrabbers</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>wolkenkrabber</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>worden</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>worden</lemma><formula><impl><dia dep="pc"><atom id="18">pp</atom></dia><impl><dia dep="predc"><atom id="16">adj</atom></dia><impl><dia dep="su"><atom id="1">np</atom></dia><atom id="6">smain</atom></impl></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>er</word><pos1>adv</pos1><pos2>VNW(aanw,adv-pron,stan,red,3,getal)</pos2><lemma>er</lemma><formula><atom id="7">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>tot</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>tot</lemma><formula><impl><dia dep="obj1"><atom id="12">pp</atom></dia><box dep="mod"><impl><atom id="6">smain</atom><atom id="10">smain</atom></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="6"><word>op</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>op</lemma><formula><impl><dia dep="obj1"><atom id="14">np</atom></dia><atom id="12">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="7"><word>30</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>30</lemma><formula><box dep="det"><impl><atom id="15">n</atom><atom id="14">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="8"><word>meter</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>meter</lemma><formula><atom id="15">n</atom></formula></lexicon_item>
+  <lexicon_item id="9"><word>onzichtbaar</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>onzichtbaar</lemma><formula><atom id="16">adj</atom></formula></lexicon_item>
+  <lexicon_item id="10"><word>door</word><pos1>prep</pos1><pos2>VZ(fin)</pos2><lemma>door</lemma><formula><impl><dia dep="obj1"><atom id="7">vnw</atom></dia><atom id="18">pp</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="15">n</atom></formula><formula id="2"><impl><atom id="15">n</atom><atom id="14">np</atom></impl></formula><formula id="3"><impl><atom id="14">np</atom><atom id="12">pp</atom></impl></formula><formula id="4"><impl><atom id="12">pp</atom><impl><atom id="6">smain</atom><atom id="10">smain</atom></impl></impl></formula><formula id="5"><atom id="7">vnw</atom></formula><formula id="6"><impl><atom id="7">vnw</atom><atom id="18">pp</atom></impl></formula><formula id="7"><impl><atom id="18">pp</atom><impl><atom id="16">adj</atom><impl><atom id="1">np</atom><atom id="6">smain</atom></impl></impl></impl></formula><formula id="8"><atom id="16">adj</atom></formula><formula id="9"><atom id="2">np</atom></formula><formula id="10"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="10">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="15">n</atom></formula><formula id="2"><impl><atom id="15">n</atom><atom id="14">np</atom></impl></formula><formula id="3"><impl><atom id="14">np</atom><atom id="12">pp</atom></impl></formula></antecedent><formula><atom id="12">pp</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="15">n</atom></formula><formula id="2"><impl><atom id="15">n</atom><atom id="14">np</atom></impl></formula></antecedent><formula><atom id="14">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="15">n</atom></formula></antecedent><formula><atom id="15">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="14">np</atom></formula></antecedent><formula><atom id="14">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="12">pp</atom></formula></antecedent><formula><atom id="12">pp</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="7">vnw</atom></formula><formula id="2"><impl><atom id="7">vnw</atom><atom id="18">pp</atom></impl></formula><formula id="3"><impl><atom id="18">pp</atom><impl><atom id="16">adj</atom><impl><atom id="1">np</atom><atom id="6">smain</atom></impl></impl></impl></formula><formula id="4"><atom id="16">adj</atom></formula><formula id="5"><atom id="2">np</atom></formula><formula id="6"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><formula id="7"><impl><atom id="6">smain</atom><atom id="10">smain</atom></impl></formula></antecedent><formula><atom id="10">smain</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="7">vnw</atom></formula><formula id="2"><impl><atom id="7">vnw</atom><atom id="18">pp</atom></impl></formula><formula id="3"><impl><atom id="18">pp</atom><impl><atom id="16">adj</atom><impl><atom id="1">np</atom><atom id="6">smain</atom></impl></impl></impl></formula><formula id="4"><atom id="16">adj</atom></formula><formula id="5"><atom id="2">np</atom></formula><formula id="6"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="6">smain</atom></formula><premisses>
+         <rule name="il"><antecedent><formula id="1"><atom id="7">vnw</atom></formula><formula id="2"><impl><atom id="7">vnw</atom><atom id="18">pp</atom></impl></formula></antecedent><formula><atom id="18">pp</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="7">vnw</atom></formula></antecedent><formula><atom id="7">vnw</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id="18">pp</atom></formula></antecedent><formula><atom id="18">pp</atom></formula><premisses></premisses></rule>
+            </premisses></rule>,
+         <rule name="il"><antecedent><formula id="1"><atom id="16">adj</atom></formula><formula id="2"><impl><atom id="16">adj</atom><impl><atom id="1">np</atom><atom id="6">smain</atom></impl></impl></formula><formula id="3"><atom id="2">np</atom></formula><formula id="4"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="6">smain</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="16">adj</atom></formula></antecedent><formula><atom id="16">adj</atom></formula><premisses></premisses></rule>,
+            <rule name="il"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><atom id="1">np</atom><atom id="6">smain</atom></impl></formula></antecedent><formula><atom id="6">smain</atom></formula><premisses>
+               <rule name="il"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+                  <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+                  <rule name="ax"><antecedent><formula id="1"><atom id="1">np</atom></formula></antecedent><formula><atom id="1">np</atom></formula><premisses></premisses></rule>
+                  </premisses></rule>,
+               <rule name="ax"><antecedent><formula id="1"><atom id="6">smain</atom></formula></antecedent><formula><atom id="6">smain</atom></formula><premisses></premisses></rule>
+               </premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="10">smain</atom></formula></antecedent><formula><atom id="10">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

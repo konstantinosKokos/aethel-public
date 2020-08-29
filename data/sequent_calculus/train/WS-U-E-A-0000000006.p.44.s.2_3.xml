@@ -1,0 +1,15 @@
+<proof id="WS-U-E-A-0000000006.p.44.s.2_3.xml" date="27052020">
+ <string>wordt wel beweerd</string>
+ <lexicon>
+  <lexicon_item id="1"><word>wordt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>worden</lemma><formula><impl><dia dep="vc"><atom id="3">ppart</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>wel</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>wel</lemma><formula><box dep="mod"><impl><atom id="4">ppart</atom><atom id="3">ppart</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>beweerd</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>beweren</lemma><formula><atom id="4">ppart</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">ppart</atom></formula><formula id="2"><impl><atom id="4">ppart</atom><atom id="3">ppart</atom></impl></formula><formula id="3"><impl><atom id="3">ppart</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="4">ppart</atom></formula><formula id="2"><impl><atom id="4">ppart</atom><atom id="3">ppart</atom></impl></formula></antecedent><formula><atom id="3">ppart</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">ppart</atom></formula></antecedent><formula><atom id="4">ppart</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">ppart</atom></formula></antecedent><formula><atom id="3">ppart</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">sv1</atom></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

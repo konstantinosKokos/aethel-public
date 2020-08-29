@@ -1,0 +1,43 @@
+<proof id="WS-U-E-A-0000000040.p.8.s.12_2.xml" date="27052020">
+ <string>des te minder Philips eraan verdient</string>
+ <lexicon>
+  <lexicon_item id="1"><word>des te</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><box dep="mod"><impl><impl><dia dep="rhd_body"><impl><dia dep="mod"><box dep="mod"><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl></box></dia><atom id="2">ssub</atom></impl></dia><atom id="11">whrel</atom></impl><impl><dia dep="rhd_body"><impl><dia dep="mod"><box dep="mod"><impl><atom id="16">ssub</atom><atom id="5">ssub</atom></impl></box></dia><atom id="5">ssub</atom></impl></dia><atom id="7">whrel</atom></impl></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>minder</word><pos1>adj</pos1><pos2>VNW(onbep,grad,stan,vrij,zonder,comp)</pos2><lemma>weinig</lemma><formula><impl><dia dep="rhd_body"><impl><dia dep="mod"><box dep="mod"><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl></box></dia><atom id="2">ssub</atom></impl></dia><atom id="11">whrel</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>Philips</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Philips</lemma><formula><atom id="12">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>eraan</word><pos1>pp</pos1><pos2>BW()</pos2><lemma>eraan</lemma><formula><atom id="13">bw</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>verdient</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>verdienen</lemma><formula><impl><dia dep="pc"><atom id="13">bw</atom></dia><impl><dia dep="su"><atom id="12">n</atom></dia><atom id="16">ssub</atom></impl></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><impl><impl><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl><atom id="2">ssub</atom></impl><atom id="11">whrel</atom></impl></formula><formula id="2"><impl><impl><impl><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl><atom id="2">ssub</atom></impl><atom id="11">whrel</atom></impl><impl><impl><impl><atom id="16">ssub</atom><atom id="5">ssub</atom></impl><atom id="5">ssub</atom></impl><atom id="7">whrel</atom></impl></impl></formula><formula id="3"><atom id="13">bw</atom></formula><formula id="4"><impl><atom id="13">bw</atom><impl><atom id="12">n</atom><atom id="16">ssub</atom></impl></impl></formula><formula id="5"><atom id="12">n</atom></formula></antecedent><formula><atom id="7">whrel</atom></formula><premisses>
+   <rule name="ir"><antecedent><formula id="1"><impl><impl><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl><atom id="2">ssub</atom></impl><atom id="11">whrel</atom></impl></formula></antecedent><formula><impl><impl><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl><atom id="2">ssub</atom></impl><atom id="11">whrel</atom></impl></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><impl><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl><atom id="2">ssub</atom></impl></formula><formula id="2"><impl><impl><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl><atom id="2">ssub</atom></impl><atom id="11">whrel</atom></impl></formula></antecedent><formula><atom id="11">whrel</atom></formula><premisses>
+         <rule name="ir"><antecedent><formula id="1"><impl><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl><atom id="2">ssub</atom></impl></formula></antecedent><formula><impl><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl><atom id="2">ssub</atom></impl></formula><premisses>
+            <rule name="il"><antecedent><formula id="1"><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl></formula><formula id="2"><impl><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl><atom id="2">ssub</atom></impl></formula></antecedent><formula><atom id="2">ssub</atom></formula><premisses>
+               <rule name="ir"><antecedent><formula id="1"><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl></formula></antecedent><formula><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl></formula><premisses>
+                  <rule name="il"><antecedent><formula id="1"><atom id="0">ssub</atom></formula><formula id="2"><impl><atom id="0">ssub</atom><atom id="9">ssub</atom></impl></formula></antecedent><formula><atom id="9">ssub</atom></formula><premisses>
+                     <rule name="ax"><antecedent><formula id="1"><atom id="0">ssub</atom></formula></antecedent><formula><atom id="0">ssub</atom></formula><premisses></premisses></rule>,
+                     <rule name="ax"><antecedent><formula id="1"><atom id="9">ssub</atom></formula></antecedent><formula><atom id="9">ssub</atom></formula><premisses></premisses></rule>
+                     </premisses></rule>
+                  </premisses></rule>,
+               <rule name="ax"><antecedent><formula id="1"><atom id="2">ssub</atom></formula></antecedent><formula><atom id="2">ssub</atom></formula><premisses></premisses></rule>
+               </premisses></rule>
+            </premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="11">whrel</atom></formula></antecedent><formula><atom id="11">whrel</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="13">bw</atom></formula><formula id="2"><impl><atom id="13">bw</atom><impl><atom id="12">n</atom><atom id="16">ssub</atom></impl></impl></formula><formula id="3"><atom id="12">n</atom></formula><formula id="4"><impl><impl><impl><atom id="16">ssub</atom><atom id="5">ssub</atom></impl><atom id="5">ssub</atom></impl><atom id="7">whrel</atom></impl></formula></antecedent><formula><atom id="7">whrel</atom></formula><premisses>
+      <rule name="ir"><antecedent><formula id="1"><atom id="13">bw</atom></formula><formula id="2"><impl><atom id="13">bw</atom><impl><atom id="12">n</atom><atom id="16">ssub</atom></impl></impl></formula><formula id="3"><atom id="12">n</atom></formula></antecedent><formula><impl><impl><atom id="16">ssub</atom><atom id="5">ssub</atom></impl><atom id="5">ssub</atom></impl></formula><premisses>
+         <rule name="il"><antecedent><formula id="1"><atom id="13">bw</atom></formula><formula id="2"><impl><atom id="13">bw</atom><impl><atom id="12">n</atom><atom id="16">ssub</atom></impl></impl></formula><formula id="3"><atom id="12">n</atom></formula><formula id="4"><impl><atom id="16">ssub</atom><atom id="5">ssub</atom></impl></formula></antecedent><formula><atom id="5">ssub</atom></formula><premisses>
+            <rule name="il"><antecedent><formula id="1"><atom id="13">bw</atom></formula><formula id="2"><impl><atom id="13">bw</atom><impl><atom id="12">n</atom><atom id="16">ssub</atom></impl></impl></formula><formula id="3"><atom id="12">n</atom></formula></antecedent><formula><atom id="16">ssub</atom></formula><premisses>
+               <rule name="ax"><antecedent><formula id="1"><atom id="13">bw</atom></formula></antecedent><formula><atom id="13">bw</atom></formula><premisses></premisses></rule>,
+               <rule name="il"><antecedent><formula id="1"><atom id="12">n</atom></formula><formula id="2"><impl><atom id="12">n</atom><atom id="16">ssub</atom></impl></formula></antecedent><formula><atom id="16">ssub</atom></formula><premisses>
+                  <rule name="ax"><antecedent><formula id="1"><atom id="12">n</atom></formula></antecedent><formula><atom id="12">n</atom></formula><premisses></premisses></rule>,
+                  <rule name="ax"><antecedent><formula id="1"><atom id="16">ssub</atom></formula></antecedent><formula><atom id="16">ssub</atom></formula><premisses></premisses></rule>
+                  </premisses></rule>
+               </premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id="5">ssub</atom></formula></antecedent><formula><atom id="5">ssub</atom></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="7">whrel</atom></formula></antecedent><formula><atom id="7">whrel</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

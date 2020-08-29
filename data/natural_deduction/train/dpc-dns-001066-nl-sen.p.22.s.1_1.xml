@@ -1,0 +1,11 @@
+<proof id="dpc-dns-001066-nl-sen.p.22.s.1_1.xml" date="27052020">
+ <string>Ons antwoord</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Ons</word><pos1>det</pos1><pos2>VNW(bez,det,stan,vol,1,mv,prenom,zonder,evon)</pos2><lemma>ons</lemma><formula><box dep="det"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>antwoord</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>antwoord</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

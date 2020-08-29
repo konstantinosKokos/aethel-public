@@ -1,0 +1,19 @@
+<proof id="wiki-11.p.87.s.1_0.xml" date="27052020">
+ <string>Mulhouse Frankrijk sinds 1954</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Mulhouse</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Mulhouse</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>Frankrijk</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Frankrijk</lemma><formula><box dep="mod"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>sinds</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>sinds</lemma><formula><impl><dia dep="obj1"><atom id="6">tw</atom></dia><box dep="mod"><impl><atom id="2">np</atom><atom id="5">np</atom></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>1954</word><pos1>noun</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1954</lemma><formula><atom id="6">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></formula><formula id="3"><atom id="6">tw</atom></formula><formula id="4"><impl><atom id="6">tw</atom><impl><atom id="2">np</atom><atom id="5">np</atom></impl></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><impl><atom id="0">np</atom><atom id="2">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">tw</atom></formula><formula id="2"><impl><atom id="6">tw</atom><impl><atom id="2">np</atom><atom id="5">np</atom></impl></impl></formula></antecedent><formula><impl><atom id="2">np</atom><atom id="5">np</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="6">tw</atom></formula></antecedent><formula><atom id="6">tw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">tw</atom><impl><atom id="2">np</atom><atom id="5">np</atom></impl></impl></formula></antecedent><formula><impl><atom id="6">tw</atom><impl><atom id="2">np</atom><atom id="5">np</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,19 @@
+<proof id="WR-P-P-I-0000000033.p.12.s.2_1.xml" date="27052020">
+ <string>verdedigt de kandidaat zich</string>
+ <lexicon>
+  <lexicon_item id="1"><word>verdedigt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>verdedigen</lemma><formula><impl><dia dep="obj1"><atom id="6">vnw</atom></dia><impl><dia dep="su"><atom id="4">np</atom></dia><atom id="2">sv1</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>de</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><box dep="det"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>kandidaat</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>kandidaat</lemma><formula><atom id="5">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>zich</word><pos1>pron</pos1><pos2>VNW(refl,pron,obl,red,3,getal)</pos2><lemma>zich</lemma><formula><atom id="6">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula><formula id="3"><atom id="6">vnw</atom></formula><formula id="4"><impl><atom id="6">vnw</atom><impl><atom id="4">np</atom><atom id="2">sv1</atom></impl></impl></formula></antecedent><formula><atom id="2">sv1</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula></antecedent><formula><atom id="4">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="5">n</atom></formula></antecedent><formula><atom id="5">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula></antecedent><formula><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">vnw</atom></formula><formula id="2"><impl><atom id="6">vnw</atom><impl><atom id="4">np</atom><atom id="2">sv1</atom></impl></impl></formula></antecedent><formula><impl><atom id="4">np</atom><atom id="2">sv1</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="6">vnw</atom></formula></antecedent><formula><atom id="6">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">vnw</atom><impl><atom id="4">np</atom><atom id="2">sv1</atom></impl></impl></formula></antecedent><formula><impl><atom id="6">vnw</atom><impl><atom id="4">np</atom><atom id="2">sv1</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

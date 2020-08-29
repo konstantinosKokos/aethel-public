@@ -1,0 +1,7 @@
+<proof id="WR-P-E-H-0000000051.p.93.s.1_2.xml" date="27052020">
+ <string>Moslim</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Moslim</word><pos1>noun</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>moslim</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
+</proof>

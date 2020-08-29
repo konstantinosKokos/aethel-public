@@ -1,0 +1,11 @@
+<proof id="WR-P-P-H-0000000039.p.11.s.3_1.xml" date="27052020">
+ <string>Mensen zeggen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Mensen</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>mens</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>zeggen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>zeggen</lemma><formula><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="2">inf</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="2">inf</atom></impl></formula></antecedent><formula><atom id="2">inf</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">inf</atom></formula></antecedent><formula><atom id="2">inf</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

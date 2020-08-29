@@ -1,0 +1,23 @@
+<proof id="WR-P-E-I-0000019936.p.7.s.114_0.xml" date="27052020">
+ <string>Hun eerste kind was Jesse Byron Dylan</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Hun</word><pos1>det</pos1><pos2>VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)</pos2><lemma>hun</lemma><formula><box dep="det"><impl><atom id="4">n</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>eerste</word><pos1>num</pos1><pos2>TW(rang,prenom,stan)</pos2><lemma>één</lemma><formula><box dep="mod"><impl><atom id="1">np</atom><atom id="3">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>kind</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>kind</lemma><formula><atom id="4">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>was</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>zijn</lemma><formula><impl><dia dep="predc"><atom id="8">spec</atom></dia><impl><dia dep="su"><atom id="3">np</atom></dia><atom id="7">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>Jesse Byron Dylan</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="8">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><atom id="1">np</atom><atom id="3">np</atom></impl></formula><formula id="4"><atom id="8">spec</atom></formula><formula id="5"><impl><atom id="8">spec</atom><impl><atom id="3">np</atom><atom id="7">smain</atom></impl></impl></formula></antecedent><formula><atom id="7">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><atom id="1">np</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="4">n</atom></formula></antecedent><formula><atom id="4">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="4">n</atom><atom id="1">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="1">np</atom><atom id="3">np</atom></impl></formula></antecedent><formula><impl><atom id="1">np</atom><atom id="3">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="8">spec</atom></formula><formula id="2"><impl><atom id="8">spec</atom><impl><atom id="3">np</atom><atom id="7">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="3">np</atom><atom id="7">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="8">spec</atom></formula></antecedent><formula><atom id="8">spec</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="8">spec</atom><impl><atom id="3">np</atom><atom id="7">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="8">spec</atom><impl><atom id="3">np</atom><atom id="7">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

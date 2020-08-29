@@ -1,0 +1,20 @@
+<proof id="WR-P-P-I-0000000227.p.16.s.2_2.xml" date="27052020">
+ <string>wie bepaalt betaalt</string>
+ <lexicon>
+  <lexicon_item id="1"><word>wie</word><pos1>pron</pos1><pos2>VNW(vb,pron,stan,vol,3p,getal)</pos2><lemma>wie</lemma><formula><impl><dia dep="rhd_body"><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="4">ssub</atom></impl></dia><atom id="2">whrel</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>bepaalt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>bepalen</lemma><formula><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="4">ssub</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>betaalt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>betalen</lemma><formula><impl><dia dep="su"><atom id="2">whrel</atom></dia><atom id="6">smain</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><impl><atom id="0">vnw</atom><atom id="4">ssub</atom></impl></formula><formula id="2"><impl><impl><atom id="0">vnw</atom><atom id="4">ssub</atom></impl><atom id="2">whrel</atom></impl></formula><formula id="3"><impl><atom id="2">whrel</atom><atom id="6">smain</atom></impl></formula></antecedent><formula><atom id="6">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><impl><atom id="0">vnw</atom><atom id="4">ssub</atom></impl></formula><formula id="2"><impl><impl><atom id="0">vnw</atom><atom id="4">ssub</atom></impl><atom id="2">whrel</atom></impl></formula></antecedent><formula><atom id="2">whrel</atom></formula><premisses>
+      <rule name="ir"><antecedent><formula id="1"><impl><atom id="0">vnw</atom><atom id="4">ssub</atom></impl></formula></antecedent><formula><impl><atom id="0">vnw</atom><atom id="4">ssub</atom></impl></formula><premisses>
+         <rule name="il"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><impl><atom id="0">vnw</atom><atom id="4">ssub</atom></impl></formula></antecedent><formula><atom id="4">ssub</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id="4">ssub</atom></formula></antecedent><formula><atom id="4">ssub</atom></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">whrel</atom></formula></antecedent><formula><atom id="2">whrel</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="6">smain</atom></formula></antecedent><formula><atom id="6">smain</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

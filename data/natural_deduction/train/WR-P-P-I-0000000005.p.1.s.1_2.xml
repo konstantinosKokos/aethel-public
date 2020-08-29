@@ -1,0 +1,11 @@
+<proof id="WR-P-P-I-0000000005.p.1.s.1_2.xml" date="27052020">
+ <string>nog het meest</string>
+ <lexicon>
+  <lexicon_item id="1"><word>nog</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>nog</lemma><formula><box dep="mod"><impl><atom id="2">ap</atom><atom id="1">ap</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>het meest</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="2">ap</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">ap</atom></formula><formula id="2"><impl><atom id="2">ap</atom><atom id="1">ap</atom></impl></formula></antecedent><formula><atom id="1">ap</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">ap</atom></formula></antecedent><formula><atom id="2">ap</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">ap</atom><atom id="1">ap</atom></impl></formula></antecedent><formula><impl><atom id="2">ap</atom><atom id="1">ap</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

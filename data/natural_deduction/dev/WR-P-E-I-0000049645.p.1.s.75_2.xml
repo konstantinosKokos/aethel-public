@@ -1,0 +1,19 @@
+<proof id="WR-P-E-I-0000049645.p.1.s.75_2.xml" date="27052020">
+ <string>verblijvend te Elsene rue Paul Lauters , 63</string>
+ <lexicon>
+  <lexicon_item id="1"><word>verblijvend</word><pos1>adj</pos1><pos2>WW(od,vrij,zonder)</pos2><lemma>verblijven</lemma><formula><impl><dia dep="pc"><atom id="3">pp</atom></dia><atom id="1">ppres</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>te</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>te</lemma><formula><impl><dia dep="obj1"><atom id="6">np</atom></dia><atom id="3">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>Elsene</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Elsene</lemma><formula><atom id="4">np</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>rue Paul Lauters , 63</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><box dep="mod"><impl><atom id="4">np</atom><atom id="6">np</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="6">np</atom></impl></formula><formula id="3"><impl><atom id="6">np</atom><atom id="3">pp</atom></impl></formula><formula id="4"><impl><atom id="3">pp</atom><atom id="1">ppres</atom></impl></formula></antecedent><formula><atom id="1">ppres</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="6">np</atom></impl></formula><formula id="3"><impl><atom id="6">np</atom><atom id="3">pp</atom></impl></formula></antecedent><formula><atom id="3">pp</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="6">np</atom></impl></formula></antecedent><formula><atom id="6">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="4">np</atom></formula></antecedent><formula><atom id="4">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">np</atom><atom id="6">np</atom></impl></formula></antecedent><formula><impl><atom id="4">np</atom><atom id="6">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">np</atom><atom id="3">pp</atom></impl></formula></antecedent><formula><impl><atom id="6">np</atom><atom id="3">pp</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">pp</atom><atom id="1">ppres</atom></impl></formula></antecedent><formula><impl><atom id="3">pp</atom><atom id="1">ppres</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

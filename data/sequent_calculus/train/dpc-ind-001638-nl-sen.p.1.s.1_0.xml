@@ -1,0 +1,23 @@
+<proof id="dpc-ind-001638-nl-sen.p.1.s.1_0.xml" date="27052020">
+ <string>Hollywood verkeert in staat van oorlog</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Hollywood</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Hollywood</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>verkeert</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>verkeren</lemma><formula><impl><dia dep="predc"><atom id="5">ap</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>in staat</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><impl><dia dep="pc"><atom id="7">pp</atom></dia><atom id="5">ap</atom></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>van</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>van</lemma><formula><impl><dia dep="obj1"><atom id="8">n</atom></dia><atom id="7">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>oorlog</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>oorlog</lemma><formula><atom id="8">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><atom id="7">pp</atom></impl></formula><formula id="3"><impl><atom id="7">pp</atom><atom id="5">ap</atom></impl></formula><formula id="4"><impl><atom id="5">ap</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula><formula id="5"><atom id="0">n</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><atom id="7">pp</atom></impl></formula><formula id="3"><impl><atom id="7">pp</atom><atom id="5">ap</atom></impl></formula></antecedent><formula><atom id="5">ap</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><atom id="7">pp</atom></impl></formula></antecedent><formula><atom id="7">pp</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="8">n</atom></formula></antecedent><formula><atom id="8">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="7">pp</atom></formula></antecedent><formula><atom id="7">pp</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="5">ap</atom></formula></antecedent><formula><atom id="5">ap</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">smain</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>
