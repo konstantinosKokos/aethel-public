@@ -1,7 +1,0 @@
-<proof id="wiki-7585.p.20.s.2_1.xml" date="27052020">
- <string>1972</string>
- <lexicon>
-  <lexicon_item id="1"><word>1972</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1972</lemma><formula><atom id="0">tw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">tw</atom></formula></antecedent><formula><atom id="0">tw</atom></formula><premisses></premisses></rule>
-</proof>
