@@ -28,4 +28,4 @@ To be able to access the data, you will need to clone the
 ---
  
 If you require a representation format not available in the repo, encounter any issues or find any inconsistencies,
- do not hesitate to get in touch.
+ do not hesitate to [get in touch](mailto:k.kogkalidis@uu.nl).
