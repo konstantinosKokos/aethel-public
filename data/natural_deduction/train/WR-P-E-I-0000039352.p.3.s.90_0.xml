@@ -1,0 +1,23 @@
+<proof id="WR-P-E-I-0000039352.p.3.s.90_0.xml" date="27052020">
+ <string>Aan hun riem een sabel</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Aan</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>aan</lemma><formula><impl><dia dep="obj1"><atom id="4">np</atom></dia><box dep="mod"><impl><atom id="7">np</atom><atom id="2">np</atom></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>hun</word><pos1>det</pos1><pos2>VNW(bez,det,stan,vol,3,mv,prenom,zonder,agr)</pos2><lemma>hun</lemma><formula><box dep="det"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>riem</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>riem</lemma><formula><atom id="5">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>een</word><pos1>det</pos1><pos2>LID(onbep,stan,agr)</pos2><lemma>een</lemma><formula><box dep="det"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="5"><word>sabel</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>sabel</lemma><formula><atom id="8">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula><formula id="3"><atom id="5">n</atom></formula><formula id="4"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula><formula id="5"><impl><atom id="4">np</atom><impl><atom id="7">np</atom><atom id="2">np</atom></impl></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="8">n</atom></formula></antecedent><formula><atom id="8">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula></antecedent><formula><impl><atom id="8">n</atom><atom id="7">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula><formula id="3"><impl><atom id="4">np</atom><impl><atom id="7">np</atom><atom id="2">np</atom></impl></impl></formula></antecedent><formula><impl><atom id="7">np</atom><atom id="2">np</atom></impl></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula></antecedent><formula><atom id="4">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="5">n</atom></formula></antecedent><formula><atom id="5">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula></antecedent><formula><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">np</atom><impl><atom id="7">np</atom><atom id="2">np</atom></impl></impl></formula></antecedent><formula><impl><atom id="4">np</atom><impl><atom id="7">np</atom><atom id="2">np</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

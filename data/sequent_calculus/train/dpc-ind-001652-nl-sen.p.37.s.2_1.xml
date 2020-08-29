@@ -1,0 +1,15 @@
+<proof id="dpc-ind-001652-nl-sen.p.37.s.2_1.xml" date="27052020">
+ <string>liet Di Stefano optekenen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>liet</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>laten</lemma><formula><impl><dia dep="vc"><atom id="4">ww</atom></dia><impl><dia dep="su"><atom id="3">spec</atom></dia><atom id="2">sv1</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Di Stefano</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="3">spec</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>optekenen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>optekenen</lemma><formula><atom id="4">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">ww</atom></formula><formula id="2"><impl><atom id="4">ww</atom><impl><atom id="3">spec</atom><atom id="2">sv1</atom></impl></impl></formula><formula id="3"><atom id="3">spec</atom></formula></antecedent><formula><atom id="2">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">ww</atom></formula></antecedent><formula><atom id="4">ww</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="3">spec</atom></formula><formula id="2"><impl><atom id="3">spec</atom><atom id="2">sv1</atom></impl></formula></antecedent><formula><atom id="2">sv1</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">spec</atom></formula></antecedent><formula><atom id="3">spec</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">sv1</atom></formula></antecedent><formula><atom id="2">sv1</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

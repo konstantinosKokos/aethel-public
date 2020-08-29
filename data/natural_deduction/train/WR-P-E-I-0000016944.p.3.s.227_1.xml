@@ -1,0 +1,11 @@
+<proof id="WR-P-E-I-0000016944.p.3.s.227_1.xml" date="27052020">
+ <string>Sosabowski zei</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Sosabowski</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Sosabowski</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>zei</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>zeggen</lemma><formula><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="2">smain</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="2">smain</atom></impl></formula></antecedent><formula><atom id="2">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="0">n</atom><atom id="2">smain</atom></impl></formula></antecedent><formula><impl><atom id="0">n</atom><atom id="2">smain</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

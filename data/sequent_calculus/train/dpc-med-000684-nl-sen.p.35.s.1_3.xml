@@ -1,0 +1,15 @@
+<proof id="dpc-med-000684-nl-sen.p.35.s.1_3.xml" date="27052020">
+ <string>0,56 tot 0,82</string>
+ <lexicon>
+  <lexicon_item id="1"><word>0,56</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>0,56</lemma><formula><atom id="0">tw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>tot</word><pos1>vg</pos1><pos2>VZ(init)</pos2><lemma>tot</lemma><formula><impl><dia dep="cnj"><atom id="0">tw</atom></dia><impl><dia dep="cnj"><atom id="4">tw</atom></dia><atom id="3">tw</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>0,82</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>0,82</lemma><formula><atom id="4">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">tw</atom></formula><formula id="2"><impl><atom id="0">tw</atom><impl><atom id="4">tw</atom><atom id="3">tw</atom></impl></impl></formula><formula id="3"><atom id="4">tw</atom></formula></antecedent><formula><atom id="3">tw</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">tw</atom></formula></antecedent><formula><atom id="0">tw</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="4">tw</atom></formula><formula id="2"><impl><atom id="4">tw</atom><atom id="3">tw</atom></impl></formula></antecedent><formula><atom id="3">tw</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">tw</atom></formula></antecedent><formula><atom id="4">tw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">tw</atom></formula></antecedent><formula><atom id="3">tw</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

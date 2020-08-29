@@ -1,0 +1,19 @@
+<proof id="WS-U-E-A-0000000209.p.25.s.2_0.xml" date="27052020">
+ <string>Met veel Antiliaanse brassbands</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Met</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>met</lemma><formula><impl><dia dep="obj1"><atom id="5">np</atom></dia><atom id="1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>veel</word><pos1>adj</pos1><pos2>VNW(onbep,grad,stan,prenom,zonder,agr,basis)</pos2><lemma>veel</lemma><formula><box dep="det"><impl><atom id="6">spec</atom><atom id="3">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>Antiliaanse</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>Antiliaans</lemma><formula><box dep="mod"><impl><atom id="3">np</atom><atom id="5">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>brassbands</word><pos1>noun</pos1><pos2>SPEC(vreemd)</pos2><lemma>brassbands</lemma><formula><atom id="6">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="6">spec</atom></formula><formula id="2"><impl><atom id="6">spec</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="5">np</atom></impl></formula><formula id="4"><impl><atom id="5">np</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">spec</atom></formula><formula id="2"><impl><atom id="6">spec</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="5">np</atom></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="6">spec</atom></formula><formula id="2"><impl><atom id="6">spec</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">spec</atom></formula></antecedent><formula><atom id="6">spec</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">spec</atom><atom id="3">np</atom></impl></formula></antecedent><formula><impl><atom id="6">spec</atom><atom id="3">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="5">np</atom></impl></formula></antecedent><formula><impl><atom id="3">np</atom><atom id="5">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="5">np</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><impl><atom id="5">np</atom><atom id="1">pp</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

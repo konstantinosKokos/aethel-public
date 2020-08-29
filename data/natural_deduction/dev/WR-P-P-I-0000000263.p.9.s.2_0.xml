@@ -1,0 +1,15 @@
+<proof id="WR-P-P-I-0000000263.p.9.s.2_0.xml" date="27052020">
+ <string>waarschuwt ook Gendebien</string>
+ <lexicon>
+  <lexicon_item id="1"><word>waarschuwt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>waarschuwen</lemma><formula><impl><dia dep="su"><atom id="4">n</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>ook</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>ook</lemma><formula><box dep="mod"><impl><atom id="1">sv1</atom><atom id="3">sv1</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>Gendebien</word><pos1>name</pos1><pos2>N(eigen,ev,basis,genus,stan)</pos2><lemma>Gendebien</lemma><formula><atom id="4">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="1">sv1</atom></impl></formula><formula id="3"><impl><atom id="1">sv1</atom><atom id="3">sv1</atom></impl></formula></antecedent><formula><atom id="3">sv1</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">n</atom></formula></antecedent><formula><atom id="4">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">n</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><impl><atom id="4">n</atom><atom id="1">sv1</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="1">sv1</atom><atom id="3">sv1</atom></impl></formula></antecedent><formula><impl><atom id="1">sv1</atom><atom id="3">sv1</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,15 @@
+<proof id="WR-P-E-I-0000108667.p.3.s.12_2.xml" date="27052020">
+ <string>boord of grens</string>
+ <lexicon>
+  <lexicon_item id="1"><word>boord</word><pos1>noun</pos1><pos2>N(soort,ev,basis,genus,stan)</pos2><lemma>boord</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>of</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>of</lemma><formula><impl><dia dep="cnj"><atom id="0">np</atom></dia><impl><dia dep="cnj"><atom id="4">np</atom></dia><atom id="3">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>grens</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>grens</lemma><formula><atom id="4">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><impl><atom id="4">np</atom><atom id="3">np</atom></impl></impl></formula><formula id="3"><atom id="4">np</atom></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">np</atom></formula></antecedent><formula><atom id="4">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">np</atom></formula></antecedent><formula><atom id="3">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

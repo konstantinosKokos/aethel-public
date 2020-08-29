@@ -1,0 +1,7 @@
+<proof id="WR-P-P-H-0000000054.p.5.s.1_1.xml" date="27052020">
+ <string>die</string>
+ <lexicon>
+  <lexicon_item id="1"><word>die</word><pos1>det</pos1><pos2>VNW(aanw,pron,stan,vol,3,getal)</pos2><lemma>die</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000027216.p.1.s.86_1.xml" date="27052020">
+ <string>Amir al-mu'minin</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Amir al-mu'minin</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,11 @@
+<proof id="WR-P-P-J-0000000001.p.197.s.1_2.xml" date="27052020">
+ <string>minister Veerman</string>
+ <lexicon>
+  <lexicon_item id="1"><word>minister</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>minister</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>Veerman</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Veerman</lemma><formula><box dep="app"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

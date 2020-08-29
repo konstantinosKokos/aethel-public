@@ -1,0 +1,7 @@
+<proof id="WS-U-E-A-0000000218.p.1.s.1_6.xml" date="27052020">
+ <string>onbereikbaar</string>
+ <lexicon>
+  <lexicon_item id="1"><word>onbereikbaar</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>onbereikbaar</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
+</proof>

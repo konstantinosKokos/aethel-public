@@ -1,0 +1,15 @@
+<proof id="WR-P-P-I-0000000245.p.2.s.3_1.xml" date="27052020">
+ <string>Argentinië is bankroet</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Argentinië</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Argentinië</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>is</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>zijn</lemma><formula><impl><dia dep="predc"><atom id="4">adj</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>bankroet</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>bankroet</lemma><formula><atom id="4">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">adj</atom></formula><formula id="2"><impl><atom id="4">adj</atom><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></impl></formula><formula id="3"><atom id="0">n</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">adj</atom></formula></antecedent><formula><atom id="4">adj</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="3">smain</atom></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">smain</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

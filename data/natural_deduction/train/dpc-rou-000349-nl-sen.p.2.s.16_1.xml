@@ -1,0 +1,11 @@
+<proof id="dpc-rou-000349-nl-sen.p.2.s.16_1.xml" date="27052020">
+ <string>verduidelijken ze</string>
+ <lexicon>
+  <lexicon_item id="1"><word>verduidelijken</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>verduidelijken</lemma><formula><impl><dia dep="su"><atom id="2">vnw</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>ze</word><pos1>pron</pos1><pos2>VNW(pers,pron,stan,red,3,mv)</pos2><lemma>ze</lemma><formula><atom id="2">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">vnw</atom></formula><formula id="2"><impl><atom id="2">vnw</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">vnw</atom></formula></antecedent><formula><atom id="2">vnw</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">vnw</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><impl><atom id="2">vnw</atom><atom id="1">sv1</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

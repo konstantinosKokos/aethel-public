@@ -1,0 +1,7 @@
+<proof id="dpc-rou-000983-nl-sen.p.27.s.4_0.xml" date="27052020">
+ <string>Ja</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Ja</word><pos1>tag</pos1><pos2>TSW()</pos2><lemma>ja</lemma><formula><atom id="0">tsw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">tsw</atom></formula></antecedent><formula><atom id="0">tsw</atom></formula><premisses></premisses></rule>
+</proof>

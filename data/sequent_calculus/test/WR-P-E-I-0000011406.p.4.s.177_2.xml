@@ -1,0 +1,19 @@
+<proof id="WR-P-E-I-0000011406.p.4.s.177_2.xml" date="27052020">
+ <string>niet binnen 100 mijl</string>
+ <lexicon>
+  <lexicon_item id="1"><word>niet</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>niet</lemma><formula><box dep="mod"><impl><atom id="3">pp</atom><atom id="1">pp</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>binnen</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>binnen</lemma><formula><impl><dia dep="obj1"><atom id="5">np</atom></dia><atom id="3">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>100</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>100</lemma><formula><box dep="det"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>mijl</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>mijl</lemma><formula><atom id="6">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><formula id="3"><impl><atom id="5">np</atom><atom id="3">pp</atom></impl></formula><formula id="4"><impl><atom id="3">pp</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula><formula id="3"><impl><atom id="5">np</atom><atom id="3">pp</atom></impl></formula></antecedent><formula><atom id="3">pp</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><atom id="5">np</atom></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">n</atom></formula></antecedent><formula><atom id="6">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="5">np</atom></formula></antecedent><formula><atom id="5">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">pp</atom></formula></antecedent><formula><atom id="3">pp</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">pp</atom></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

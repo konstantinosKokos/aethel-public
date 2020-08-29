@@ -1,0 +1,19 @@
+<proof id="WR-P-P-K-0000000019.p.168.s.1_1.xml" date="27052020">
+ <string>ook verdere regionale wapenbeheersingsmaatregelen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>ook</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>ook</lemma><formula><box dep="mod"><impl><atom id="6">np</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>verdere</word><pos1>adj</pos1><pos2>ADJ(prenom,comp,met-e,stan)</pos2><lemma>ver</lemma><formula><box dep="mod"><impl><atom id="1">np</atom><atom id="3">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>regionale</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>regionaal</lemma><formula><box dep="mod"><impl><atom id="3">np</atom><atom id="5">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>wapenbeheersingsmaatregelen</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>wapenbeheersingsmaatregel</lemma><formula><atom id="6">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="6">np</atom></formula><formula id="2"><impl><atom id="6">np</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><atom id="1">np</atom><atom id="3">np</atom></impl></formula><formula id="4"><impl><atom id="3">np</atom><atom id="5">np</atom></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">np</atom></formula><formula id="2"><impl><atom id="6">np</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><atom id="1">np</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="6">np</atom></formula><formula id="2"><impl><atom id="6">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">np</atom></formula></antecedent><formula><atom id="6">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="6">np</atom><atom id="1">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="1">np</atom><atom id="3">np</atom></impl></formula></antecedent><formula><impl><atom id="1">np</atom><atom id="3">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="5">np</atom></impl></formula></antecedent><formula><impl><atom id="3">np</atom><atom id="5">np</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

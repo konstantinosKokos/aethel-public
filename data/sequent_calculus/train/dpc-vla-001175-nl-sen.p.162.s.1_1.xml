@@ -1,0 +1,11 @@
+<proof id="dpc-vla-001175-nl-sen.p.162.s.1_1.xml" date="27052020">
+ <string>Deeltijds kunstonderwijs DKO</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Deeltijds kunstonderwijs</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>DKO</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>DKO</lemma><formula><box dep="mod"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

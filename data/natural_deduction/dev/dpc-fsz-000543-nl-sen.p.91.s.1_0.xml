@@ -1,0 +1,24 @@
+<proof id="dpc-fsz-000543-nl-sen.p.91.s.1_0.xml" date="27052020">
+ <string>onderhavig bestek nr. 07/LOG/PBE/FT-044</string>
+ <lexicon>
+  <lexicon_item id="1"><word>onderhavig</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,zonder)</pos2><lemma>onderhavig</lemma><formula><box dep="mod"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>bestek</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>bestek</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>nr.</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>nr.</lemma><formula><box dep="app"><impl><atom id="5">np</atom><atom id="4">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>07/LOG/PBE/FT-044</word><pos1>num</pos1><pos2>SPEC(symb)</pos2><lemma>07/LOG/PBE/FT-044</lemma><formula><box dep="app"><impl><box dep="app"><impl><atom id="5">np</atom><atom id="4">np</atom></impl></box><box dep="app"><impl><atom id="1">np</atom><atom id="8">np</atom></impl></box></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><atom id="5">np</atom><atom id="4">np</atom></impl></formula><formula id="4"><impl><impl><atom id="5">np</atom><atom id="4">np</atom></impl><impl><atom id="1">np</atom><atom id="8">np</atom></impl></impl></formula></antecedent><formula><atom id="8">np</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><impl><atom id="5">np</atom><atom id="4">np</atom></impl></formula><formula id="2"><impl><impl><atom id="5">np</atom><atom id="4">np</atom></impl><impl><atom id="1">np</atom><atom id="8">np</atom></impl></impl></formula></antecedent><formula><impl><atom id="1">np</atom><atom id="8">np</atom></impl></formula><premisses>
+      <rule name="ii(1)"><antecedent><formula id="1"><impl><atom id="5">np</atom><atom id="4">np</atom></impl></formula></antecedent><formula><impl><atom id="5">np</atom><atom id="4">np</atom></impl></formula><premisses>
+         <rule name="ie"><antecedent><formula id="1"><atom id="5">np</atom></formula><formula id="2"><impl><atom id="5">np</atom><atom id="4">np</atom></impl></formula></antecedent><formula><atom id="4">np</atom></formula><premisses>
+            <rule name="hyp(1)"><antecedent><formula id="1"><atom id="5">np</atom></formula></antecedent><formula><atom id="5">np</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id="5">np</atom><atom id="4">np</atom></impl></formula></antecedent><formula><impl><atom id="5">np</atom><atom id="4">np</atom></impl></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><impl><atom id="5">np</atom><atom id="4">np</atom></impl><impl><atom id="1">np</atom><atom id="8">np</atom></impl></impl></formula></antecedent><formula><impl><impl><atom id="5">np</atom><atom id="4">np</atom></impl><impl><atom id="1">np</atom><atom id="8">np</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

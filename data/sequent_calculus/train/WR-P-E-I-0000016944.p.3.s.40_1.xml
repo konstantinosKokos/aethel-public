@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000016944.p.3.s.40_1.xml" date="27052020">
+ <string>mij</string>
+ <lexicon>
+  <lexicon_item id="1"><word>mij</word><pos1>pron</pos1><pos2>VNW(pr,pron,obl,vol,1,ev)</pos2><lemma>mij</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
+</proof>

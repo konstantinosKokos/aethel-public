@@ -1,0 +1,23 @@
+<proof id="WS-U-E-A-0000000206.p.34.s.3_1.xml" date="27052020">
+ <string>er waren zelfs hindernissen ingebouwd</string>
+ <lexicon>
+  <lexicon_item id="1"><word>er</word><pos1>adv</pos1><pos2>VNW(aanw,adv-pron,stan,red,3,getal)</pos2><lemma>er</lemma><formula><box dep="mod"><impl><atom id="8">ppart</atom><atom id="1">ppart</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>waren</word><pos1>verb</pos1><pos2>WW(pv,verl,mv)</pos2><lemma>zijn</lemma><formula><impl><dia dep="vc"><atom id="6">ppart</atom></dia><impl><dia dep="su"><atom id="7">n</atom></dia><atom id="4">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>zelfs</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>zelfs</lemma><formula><box dep="mod"><impl><atom id="1">ppart</atom><atom id="6">ppart</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>hindernissen</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>hindernis</lemma><formula><atom id="7">n</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>ingebouwd</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>inbouwen</lemma><formula><atom id="8">ppart</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="8">ppart</atom></formula><formula id="2"><impl><atom id="8">ppart</atom><atom id="1">ppart</atom></impl></formula><formula id="3"><impl><atom id="1">ppart</atom><atom id="6">ppart</atom></impl></formula><formula id="4"><impl><atom id="6">ppart</atom><impl><atom id="7">n</atom><atom id="4">smain</atom></impl></impl></formula><formula id="5"><atom id="7">n</atom></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="8">ppart</atom></formula><formula id="2"><impl><atom id="8">ppart</atom><atom id="1">ppart</atom></impl></formula><formula id="3"><impl><atom id="1">ppart</atom><atom id="6">ppart</atom></impl></formula></antecedent><formula><atom id="6">ppart</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="8">ppart</atom></formula><formula id="2"><impl><atom id="8">ppart</atom><atom id="1">ppart</atom></impl></formula></antecedent><formula><atom id="1">ppart</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="8">ppart</atom></formula></antecedent><formula><atom id="8">ppart</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="1">ppart</atom></formula></antecedent><formula><atom id="1">ppart</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="6">ppart</atom></formula></antecedent><formula><atom id="6">ppart</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="7">n</atom></formula><formula id="2"><impl><atom id="7">n</atom><atom id="4">smain</atom></impl></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="7">n</atom></formula></antecedent><formula><atom id="7">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">smain</atom></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

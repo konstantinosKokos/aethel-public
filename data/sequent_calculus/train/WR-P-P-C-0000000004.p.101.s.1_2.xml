@@ -1,0 +1,7 @@
+<proof id="WR-P-P-C-0000000004.p.101.s.1_2.xml" date="27052020">
+ <string>bijvoorbeeld</string>
+ <lexicon>
+  <lexicon_item id="1"><word>bijvoorbeeld</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>bijvoorbeeld</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
+</proof>

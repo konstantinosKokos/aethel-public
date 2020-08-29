@@ -1,0 +1,11 @@
+<proof id="dpc-med-000684-nl-sen.p.47.s.2_7.xml" date="27052020">
+ <string>+ Dx3</string>
+ <lexicon>
+  <lexicon_item id="1"><word>+</word><pos1>prep</pos1><pos2>SPEC(symb)</pos2><lemma>+</lemma><formula><impl><dia dep="obj1"><atom id="2">spec</atom></dia><atom id="1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Dx3</word><pos1>name</pos1><pos2>SPEC(symb)</pos2><lemma>Dx3</lemma><formula><atom id="2">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">spec</atom></formula><formula id="2"><impl><atom id="2">spec</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">spec</atom></formula></antecedent><formula><atom id="2">spec</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">spec</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><impl><atom id="2">spec</atom><atom id="1">pp</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

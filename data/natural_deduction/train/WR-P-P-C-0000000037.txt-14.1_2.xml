@@ -1,0 +1,7 @@
+<proof id="WR-P-P-C-0000000037.txt-14.1_2.xml" date="27052020">
+ <string>OPVRAGEN</string>
+ <lexicon>
+  <lexicon_item id="1"><word>OPVRAGEN</word><pos1>verb</pos1><pos2>WW(inf,nom,zonder,zonder-n)</pos2><lemma>opvragen</lemma><formula><atom id="0">inf</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">inf</atom></formula></antecedent><formula><atom id="0">inf</atom></formula><premisses></premisses></rule>
+</proof>

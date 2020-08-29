@@ -1,0 +1,27 @@
+<proof id="WS-U-E-A-0000000241.p.40.s.2_1.xml" date="27052020">
+ <string>komt die er nu echt aan</string>
+ <lexicon>
+  <lexicon_item id="1"><word>komt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>komen</lemma><formula><impl><dia dep="svp"><atom id="10">pp</atom></dia><impl><dia dep="su"><atom id="3">vnw</atom></dia><atom id="2">sv1</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>die</word><pos1>det</pos1><pos2>VNW(aanw,pron,stan,vol,3,getal)</pos2><lemma>die</lemma><formula><atom id="3">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>er</word><pos1>adv</pos1><pos2>VNW(aanw,adv-pron,stan,red,3,getal)</pos2><lemma>er</lemma><formula><atom id="4">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>nu</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>nu</lemma><formula><box dep="mod"><impl><atom id="2">sv1</atom><atom id="6">sv1</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="5"><word>echt</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>echt</lemma><formula><box dep="mod"><impl><atom id="6">sv1</atom><atom id="8">sv1</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="6"><word>aan</word><pos1>prep</pos1><pos2>VZ(fin)</pos2><lemma>aan</lemma><formula><impl><dia dep="obj1"><atom id="4">vnw</atom></dia><atom id="10">pp</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="3">vnw</atom></formula><formula id="2"><atom id="4">vnw</atom></formula><formula id="3"><impl><atom id="4">vnw</atom><atom id="10">pp</atom></impl></formula><formula id="4"><impl><atom id="10">pp</atom><impl><atom id="3">vnw</atom><atom id="2">sv1</atom></impl></impl></formula><formula id="5"><impl><atom id="2">sv1</atom><atom id="6">sv1</atom></impl></formula><formula id="6"><impl><atom id="6">sv1</atom><atom id="8">sv1</atom></impl></formula></antecedent><formula><atom id="8">sv1</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="3">vnw</atom></formula><formula id="2"><atom id="4">vnw</atom></formula><formula id="3"><impl><atom id="4">vnw</atom><atom id="10">pp</atom></impl></formula><formula id="4"><impl><atom id="10">pp</atom><impl><atom id="3">vnw</atom><atom id="2">sv1</atom></impl></impl></formula><formula id="5"><impl><atom id="2">sv1</atom><atom id="6">sv1</atom></impl></formula></antecedent><formula><atom id="6">sv1</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="3">vnw</atom></formula><formula id="2"><atom id="4">vnw</atom></formula><formula id="3"><impl><atom id="4">vnw</atom><atom id="10">pp</atom></impl></formula><formula id="4"><impl><atom id="10">pp</atom><impl><atom id="3">vnw</atom><atom id="2">sv1</atom></impl></impl></formula></antecedent><formula><atom id="2">sv1</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="3">vnw</atom></formula></antecedent><formula><atom id="3">vnw</atom></formula><premisses></premisses></rule>,
+         <rule name="ie"><antecedent><formula id="1"><atom id="4">vnw</atom></formula><formula id="2"><impl><atom id="4">vnw</atom><atom id="10">pp</atom></impl></formula><formula id="3"><impl><atom id="10">pp</atom><impl><atom id="3">vnw</atom><atom id="2">sv1</atom></impl></impl></formula></antecedent><formula><impl><atom id="3">vnw</atom><atom id="2">sv1</atom></impl></formula><premisses>
+            <rule name="ie"><antecedent><formula id="1"><atom id="4">vnw</atom></formula><formula id="2"><impl><atom id="4">vnw</atom><atom id="10">pp</atom></impl></formula></antecedent><formula><atom id="10">pp</atom></formula><premisses>
+               <rule name="ax"><antecedent><formula id="1"><atom id="4">vnw</atom></formula></antecedent><formula><atom id="4">vnw</atom></formula><premisses></premisses></rule>,
+               <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">vnw</atom><atom id="10">pp</atom></impl></formula></antecedent><formula><impl><atom id="4">vnw</atom><atom id="10">pp</atom></impl></formula><premisses></premisses></rule>
+               </premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id="10">pp</atom><impl><atom id="3">vnw</atom><atom id="2">sv1</atom></impl></impl></formula></antecedent><formula><impl><atom id="10">pp</atom><impl><atom id="3">vnw</atom><atom id="2">sv1</atom></impl></impl></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">sv1</atom><atom id="6">sv1</atom></impl></formula></antecedent><formula><impl><atom id="2">sv1</atom><atom id="6">sv1</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">sv1</atom><atom id="8">sv1</atom></impl></formula></antecedent><formula><impl><atom id="6">sv1</atom><atom id="8">sv1</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

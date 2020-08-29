@@ -1,0 +1,19 @@
+<proof id="dpc-ind-001648-nl-sen.p.27.s.4_0.xml" date="27052020">
+ <string>hij voegt eraan toe</string>
+ <lexicon>
+  <lexicon_item id="1"><word>hij</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,vol,3,ev,masc)</pos2><lemma>hij</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>voegt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>voegen</lemma><formula><impl><dia dep="svp"><atom id="6">vz</atom></dia><impl><dia dep="pc"><atom id="5">bw</atom></dia><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="4">smain</atom></impl></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>eraan</word><pos1>pp</pos1><pos2>BW()</pos2><lemma>eraan</lemma><formula><atom id="5">bw</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>toe</word><pos1>part</pos1><pos2>VZ(fin)</pos2><lemma>toe</lemma><formula><atom id="6">vz</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><atom id="5">bw</atom></formula><formula id="3"><atom id="6">vz</atom></formula><formula id="4"><impl><atom id="6">vz</atom><impl><atom id="5">bw</atom><impl><atom id="0">vnw</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="5">bw</atom></formula><formula id="2"><atom id="6">vz</atom></formula><formula id="3"><impl><atom id="6">vz</atom><impl><atom id="5">bw</atom><impl><atom id="0">vnw</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id="0">vnw</atom><atom id="4">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="5">bw</atom></formula></antecedent><formula><atom id="5">bw</atom></formula><premisses></premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><atom id="6">vz</atom></formula><formula id="2"><impl><atom id="6">vz</atom><impl><atom id="5">bw</atom><impl><atom id="0">vnw</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id="5">bw</atom><impl><atom id="0">vnw</atom><atom id="4">smain</atom></impl></impl></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">vz</atom></formula></antecedent><formula><atom id="6">vz</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">vz</atom><impl><atom id="5">bw</atom><impl><atom id="0">vnw</atom><atom id="4">smain</atom></impl></impl></impl></formula></antecedent><formula><impl><atom id="6">vz</atom><impl><atom id="5">bw</atom><impl><atom id="0">vnw</atom><atom id="4">smain</atom></impl></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

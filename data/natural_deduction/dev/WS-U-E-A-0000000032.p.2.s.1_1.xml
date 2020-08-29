@@ -1,0 +1,7 @@
+<proof id="WS-U-E-A-0000000032.p.2.s.1_1.xml" date="27052020">
+ <string>akkoord</string>
+ <lexicon>
+  <lexicon_item id="1"><word>akkoord</word><pos1>noun</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>akkoord</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
+</proof>

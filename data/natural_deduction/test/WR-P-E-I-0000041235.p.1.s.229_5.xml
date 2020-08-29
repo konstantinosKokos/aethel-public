@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000041235.p.1.s.229_5.xml" date="27052020">
+ <string>een-achtste</string>
+ <lexicon>
+  <lexicon_item id="1"><word>een-achtste</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>een-achtste</lemma><formula><atom id="0">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">tw</atom></formula></antecedent><formula><atom id="0">tw</atom></formula><premisses></premisses></rule>
+</proof>

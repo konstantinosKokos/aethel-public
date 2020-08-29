@@ -1,0 +1,23 @@
+<proof id="WS-U-E-A-0000000005.p.37.s.18_1.xml" date="27052020">
+ <string>het gaat erin als koek</string>
+ <lexicon>
+  <lexicon_item id="1"><word>het</word><pos1>det</pos1><pos2>VNW(pers,pron,stan,red,3,ev,onz)</pos2><lemma>het</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>gaat</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>gaan</lemma><formula><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="2">smain</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>erin</word><pos1>pp</pos1><pos2>BW()</pos2><lemma>erin</lemma><formula><box dep="mod"><impl><atom id="2">smain</atom><atom id="4">smain</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>als</word><pos1>comp</pos1><pos2>VZ(init)</pos2><lemma>als</lemma><formula><impl><dia dep="cmp_body"><atom id="8">n</atom></dia><box dep="mod"><impl><atom id="4">smain</atom><atom id="7">smain</atom></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>koek</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>koek</lemma><formula><atom id="8">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><impl><atom id="0">vnw</atom><atom id="2">smain</atom></impl></formula><formula id="3"><impl><atom id="2">smain</atom><atom id="4">smain</atom></impl></formula><formula id="4"><atom id="8">n</atom></formula><formula id="5"><impl><atom id="8">n</atom><impl><atom id="4">smain</atom><atom id="7">smain</atom></impl></impl></formula></antecedent><formula><atom id="7">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><impl><atom id="0">vnw</atom><atom id="2">smain</atom></impl></formula><formula id="3"><impl><atom id="2">smain</atom><atom id="4">smain</atom></impl></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><impl><atom id="0">vnw</atom><atom id="2">smain</atom></impl></formula></antecedent><formula><atom id="2">smain</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="0">vnw</atom><atom id="2">smain</atom></impl></formula></antecedent><formula><impl><atom id="0">vnw</atom><atom id="2">smain</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">smain</atom><atom id="4">smain</atom></impl></formula></antecedent><formula><impl><atom id="2">smain</atom><atom id="4">smain</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><impl><atom id="4">smain</atom><atom id="7">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="4">smain</atom><atom id="7">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="8">n</atom></formula></antecedent><formula><atom id="8">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="8">n</atom><impl><atom id="4">smain</atom><atom id="7">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="8">n</atom><impl><atom id="4">smain</atom><atom id="7">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

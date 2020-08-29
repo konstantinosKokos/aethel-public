@@ -1,0 +1,7 @@
+<proof id="WR-P-E-H-0000000055.p.283.s.2_2.xml" date="27052020">
+ <string>t.z.t.</string>
+ <lexicon>
+  <lexicon_item id="1"><word>t.z.t.</word><pos1>adv</pos1><pos2>SPEC(afk)</pos2><lemma>t.z.t.</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="dpc-dns-001066-nl-sen.p.20.s.4_1.xml" date="27052020">
+ <string>dit</string>
+ <lexicon>
+  <lexicon_item id="1"><word>dit</word><pos1>det</pos1><pos2>VNW(aanw,pron,stan,vol,3o,ev)</pos2><lemma>dit</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
+</proof>

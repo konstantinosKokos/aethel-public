@@ -1,0 +1,15 @@
+<proof id="WS-U-E-A-0000000231.p.55.s.5_0.xml" date="27052020">
+ <string>niet voor niets</string>
+ <lexicon>
+  <lexicon_item id="1"><word>niet</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>niet</lemma><formula><box dep="mod"><impl><atom id="3">pp</atom><atom id="1">pp</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>voor</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>voor</lemma><formula><impl><dia dep="obj1"><atom id="4">vnw</atom></dia><atom id="3">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>niets</word><pos1>noun</pos1><pos2>VNW(onbep,pron,stan,vol,3o,ev)</pos2><lemma>niets</lemma><formula><atom id="4">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">vnw</atom></formula><formula id="2"><impl><atom id="4">vnw</atom><atom id="3">pp</atom></impl></formula><formula id="3"><impl><atom id="3">pp</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">vnw</atom></formula><formula id="2"><impl><atom id="4">vnw</atom><atom id="3">pp</atom></impl></formula></antecedent><formula><atom id="3">pp</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">vnw</atom></formula></antecedent><formula><atom id="4">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">vnw</atom><atom id="3">pp</atom></impl></formula></antecedent><formula><impl><atom id="4">vnw</atom><atom id="3">pp</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">pp</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><impl><atom id="3">pp</atom><atom id="1">pp</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

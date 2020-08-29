@@ -1,0 +1,31 @@
+<proof id="dpc-vla-001171-nl-sen.p.4.s.4_1.xml" date="27052020">
+ <string>willen we versterken koesteren en kenbaar maken</string>
+ <lexicon>
+  <lexicon_item id="1"><word>willen</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>willen</lemma><formula><impl><dia dep="vc"><atom id="9">ww</atom></dia><impl><dia dep="su"><atom id="3">vnw</atom></dia><atom id="2">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>we</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,red,1,mv)</pos2><lemma>we</lemma><formula><atom id="3">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>versterken</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>versterken</lemma><formula><atom id="4">ww</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>koesteren</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>koesteren</lemma><formula><atom id="5">ww</atom></formula></lexicon_item>
+  <lexicon_item id="5"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><dia dep="cnj"><atom id="12">ww</atom></dia><impl><dia dep="cnj"><atom id="4">ww</atom></dia><impl><dia dep="cnj"><atom id="5">ww</atom></dia><atom id="9">ww</atom></impl></impl></impl></formula></lexicon_item>
+  <lexicon_item id="6"><word>kenbaar</word><pos1>fixed</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>kenbaar</lemma><formula><atom id="10">adj</atom></formula></lexicon_item>
+  <lexicon_item id="7"><word>maken</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>maken</lemma><formula><impl><dia dep="svp"><atom id="10">adj</atom></dia><atom id="12">ww</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="10">adj</atom></formula><formula id="2"><impl><atom id="10">adj</atom><atom id="12">ww</atom></impl></formula><formula id="3"><impl><atom id="12">ww</atom><impl><atom id="4">ww</atom><impl><atom id="5">ww</atom><atom id="9">ww</atom></impl></impl></impl></formula><formula id="4"><atom id="4">ww</atom></formula><formula id="5"><atom id="5">ww</atom></formula><formula id="6"><impl><atom id="9">ww</atom><impl><atom id="3">vnw</atom><atom id="2">smain</atom></impl></impl></formula><formula id="7"><atom id="3">vnw</atom></formula></antecedent><formula><atom id="2">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="10">adj</atom></formula><formula id="2"><impl><atom id="10">adj</atom><atom id="12">ww</atom></impl></formula><formula id="3"><impl><atom id="12">ww</atom><impl><atom id="4">ww</atom><impl><atom id="5">ww</atom><atom id="9">ww</atom></impl></impl></impl></formula><formula id="4"><atom id="4">ww</atom></formula><formula id="5"><atom id="5">ww</atom></formula></antecedent><formula><atom id="9">ww</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="10">adj</atom></formula><formula id="2"><impl><atom id="10">adj</atom><atom id="12">ww</atom></impl></formula></antecedent><formula><atom id="12">ww</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="10">adj</atom></formula></antecedent><formula><atom id="10">adj</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="12">ww</atom></formula></antecedent><formula><atom id="12">ww</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="4">ww</atom></formula><formula id="2"><impl><atom id="4">ww</atom><impl><atom id="5">ww</atom><atom id="9">ww</atom></impl></impl></formula><formula id="3"><atom id="5">ww</atom></formula></antecedent><formula><atom id="9">ww</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="4">ww</atom></formula></antecedent><formula><atom id="4">ww</atom></formula><premisses></premisses></rule>,
+         <rule name="il"><antecedent><formula id="1"><atom id="5">ww</atom></formula><formula id="2"><impl><atom id="5">ww</atom><atom id="9">ww</atom></impl></formula></antecedent><formula><atom id="9">ww</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="5">ww</atom></formula></antecedent><formula><atom id="5">ww</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id="9">ww</atom></formula></antecedent><formula><atom id="9">ww</atom></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="3">vnw</atom></formula><formula id="2"><impl><atom id="3">vnw</atom><atom id="2">smain</atom></impl></formula></antecedent><formula><atom id="2">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">vnw</atom></formula></antecedent><formula><atom id="3">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">smain</atom></formula></antecedent><formula><atom id="2">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,11 @@
+<proof id="WR-P-E-H-0000000062.p.60.s.3_0.xml" date="27052020">
+ <string>Het moet</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Het</word><pos1>det</pos1><pos2>VNW(pers,pron,stan,red,3,ev,onz)</pos2><lemma>het</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>moet</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>moeten</lemma><formula><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="2">smain</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><impl><atom id="0">vnw</atom><atom id="2">smain</atom></impl></formula></antecedent><formula><atom id="2">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">smain</atom></formula></antecedent><formula><atom id="2">smain</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

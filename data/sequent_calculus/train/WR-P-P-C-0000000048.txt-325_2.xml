@@ -1,0 +1,15 @@
+<proof id="WR-P-P-C-0000000048.txt-325_2.xml" date="27052020">
+ <string>liever dan ik</string>
+ <lexicon>
+  <lexicon_item id="1"><word>liever</word><pos1>adj</pos1><pos2>BW()</pos2><lemma>liever</lemma><formula><impl><dia dep="obcomp"><atom id="3">cp</atom></dia><atom id="1">ap</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>dan</word><pos1>comparative</pos1><pos2>VG(onder)</pos2><lemma>dan</lemma><formula><impl><dia dep="cmp_body"><atom id="4">vnw</atom></dia><atom id="3">cp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>ik</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,vol,1,ev)</pos2><lemma>ik</lemma><formula><atom id="4">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">vnw</atom></formula><formula id="2"><impl><atom id="4">vnw</atom><atom id="3">cp</atom></impl></formula><formula id="3"><impl><atom id="3">cp</atom><atom id="1">ap</atom></impl></formula></antecedent><formula><atom id="1">ap</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="4">vnw</atom></formula><formula id="2"><impl><atom id="4">vnw</atom><atom id="3">cp</atom></impl></formula></antecedent><formula><atom id="3">cp</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">vnw</atom></formula></antecedent><formula><atom id="4">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">cp</atom></formula></antecedent><formula><atom id="3">cp</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">ap</atom></formula></antecedent><formula><atom id="1">ap</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

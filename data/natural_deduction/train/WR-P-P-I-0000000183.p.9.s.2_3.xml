@@ -1,0 +1,15 @@
+<proof id="WR-P-P-I-0000000183.p.9.s.2_3.xml" date="27052020">
+ <string>verklaart een afgevaardigde</string>
+ <lexicon>
+  <lexicon_item id="1"><word>verklaart</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>verklaren</lemma><formula><impl><dia dep="su"><atom id="3">np</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>een</word><pos1>det</pos1><pos2>LID(onbep,stan,agr)</pos2><lemma>een</lemma><formula><box dep="det"><impl><atom id="4">ww</atom><atom id="3">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>afgevaardigde</word><pos1>noun</pos1><pos2>WW(vd,nom,met-e,zonder-n)</pos2><lemma>afvaardigen</lemma><formula><atom id="4">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">ww</atom></formula><formula id="2"><impl><atom id="4">ww</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">ww</atom></formula><formula id="2"><impl><atom id="4">ww</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">ww</atom></formula></antecedent><formula><atom id="4">ww</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">ww</atom><atom id="3">np</atom></impl></formula></antecedent><formula><impl><atom id="4">ww</atom><atom id="3">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><impl><atom id="3">np</atom><atom id="1">sv1</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

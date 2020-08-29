@@ -1,0 +1,19 @@
+<proof id="WR-P-P-B-0000000001.p.15.s.1_0.xml" date="27052020">
+ <string>Lila laat Tom los</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Lila</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Lila</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>laat</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>laten</lemma><formula><impl><dia dep="svp"><atom id="6">adj</atom></dia><impl><dia dep="obj1"><atom id="5">n</atom></dia><impl><dia dep="su"><atom id="0">n</atom></dia><atom id="4">smain</atom></impl></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>Tom</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Tom</lemma><formula><atom id="5">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>los</word><pos1>part</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>los</lemma><formula><atom id="6">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="6">adj</atom></formula><formula id="2"><impl><atom id="6">adj</atom><impl><atom id="5">n</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></impl></formula><formula id="3"><atom id="5">n</atom></formula><formula id="4"><atom id="0">n</atom></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="6">adj</atom></formula></antecedent><formula><atom id="6">adj</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></impl></formula><formula id="3"><atom id="0">n</atom></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="5">n</atom></formula></antecedent><formula><atom id="5">n</atom></formula><premisses></premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="4">smain</atom></impl></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="4">smain</atom></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

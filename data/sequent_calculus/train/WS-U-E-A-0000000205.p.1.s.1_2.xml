@@ -1,0 +1,7 @@
+<proof id="WS-U-E-A-0000000205.p.1.s.1_2.xml" date="27052020">
+ <string>Democratische Conventie</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Democratische Conventie</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
+</proof>

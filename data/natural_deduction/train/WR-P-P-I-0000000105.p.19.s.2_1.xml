@@ -1,0 +1,20 @@
+<proof id="WR-P-P-I-0000000105.p.19.s.2_1.xml" date="27052020">
+ <string>Hoe immoreel ook</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Hoe</word><pos1>pron</pos1><pos2>BW()</pos2><lemma>hoe</lemma><formula><box dep="mod"><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>immoreel</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>immoreel</lemma><formula><atom id="2">ap</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>ook</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>ook</lemma><formula><box dep="mod"><impl><box dep="mod"><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl></box><box dep="mod"><impl><atom id="2">ap</atom><atom id="6">ap</atom></impl></box></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">ap</atom></formula><formula id="2"><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl></formula><formula id="3"><impl><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl><impl><atom id="2">ap</atom><atom id="6">ap</atom></impl></impl></formula></antecedent><formula><atom id="6">ap</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">ap</atom></formula></antecedent><formula><atom id="2">ap</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl></formula><formula id="2"><impl><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl><impl><atom id="2">ap</atom><atom id="6">ap</atom></impl></impl></formula></antecedent><formula><impl><atom id="2">ap</atom><atom id="6">ap</atom></impl></formula><premisses>
+      <rule name="ii(1)"><antecedent><formula id="1"><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl></formula></antecedent><formula><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl></formula><premisses>
+         <rule name="ie"><antecedent><formula id="1"><atom id="3">ap</atom></formula><formula id="2"><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl></formula></antecedent><formula><atom id="1">ap</atom></formula><premisses>
+            <rule name="hyp(1)"><antecedent><formula id="1"><atom id="3">ap</atom></formula></antecedent><formula><atom id="3">ap</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl></formula></antecedent><formula><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl><impl><atom id="2">ap</atom><atom id="6">ap</atom></impl></impl></formula></antecedent><formula><impl><impl><atom id="3">ap</atom><atom id="1">ap</atom></impl><impl><atom id="2">ap</atom><atom id="6">ap</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

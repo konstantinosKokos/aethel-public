@@ -1,0 +1,11 @@
+<proof id="WS-U-E-A-0000000244.p.1.s.1_5.xml" date="27052020">
+ <string>vele honderden</string>
+ <lexicon>
+  <lexicon_item id="1"><word>vele</word><pos1>adj</pos1><pos2>VNW(onbep,grad,stan,prenom,met-e,agr,basis)</pos2><lemma>veel</lemma><formula><box dep="mod"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>honderden</word><pos1>noun</pos1><pos2>TW(hoofd,nom,mv-n,basis)</pos2><lemma>honderd</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">np</atom></formula></antecedent><formula><atom id="1">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

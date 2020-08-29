@@ -1,0 +1,11 @@
+<proof id="WS-U-E-A-0000000249.p.25.s.1_2.xml" date="27052020">
+ <string>niet meer</string>
+ <lexicon>
+  <lexicon_item id="1"><word>niet</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>niet</lemma><formula><atom id="0">adv</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>meer</word><pos1>adv</pos1><pos2>VNW(onbep,grad,stan,vrij,zonder,comp)</pos2><lemma>veel</lemma><formula><box dep="mod"><impl><atom id="0">adv</atom><atom id="2">adv</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">adv</atom></formula><formula id="2"><impl><atom id="0">adv</atom><atom id="2">adv</atom></impl></formula></antecedent><formula><atom id="2">adv</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">adv</atom></formula></antecedent><formula><atom id="0">adv</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="0">adv</atom><atom id="2">adv</atom></impl></formula></antecedent><formula><impl><atom id="0">adv</atom><atom id="2">adv</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

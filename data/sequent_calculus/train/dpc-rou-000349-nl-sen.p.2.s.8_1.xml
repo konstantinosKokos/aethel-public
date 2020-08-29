@@ -1,0 +1,19 @@
+<proof id="dpc-rou-000349-nl-sen.p.2.s.8_1.xml" date="27052020">
+ <string>verklaren ze in koor</string>
+ <lexicon>
+  <lexicon_item id="1"><word>verklaren</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>verklaren</lemma><formula><impl><dia dep="su"><atom id="2">vnw</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>ze</word><pos1>pron</pos1><pos2>VNW(pers,pron,stan,red,3,mv)</pos2><lemma>ze</lemma><formula><atom id="2">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>in</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>in</lemma><formula><impl><dia dep="obj1"><atom id="6">n</atom></dia><box dep="mod"><impl><atom id="1">sv1</atom><atom id="5">sv1</atom></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>koor</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>koor</lemma><formula><atom id="6">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="6">n</atom></formula><formula id="2"><impl><atom id="6">n</atom><impl><atom id="1">sv1</atom><atom id="5">sv1</atom></impl></impl></formula><formula id="3"><atom id="2">vnw</atom></formula><formula id="4"><impl><atom id="2">vnw</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="5">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="6">n</atom></formula></antecedent><formula><atom id="6">n</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="2">vnw</atom></formula><formula id="2"><impl><atom id="2">vnw</atom><atom id="1">sv1</atom></impl></formula><formula id="3"><impl><atom id="1">sv1</atom><atom id="5">sv1</atom></impl></formula></antecedent><formula><atom id="5">sv1</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="2">vnw</atom></formula><formula id="2"><impl><atom id="2">vnw</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="2">vnw</atom></formula></antecedent><formula><atom id="2">vnw</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="1">sv1</atom></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="5">sv1</atom></formula></antecedent><formula><atom id="5">sv1</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

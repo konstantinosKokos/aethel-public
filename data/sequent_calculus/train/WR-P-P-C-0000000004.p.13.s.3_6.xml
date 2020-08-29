@@ -1,0 +1,11 @@
+<proof id="WR-P-P-C-0000000004.p.13.s.3_6.xml" date="27052020">
+ <string>euro 15.000</string>
+ <lexicon>
+  <lexicon_item id="1"><word>euro</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>euro</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>15.000</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>15.000</lemma><formula><box dep="det"><impl><atom id="0">n</atom><atom id="2">np</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">n</atom></formula><formula id="2"><impl><atom id="0">n</atom><atom id="2">np</atom></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,27 @@
+<proof id="dpc-vla-001171-nl-sen.p.16.s.2_1.xml" date="27052020">
+ <string>weinig mensen zullen volmondig ja zeggen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>weinig</word><pos1>adj</pos1><pos2>VNW(onbep,grad,stan,prenom,zonder,agr,basis)</pos2><lemma>weinig</lemma><formula><box dep="det"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>mensen</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>mens</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>zullen</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>zullen</lemma><formula><impl><dia dep="vc"><atom id="10">inf</atom></dia><impl><dia dep="su"><atom id="1">np</atom></dia><atom id="5">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>volmondig</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,zonder)</pos2><lemma>volmondig</lemma><formula><box dep="mod"><impl><atom id="8">np</atom><atom id="7">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="5"><word>ja</word><pos1>noun</pos1><pos2>TSW()</pos2><lemma>ja</lemma><formula><atom id="8">np</atom></formula></lexicon_item>
+  <lexicon_item id="6"><word>zeggen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>zeggen</lemma><formula><impl><dia dep="obj1"><atom id="7">np</atom></dia><atom id="10">inf</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="8">np</atom></formula><formula id="2"><impl><atom id="8">np</atom><atom id="7">np</atom></impl></formula><formula id="3"><impl><atom id="7">np</atom><atom id="10">inf</atom></impl></formula><formula id="4"><impl><atom id="10">inf</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula><formula id="5"><atom id="2">n</atom></formula><formula id="6"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="5">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="8">np</atom></formula><formula id="2"><impl><atom id="8">np</atom><atom id="7">np</atom></impl></formula><formula id="3"><impl><atom id="7">np</atom><atom id="10">inf</atom></impl></formula></antecedent><formula><atom id="10">inf</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="8">np</atom></formula><formula id="2"><impl><atom id="8">np</atom><atom id="7">np</atom></impl></formula></antecedent><formula><atom id="7">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="8">np</atom></formula></antecedent><formula><atom id="8">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="7">np</atom></formula></antecedent><formula><atom id="7">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="10">inf</atom></formula></antecedent><formula><atom id="10">inf</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula><formula id="3"><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></formula></antecedent><formula><atom id="5">smain</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="1">np</atom></formula></antecedent><formula><atom id="1">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="5">smain</atom></formula></antecedent><formula><atom id="5">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

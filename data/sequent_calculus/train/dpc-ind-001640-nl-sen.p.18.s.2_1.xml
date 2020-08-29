@@ -1,0 +1,24 @@
+<proof id="dpc-ind-001640-nl-sen.p.18.s.2_1.xml" date="27052020">
+ <string>schreef Morgan toen 33</string>
+ <lexicon>
+  <lexicon_item id="1"><word>schreef</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>schrijven</lemma><formula><impl><dia dep="su"><atom id="6">np</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Morgan</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Morgan</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>toen</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>toen</lemma><formula><box dep="mod"><impl><box dep="app"><impl><atom id="3">np</atom><atom id="8">np</atom></impl></box><box dep="app"><impl><atom id="2">np</atom><atom id="6">np</atom></impl></box></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>33</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>33</lemma><formula><box dep="app"><impl><atom id="3">np</atom><atom id="8">np</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="8">np</atom></impl></formula><formula id="2"><impl><impl><atom id="3">np</atom><atom id="8">np</atom></impl><impl><atom id="2">np</atom><atom id="6">np</atom></impl></impl></formula><formula id="3"><atom id="2">np</atom></formula><formula id="4"><impl><atom id="6">np</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="8">np</atom></impl></formula><formula id="2"><impl><impl><atom id="3">np</atom><atom id="8">np</atom></impl><impl><atom id="2">np</atom><atom id="6">np</atom></impl></impl></formula><formula id="3"><atom id="2">np</atom></formula></antecedent><formula><atom id="6">np</atom></formula><premisses>
+      <rule name="ir"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="8">np</atom></impl></formula></antecedent><formula><impl><atom id="3">np</atom><atom id="8">np</atom></impl></formula><premisses>
+         <rule name="il"><antecedent><formula id="1"><atom id="3">np</atom></formula><formula id="2"><impl><atom id="3">np</atom><atom id="8">np</atom></impl></formula></antecedent><formula><atom id="8">np</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="3">np</atom></formula></antecedent><formula><atom id="3">np</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><atom id="8">np</atom></formula></antecedent><formula><atom id="8">np</atom></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="il"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="6">np</atom></impl></formula></antecedent><formula><atom id="6">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">np</atom></formula></antecedent><formula><atom id="6">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">sv1</atom></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

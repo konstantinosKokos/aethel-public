@@ -1,0 +1,7 @@
+<proof id="dpc-dns-001069-nl-sen.p.15.s.1_3.xml" date="27052020">
+ <string>uiteraard</string>
+ <lexicon>
+  <lexicon_item id="1"><word>uiteraard</word><pos1>tag</pos1><pos2>BW()</pos2><lemma>uiteraard</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
+</proof>

@@ -1,0 +1,11 @@
+<proof id="WR-P-P-H-0000000089.p.9.s.2_1.xml" date="27052020">
+ <string>zegt Michel</string>
+ <lexicon>
+  <lexicon_item id="1"><word>zegt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>zeggen</lemma><formula><impl><dia dep="su"><atom id="2">n</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Michel</word><pos1>name</pos1><pos2>N(eigen,ev,basis,zijd,stan)</pos2><lemma>Michel</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><impl><atom id="2">n</atom><atom id="1">sv1</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,15 @@
+<proof id="WS-U-E-A-0000000224.p.35.s.3_1.xml" date="27052020">
+ <string>vangen en vasthouden</string>
+ <lexicon>
+  <lexicon_item id="1"><word>vangen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>vangen</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><dia dep="cnj"><atom id="0">ww</atom></dia><impl><dia dep="cnj"><atom id="4">ww</atom></dia><atom id="3">ww</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>vasthouden</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>vasthouden</lemma><formula><atom id="4">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">ww</atom></formula><formula id="2"><atom id="0">ww</atom></formula><formula id="3"><impl><atom id="0">ww</atom><impl><atom id="4">ww</atom><atom id="3">ww</atom></impl></impl></formula></antecedent><formula><atom id="3">ww</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">ww</atom></formula></antecedent><formula><atom id="4">ww</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="0">ww</atom></formula><formula id="2"><impl><atom id="0">ww</atom><impl><atom id="4">ww</atom><atom id="3">ww</atom></impl></impl></formula></antecedent><formula><impl><atom id="4">ww</atom><atom id="3">ww</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="0">ww</atom><impl><atom id="4">ww</atom><atom id="3">ww</atom></impl></impl></formula></antecedent><formula><impl><atom id="0">ww</atom><impl><atom id="4">ww</atom><atom id="3">ww</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

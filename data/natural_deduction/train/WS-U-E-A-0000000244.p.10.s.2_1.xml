@@ -1,0 +1,23 @@
+<proof id="WS-U-E-A-0000000244.p.10.s.2_1.xml" date="27052020">
+ <string>met verstopte autowegen tot gevolg</string>
+ <lexicon>
+  <lexicon_item id="1"><word>met</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>met</lemma><formula><impl><dia dep="obj1"><atom id="3">np</atom></dia><atom id="1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>verstopte</word><pos1>adj</pos1><pos2>WW(vd,prenom,met-e)</pos2><lemma>verstoppen</lemma><formula><box dep="mod"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>autowegen</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>autoweg</lemma><formula><atom id="4">np</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>tot</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>tot</lemma><formula><impl><dia dep="obj1"><atom id="8">n</atom></dia><box dep="mod"><impl><atom id="1">pp</atom><atom id="7">pp</atom></impl></box></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>gevolg</word><pos1>noun</pos1><pos2>N(soort,ev,basis,onz,stan)</pos2><lemma>gevolg</lemma><formula><atom id="8">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="1">pp</atom></impl></formula><formula id="4"><atom id="8">n</atom></formula><formula id="5"><impl><atom id="8">n</atom><impl><atom id="1">pp</atom><atom id="7">pp</atom></impl></impl></formula></antecedent><formula><atom id="7">pp</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="4">np</atom></formula></antecedent><formula><atom id="4">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></formula></antecedent><formula><impl><atom id="4">np</atom><atom id="3">np</atom></impl></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><impl><atom id="3">np</atom><atom id="1">pp</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="8">n</atom></formula><formula id="2"><impl><atom id="8">n</atom><impl><atom id="1">pp</atom><atom id="7">pp</atom></impl></impl></formula></antecedent><formula><impl><atom id="1">pp</atom><atom id="7">pp</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="8">n</atom></formula></antecedent><formula><atom id="8">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="8">n</atom><impl><atom id="1">pp</atom><atom id="7">pp</atom></impl></impl></formula></antecedent><formula><impl><atom id="8">n</atom><impl><atom id="1">pp</atom><atom id="7">pp</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

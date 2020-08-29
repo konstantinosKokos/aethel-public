@@ -1,0 +1,15 @@
+<proof id="WS-U-E-A-0000000224.p.39.s.5_0.xml" date="27052020">
+ <string>Vooral geen bakzeil halen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Vooral</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>vooral</lemma><formula><box dep="mod"><impl><atom id="4">inf</atom><atom id="1">inf</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>geen bakzeil</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>halen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>halen</lemma><formula><impl><dia dep="svp"><atom id="2">np</atom></dia><atom id="4">inf</atom></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="4">inf</atom></impl></formula><formula id="3"><impl><atom id="4">inf</atom><atom id="1">inf</atom></impl></formula></antecedent><formula><atom id="1">inf</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><atom id="4">inf</atom></impl></formula></antecedent><formula><atom id="4">inf</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">np</atom><atom id="4">inf</atom></impl></formula></antecedent><formula><impl><atom id="2">np</atom><atom id="4">inf</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">inf</atom><atom id="1">inf</atom></impl></formula></antecedent><formula><impl><atom id="4">inf</atom><atom id="1">inf</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

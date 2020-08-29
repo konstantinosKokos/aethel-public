@@ -1,0 +1,15 @@
+<proof id="WR-P-E-I-0000049645.p.1.s.24_1.xml" date="27052020">
+ <string>in dezelfde volgorde</string>
+ <lexicon>
+  <lexicon_item id="1"><word>in</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>in</lemma><formula><impl><dia dep="obj1"><atom id="3">np</atom></dia><atom id="1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>dezelfde</word><pos1>det</pos1><pos2>ADJ(prenom,basis,zonder)</pos2><lemma>dezelfde</lemma><formula><box dep="det"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>volgorde</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>volgorde</lemma><formula><atom id="4">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">n</atom></formula></antecedent><formula><atom id="4">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula></antecedent><formula><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">np</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><impl><atom id="3">np</atom><atom id="1">pp</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,19 @@
+<proof id="WS-U-E-A-0000000049.p.29.s.2_0.xml" date="27052020">
+ <string>Het plaatsje werd weggevaagd</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Het</word><pos1>det</pos1><pos2>LID(bep,stan,evon)</pos2><lemma>het</lemma><formula><box dep="det"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>plaatsje</word><pos1>noun</pos1><pos2>N(soort,ev,dim,onz,stan)</pos2><lemma>plaats</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>werd</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>worden</lemma><formula><impl><dia dep="vc"><atom id="6">ww</atom></dia><impl><dia dep="su"><atom id="1">np</atom></dia><atom id="5">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>weggevaagd</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>wegvagen</lemma><formula><atom id="6">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula><formula id="3"><atom id="6">ww</atom></formula><formula id="4"><impl><atom id="6">ww</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula></antecedent><formula><atom id="5">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula></antecedent><formula><impl><atom id="2">n</atom><atom id="1">np</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">ww</atom></formula><formula id="2"><impl><atom id="6">ww</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="6">ww</atom></formula></antecedent><formula><atom id="6">ww</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">ww</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="6">ww</atom><impl><atom id="1">np</atom><atom id="5">smain</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

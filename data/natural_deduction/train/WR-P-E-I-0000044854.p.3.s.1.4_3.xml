@@ -1,0 +1,24 @@
+<proof id="WR-P-E-I-0000044854.p.3.s.1.4_3.xml" date="27052020">
+ <string>wat de kasselrij is</string>
+ <lexicon>
+  <lexicon_item id="1"><word>wat</word><pos1>pron</pos1><pos2>VNW(vb,pron,stan,vol,3o,ev)</pos2><lemma>wat</lemma><formula><impl><dia dep="rhd_body"><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="8">ssub</atom></impl></dia><atom id="2">whrel</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>de</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><box dep="det"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>kasselrij</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>kasselrij</lemma><formula><atom id="5">n</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>is</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>zijn</lemma><formula><impl><dia dep="predc"><atom id="4">np</atom></dia><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="8">ssub</atom></impl></impl></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula><formula id="3"><impl><atom id="4">np</atom><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl></impl></formula><formula id="4"><impl><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl><atom id="2">whrel</atom></impl></formula></antecedent><formula><atom id="2">whrel</atom></formula><premisses>
+   <rule name="ii(1)"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula><formula id="3"><impl><atom id="4">np</atom><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl></impl></formula></antecedent><formula><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl></formula><premisses>
+      <rule name="ie"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><atom id="5">n</atom></formula><formula id="3"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula><formula id="4"><impl><atom id="4">np</atom><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl></impl></formula></antecedent><formula><atom id="8">ssub</atom></formula><premisses>
+         <rule name="hyp(1)"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>,
+         <rule name="ie"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula><formula id="3"><impl><atom id="4">np</atom><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl></impl></formula></antecedent><formula><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl></formula><premisses>
+            <rule name="ie"><antecedent><formula id="1"><atom id="5">n</atom></formula><formula id="2"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula></antecedent><formula><atom id="4">np</atom></formula><premisses>
+               <rule name="ax"><antecedent><formula id="1"><atom id="5">n</atom></formula></antecedent><formula><atom id="5">n</atom></formula><premisses></premisses></rule>,
+               <rule name="ax"><antecedent><formula id="1"><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula></antecedent><formula><impl><atom id="5">n</atom><atom id="4">np</atom></impl></formula><premisses></premisses></rule>
+               </premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">np</atom><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl></impl></formula></antecedent><formula><impl><atom id="4">np</atom><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl></impl></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl><atom id="2">whrel</atom></impl></formula></antecedent><formula><impl><impl><atom id="0">vnw</atom><atom id="8">ssub</atom></impl><atom id="2">whrel</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

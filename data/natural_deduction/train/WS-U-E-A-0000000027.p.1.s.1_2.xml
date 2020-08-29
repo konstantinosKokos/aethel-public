@@ -1,0 +1,20 @@
+<proof id="WS-U-E-A-0000000027.p.1.s.1_2.xml" date="27052020">
+ <string>nog niet geweken</string>
+ <lexicon>
+  <lexicon_item id="1"><word>nog</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>nog</lemma><formula><box dep="mod"><impl><box dep="mod"><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl></box><box dep="mod"><impl><atom id="6">ap</atom><atom id="3">ap</atom></impl></box></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>niet</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>niet</lemma><formula><box dep="mod"><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>geweken</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>wijken</lemma><formula><atom id="6">ap</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="6">ap</atom></formula><formula id="2"><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl></formula><formula id="3"><impl><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl><impl><atom id="6">ap</atom><atom id="3">ap</atom></impl></impl></formula></antecedent><formula><atom id="3">ap</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="6">ap</atom></formula></antecedent><formula><atom id="6">ap</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl></formula><formula id="2"><impl><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl><impl><atom id="6">ap</atom><atom id="3">ap</atom></impl></impl></formula></antecedent><formula><impl><atom id="6">ap</atom><atom id="3">ap</atom></impl></formula><premisses>
+      <rule name="ii(1)"><antecedent><formula id="1"><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl></formula></antecedent><formula><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl></formula><premisses>
+         <rule name="ie"><antecedent><formula id="1"><atom id="0">ap</atom></formula><formula id="2"><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl></formula></antecedent><formula><atom id="5">ap</atom></formula><premisses>
+            <rule name="hyp(1)"><antecedent><formula id="1"><atom id="0">ap</atom></formula></antecedent><formula><atom id="0">ap</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl></formula></antecedent><formula><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl></formula><premisses></premisses></rule>
+            </premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl><impl><atom id="6">ap</atom><atom id="3">ap</atom></impl></impl></formula></antecedent><formula><impl><impl><atom id="0">ap</atom><atom id="5">ap</atom></impl><impl><atom id="6">ap</atom><atom id="3">ap</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

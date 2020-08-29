@@ -1,0 +1,7 @@
+<proof id="WR-P-E-H-0000000051.p.250.s.6_4.xml" date="27052020">
+ <string>voor</string>
+ <lexicon>
+  <lexicon_item id="1"><word>voor</word><pos1>adj</pos1><pos2>VZ(fin)</pos2><lemma>voor</lemma><formula><atom id="0">vz</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">vz</atom></formula></antecedent><formula><atom id="0">vz</atom></formula><premisses></premisses></rule>
+</proof>

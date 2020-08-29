@@ -1,0 +1,11 @@
+<proof id="WR-P-P-C-0000000051.txt-112_0.xml" date="27052020">
+ <string>Soorten aanvallen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Soorten</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>soort</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>aanvallen</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>aanval</lemma><formula><box dep="mod"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><impl><atom id="0">np</atom><atom id="2">np</atom></impl></formula></antecedent><formula><atom id="2">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

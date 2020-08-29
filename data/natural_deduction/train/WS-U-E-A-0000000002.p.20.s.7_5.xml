@@ -1,0 +1,7 @@
+<proof id="WS-U-E-A-0000000002.p.20.s.7_5.xml" date="27052020">
+ <string>dank</string>
+ <lexicon>
+  <lexicon_item id="1"><word>dank</word><pos1>noun</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>danken</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>
+</proof>

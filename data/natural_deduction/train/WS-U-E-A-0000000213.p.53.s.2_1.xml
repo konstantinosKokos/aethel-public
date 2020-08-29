@@ -1,0 +1,11 @@
+<proof id="WS-U-E-A-0000000213.p.53.s.2_1.xml" date="27052020">
+ <string>hard werken</string>
+ <lexicon>
+  <lexicon_item id="1"><word>hard</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>hard</lemma><formula><box dep="mod"><impl><atom id="2">inf</atom><atom id="1">inf</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>werken</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>werken</lemma><formula><atom id="2">inf</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">inf</atom></formula><formula id="2"><impl><atom id="2">inf</atom><atom id="1">inf</atom></impl></formula></antecedent><formula><atom id="1">inf</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">inf</atom></formula></antecedent><formula><atom id="2">inf</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">inf</atom><atom id="1">inf</atom></impl></formula></antecedent><formula><impl><atom id="2">inf</atom><atom id="1">inf</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

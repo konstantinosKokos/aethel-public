@@ -1,0 +1,15 @@
+<proof id="dpc-ind-001638-nl-sen.p.20.s.3_4.xml" date="27052020">
+ <string>pas in 1981</string>
+ <lexicon>
+  <lexicon_item id="1"><word>pas</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>pas</lemma><formula><box dep="mod"><impl><atom id="3">pp</atom><atom id="1">pp</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>in</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>in</lemma><formula><impl><dia dep="obj1"><atom id="4">tw</atom></dia><atom id="3">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>1981</word><pos1>noun</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1981</lemma><formula><atom id="4">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">tw</atom></formula><formula id="2"><impl><atom id="4">tw</atom><atom id="3">pp</atom></impl></formula><formula id="3"><impl><atom id="3">pp</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="4">tw</atom></formula><formula id="2"><impl><atom id="4">tw</atom><atom id="3">pp</atom></impl></formula></antecedent><formula><atom id="3">pp</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">tw</atom></formula></antecedent><formula><atom id="4">tw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">pp</atom></formula></antecedent><formula><atom id="3">pp</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">pp</atom></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

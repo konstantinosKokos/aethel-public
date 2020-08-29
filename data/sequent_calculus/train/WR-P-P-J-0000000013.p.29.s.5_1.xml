@@ -1,0 +1,11 @@
+<proof id="WR-P-P-J-0000000013.p.29.s.5_1.xml" date="27052020">
+ <string>deze intermediairen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>deze</word><pos1>det</pos1><pos2>VNW(aanw,det,stan,prenom,met-e,rest)</pos2><lemma>deze</lemma><formula><box dep="det"><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="2"><word>intermediairen</word><pos1>noun</pos1><pos2>ADJ(nom,basis,met-e,mv-n)</pos2><lemma>intermediair</lemma><formula><atom id="2">adj</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="2">adj</atom></formula><formula id="2"><impl><atom id="2">adj</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">adj</atom></formula></antecedent><formula><atom id="2">adj</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">np</atom></formula></antecedent><formula><atom id="1">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

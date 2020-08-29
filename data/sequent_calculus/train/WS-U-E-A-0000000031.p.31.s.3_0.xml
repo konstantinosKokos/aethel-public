@@ -1,0 +1,15 @@
+<proof id="WS-U-E-A-0000000031.p.31.s.3_0.xml" date="27052020">
+ <string>klonk Sedar's lievelingsmuziek</string>
+ <lexicon>
+  <lexicon_item id="1"><word>klonk</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>klinken</lemma><formula><impl><dia dep="su"><atom id="3">np</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Sedar's</word><pos1>det</pos1><pos2>N(eigen,ev,basis,gen)</pos2><lemma>Sedar</lemma><formula><box dep="det"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>lievelingsmuziek</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>lievelingsmuziek</lemma><formula><atom id="4">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">n</atom></formula></antecedent><formula><atom id="4">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">np</atom></formula></antecedent><formula><atom id="3">np</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">sv1</atom></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

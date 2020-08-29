@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000044854.p.3.s.84_2.xml" date="27052020">
+ <string>Tour Guy de Dampierre</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Tour Guy de Dampierre</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
+</proof>

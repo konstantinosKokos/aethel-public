@@ -1,0 +1,23 @@
+<proof id="dpc-med-000674-nl-sen.p.13.s.5_1.xml" date="27052020">
+ <string>Ze lijken allemaal op elkaar</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Ze</word><pos1>pron</pos1><pos2>VNW(pers,pron,stan,red,3,mv)</pos2><lemma>ze</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>lijken</word><pos1>verb</pos1><pos2>WW(pv,tgw,mv)</pos2><lemma>lijken</lemma><formula><impl><dia dep="pc"><atom id="7">pp</atom></dia><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>allemaal</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>allemaal</lemma><formula><box dep="predm"><impl><atom id="3">smain</atom><atom id="5">smain</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="4"><word>op</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>op</lemma><formula><impl><dia dep="obj1"><atom id="8">vnw</atom></dia><atom id="7">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="5"><word>elkaar</word><pos1>pron</pos1><pos2>VNW(recip,pron,obl,vol,persoon,mv)</pos2><lemma>elkaar</lemma><formula><atom id="8">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><atom id="8">vnw</atom></formula><formula id="3"><impl><atom id="8">vnw</atom><atom id="7">pp</atom></impl></formula><formula id="4"><impl><atom id="7">pp</atom><impl><atom id="0">vnw</atom><atom id="3">smain</atom></impl></impl></formula><formula id="5"><impl><atom id="3">smain</atom><atom id="5">smain</atom></impl></formula></antecedent><formula><atom id="5">smain</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><atom id="8">vnw</atom></formula><formula id="3"><impl><atom id="8">vnw</atom><atom id="7">pp</atom></impl></formula><formula id="4"><impl><atom id="7">pp</atom><impl><atom id="0">vnw</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><atom id="8">vnw</atom></formula><formula id="2"><impl><atom id="8">vnw</atom><atom id="7">pp</atom></impl></formula><formula id="3"><impl><atom id="7">pp</atom><impl><atom id="0">vnw</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="0">vnw</atom><atom id="3">smain</atom></impl></formula><premisses>
+         <rule name="ie"><antecedent><formula id="1"><atom id="8">vnw</atom></formula><formula id="2"><impl><atom id="8">vnw</atom><atom id="7">pp</atom></impl></formula></antecedent><formula><atom id="7">pp</atom></formula><premisses>
+            <rule name="ax"><antecedent><formula id="1"><atom id="8">vnw</atom></formula></antecedent><formula><atom id="8">vnw</atom></formula><premisses></premisses></rule>,
+            <rule name="ax"><antecedent><formula id="1"><impl><atom id="8">vnw</atom><atom id="7">pp</atom></impl></formula></antecedent><formula><impl><atom id="8">vnw</atom><atom id="7">pp</atom></impl></formula><premisses></premisses></rule>
+            </premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="7">pp</atom><impl><atom id="0">vnw</atom><atom id="3">smain</atom></impl></impl></formula></antecedent><formula><impl><atom id="7">pp</atom><impl><atom id="0">vnw</atom><atom id="3">smain</atom></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">smain</atom><atom id="5">smain</atom></impl></formula></antecedent><formula><impl><atom id="3">smain</atom><atom id="5">smain</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

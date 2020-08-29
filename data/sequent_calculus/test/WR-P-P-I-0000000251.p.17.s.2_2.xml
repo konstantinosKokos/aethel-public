@@ -1,0 +1,15 @@
+<proof id="WR-P-P-I-0000000251.p.17.s.2_2.xml" date="27052020">
+ <string>dat moet gezegd</string>
+ <lexicon>
+  <lexicon_item id="1"><word>dat</word><pos1>det</pos1><pos2>VNW(aanw,pron,stan,vol,3o,ev)</pos2><lemma>dat</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>moet</word><pos1>verb</pos1><pos2>WW(pv,tgw,ev)</pos2><lemma>moeten</lemma><formula><impl><dia dep="predc"><atom id="4">ww</atom></dia><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>gezegd</word><pos1>adj</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>zeggen</lemma><formula><atom id="4">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">ww</atom></formula><formula id="2"><impl><atom id="4">ww</atom><impl><atom id="0">vnw</atom><atom id="3">smain</atom></impl></impl></formula><formula id="3"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">ww</atom></formula></antecedent><formula><atom id="4">ww</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><impl><atom id="0">vnw</atom><atom id="3">smain</atom></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">smain</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

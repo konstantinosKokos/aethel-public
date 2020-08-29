@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000004258.p.7.s.131_1.xml" date="27052020">
+ <string>Magnus Stoker</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Magnus Stoker</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
+</proof>

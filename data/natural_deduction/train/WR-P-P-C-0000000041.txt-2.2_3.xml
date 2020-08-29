@@ -1,0 +1,15 @@
+<proof id="WR-P-P-C-0000000041.txt-2.2_3.xml" date="27052020">
+ <string>minder dan 270</string>
+ <lexicon>
+  <lexicon_item id="1"><word>minder</word><pos1>adj</pos1><pos2>VNW(onbep,grad,stan,vrij,zonder,comp)</pos2><lemma>weinig</lemma><formula><impl><dia dep="obcomp"><atom id="3">cp</atom></dia><atom id="1">ap</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>dan</word><pos1>comparative</pos1><pos2>VG(onder)</pos2><lemma>dan</lemma><formula><impl><dia dep="cmp_body"><atom id="4">tw</atom></dia><atom id="3">cp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>270</word><pos1>num</pos1><pos2>TW(hoofd,prenom,stan)</pos2><lemma>270</lemma><formula><atom id="4">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="4">tw</atom></formula><formula id="2"><impl><atom id="4">tw</atom><atom id="3">cp</atom></impl></formula><formula id="3"><impl><atom id="3">cp</atom><atom id="1">ap</atom></impl></formula></antecedent><formula><atom id="1">ap</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">tw</atom></formula><formula id="2"><impl><atom id="4">tw</atom><atom id="3">cp</atom></impl></formula></antecedent><formula><atom id="3">cp</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">tw</atom></formula></antecedent><formula><atom id="4">tw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">tw</atom><atom id="3">cp</atom></impl></formula></antecedent><formula><impl><atom id="4">tw</atom><atom id="3">cp</atom></impl></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="3">cp</atom><atom id="1">ap</atom></impl></formula></antecedent><formula><impl><atom id="3">cp</atom><atom id="1">ap</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

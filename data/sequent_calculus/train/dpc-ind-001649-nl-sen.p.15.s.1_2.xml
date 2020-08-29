@@ -1,0 +1,7 @@
+<proof id="dpc-ind-001649-nl-sen.p.15.s.1_2.xml" date="27052020">
+ <string>wanneer</string>
+ <lexicon>
+  <lexicon_item id="1"><word>wanneer</word><pos1>comp</pos1><pos2>VG(onder)</pos2><lemma>wanneer</lemma><formula><atom id="0">cp</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">cp</atom></formula></antecedent><formula><atom id="0">cp</atom></formula><premisses></premisses></rule>
+</proof>

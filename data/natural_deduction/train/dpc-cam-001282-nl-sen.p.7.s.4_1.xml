@@ -1,0 +1,7 @@
+<proof id="dpc-cam-001282-nl-sen.p.7.s.4_1.xml" date="27052020">
+ <string>hoor</string>
+ <lexicon>
+  <lexicon_item id="1"><word>hoor</word><pos1>tag</pos1><pos2>TSW()</pos2><lemma>hoor</lemma><formula><atom id="0">tsw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">tsw</atom></formula></antecedent><formula><atom id="0">tsw</atom></formula><premisses></premisses></rule>
+</proof>

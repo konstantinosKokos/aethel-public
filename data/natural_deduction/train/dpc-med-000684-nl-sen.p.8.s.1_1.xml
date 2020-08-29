@@ -1,0 +1,11 @@
+<proof id="dpc-med-000684-nl-sen.p.8.s.1_1.xml" date="27052020">
+ <string>van 1995</string>
+ <lexicon>
+  <lexicon_item id="1"><word>van</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>van</lemma><formula><impl><dia dep="obj1"><atom id="2">tw</atom></dia><atom id="1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>1995</word><pos1>noun</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>1995</lemma><formula><atom id="2">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">tw</atom></formula><formula id="2"><impl><atom id="2">tw</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">tw</atom></formula></antecedent><formula><atom id="2">tw</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">tw</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><impl><atom id="2">tw</atom><atom id="1">pp</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

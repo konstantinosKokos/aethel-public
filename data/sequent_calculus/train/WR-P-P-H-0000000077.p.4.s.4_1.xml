@@ -1,0 +1,19 @@
+<proof id="WR-P-P-H-0000000077.p.4.s.4_1.xml" date="27052020">
+ <string>riepen andere fracties boos</string>
+ <lexicon>
+  <lexicon_item id="1"><word>riepen</word><pos1>verb</pos1><pos2>WW(pv,verl,mv)</pos2><lemma>roepen</lemma><formula><impl><dia dep="su"><atom id="3">np</atom></dia><atom id="1">sv1</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>andere</word><pos1>adj</pos1><pos2>ADJ(prenom,basis,met-e,stan)</pos2><lemma>ander</lemma><formula><box dep="mod"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>fracties</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>fractie</lemma><formula><atom id="4">np</atom></formula></lexicon_item>
+  <lexicon_item id="4"><word>boos</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>boos</lemma><formula><box dep="predm"><impl><atom id="1">sv1</atom><atom id="6">sv1</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="1">sv1</atom></impl></formula><formula id="4"><impl><atom id="1">sv1</atom><atom id="6">sv1</atom></impl></formula></antecedent><formula><atom id="6">sv1</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></formula><formula id="3"><impl><atom id="3">np</atom><atom id="1">sv1</atom></impl></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses>
+      <rule name="il"><antecedent><formula id="1"><atom id="4">np</atom></formula><formula id="2"><impl><atom id="4">np</atom><atom id="3">np</atom></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="4">np</atom></formula></antecedent><formula><atom id="4">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><atom id="3">np</atom></formula></antecedent><formula><atom id="3">np</atom></formula><premisses></premisses></rule>
+         </premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="1">sv1</atom></formula></antecedent><formula><atom id="1">sv1</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="6">sv1</atom></formula></antecedent><formula><atom id="6">sv1</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

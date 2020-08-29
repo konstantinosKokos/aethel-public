@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000026563.p.3.s.60.1_1.xml" date="27052020">
+ <string>Revolution</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Revolution</word><pos1>name</pos1><pos2>SPEC(vreemd)</pos2><lemma>Revolution</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
+</proof>

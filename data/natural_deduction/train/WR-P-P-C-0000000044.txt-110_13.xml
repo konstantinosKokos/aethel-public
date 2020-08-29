@@ -1,0 +1,11 @@
+<proof id="WR-P-P-C-0000000044.txt-110_13.xml" date="27052020">
+ <string>i.v.m. legionellabesmetting</string>
+ <lexicon>
+  <lexicon_item id="1"><word>i.v.m.</word><pos1>prep</pos1><pos2>SPEC(afk)</pos2><lemma>i.v.m.</lemma><formula><impl><dia dep="obj1"><atom id="2">n</atom></dia><atom id="1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>legionellabesmetting</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>legionellabesmetting</lemma><formula><atom id="2">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">n</atom></formula><formula id="2"><impl><atom id="2">n</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">n</atom></formula></antecedent><formula><atom id="2">n</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">n</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><impl><atom id="2">n</atom><atom id="1">pp</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

@@ -1,0 +1,7 @@
+<proof id="WS-U-E-A-0000000042.p.36.s.1_3.xml" date="27052020">
+ <string>isternogwat</string>
+ <lexicon>
+  <lexicon_item id="1"><word>isternogwat</word><pos1>noun</pos1><pos2>TSW()</pos2><lemma>isternogwat</lemma><formula><atom id="0">tsw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">tsw</atom></formula></antecedent><formula><atom id="0">tsw</atom></formula><premisses></premisses></rule>
+</proof>

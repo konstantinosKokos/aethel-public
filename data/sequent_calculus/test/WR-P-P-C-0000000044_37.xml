@@ -1,0 +1,15 @@
+<proof id="WR-P-P-C-0000000044_37.xml" date="27052020">
+ <string>Je denkt altijd</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Je</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,red,2v,ev)</pos2><lemma>je</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>denkt</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>denken</lemma><formula><impl><dia dep="su"><atom id="0">vnw</atom></dia><atom id="2">smain</atom></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>altijd</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>altijd</lemma><formula><box dep="mod"><impl><atom id="2">smain</atom><atom id="4">smain</atom></impl></box></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><impl><atom id="0">vnw</atom><atom id="2">smain</atom></impl></formula><formula id="3"><impl><atom id="2">smain</atom><atom id="4">smain</atom></impl></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses>
+   <rule name="il"><antecedent><formula id="1"><atom id="0">vnw</atom></formula><formula id="2"><impl><atom id="0">vnw</atom><atom id="2">smain</atom></impl></formula></antecedent><formula><atom id="2">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">smain</atom></formula></antecedent><formula><atom id="2">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">smain</atom></formula></antecedent><formula><atom id="4">smain</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

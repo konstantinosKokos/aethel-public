@@ -1,0 +1,19 @@
+<proof id="WR-P-P-H-0000000024.p.3.s.1_2.xml" date="27052020">
+ <string>tot Israël en Canada</string>
+ <lexicon>
+  <lexicon_item id="1"><word>tot</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>tot</lemma><formula><impl><dia dep="obj1"><atom id="5">np</atom></dia><atom id="1">pp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>Israël</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Israël</lemma><formula><atom id="2">np</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>en</word><pos1>vg</pos1><pos2>VG(neven)</pos2><lemma>en</lemma><formula><impl><dia dep="cnj"><atom id="2">np</atom></dia><impl><dia dep="cnj"><atom id="6">np</atom></dia><atom id="5">np</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>Canada</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Canada</lemma><formula><atom id="6">np</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="6">np</atom></formula><formula id="2"><atom id="2">np</atom></formula><formula id="3"><impl><atom id="2">np</atom><impl><atom id="6">np</atom><atom id="5">np</atom></impl></impl></formula><formula id="4"><impl><atom id="5">np</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><atom id="1">pp</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="6">np</atom></formula><formula id="2"><atom id="2">np</atom></formula><formula id="3"><impl><atom id="2">np</atom><impl><atom id="6">np</atom><atom id="5">np</atom></impl></impl></formula></antecedent><formula><atom id="5">np</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="6">np</atom></formula></antecedent><formula><atom id="6">np</atom></formula><premisses></premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><atom id="2">np</atom></formula><formula id="2"><impl><atom id="2">np</atom><impl><atom id="6">np</atom><atom id="5">np</atom></impl></impl></formula></antecedent><formula><impl><atom id="6">np</atom><atom id="5">np</atom></impl></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="2">np</atom></formula></antecedent><formula><atom id="2">np</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="2">np</atom><impl><atom id="6">np</atom><atom id="5">np</atom></impl></impl></formula></antecedent><formula><impl><atom id="2">np</atom><impl><atom id="6">np</atom><atom id="5">np</atom></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="5">np</atom><atom id="1">pp</atom></impl></formula></antecedent><formula><impl><atom id="5">np</atom><atom id="1">pp</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

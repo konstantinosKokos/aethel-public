@@ -1,0 +1,7 @@
+<proof id="WR-P-E-I-0000039352.p.3.s.232_0.xml" date="27052020">
+ <string>Daarna</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Daarna</word><pos1>pp</pos1><pos2>BW()</pos2><lemma>daarna</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
+</proof>

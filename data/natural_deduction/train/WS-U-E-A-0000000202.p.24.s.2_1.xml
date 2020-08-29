@@ -1,0 +1,19 @@
+<proof id="WS-U-E-A-0000000202.p.24.s.2_1.xml" date="27052020">
+ <string>dat hij werd verboden</string>
+ <lexicon>
+  <lexicon_item id="1"><word>dat</word><pos1>comp</pos1><pos2>VG(onder)</pos2><lemma>dat</lemma><formula><impl><dia dep="cmp_body"><atom id="5">ssub</atom></dia><atom id="1">cp</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>hij</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,vol,3,ev,masc)</pos2><lemma>hij</lemma><formula><atom id="2">vnw</atom></formula></lexicon_item>
+  <lexicon_item id="3"><word>werd</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>worden</lemma><formula><impl><dia dep="vc"><atom id="6">ww</atom></dia><impl><dia dep="su"><atom id="2">vnw</atom></dia><atom id="5">ssub</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="4"><word>verboden</word><pos1>verb</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>verbieden</lemma><formula><atom id="6">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="2">vnw</atom></formula><formula id="2"><atom id="6">ww</atom></formula><formula id="3"><impl><atom id="6">ww</atom><impl><atom id="2">vnw</atom><atom id="5">ssub</atom></impl></impl></formula><formula id="4"><impl><atom id="5">ssub</atom><atom id="1">cp</atom></impl></formula></antecedent><formula><atom id="1">cp</atom></formula><premisses>
+   <rule name="ie"><antecedent><formula id="1"><atom id="2">vnw</atom></formula><formula id="2"><atom id="6">ww</atom></formula><formula id="3"><impl><atom id="6">ww</atom><impl><atom id="2">vnw</atom><atom id="5">ssub</atom></impl></impl></formula></antecedent><formula><atom id="5">ssub</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="2">vnw</atom></formula></antecedent><formula><atom id="2">vnw</atom></formula><premisses></premisses></rule>,
+      <rule name="ie"><antecedent><formula id="1"><atom id="6">ww</atom></formula><formula id="2"><impl><atom id="6">ww</atom><impl><atom id="2">vnw</atom><atom id="5">ssub</atom></impl></impl></formula></antecedent><formula><impl><atom id="2">vnw</atom><atom id="5">ssub</atom></impl></formula><premisses>
+         <rule name="ax"><antecedent><formula id="1"><atom id="6">ww</atom></formula></antecedent><formula><atom id="6">ww</atom></formula><premisses></premisses></rule>,
+         <rule name="ax"><antecedent><formula id="1"><impl><atom id="6">ww</atom><impl><atom id="2">vnw</atom><atom id="5">ssub</atom></impl></impl></formula></antecedent><formula><impl><atom id="6">ww</atom><impl><atom id="2">vnw</atom><atom id="5">ssub</atom></impl></impl></formula><premisses></premisses></rule>
+         </premisses></rule>
+      </premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><impl><atom id="5">ssub</atom><atom id="1">cp</atom></impl></formula></antecedent><formula><impl><atom id="5">ssub</atom><atom id="1">cp</atom></impl></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>

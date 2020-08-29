@@ -1,0 +1,15 @@
+<proof id="WR-P-P-H-0000000018.p.1.s.4_0.xml" date="27052020">
+ <string>Jos Verstappen werd dertiende</string>
+ <lexicon>
+  <lexicon_item id="1"><word>Jos Verstappen</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>werd</word><pos1>verb</pos1><pos2>WW(pv,verl,ev)</pos2><lemma>worden</lemma><formula><impl><dia dep="predc"><atom id="4">tw</atom></dia><impl><dia dep="su"><atom id="0">spec</atom></dia><atom id="3">smain</atom></impl></impl></formula></lexicon_item>
+  <lexicon_item id="3"><word>dertiende</word><pos1>num</pos1><pos2>TW(rang,nom,zonder-n)</pos2><lemma>dertien</lemma><formula><atom id="4">tw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="4">tw</atom></formula><formula id="2"><impl><atom id="4">tw</atom><impl><atom id="0">spec</atom><atom id="3">smain</atom></impl></impl></formula><formula id="3"><atom id="0">spec</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="4">tw</atom></formula></antecedent><formula><atom id="4">tw</atom></formula><premisses></premisses></rule>,
+   <rule name="il"><antecedent><formula id="1"><atom id="0">spec</atom></formula><formula id="2"><impl><atom id="0">spec</atom><atom id="3">smain</atom></impl></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><atom id="3">smain</atom></formula></antecedent><formula><atom id="3">smain</atom></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

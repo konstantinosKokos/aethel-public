@@ -1,0 +1,7 @@
+<proof id="WR-P-P-H-0000000105.p.6.s.5_1.xml" date="27052020">
+ <string>mezelf</string>
+ <lexicon>
+  <lexicon_item id="1"><word>mezelf</word><pos1>pron</pos1><pos2>VNW(pr,pron,obl,nadr,1,ev)</pos2><lemma>mezelf</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
+</proof>

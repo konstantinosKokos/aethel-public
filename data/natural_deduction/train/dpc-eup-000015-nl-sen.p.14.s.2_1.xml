@@ -1,0 +1,15 @@
+<proof id="dpc-eup-000015-nl-sen.p.14.s.2_1.xml" date="27052020">
+ <string>mijnheer de Voorzitter</string>
+ <lexicon>
+  <lexicon_item id="1"><word>mijnheer</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>mijnheer</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
+  <lexicon_item id="2"><word>de</word><pos1>det</pos1><pos2>LID(bep,stan,rest)</pos2><lemma>de</lemma><formula><box dep="det"><impl><atom id="4">n</atom><box dep="app"><impl><atom id="0">np</atom><atom id="3">np</atom></impl></box></impl></box></formula></lexicon_item>
+  <lexicon_item id="3"><word>Voorzitter</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>voorzitter</lemma><formula><atom id="4">n</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="ie"><antecedent><formula id="1"><atom id="0">np</atom></formula><formula id="2"><atom id="4">n</atom></formula><formula id="3"><impl><atom id="4">n</atom><impl><atom id="0">np</atom><atom id="3">np</atom></impl></impl></formula></antecedent><formula><atom id="3">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>,
+   <rule name="ie"><antecedent><formula id="1"><atom id="4">n</atom></formula><formula id="2"><impl><atom id="4">n</atom><impl><atom id="0">np</atom><atom id="3">np</atom></impl></impl></formula></antecedent><formula><impl><atom id="0">np</atom><atom id="3">np</atom></impl></formula><premisses>
+      <rule name="ax"><antecedent><formula id="1"><atom id="4">n</atom></formula></antecedent><formula><atom id="4">n</atom></formula><premisses></premisses></rule>,
+      <rule name="ax"><antecedent><formula id="1"><impl><atom id="4">n</atom><impl><atom id="0">np</atom><atom id="3">np</atom></impl></impl></formula></antecedent><formula><impl><atom id="4">n</atom><impl><atom id="0">np</atom><atom id="3">np</atom></impl></impl></formula><premisses></premisses></rule>
+      </premisses></rule>
+   </premisses></rule>
+</proof>

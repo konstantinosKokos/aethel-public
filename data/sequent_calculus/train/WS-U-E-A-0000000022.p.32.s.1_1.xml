@@ -1,0 +1,11 @@
+<proof id="WS-U-E-A-0000000022.p.32.s.1_1.xml" date="27052020">
+ <string>kunnen aannemen</string>
+ <lexicon>
+  <lexicon_item id="1"><word>kunnen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>kunnen</lemma><formula><impl><dia dep="obj1"><atom id="2">ww</atom></dia><atom id="1">np</atom></impl></formula></lexicon_item>
+  <lexicon_item id="2"><word>aannemen</word><pos1>verb</pos1><pos2>WW(inf,vrij,zonder)</pos2><lemma>aannemen</lemma><formula><atom id="2">ww</atom></formula></lexicon_item>
+ </lexicon>
+<rule name="il"><antecedent><formula id="1"><atom id="2">ww</atom></formula><formula id="2"><impl><atom id="2">ww</atom><atom id="1">np</atom></impl></formula></antecedent><formula><atom id="1">np</atom></formula><premisses>
+   <rule name="ax"><antecedent><formula id="1"><atom id="2">ww</atom></formula></antecedent><formula><atom id="2">ww</atom></formula><premisses></premisses></rule>,
+   <rule name="ax"><antecedent><formula id="1"><atom id="1">np</atom></formula></antecedent><formula><atom id="1">np</atom></formula><premisses></premisses></rule>
+   </premisses></rule>
+</proof>
