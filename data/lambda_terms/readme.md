@@ -1,7 +1,7 @@
 ## data/lambda_terms/
 
 This directory contains terms of the linear lambda-calculus with dependency and type annotations for each of the
-72,120 samples split into three files for the training, development and test splits.
+72,192 samples split into three files for the training, development and test splits.
 
 ---  
 
