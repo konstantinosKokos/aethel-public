@@ -19,7 +19,7 @@ The grammar of the file is:
  `SAMPLE_ID` a unique identifier specifying the filename of the original LassySmall file postfixed by a mark `_i` to 
  determine which subpart of the original file is analyzed (in the case of a split during processing)
  
- `WORD_SEQUENCE ::= WORD_SEQUENCE  "\t" WORD` a sequence of tab-separated words (or phrases, in the case of multi-word 
+ `WORD_SEQUENCE ::= WORD_SEQUENCE, WORD` a list of comma-separated words (or phrases, in the case of multi-word 
  expressions) corresponding to the analyzed sentence/phrase
  
  and
