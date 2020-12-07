@@ -1,7 +1,0 @@
-<proof id="WR-P-P-I-0000000155.p.7.s.5_1.xml" date="27052020">
- <string>indien</string>
- <lexicon>
-  <lexicon_item id="1"><word>indien</word><pos1>comp</pos1><pos2>VG(onder)</pos2><lemma>indien</lemma><formula><atom id="0">cp</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">cp</atom></formula></antecedent><formula><atom id="0">cp</atom></formula><premisses></premisses></rule>
-</proof>

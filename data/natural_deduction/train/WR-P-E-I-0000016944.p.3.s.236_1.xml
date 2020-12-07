@@ -1,7 +1,0 @@
-<proof id="WR-P-E-I-0000016944.p.3.s.236_1.xml" date="27052020">
- <string>And if you , General , do not want to carry out the orders given to you , we shall find another commander for the Polish Para Brigade , who will carry out our orders</string>
- <lexicon>
-  <lexicon_item id="1"><word>And if you , General , do not want to carry out the orders given to you , we shall find another commander for the Polish Para Brigade , who will carry out our orders</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
-</proof>

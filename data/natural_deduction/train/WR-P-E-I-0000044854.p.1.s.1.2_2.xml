@@ -1,7 +1,0 @@
-<proof id="WR-P-E-I-0000044854.p.1.s.1.2_2.xml" date="27052020">
- <string>Bergues</string>
- <lexicon>
-  <lexicon_item id="1"><word>Bergues</word><pos1>name</pos1><pos2>SPEC(vreemd)</pos2><lemma>Bergues</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
-</proof>

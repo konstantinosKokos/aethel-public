@@ -1,7 +1,0 @@
-<proof id="WS-U-E-A-0000000015.p.18.s.1_2.xml" date="27052020">
- <string>met</string>
- <lexicon>
-  <lexicon_item id="1"><word>met</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>met</lemma><formula><atom id="0">vz</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">vz</atom></formula></antecedent><formula><atom id="0">vz</atom></formula><premisses></premisses></rule>
-</proof>

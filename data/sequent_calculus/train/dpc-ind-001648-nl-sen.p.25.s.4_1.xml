@@ -1,7 +1,0 @@
-<proof id="dpc-ind-001648-nl-sen.p.25.s.4_1.xml" date="27052020">
- <string>beide</string>
- <lexicon>
-  <lexicon_item id="1"><word>beide</word><pos1>det</pos1><pos2>VNW(onbep,grad,stan,nom,met-e,zonder-n,basis)</pos2><lemma>beide</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
-</proof>

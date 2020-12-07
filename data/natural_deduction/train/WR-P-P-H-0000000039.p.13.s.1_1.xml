@@ -1,7 +1,0 @@
-<proof id="WR-P-P-H-0000000039.p.13.s.1_1.xml" date="27052020">
- <string>ja</string>
- <lexicon>
-  <lexicon_item id="1"><word>ja</word><pos1>tag</pos1><pos2>TSW()</pos2><lemma>ja</lemma><formula><atom id="0">tsw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">tsw</atom></formula></antecedent><formula><atom id="0">tsw</atom></formula><premisses></premisses></rule>
-</proof>

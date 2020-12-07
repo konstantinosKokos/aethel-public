@@ -1,7 +1,0 @@
-<proof id="WR-P-P-I-0000000232.p.3.s.3_1.xml" date="27052020">
- <string>algemeen</string>
- <lexicon>
-  <lexicon_item id="1"><word>algemeen</word><pos1>adv</pos1><pos2>ADJ(nom,basis,zonder,zonder-n)</pos2><lemma>algemeen</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
-</proof>

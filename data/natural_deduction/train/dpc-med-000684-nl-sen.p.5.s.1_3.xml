@@ -1,7 +1,0 @@
-<proof id="dpc-med-000684-nl-sen.p.5.s.1_3.xml" date="27052020">
- <string>ditmaal</string>
- <lexicon>
-  <lexicon_item id="1"><word>ditmaal</word><pos1>adv</pos1><pos2>BW()</pos2><lemma>ditmaal</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
-</proof>

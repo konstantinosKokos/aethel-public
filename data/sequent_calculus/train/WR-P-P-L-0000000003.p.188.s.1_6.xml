@@ -1,7 +1,0 @@
-<proof id="WR-P-P-L-0000000003.p.188.s.1_6.xml" date="27052020">
- <string>T</string>
- <lexicon>
-  <lexicon_item id="1"><word>T</word><pos1>name</pos1><pos2>SPEC(symb)</pos2><lemma>T</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
-</proof>

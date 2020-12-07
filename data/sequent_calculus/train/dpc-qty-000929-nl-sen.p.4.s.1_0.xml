@@ -1,7 +1,0 @@
-<proof id="dpc-qty-000929-nl-sen.p.4.s.1_0.xml" date="27052020">
- <string>Tekst</string>
- <lexicon>
-  <lexicon_item id="1"><word>Tekst</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>tekst</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
-</proof>

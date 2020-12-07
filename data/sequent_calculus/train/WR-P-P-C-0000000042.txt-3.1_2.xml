@@ -1,7 +1,0 @@
-<proof id="WR-P-P-C-0000000042.txt-3.1_2.xml" date="27052020">
- <string>567,23</string>
- <lexicon>
-  <lexicon_item id="1"><word>567,23</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>567,23</lemma><formula><atom id="0">tw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">tw</atom></formula></antecedent><formula><atom id="0">tw</atom></formula><premisses></premisses></rule>
-</proof>

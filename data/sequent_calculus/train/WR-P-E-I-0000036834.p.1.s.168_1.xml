@@ -1,7 +1,0 @@
-<proof id="WR-P-E-I-0000036834.p.1.s.168_1.xml" date="27052020">
- <string>uiteindelijk</string>
- <lexicon>
-  <lexicon_item id="1"><word>uiteindelijk</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>uiteindelijk</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
-</proof>

@@ -1,7 +1,0 @@
-<proof id="WR-P-P-C-0000000049.txt-158_1.xml" date="27052020">
- <string>Bergbeklimmen</string>
- <lexicon>
-  <lexicon_item id="1"><word>Bergbeklimmen</word><pos1>noun</pos1><pos2>WW(inf,nom,zonder,zonder-n)</pos2><lemma>bergbeklimmen</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>
-</proof>

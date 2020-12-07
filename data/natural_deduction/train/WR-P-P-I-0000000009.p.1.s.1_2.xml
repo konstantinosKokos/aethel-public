@@ -1,7 +1,0 @@
-<proof id="WR-P-P-I-0000000009.p.1.s.1_2.xml" date="27052020">
- <string>ex</string>
- <lexicon>
-  <lexicon_item id="1"><word>ex</word><pos1>noun</pos1><pos2>SPEC(afgebr)</pos2><lemma>ex</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
-</proof>

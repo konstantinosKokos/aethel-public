@@ -1,7 +1,0 @@
-<proof id="WR-P-P-I-0000000126.p.12.s.4_2.xml" date="27052020">
- <string>hem</string>
- <lexicon>
-  <lexicon_item id="1"><word>hem</word><pos1>pron</pos1><pos2>VNW(pers,pron,obl,vol,3,ev,masc)</pos2><lemma>hem</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
-</proof>

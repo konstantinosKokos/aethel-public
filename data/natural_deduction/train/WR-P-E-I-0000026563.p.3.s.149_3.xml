@@ -1,7 +1,0 @@
-<proof id="WR-P-E-I-0000026563.p.3.s.149_3.xml" date="27052020">
- <string>nl</string>
- <lexicon>
-  <lexicon_item id="1"><word>nl</word><pos1>noun</pos1><pos2>BW()</pos2><lemma>nl</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
-</proof>

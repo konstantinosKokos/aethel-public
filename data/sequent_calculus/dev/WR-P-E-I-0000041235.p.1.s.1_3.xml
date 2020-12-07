@@ -1,7 +1,0 @@
-<proof id="WR-P-E-I-0000041235.p.1.s.1_3.xml" date="27052020">
- <string>18 maart 1871</string>
- <lexicon>
-  <lexicon_item id="1"><word>18 maart 1871</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
-</proof>

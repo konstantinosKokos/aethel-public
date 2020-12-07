@@ -1,7 +1,0 @@
-<proof id="WS-U-E-A-0000000248.p.25.s.5_1.xml" date="27052020">
- <string>groot</string>
- <lexicon>
-  <lexicon_item id="1"><word>groot</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>groot</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
-</proof>

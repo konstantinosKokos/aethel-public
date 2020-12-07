@@ -1,7 +1,0 @@
-<proof id="dpc-vla-001175-nl-sen.p.293.s.1_0.xml" date="27052020">
- <string>2.4.8</string>
- <lexicon>
-  <lexicon_item id="1"><word>2.4.8</word><pos1>num</pos1><pos2>SPEC(symb)</pos2><lemma>2.4.8</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
-</proof>

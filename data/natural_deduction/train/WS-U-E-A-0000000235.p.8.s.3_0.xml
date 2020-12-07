@@ -1,7 +1,0 @@
-<proof id="WS-U-E-A-0000000235.p.8.s.3_0.xml" date="27052020">
- <string>Hier</string>
- <lexicon>
-  <lexicon_item id="1"><word>Hier</word><pos1>adv</pos1><pos2>VNW(aanw,adv-pron,obl,vol,3o,getal)</pos2><lemma>hier</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
-</proof>

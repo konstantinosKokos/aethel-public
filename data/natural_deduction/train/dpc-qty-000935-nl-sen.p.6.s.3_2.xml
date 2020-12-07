@@ -1,7 +1,0 @@
-<proof id="dpc-qty-000935-nl-sen.p.6.s.3_2.xml" date="27052020">
- <string>het</string>
- <lexicon>
-  <lexicon_item id="1"><word>het</word><pos1>det</pos1><pos2>VNW(pers,pron,stan,red,3,ev,onz)</pos2><lemma>het</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
-</proof>

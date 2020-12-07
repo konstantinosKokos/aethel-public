@@ -1,7 +1,0 @@
-<proof id="WR-P-P-C-0000000043.txt-10.8_5.xml" date="27052020">
- <string>956,70</string>
- <lexicon>
-  <lexicon_item id="1"><word>956,70</word><pos1>num</pos1><pos2>ADJ(prenom,basis,zonder)</pos2><lemma>956,70</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
-</proof>

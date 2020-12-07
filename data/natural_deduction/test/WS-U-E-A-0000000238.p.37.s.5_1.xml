@@ -1,7 +1,0 @@
-<proof id="WS-U-E-A-0000000238.p.37.s.5_1.xml" date="27052020">
- <string>dus</string>
- <lexicon>
-  <lexicon_item id="1"><word>dus</word><pos1>comp</pos1><pos2>BW()</pos2><lemma>dus</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
-</proof>

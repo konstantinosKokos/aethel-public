@@ -1,7 +1,0 @@
-<proof id="WR-P-P-I-0000000245.p.12.s.2_1.xml" date="27052020">
- <string>dat</string>
- <lexicon>
-  <lexicon_item id="1"><word>dat</word><pos1>pron</pos1><pos2>VNW(aanw,pron,stan,vol,3o,ev)</pos2><lemma>dat</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
-</proof>

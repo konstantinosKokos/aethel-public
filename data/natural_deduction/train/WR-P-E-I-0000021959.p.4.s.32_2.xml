@@ -1,7 +1,0 @@
-<proof id="WR-P-E-I-0000021959.p.4.s.32_2.xml" date="27052020">
- <string>grotendeels</string>
- <lexicon>
-  <lexicon_item id="1"><word>grotendeels</word><pos1>adv</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>grotendeels</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
-</proof>

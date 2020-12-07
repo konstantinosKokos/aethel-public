@@ -1,7 +1,0 @@
-<proof id="dpc-bal-001237-nl-sen.p.2.s.1_1.xml" date="27052020">
- <string>minister-president</string>
- <lexicon>
-  <lexicon_item id="1"><word>minister-president</word><pos1>noun</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>minister-president</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
-</proof>

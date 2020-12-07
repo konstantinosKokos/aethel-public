@@ -1,7 +1,0 @@
-<proof id="WR-P-P-H-0000000095.p.14.s.1_2.xml" date="27052020">
- <string>Boekmanstudies</string>
- <lexicon>
-  <lexicon_item id="1"><word>Boekmanstudies</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>boekmanstudie</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
-</proof>

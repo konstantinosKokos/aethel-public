@@ -1,7 +1,0 @@
-<proof id="WR-P-E-H-0000000052.p.281.s.1_1.xml" date="27052020">
- <string>Mensenrechten</string>
- <lexicon>
-  <lexicon_item id="1"><word>Mensenrechten</word><pos1>noun</pos1><pos2>N(soort,mv,basis)</pos2><lemma>mensenrecht</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
-</proof>

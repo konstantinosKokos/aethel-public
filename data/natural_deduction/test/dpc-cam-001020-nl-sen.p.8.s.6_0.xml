@@ -1,7 +1,0 @@
-<proof id="dpc-cam-001020-nl-sen.p.8.s.6_0.xml" date="27052020">
- <string>Waarop</string>
- <lexicon>
-  <lexicon_item id="1"><word>Waarop</word><pos1>pp</pos1><pos2>BW()</pos2><lemma>waarop</lemma><formula><atom id="0">rel</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">rel</atom></formula></antecedent><formula><atom id="0">rel</atom></formula><premisses></premisses></rule>
-</proof>

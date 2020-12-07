@@ -1,7 +1,0 @@
-<proof id="WS-U-E-A-0000000005.p.37.s.29_3.xml" date="27052020">
- <string>PIZZA</string>
- <lexicon>
-  <lexicon_item id="1"><word>PIZZA</word><pos1>name</pos1><pos2>N(soort,ev,basis,zijd,stan)</pos2><lemma>pizza</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
-</proof>

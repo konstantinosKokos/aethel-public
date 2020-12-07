@@ -1,7 +1,0 @@
-<proof id="WS-U-E-A-0000000211.p.2.s.1_3.xml" date="27052020">
- <string>uit</string>
- <lexicon>
-  <lexicon_item id="1"><word>uit</word><pos1>adj</pos1><pos2>VZ(fin)</pos2><lemma>uit</lemma><formula><atom id="0">vz</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">vz</atom></formula></antecedent><formula><atom id="0">vz</atom></formula><premisses></premisses></rule>
-</proof>

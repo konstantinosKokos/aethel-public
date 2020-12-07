@@ -1,7 +1,0 @@
-<proof id="WR-P-E-H-0000000047.p.40.s.4_1.xml" date="27052020">
- <string>www.expat.or.id/medical/dengue.html</string>
- <lexicon>
-  <lexicon_item id="1"><word>www.expat.or.id/medical/dengue.html</word><pos1>noun</pos1><pos2>SPEC(symb)</pos2><lemma>www.expat.or.id/medical/dengue.html</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
-</proof>

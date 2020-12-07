@@ -1,7 +1,0 @@
-<proof id="dpc-vla-001170-nl-sen.p.46.s.1_0.xml" date="27052020">
- <string>3</string>
- <lexicon>
-  <lexicon_item id="1"><word>3</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>3</lemma><formula><atom id="0">tw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">tw</atom></formula></antecedent><formula><atom id="0">tw</atom></formula><premisses></premisses></rule>
-</proof>

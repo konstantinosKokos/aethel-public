@@ -1,7 +1,0 @@
-<proof id="WR-P-P-G-0000000016.p.1.s.1_3.xml" date="27052020">
- <string>2001/2002</string>
- <lexicon>
-  <lexicon_item id="1"><word>2001/2002</word><pos1>num</pos1><pos2>TW(hoofd,vrij)</pos2><lemma>2001/2002</lemma><formula><atom id="0">tw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">tw</atom></formula></antecedent><formula><atom id="0">tw</atom></formula><premisses></premisses></rule>
-</proof>

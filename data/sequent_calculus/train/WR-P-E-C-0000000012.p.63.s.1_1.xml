@@ -1,7 +1,0 @@
-<proof id="WR-P-E-C-0000000012.p.63.s.1_1.xml" date="27052020">
- <string>http://www.dbnl.org/letterkunde/twintigste/artikelen</string>
- <lexicon>
-  <lexicon_item id="1"><word>http://www.dbnl.org/letterkunde/twintigste/artikelen</word><pos1>noun</pos1><pos2>SPEC(symb)</pos2><lemma>http://www.dbnl.org/letterkunde/twintigste/artikelen</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
-</proof>

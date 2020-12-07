@@ -1,7 +1,0 @@
-<proof id="WR-P-P-I-0000000126.p.2.s.5_1.xml" date="27052020">
- <string>afgebroken</string>
- <lexicon>
-  <lexicon_item id="1"><word>afgebroken</word><pos1>adj</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>afbreken</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>
-</proof>

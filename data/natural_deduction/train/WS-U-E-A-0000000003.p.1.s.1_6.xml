@@ -1,7 +1,0 @@
-<proof id="WS-U-E-A-0000000003.p.1.s.1_6.xml" date="27052020">
- <string>aan</string>
- <lexicon>
-  <lexicon_item id="1"><word>aan</word><pos1>prep</pos1><pos2>VZ(init)</pos2><lemma>aan</lemma><formula><atom id="0">pp</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">pp</atom></formula></antecedent><formula><atom id="0">pp</atom></formula><premisses></premisses></rule>
-</proof>

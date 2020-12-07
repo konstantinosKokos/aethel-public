@@ -1,7 +1,0 @@
-<proof id="WS-U-E-A-0000000224.p.35.s.5_0.xml" date="27052020">
- <string>Mogelijk</string>
- <lexicon>
-  <lexicon_item id="1"><word>Mogelijk</word><pos1>adj</pos1><pos2>ADJ(vrij,basis,zonder)</pos2><lemma>mogelijk</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
-</proof>

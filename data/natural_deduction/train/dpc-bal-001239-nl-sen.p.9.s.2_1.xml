@@ -1,7 +1,0 @@
-<proof id="dpc-bal-001239-nl-sen.p.9.s.2_1.xml" date="27052020">
- <string>het hoogst</string>
- <lexicon>
-  <lexicon_item id="1"><word>het hoogst</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">adj</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">adj</atom></formula></antecedent><formula><atom id="0">adj</atom></formula><premisses></premisses></rule>
-</proof>

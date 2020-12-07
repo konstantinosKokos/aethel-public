@@ -1,7 +1,0 @@
-<proof id="WS-U-E-A-0000000036.p.14.s.5_2.xml" date="27052020">
- <string>alstublieft</string>
- <lexicon>
-  <lexicon_item id="1"><word>alstublieft</word><pos1>adv</pos1><pos2>TSW()</pos2><lemma>alstublieft</lemma><formula><atom id="0">tsw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">tsw</atom></formula></antecedent><formula><atom id="0">tsw</atom></formula><premisses></premisses></rule>
-</proof>

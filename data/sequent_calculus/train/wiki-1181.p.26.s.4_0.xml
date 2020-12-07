@@ -1,7 +1,0 @@
-<proof id="wiki-1181.p.26.s.4_0.xml" date="27052020">
- <string>Vlaams-Brabant</string>
- <lexicon>
-  <lexicon_item id="1"><word>Vlaams-Brabant</word><pos1>name</pos1><pos2>N(eigen,ev,basis,onz,stan)</pos2><lemma>Vlaams-Brabant</lemma><formula><atom id="0">n</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">n</atom></formula></antecedent><formula><atom id="0">n</atom></formula><premisses></premisses></rule>
-</proof>

@@ -1,7 +1,0 @@
-<proof id="dpc-med-000684-nl-sen.p.50.s.3_1.xml" date="27052020">
- <string>u</string>
- <lexicon>
-  <lexicon_item id="1"><word>u</word><pos1>pron</pos1><pos2>VNW(pers,pron,nomin,vol,2b,getal)</pos2><lemma>u</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
-</proof>

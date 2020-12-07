@@ -1,7 +1,0 @@
-<proof id="WR-P-E-H-0000000052.p.776.s.1_1.xml" date="27052020">
- <string>beiden</string>
- <lexicon>
-  <lexicon_item id="1"><word>beiden</word><pos1>adv</pos1><pos2>VNW(onbep,grad,stan,nom,met-e,mv-n,basis)</pos2><lemma>beide</lemma><formula><atom id="0">vnw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">vnw</atom></formula></antecedent><formula><atom id="0">vnw</atom></formula><premisses></premisses></rule>
-</proof>

@@ -1,7 +1,0 @@
-<proof id="dpc-cam-001283-nl-sen.p.11.s.8_3.xml" date="27052020">
- <string>lacht</string>
- <lexicon>
-  <lexicon_item id="1"><word>lacht</word><pos1>verb</pos1><pos2>WW(pv,tgw,met-t)</pos2><lemma>lachen</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>
-</proof>

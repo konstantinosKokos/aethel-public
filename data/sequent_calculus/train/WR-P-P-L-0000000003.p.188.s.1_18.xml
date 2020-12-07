@@ -1,7 +1,0 @@
-<proof id="WR-P-P-L-0000000003.p.188.s.1_18.xml" date="27052020">
- <string>aK</string>
- <lexicon>
-  <lexicon_item id="1"><word>aK</word><pos1>name</pos1><pos2>SPEC(afk)</pos2><lemma>aK</lemma><formula><atom id="0">spec</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">spec</atom></formula></antecedent><formula><atom id="0">spec</atom></formula><premisses></premisses></rule>
-</proof>

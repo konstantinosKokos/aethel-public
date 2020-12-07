@@ -1,7 +1,0 @@
-<proof id="WR-P-P-I-0000000260.p.9.s.2_3.xml" date="27052020">
- <string>vermeld</string>
- <lexicon>
-  <lexicon_item id="1"><word>vermeld</word><pos1>adj</pos1><pos2>WW(vd,vrij,zonder)</pos2><lemma>vermelden</lemma><formula><atom id="0">ww</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">ww</atom></formula></antecedent><formula><atom id="0">ww</atom></formula><premisses></premisses></rule>
-</proof>

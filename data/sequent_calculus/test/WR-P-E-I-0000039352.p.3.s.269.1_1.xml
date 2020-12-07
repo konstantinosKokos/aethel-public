@@ -1,7 +1,0 @@
-<proof id="WR-P-E-I-0000039352.p.3.s.269.1_1.xml" date="27052020">
- <string>Den Ouwe Limburger</string>
- <lexicon>
-  <lexicon_item id="1"><word>Den Ouwe Limburger</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
-</proof>

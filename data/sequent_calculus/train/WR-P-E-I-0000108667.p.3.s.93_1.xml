@@ -1,7 +1,0 @@
-<proof id="WR-P-E-I-0000108667.p.3.s.93_1.xml" date="27052020">
- <string>echter</string>
- <lexicon>
-  <lexicon_item id="1"><word>echter</word><pos1>comp</pos1><pos2>BW()</pos2><lemma>echter</lemma><formula><atom id="0">bw</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">bw</atom></formula></antecedent><formula><atom id="0">bw</atom></formula><premisses></premisses></rule>
-</proof>

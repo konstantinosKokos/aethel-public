@@ -1,7 +1,0 @@
-<proof id="dpc-bmm-001109-nl-sen.p.6.s.1_2.xml" date="27052020">
- <string>10 oktober 2004</string>
- <lexicon>
-  <lexicon_item id="1"><word>10 oktober 2004</word><pos1>mwp</pos1><pos2>mwp</pos2><lemma>mwp</lemma><formula><atom id="0">np</atom></formula></lexicon_item>
- </lexicon>
-<rule name="ax"><antecedent><formula id="1"><atom id="0">np</atom></formula></antecedent><formula><atom id="0">np</atom></formula><premisses></premisses></rule>
-</proof>
